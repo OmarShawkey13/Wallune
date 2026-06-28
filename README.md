@@ -30,11 +30,9 @@ This script generates a static JSON-based backend for a wallpaper application ho
     └── requirements.txt
     ```
 
-2.  **Configure the Script**:
-    Open `generate_api.py` and modify the placeholders near the top of the file to match your GitHub details:
-    *   `GITHUB_USERNAME = '<YOUR_GITHUB_USERNAME>'`
-    *   `GITHUB_REPO_NAME = '<YOUR_REPO_NAME>'`
-    *   *(Optional)* You can also adjust `THUMB_MAX_WIDTH` and `THUMB_QUALITY`.
+2.  **Verify Configuration**:
+    The script is already pre-configured with your GitHub details (`OmarShawkey13/AuraDrop`).
+    *(Optional)* You can open `generate_api.py` to adjust `THUMB_MAX_WIDTH` and `THUMB_QUALITY`.
 
 3.  **Run the Script**:
     Run the Python script from your terminal:

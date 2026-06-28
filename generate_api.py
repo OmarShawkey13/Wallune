@@ -11,8 +11,8 @@ IMAGE_DIR = 'images'
 OUTPUT_JSON = 'wallpapers.json'
 
 # Replace these or keep them as placeholders to replace in the final JSON
-GITHUB_USERNAME = '<YOUR_GITHUB_USERNAME>'
-GITHUB_REPO_NAME = '<YOUR_REPO_NAME>'
+GITHUB_USERNAME = 'OmarShawkey13'
+GITHUB_REPO_NAME = 'AuraDrop'
 BRANCH = 'main'
 
 THUMB_MAX_WIDTH = 400
