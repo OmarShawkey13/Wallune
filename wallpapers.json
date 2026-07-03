@@ -130,6 +130,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_teardrop.jpg"
     },
     {
+      "id": "228348fb-f332-49a9-8849-394fb073346c",
+      "title": "Black Typography",
+      "category": "Abstract",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_typography.jpg"
+    },
+    {
       "id": "3f8fe259-cfec-4fa0-81dc-96b2718c80dc",
       "title": "Black Vision Red White",
       "category": "Abstract",
@@ -254,6 +260,12 @@
       "title": "Dark Geometric Pattern",
       "category": "Abstract",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_geometric_pattern.jpg"
+    },
+    {
+      "id": "a40f60f1-cb4b-4214-812b-f0506f8ab7c2",
+      "title": "Dark Rock Orange Glow",
+      "category": "Abstract",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_rock_orange_glow.jpg"
     },
     {
       "id": "d191e6c9-649b-4053-aedf-ba485f6a4ab2",
@@ -536,6 +548,18 @@
       "title": "Wireframe Purple Lasers",
       "category": "Abstract",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/wireframe_purple_lasers.jpg"
+    },
+    {
+      "id": "75774664-6749-4d4a-9ebc-dc8d87bfd91b",
+      "title": "Baby Turtles Beach",
+      "category": "Animals",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/baby_turtles_beach.jpg"
+    },
+    {
+      "id": "c002e12c-362a-4f2a-bcb2-ab7de8b981da",
+      "title": "Bee On Purple Flower",
+      "category": "Animals",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/bee_on_purple_flower.jpg"
     },
     {
       "id": "d1f33e4d-4707-4ed4-99b1-9037b9fd6fe7",
@@ -946,6 +970,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_path_lake_sky.jpg"
     },
     {
+      "id": "58683bef-623f-4201-8c86-6222ee73f594",
+      "title": "Anime Rainy Road",
+      "category": "Anime",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_rainy_road.jpg"
+    },
+    {
       "id": "48609d96-c32d-4470-afe9-500c04984051",
       "title": "Anime Street Night",
       "category": "Anime",
@@ -1070,6 +1100,12 @@
       "title": "Jogo Chibi Volcano",
       "category": "Anime",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/jogo_chibi_volcano.jpg"
+    },
+    {
+      "id": "82eb321b-9b44-4108-bb30-35767af7b277",
+      "title": "Katana Red Leaves",
+      "category": "Anime",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/katana_red_leaves.jpg"
     },
     {
       "id": "cbe76446-4ee5-4bd5-bd04-e4be5a6f83db",
@@ -1558,6 +1594,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/cat_stack.jpg"
     },
     {
+      "id": "ee87052e-1958-492e-8caf-a65da57da0a5",
+      "title": "Colored Pencils",
+      "category": "Art",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/colored_pencils.jpg"
+    },
+    {
       "id": "e1c95de6-b674-4901-885d-ba3a3ab22d9a",
       "title": "Dark Great Wave",
       "category": "Art",
@@ -1576,16 +1618,40 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/flower_stand_illustration.jpg"
     },
     {
+      "id": "f1f42d78-5bb6-424a-8282-56563c5c7739",
+      "title": "Holding Hands Bw",
+      "category": "Art",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/holding_hands_bw.jpg"
+    },
+    {
       "id": "7527a94e-7d46-4e1f-8d02-c7e84fffaac3",
       "title": "Ladder To The Moon",
       "category": "Art",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/ladder_to_the_moon.jpg"
     },
     {
+      "id": "faa2912e-40fc-44ee-9161-608f794caa49",
+      "title": "Minimalist Sailboats",
+      "category": "Art",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/minimalist_sailboats.jpg"
+    },
+    {
+      "id": "03ddf4ab-2824-4332-ad4d-0dacfdff0b03",
+      "title": "Mountain Lake Cabin Art",
+      "category": "Art",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/mountain_lake_cabin_art.jpg"
+    },
+    {
       "id": "39a93aa4-e7a1-4efd-86e6-ce50fbc539ca",
       "title": "Night Forest Shop",
       "category": "Art",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/night_forest_shop.jpg"
+    },
+    {
+      "id": "ceeb1b08-6796-41fd-aaa9-4aa5b2fa4a06",
+      "title": "Painted Blue Flower",
+      "category": "Art",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/painted_blue_flower.jpg"
     },
     {
       "id": "16b07c94-2176-4e17-aaa5-9a4c49ce7069",
@@ -1598,6 +1664,12 @@
       "title": "Paper Airplane Night Sky",
       "category": "Art",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/paper_airplane_night_sky.jpg"
+    },
+    {
+      "id": "e56453c0-57aa-4800-ada9-0b56032474a2",
+      "title": "Pixel Sunflower Field",
+      "category": "Art",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/pixel_sunflower_field.jpg"
     },
     {
       "id": "3018aae2-7dca-4a36-be5b-9ba662d842ff",
@@ -1642,10 +1714,22 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_red_sun.jpg"
     },
     {
+      "id": "e096002d-2694-49f2-be64-1e468930c903",
+      "title": "Shipwreck Split View",
+      "category": "Art",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/shipwreck_split_view.jpg"
+    },
+    {
       "id": "45a5f97f-187c-4b4c-8429-034a1132b7d8",
       "title": "Ship Under Red Sky At Sea",
       "category": "Art",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/ship_under_red_sky_at_sea.jpg"
+    },
+    {
+      "id": "38ba5d5c-01b3-459a-89fa-ed07fb195811",
+      "title": "Starry Wheat Field",
+      "category": "Art",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/starry_wheat_field.jpg"
     },
     {
       "id": "af5adaee-3799-489b-8f50-ae535accb6f6",
@@ -1666,6 +1750,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/white_doodles.jpg"
     },
     {
+      "id": "a20c7506-8c52-42c6-8d9f-865d8a1b4f71",
+      "title": "White Red Stylized Tree",
+      "category": "Art",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/white_red_stylized_tree.jpg"
+    },
+    {
       "id": "eeac244a-ffe5-46ae-87ac-6e3ef1dd69b6",
       "title": "Blue Monster Logo",
       "category": "Brands",
@@ -1676,6 +1766,12 @@
       "title": "Aston Martin F1 Rear",
       "category": "Cars",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/aston_martin_f1_rear.jpg"
+    },
+    {
+      "id": "4461d76e-86a9-41b0-9d86-2c53272f5bd6",
+      "title": "Black Bmw I8",
+      "category": "Cars",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_bmw_i8.jpg"
     },
     {
       "id": "5e18afd4-d833-463c-b10b-f4aa0033fb70",
@@ -1736,6 +1832,12 @@
       "title": "Bmw Logo Dark",
       "category": "Cars",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_logo_dark.jpg"
+    },
+    {
+      "id": "b11dbb21-266c-4fe7-a394-144f6086f73c",
+      "title": "Bmw M3 Gtr",
+      "category": "Cars",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m3_gtr.jpg"
     },
     {
       "id": "39f5193d-a71d-4936-b66a-830045a690f7",
@@ -1846,6 +1948,18 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/dodge_challenger_smoke.jpg"
     },
     {
+      "id": "9ac49a50-e3c3-48ff-92a0-0130dc81f0ed",
+      "title": "Dodge Hellcat",
+      "category": "Cars",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/dodge_hellcat.jpg"
+    },
+    {
+      "id": "6e6c7bc0-a02c-44a2-9112-dcc0aaf48616",
+      "title": "Ferrari F40",
+      "category": "Cars",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/ferrari_f40.jpg"
+    },
+    {
       "id": "b25ed944-181c-4150-b6ec-d613b7d4f17b",
       "title": "Geometric Wrap Bmw",
       "category": "Cars",
@@ -1930,6 +2044,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_front_view.jpg"
     },
     {
+      "id": "73ca64c4-8301-425d-9b40-49cd52f6228f",
+      "title": "Porsche 911 Gt3 Rs",
+      "category": "Cars",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_gt3_rs.jpg"
+    },
+    {
       "id": "b868e404-cbef-49a9-9a5e-52135b97f2db",
       "title": "Porsche 911 Hood Detail",
       "category": "Cars",
@@ -1978,6 +2098,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_gas_station_night.jpg"
     },
     {
+      "id": "c43c7e8f-6124-4864-b6d4-559a25945972",
+      "title": "Red Bmw E30 Iam Back",
+      "category": "Cars",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/red_bmw_e30_iam_back.jpg"
+    },
+    {
       "id": "d4f31ab1-8cd8-4e84-862f-965442bdbb1d",
       "title": "Red Car Dark",
       "category": "Cars",
@@ -1994,6 +2120,12 @@
       "title": "Red Nissan Silvia",
       "category": "Cars",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/red_nissan_silvia.jpg"
+    },
+    {
+      "id": "d4a6fe79-f36e-42da-93f5-f75c6e26c339",
+      "title": "Slr Mclaren",
+      "category": "Cars",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/slr_mclaren.jpg"
     },
     {
       "id": "3e382a8a-e533-4c48-aee8-5a374cad69e1",
@@ -2032,10 +2164,22 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/yellow_bmw_competition.jpg"
     },
     {
+      "id": "c6de18a9-d193-4342-8a81-521c512a5c88",
+      "title": "Angry Birds Peeking",
+      "category": "Cartoon",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoon/angry_birds_peeking.jpg"
+    },
+    {
       "id": "288363c3-c77a-46e8-85dc-beb1c01e49c8",
       "title": "Bunny Stitch",
       "category": "Cartoon",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoon/bunny_stitch.jpg"
+    },
+    {
+      "id": "f898928a-bbb9-4882-9c84-bde4b40ae5fe",
+      "title": "Cartoon Sheep Landscape",
+      "category": "Cartoon",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoon/cartoon_sheep_landscape.jpg"
     },
     {
       "id": "ea0370ee-e750-469f-ad06-f176076f0f1a",
@@ -2230,10 +2374,58 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Characters/iron_man_portrait.jpg"
     },
     {
+      "id": "fcdcab1e-ac3c-4cdd-81be-33f7e501d40c",
+      "title": "Autumn Cafe Window",
+      "category": "Cityscape",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/autumn_cafe_window.jpg"
+    },
+    {
+      "id": "5ba922c3-f090-4c41-9e0b-33674c431cae",
+      "title": "Big Ben Night",
+      "category": "Cityscape",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/big_ben_night.jpg"
+    },
+    {
+      "id": "79898520-4c66-4b4b-9af0-0641927c1a6b",
+      "title": "Cherry Blossom Street Night",
+      "category": "Cityscape",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/cherry_blossom_street_night.jpg"
+    },
+    {
+      "id": "10f10c3d-edd3-413e-ab06-9b04748b848c",
+      "title": "City Beach Night",
+      "category": "Cityscape",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/city_beach_night.jpg"
+    },
+    {
+      "id": "bd3de685-0f41-49fd-8811-556c73a33635",
+      "title": "Eiffel Tower Paris",
+      "category": "Cityscape",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/eiffel_tower_paris.jpg"
+    },
+    {
+      "id": "73feeb66-090a-44ed-9460-112cd9aabc33",
+      "title": "Evening Street Coffee",
+      "category": "Cityscape",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/evening_street_coffee.jpg"
+    },
+    {
+      "id": "08cdcdd2-71d2-4834-bf49-9d0015b3a398",
+      "title": "Gas Station Night",
+      "category": "Cityscape",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/gas_station_night.jpg"
+    },
+    {
       "id": "0fbf1290-d23a-4848-a61b-161492f8a8bf",
       "title": "Rainy City Window",
       "category": "Cityscape",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/rainy_city_window.jpg"
+    },
+    {
+      "id": "c835d9dc-9ab8-48b1-a436-06f052dd5215",
+      "title": "Times Square Bw",
+      "category": "Cityscape",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/times_square_bw.jpg"
     },
     {
       "id": "daa6f9d2-6f05-420d-a86c-ccb144db64c1",
@@ -2284,6 +2476,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/blue_dragon.jpg"
     },
     {
+      "id": "994887b8-cce8-4d5b-ae4a-64c8bee9a68c",
+      "title": "Fantasy Oriental Tree",
+      "category": "Fantasy",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fantasy_oriental_tree.jpg"
+    },
+    {
       "id": "cdf606ed-b8d2-48cc-81f4-4c392449b846",
       "title": "Glowing Eyes Spartan",
       "category": "Fantasy",
@@ -2312,6 +2510,18 @@
       "title": "Red And Black Dragon",
       "category": "Fantasy",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_and_black_dragon.jpg"
+    },
+    {
+      "id": "82814262-4897-4a15-a784-6bf25ee408aa",
+      "title": "Red Black Knight",
+      "category": "Fantasy",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_black_knight.jpg"
+    },
+    {
+      "id": "7dc01b69-4cc2-44fb-b760-2ff1f1b522bc",
+      "title": "Red Glowing Katana",
+      "category": "Fantasy",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_glowing_katana.jpg"
     },
     {
       "id": "df423eed-06d0-47c5-adb9-ecbc571713a1",
@@ -2372,6 +2582,12 @@
       "title": "Spider Man Falling Over City",
       "category": "Gaming",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/spider_man_falling_over_city.jpg"
+    },
+    {
+      "id": "fd7ca801-10f1-407c-afd9-d48cdf258056",
+      "title": "Broken Bulb Birds",
+      "category": "Illustration",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/broken_bulb_birds.jpg"
     },
     {
       "id": "526bf731-1cf2-4715-912b-bd0e1766ee24",
@@ -2578,6 +2794,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/anime_night_lake.jpg"
     },
     {
+      "id": "f0ac3f54-6926-4dd3-acc5-958ddfd7fa78",
+      "title": "Autumn Lake Workspace",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/autumn_lake_workspace.jpg"
+    },
+    {
       "id": "95fb0953-b182-4acf-bac6-a6d51a679f65",
       "title": "Autumn Leaves",
       "category": "Nature",
@@ -2602,6 +2824,24 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_sand_dunes.jpg"
     },
     {
+      "id": "9cae71a1-0e3d-402f-87c5-589bea4236b2",
+      "title": "Black Vision Beach",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_vision_beach.jpg"
+    },
+    {
+      "id": "86e4800d-8987-450e-a2a2-c9701645a4c6",
+      "title": "Blossom Wind Chime",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blossom_wind_chime.jpg"
+    },
+    {
+      "id": "ee584013-b59c-4306-9fbb-bb677af04e30",
+      "title": "Blue Flowers Drops",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_flowers_drops.jpg"
+    },
+    {
       "id": "f08b14e3-264a-417b-a84b-ded933623c86",
       "title": "Blue Flower Bouquets",
       "category": "Nature",
@@ -2612,6 +2852,24 @@
       "title": "Breathe Foggy Mountains",
       "category": "Nature",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/breathe_foggy_mountains.jpg"
+    },
+    {
+      "id": "d546e150-f5ca-4867-a132-16bf02f56012",
+      "title": "Cherry Blossom Closeup",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cherry_blossom_closeup.jpg"
+    },
+    {
+      "id": "4af8f299-0100-4840-91d8-82f4630e38bf",
+      "title": "Cherry Blossom Lamp",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cherry_blossom_lamp.jpg"
+    },
+    {
+      "id": "eed2a85d-1b52-4afc-a4bf-a41ab28385c8",
+      "title": "Cherry Blossom Sign",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cherry_blossom_sign.jpg"
     },
     {
       "id": "6de4c8a9-b82a-4b58-bf7e-ee68788af912",
@@ -2680,6 +2938,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/drawn_sun_beach.jpg"
     },
     {
+      "id": "e1057b12-af06-4b8a-8969-79e20b98a694",
+      "title": "Flower Boat Blue Water",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/flower_boat_blue_water.jpg"
+    },
+    {
       "id": "463a8d8d-cd0c-4664-8fa4-26108c288a94",
       "title": "Flower Shop Display",
       "category": "Nature",
@@ -2698,6 +2962,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/foggy_forest_road.jpg"
     },
     {
+      "id": "ebfefa6f-ac97-4247-a9d5-451f99d2b4fb",
+      "title": "Gerbera Daisy Drops",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/gerbera_daisy_drops.jpg"
+    },
+    {
       "id": "b6491a3e-14e7-4dc6-bfd5-08914fe69a6a",
       "title": "Glowing Purple Plants",
       "category": "Nature",
@@ -2710,6 +2980,18 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/gradient_flowers.jpg"
     },
     {
+      "id": "e4c5f201-7170-4fa6-b61e-10739418e27f",
+      "title": "Green Leaves",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/green_leaves.jpg"
+    },
+    {
+      "id": "f0e46cd0-ed9f-4579-9c96-1e2ceb9501e3",
+      "title": "Leaves Sunset Water",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/leaves_sunset_water.jpg"
+    },
+    {
       "id": "4dde6f56-15c7-411b-becc-2e425c6fd379",
       "title": "Life And Death Tree",
       "category": "Nature",
@@ -2720,6 +3002,18 @@
       "title": "Lone Tree Dark Clouds",
       "category": "Nature",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lone_tree_dark_clouds.jpg"
+    },
+    {
+      "id": "fcc35fff-307c-484d-99d8-eecc2b9c473f",
+      "title": "Lone Tree Foggy Mountain",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lone_tree_foggy_mountain.jpg"
+    },
+    {
+      "id": "a2f06ea6-60b6-4fbc-a76e-6cccee49ac06",
+      "title": "Lone Tree Lavender Field",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lone_tree_lavender_field.jpg"
     },
     {
       "id": "cd5af520-60d7-4d33-b8f8-5248533a8634",
@@ -2786,6 +3080,12 @@
       "title": "Moon Through Trees",
       "category": "Nature",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_through_trees.jpg"
+    },
+    {
+      "id": "0f3a462a-1eca-4df3-9706-527d80754361",
+      "title": "Moon Tree Silhouette",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_tree_silhouette.jpg"
     },
     {
       "id": "ae0f739a-9400-4d83-ae62-2b04251c3e55",
@@ -2866,6 +3166,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/pink_cherry_blossoms.jpg"
     },
     {
+      "id": "bee9dd53-8963-4bc0-b66c-023e3949acac",
+      "title": "Plant In Rocks",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/plant_in_rocks.jpg"
+    },
+    {
       "id": "4d370b65-3477-4fb2-aa8e-d8c63b4fa418",
       "title": "Purple Flowers And Butterflies",
       "category": "Nature",
@@ -2876,6 +3182,24 @@
       "title": "Purple Galaxy Pier",
       "category": "Nature",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_galaxy_pier.jpg"
+    },
+    {
+      "id": "c417a618-11d3-445e-ac58-b44f1e55c664",
+      "title": "Purple Leaves Drops",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_leaves_drops.jpg"
+    },
+    {
+      "id": "3d2407c3-14b0-42a7-a7c0-588ca9451de8",
+      "title": "Purple Orange Leaves",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_orange_leaves.jpg"
+    },
+    {
+      "id": "1cfdd07f-f267-4fe9-b745-9543d5f5b703",
+      "title": "Purple Sunset Rock",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_sunset_rock.jpg"
     },
     {
       "id": "16582d66-354d-4b50-bdbc-798c4cecc326",
@@ -2932,6 +3256,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/santorini_ocean_view.jpg"
     },
     {
+      "id": "f6d9158b-9ed9-49a7-b24f-6c3275631585",
+      "title": "Sedona Red Rocks",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sedona_red_rocks.jpg"
+    },
+    {
       "id": "e4a72a9e-6ae3-45d0-87a1-ee342c1ad527",
       "title": "Silence Forest Lake",
       "category": "Nature",
@@ -2948,6 +3278,12 @@
       "title": "Smooth River Stones",
       "category": "Nature",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/smooth_river_stones.jpg"
+    },
+    {
+      "id": "d8d936bc-7cfe-4bc3-a59c-1fd55160fba5",
+      "title": "Snowy Blossoms Village",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_blossoms_village.jpg"
     },
     {
       "id": "0875ca48-f356-43e6-82e2-26c0d1b54a48",
@@ -2984,6 +3320,12 @@
       "title": "Sunbeams In Flower Field",
       "category": "Nature",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunbeams_in_flower_field.jpg"
+    },
+    {
+      "id": "aed63d56-e782-4d8a-adcd-b5fa7647e1b3",
+      "title": "Sunburst Winding Road",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunburst_winding_road.jpg"
     },
     {
       "id": "864a0389-7a1b-4e79-afa7-74ee9ab0f5ac",
@@ -3076,10 +3418,22 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winter_sunset_tree.jpg"
     },
     {
+      "id": "539bc6eb-dcfb-409c-92d1-1ad91ffcb7e8",
+      "title": "Wisteria Sunset Balcony",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/wisteria_sunset_balcony.jpg"
+    },
+    {
       "id": "0bdf3606-57f4-4b4f-b95c-99bb9606f758",
       "title": "Yellow Blossoms",
       "category": "Nature",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/yellow_blossoms.jpg"
+    },
+    {
+      "id": "6b57ec9f-77ab-49da-b2f9-0afc78c5e8cf",
+      "title": "Yellow Tree Blue Water",
+      "category": "Nature",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/yellow_tree_blue_water.jpg"
     },
     {
       "id": "dbbb27a4-76e4-49d4-a9ec-3c7d2f29046c",
@@ -3134,6 +3488,36 @@
       "title": "Thor Toy",
       "category": "Pop_Culture",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/thor_toy.jpg"
+    },
+    {
+      "id": "1af6f8e6-055f-433d-a6a5-9ca9bcf3b81f",
+      "title": "Be Different",
+      "category": "Quotes",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/be_different.jpg"
+    },
+    {
+      "id": "1cf38625-364b-4082-98fd-2f5bbaad2c4b",
+      "title": "Grindset Quote",
+      "category": "Quotes",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/grindset_quote.jpg"
+    },
+    {
+      "id": "e2112830-de93-49c9-b950-96b393a5c30d",
+      "title": "Love What You Do",
+      "category": "Quotes",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/love_what_you_do.jpg"
+    },
+    {
+      "id": "bef8c380-aa44-413f-8180-82cf78499262",
+      "title": "Mindset Is The Key",
+      "category": "Quotes",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/mindset_is_the_key.jpg"
+    },
+    {
+      "id": "c5191244-a76e-4a1a-8285-8374dc358021",
+      "title": "Never Give Up",
+      "category": "Quotes",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/never_give_up.jpg"
     },
     {
       "id": "9cf4ae1f-ff04-421f-9572-b1227c307b62",
@@ -3310,10 +3694,58 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/glowing_blue_river.jpg"
     },
     {
+      "id": "1d59b354-2bf1-4d88-9a0c-764affbc73a2",
+      "title": "Jupiter",
+      "category": "Space",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/jupiter.jpg"
+    },
+    {
       "id": "b84497f4-3b88-43ab-a563-89418f3fc5b5",
       "title": "Majestic Black Hole",
       "category": "Space",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/majestic_black_hole.jpg"
+    },
+    {
+      "id": "96484dba-74ea-451f-bd38-fa318c443059",
+      "title": "Milky Way Cabin",
+      "category": "Space",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_cabin.jpg"
+    },
+    {
+      "id": "ba7ce837-7667-4752-bfad-24de4864bbe2",
+      "title": "Milky Way Canopy 1",
+      "category": "Space",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_canopy_1.jpg"
+    },
+    {
+      "id": "9655cb51-9231-4ee7-b173-efa7150afe69",
+      "title": "Milky Way Canopy 2",
+      "category": "Space",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_canopy_2.jpg"
+    },
+    {
+      "id": "7744f4fc-ec57-4082-a3b3-225a0d1afd63",
+      "title": "Milky Way Mountains",
+      "category": "Space",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_mountains.jpg"
+    },
+    {
+      "id": "9ef3c534-a56b-493b-a126-c49bf1a9f68e",
+      "title": "Milky Way Tent",
+      "category": "Space",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_tent.jpg"
+    },
+    {
+      "id": "489a72a0-5e92-4b6d-a3f4-ec3abdd1670a",
+      "title": "Milky Way Treeline 1",
+      "category": "Space",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_treeline_1.jpg"
+    },
+    {
+      "id": "b0a3ec08-e6db-4c27-9214-869996ba4ea6",
+      "title": "Milky Way Treeline 2",
+      "category": "Space",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_treeline_2.jpg"
     },
     {
       "id": "84b6e9a7-fdbc-470a-ac6a-e3b18a308aa4",
@@ -3550,6 +3982,12 @@
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Travel/world_map_outline.jpg"
     },
     {
+      "id": "fbe14296-b30c-47df-a48f-4af7d4b21c5a",
+      "title": "Alone",
+      "category": "Typography",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/alone.jpg"
+    },
+    {
       "id": "865c08e8-afa7-4eaa-8636-312f59f2f202",
       "title": "Always Smile",
       "category": "Typography",
@@ -3602,6 +4040,12 @@
       "title": "Airplane In Clouds",
       "category": "Vehicles",
       "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Vehicles/airplane_in_clouds.jpg"
+    },
+    {
+      "id": "7fae4c93-c50e-408f-829b-91bbbd44095d",
+      "title": "Airplane Night",
+      "category": "Vehicles",
+      "full_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Vehicles/airplane_night.jpg"
     },
     {
       "id": "1713f7ea-f997-4322-9ae3-1378dca19944",
