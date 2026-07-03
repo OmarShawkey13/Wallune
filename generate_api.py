@@ -9,7 +9,7 @@ IMAGE_DIR = 'images'
 OUTPUT_JSON = 'wallpapers.json'
 
 GITHUB_USERNAME = 'OmarShawkey13'
-GITHUB_REPO_NAME = 'AuraDrop'
+GITHUB_REPO_NAME = 'Wallune'
 BRANCH = 'main'
 
 VALID_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.webp'}

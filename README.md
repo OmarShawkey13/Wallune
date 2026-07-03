@@ -1,6 +1,6 @@
-# AuraDrop Static API Generator
+# Wallune Static API Generator
 
-This script generates a static JSON-based backend for the AuraDrop wallpaper application hosted entirely on GitHub. It traverses subdirectories inside the `images` folder (which act as categories), extracts human-readable titles from the filenames, and creates a `wallpapers.json` API file linking to the Raw GitHub URLs.
+This script generates a static JSON-based backend for the Wallune wallpaper application hosted entirely on GitHub. It traverses subdirectories inside the `images` folder (which act as categories), extracts human-readable titles from the filenames, and creates a `wallpapers.json` API file linking to the Raw GitHub URLs.
 
 ## Prerequisites
 
@@ -26,7 +26,7 @@ This script generates a static JSON-based backend for the AuraDrop wallpaper app
    ```
 
 2. **Verify Configuration**:
-   The script is pre-configured with your GitHub details (`OmarShawkey13/AuraDrop`, branch `main`). If you ever change your username or repository name, update the constants at the top of `generate_api.py`.
+   The script is pre-configured with your GitHub details (`OmarShawkey13/Wallune`, branch `main`). If you ever change your username or repository name, update the constants at the top of `generate_api.py`.
 
 3. **Run the Script**:
    Run the Python script from your terminal:
