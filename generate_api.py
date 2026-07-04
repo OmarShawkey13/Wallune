@@ -29,7 +29,7 @@ def process_images():
         print(f"Error: Directory '{IMAGE_DIR}' not found.")
         return
         
-    category_counts = {}
+    categories_info = {}
     wallpapers = []
     
     existing_uuids = {}
@@ -49,14 +49,14 @@ def process_images():
         if os.path.isdir(category_path):
             category_name = item
             print(f"Processing category: {category_name}")
-            category_counts[category_name] = 0
+            categories_info[category_name] = {"count": 0, "cover": None}
             
             for file in os.listdir(category_path):
                 file_ext = os.path.splitext(file)[1].lower()
                 if file_ext not in VALID_EXTENSIONS:
                     continue
                     
-                category_counts[category_name] += 1
+                categories_info[category_name]["count"] += 1
                     
                 title = get_clean_title(file)
                 
@@ -65,6 +65,9 @@ def process_images():
                 
                 base_github_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{GITHUB_REPO_NAME}/{BRANCH}/{IMAGE_DIR}"
                 full_url = f"{base_github_url}/{cat_url}/{full_url_name}"
+                
+                if categories_info[category_name]["cover"] is None:
+                    categories_info[category_name]["cover"] = full_url
                 
                 wallpaper_id = existing_uuids.get(full_url, str(uuid.uuid4()))
                 
@@ -79,7 +82,7 @@ def process_images():
                     "size": file_size
                 })
 
-    final_categories = [{"name": k, "count": v} for k, v in sorted(category_counts.items()) if v > 0]
+    final_categories = [{"name": k, "count": info["count"], "cover": info["cover"]} for k, info in sorted(categories_info.items()) if info["count"] > 0]
 
     try:
         with open(WALLPAPERS_JSON, 'w', encoding='utf-8') as f:
