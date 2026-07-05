@@ -78,9 +78,9 @@ class PaginatedResponse {
       itemsPerPage: json['items_per_page'] ?? 20,
       hasNext: json['has_next'] ?? false,
       hasPrev: json['has_prev'] ?? false,
-      data:
-          (json['data'] as List?)?.map((e) => Wallpaper.fromJson(e)).toList() ??
-          [],
+      data: (json['data'] as List?)
+          ?.map((e) => Wallpaper.fromJson(e))
+          .toList() ?? [],
     );
   }
 }
@@ -90,7 +90,11 @@ class Category {
   final int count;
   final String cover;
 
-  Category({required this.name, required this.count, required this.cover});
+  Category({
+    required this.name,
+    required this.count,
+    required this.cover,
+  });
 
   factory Category.fromJson(Map<String, dynamic> json) {
     return Category(

@@ -97,19 +97,37 @@ def get_clean_title(filename: str) -> str:
     name = name.replace('_', ' ').replace('-', ' ')
     return name.title()
 
-def load_existing_uuids(json_path: str) -> Dict[str, str]:
+import glob
+
+def load_existing_uuids(api_dir: str) -> Dict[str, str]:
     """Load existing UUIDs to maintain consistent IDs across generations."""
     existing_uuids = {}
-    if os.path.exists(json_path):
+    
+    # 1. Load from the new paginated API
+    wallpapers_dir = os.path.join(api_dir, 'wallpapers')
+    if os.path.exists(wallpapers_dir):
+        for file in glob.glob(os.path.join(wallpapers_dir, 'page_*.json')):
+            try:
+                with open(file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    for w in data.get('data', []):
+                        if 'image_url' in w and 'id' in w:
+                            existing_uuids[w['image_url']] = w['id']
+            except Exception as e:
+                print(f"Warning: Could not load existing JSON for UUIDs from {file}: {e}")
+                
+    # 2. Fallback to old monolithic file during transition
+    if os.path.exists(WALLPAPERS_JSON):
         try:
-            with open(json_path, 'r', encoding='utf-8') as f:
+            with open(WALLPAPERS_JSON, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 wallpapers_list = data.get('wallpapers', []) if isinstance(data, dict) else data
                 for w in wallpapers_list:
                     if 'image_url' in w and 'id' in w:
                         existing_uuids[w['image_url']] = w['id']
-        except Exception as e:
-            print(f"Warning: Could not load existing JSON for UUIDs: {e}")
+        except Exception:
+            pass
+            
     return existing_uuids
 
 def generate_paginated_api(wallpapers: List[Dict[str, Any]], api_dir: str):
@@ -279,7 +297,7 @@ def process_images():
     categories_info = {}
     wallpapers = []
     
-    existing_uuids = load_existing_uuids(WALLPAPERS_JSON)
+    existing_uuids = load_existing_uuids(API_DIR)
             
     for item in os.listdir(IMAGE_DIR):
         category_path = os.path.join(IMAGE_DIR, item)
@@ -335,21 +353,6 @@ def process_images():
         {"name": k, "count": info["count"], "cover": info["cover"]} 
         for k, info in sorted(categories_info.items()) if info["count"] > 0
     ]
-
-    # Write root JSON files (legacy/monolithic)
-    try:
-        with open(WALLPAPERS_JSON, 'w', encoding='utf-8') as f:
-            json.dump(wallpapers, f, indent=2, ensure_ascii=False)
-        print(f"Successfully generated '{WALLPAPERS_JSON}' with {len(wallpapers)} wallpapers.")
-    except Exception as e:
-        print(f"Failed to write wallpapers JSON: {e}")
-
-    try:
-        with open(CATEGORIES_JSON, 'w', encoding='utf-8') as f:
-            json.dump(final_categories, f, indent=2, ensure_ascii=False)
-        print(f"Successfully generated '{CATEGORIES_JSON}' with {len(final_categories)} categories.")
-    except Exception as e:
-        print(f"Failed to write categories JSON: {e}")
 
     # Write modern API structure
     os.makedirs(API_DIR, exist_ok=True)
