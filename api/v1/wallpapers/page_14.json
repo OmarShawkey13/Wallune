@@ -1,0 +1,170 @@
+{
+  "page": 14,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "2a6a1381-1974-41c2-83e5-37a027c196ae",
+      "title": "Dark Great Wave",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/dark_great_wave.jpg",
+      "size": 135478,
+      "updated_at": "2026-06-05T15:53:32Z"
+    },
+    {
+      "id": "8f4600b7-64e6-4532-8d32-16d376c3d572",
+      "title": "Dark Samurai Smoke",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/dark_samurai_smoke.jpg",
+      "size": 153643,
+      "updated_at": "2024-12-20T15:12:09Z"
+    },
+    {
+      "id": "b4a9a901-c9ce-4d84-b9bb-a42f8fa17954",
+      "title": "Flower Stand Illustration",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/flower_stand_illustration.jpg",
+      "size": 252064,
+      "updated_at": "2024-04-29T12:07:09Z"
+    },
+    {
+      "id": "90b4842c-98e5-42b2-8ec3-f1572cdf98d6",
+      "title": "Holding Hands Bw",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/holding_hands_bw.jpg",
+      "size": 64270,
+      "updated_at": "2026-07-03T15:45:50Z"
+    },
+    {
+      "id": "4f3ddfc6-d523-4f00-90b8-c427953ca7eb",
+      "title": "Ladder To The Moon",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/ladder_to_the_moon.jpg",
+      "size": 190159,
+      "updated_at": "2026-06-28T14:01:23Z"
+    },
+    {
+      "id": "1a1c4205-fe2e-435d-8fa4-c8b8ad8390ad",
+      "title": "Minimalist Sailboats",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/minimalist_sailboats.jpg",
+      "size": 13126,
+      "updated_at": "2026-07-01T14:17:41Z"
+    },
+    {
+      "id": "b77c83aa-6d81-4480-9fb6-2964cb57c050",
+      "title": "Mountain Lake Cabin Art",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/mountain_lake_cabin_art.jpg",
+      "size": 408859,
+      "updated_at": "2026-07-01T12:37:48Z"
+    },
+    {
+      "id": "9321bddc-8483-48fd-baea-14d8625b5f87",
+      "title": "Night Forest Shop",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/night_forest_shop.jpg",
+      "size": 270301,
+      "updated_at": "2026-06-15T17:33:03Z"
+    },
+    {
+      "id": "c53c7b97-fd26-4785-a326-cc13fd590dd2",
+      "title": "Painted Blue Flower",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/painted_blue_flower.jpg",
+      "size": 380918,
+      "updated_at": "2026-07-01T17:52:41Z"
+    },
+    {
+      "id": "d5b28fe5-92d2-47d3-a99e-09b09433a478",
+      "title": "Panther Drinking Boba",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/panther_drinking_boba.jpg",
+      "size": 117185,
+      "updated_at": "2024-07-12T23:22:48Z"
+    },
+    {
+      "id": "b65c511c-0574-4711-b94b-cf5b99e67fb9",
+      "title": "Paper Airplane Night Sky",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/paper_airplane_night_sky.jpg",
+      "size": 216851,
+      "updated_at": "2024-11-23T20:05:20Z"
+    },
+    {
+      "id": "76c08b89-c15f-4529-9fef-394e1fb918a9",
+      "title": "Pixel Sunflower Field",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/pixel_sunflower_field.jpg",
+      "size": 82938,
+      "updated_at": "2026-07-01T14:17:43Z"
+    },
+    {
+      "id": "1ed09fb5-0fb0-4bae-ace7-a1d89ead0ab8",
+      "title": "Rainbow Aura Figure",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/rainbow_aura_figure.jpg",
+      "size": 20243,
+      "updated_at": "2025-01-06T10:26:24Z"
+    },
+    {
+      "id": "c9d27d9b-b0bc-4cf6-8113-db5f3ae63e7c",
+      "title": "Red Moon Forest",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/red_moon_forest.jpg",
+      "size": 243561,
+      "updated_at": "2026-06-28T14:01:25Z"
+    },
+    {
+      "id": "faa66349-5cd5-4ac7-b8ac-59f98acaec13",
+      "title": "Red Sun Kanji",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/red_sun_kanji.jpg",
+      "size": 267418,
+      "updated_at": "2024-12-20T15:12:07Z"
+    },
+    {
+      "id": "bfa6637c-aaa1-4ccc-b049-3198cde58f47",
+      "title": "Samurai Blood Moon",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_blood_moon.jpg",
+      "size": 326327,
+      "updated_at": "2024-12-20T15:12:05Z"
+    },
+    {
+      "id": "106708fa-1db0-493d-a5d8-ea20d627134b",
+      "title": "Samurai Huge Moon",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_huge_moon.jpg",
+      "size": 153331,
+      "updated_at": "2025-01-08T21:47:15Z"
+    },
+    {
+      "id": "5d7c7cbe-4242-4591-9c2f-5872e6279e98",
+      "title": "Samurai Red Field",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_red_field.jpg",
+      "size": 396825,
+      "updated_at": "2024-12-20T15:12:11Z"
+    },
+    {
+      "id": "bafbf9b0-7db6-414d-bca8-d20b09f68c6b",
+      "title": "Samurai Red Sun",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_red_sun.jpg",
+      "size": 271789,
+      "updated_at": "2024-12-20T15:12:03Z"
+    },
+    {
+      "id": "419c3f12-3bd5-4b13-936c-375f8441d347",
+      "title": "Ship Under Red Sky At Sea",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/ship_under_red_sky_at_sea.jpg",
+      "size": 210035,
+      "updated_at": "2026-04-27T13:53:04Z"
+    }
+  ]
+}

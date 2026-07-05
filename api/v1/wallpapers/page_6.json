@@ -1,0 +1,170 @@
+{
+  "page": 6,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "6fc13451-e757-4205-84c6-f6763200fd6a",
+      "title": "Dove With Olive Branch",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/dove_with_olive_branch.jpg",
+      "size": 51669,
+      "updated_at": "2026-06-27T13:21:06Z"
+    },
+    {
+      "id": "cbd7fba7-8ecc-49e8-8ffa-193985284271",
+      "title": "Flying White Dove",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/flying_white_dove.jpg",
+      "size": 45276,
+      "updated_at": "2026-06-27T13:21:02Z"
+    },
+    {
+      "id": "7aed92a1-d1de-4965-8ef4-4be15a127f2a",
+      "title": "Glowing Green Water Cat",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/glowing_green_water_cat.jpg",
+      "size": 108613,
+      "updated_at": "2026-06-27T12:26:50Z"
+    },
+    {
+      "id": "60475972-68fa-4587-ad89-95b4768e34cc",
+      "title": "Grey Cat With Blue Eyes",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/grey_cat_with_blue_eyes.jpg",
+      "size": 166567,
+      "updated_at": "2025-03-17T09:56:25Z"
+    },
+    {
+      "id": "927429bd-93ed-4caf-be9b-2e365328044f",
+      "title": "Hamster Lifting Weights",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/hamster_lifting_weights.jpg",
+      "size": 297616,
+      "updated_at": "2026-05-18T16:23:28Z"
+    },
+    {
+      "id": "f4aa0133-5c6c-4b78-9fd9-b3719689eb71",
+      "title": "Pink And Black Falcon",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/pink_and_black_falcon.jpg",
+      "size": 281441,
+      "updated_at": "2025-03-17T09:56:21Z"
+    },
+    {
+      "id": "98c95548-5cc8-4e18-8a46-e0125f660294",
+      "title": "Rhino In Smoke",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/rhino_in_smoke.jpg",
+      "size": 161125,
+      "updated_at": "2026-04-23T11:05:33Z"
+    },
+    {
+      "id": "5ba38e59-5c09-40e4-a323-eb34d71da528",
+      "title": "Swans On Black River",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/swans_on_black_river.jpg",
+      "size": 225977,
+      "updated_at": "2026-04-25T23:34:25Z"
+    },
+    {
+      "id": "5fd4996f-3e3d-4e21-8d68-557fbc691f64",
+      "title": "Watercolor Howling Wolf",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/watercolor_howling_wolf.jpg",
+      "size": 167646,
+      "updated_at": "2026-06-25T11:17:05Z"
+    },
+    {
+      "id": "c0f8678c-d920-4bd1-b7f1-6b803be34518",
+      "title": "White Cat Butterflies",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/white_cat_butterflies.jpg",
+      "size": 46117,
+      "updated_at": "2026-03-10T02:14:46Z"
+    },
+    {
+      "id": "e4bf7fb1-0a1d-45d6-b99a-8cce507791b3",
+      "title": "Flynn Rider Tied",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/flynn_rider_tied.jpg",
+      "size": 65950,
+      "updated_at": "2026-06-05T14:05:23Z"
+    },
+    {
+      "id": "45869584-fdcb-48fc-9bfd-f75d495f23b0",
+      "title": "Jewel Rio Macaw",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/jewel_rio_macaw.jpg",
+      "size": 107429,
+      "updated_at": "2026-06-05T14:05:06Z"
+    },
+    {
+      "id": "a54a537b-01c6-4a4c-91ab-bbecdb860f0e",
+      "title": "Jewel Rio Smile",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/jewel_rio_smile.jpg",
+      "size": 67503,
+      "updated_at": "2026-06-05T14:05:07Z"
+    },
+    {
+      "id": "ecb43450-bab3-4f6e-9d8e-53fffa7fc6e4",
+      "title": "Light Fury Eye",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/light_fury_eye.jpg",
+      "size": 59206,
+      "updated_at": "2026-06-05T14:05:01Z"
+    },
+    {
+      "id": "9d1f3605-ed32-4381-89b8-c773fb9971d5",
+      "title": "Patrick Star Left",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/patrick_star_left.jpg",
+      "size": 28148,
+      "updated_at": "2026-06-05T14:05:15Z"
+    },
+    {
+      "id": "edfe305e-8a90-4546-bb15-2fbd3b3168bc",
+      "title": "Rapunzel Pascal",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/rapunzel_pascal.jpg",
+      "size": 61623,
+      "updated_at": "2026-06-05T14:05:25Z"
+    },
+    {
+      "id": "b9a5a847-4943-4148-903b-aef472f0001a",
+      "title": "Spongebob Box",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/spongebob_box.jpg",
+      "size": 233051,
+      "updated_at": "2026-05-26T13:01:08Z"
+    },
+    {
+      "id": "8eee9b73-b724-4ca5-bcbc-8bfa652df122",
+      "title": "Spongebob Right",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/spongebob_right.jpg",
+      "size": 35169,
+      "updated_at": "2026-06-05T14:05:17Z"
+    },
+    {
+      "id": "230812ae-96be-40b4-9df7-cc0767540567",
+      "title": "Tangled Heart Hands",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/tangled_heart_hands.jpg",
+      "size": 128356,
+      "updated_at": "2026-05-26T09:57:35Z"
+    },
+    {
+      "id": "4db3f4e4-4b91-4e5f-a4a2-67be46103f37",
+      "title": "Toothless Dark Eyes",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/toothless_dark_eyes.jpg",
+      "size": 16525,
+      "updated_at": "2026-06-05T15:52:44Z"
+    }
+  ]
+}

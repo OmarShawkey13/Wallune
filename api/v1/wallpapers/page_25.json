@@ -1,0 +1,170 @@
+{
+  "page": 25,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "53daa765-47c0-4d1b-9a38-c68075c32cbb",
+      "title": "Dark Wet Leaves",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_wet_leaves.jpg",
+      "size": 115678,
+      "updated_at": "2026-02-23T00:14:47Z"
+    },
+    {
+      "id": "5df425ce-544c-410e-994b-5dbdb407f4c6",
+      "title": "Dramatic Mountain Clouds",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dramatic_mountain_clouds.jpg",
+      "size": 301452,
+      "updated_at": "2026-02-23T00:15:13Z"
+    },
+    {
+      "id": "f98bcfba-c34e-4609-bdff-8d8fd76d14cb",
+      "title": "Drawn Sun Beach",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/drawn_sun_beach.jpg",
+      "size": 214036,
+      "updated_at": "2026-06-19T22:32:13Z"
+    },
+    {
+      "id": "2975a6b4-8012-4fb9-928d-b8267693f176",
+      "title": "Flower Boat Blue Water",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/flower_boat_blue_water.jpg",
+      "size": 210449,
+      "updated_at": "2026-07-01T17:52:43Z"
+    },
+    {
+      "id": "7695fa82-cf19-4403-a513-5712fea982e5",
+      "title": "Flower Shop Display",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/flower_shop_display.jpg",
+      "size": 287647,
+      "updated_at": "2024-04-29T12:07:11Z"
+    },
+    {
+      "id": "fb262ba9-82ad-4241-80a1-57bf8fe1addd",
+      "title": "Foamy Beach Waves",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/foamy_beach_waves.jpg",
+      "size": 208555,
+      "updated_at": "2026-06-15T17:32:55Z"
+    },
+    {
+      "id": "e8725361-5723-4e6d-8b83-d5675af5752a",
+      "title": "Foggy Forest Road",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/foggy_forest_road.jpg",
+      "size": 71860,
+      "updated_at": "2026-06-25T00:42:15Z"
+    },
+    {
+      "id": "fd4800cc-813d-4a95-a021-42702336ef0f",
+      "title": "Gerbera Daisy Drops",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/gerbera_daisy_drops.jpg",
+      "size": 349666,
+      "updated_at": "2026-07-01T17:52:40Z"
+    },
+    {
+      "id": "420e315c-ae72-4ca8-b11e-ee5fe25c6276",
+      "title": "Glowing Purple Plants",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/glowing_purple_plants.jpg",
+      "size": 123950,
+      "updated_at": "2026-06-27T21:40:58Z"
+    },
+    {
+      "id": "4c5cd413-df01-4360-a9f6-2725a521c3c2",
+      "title": "Gradient Flowers",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/gradient_flowers.jpg",
+      "size": 136401,
+      "updated_at": "2026-06-16T21:19:58Z"
+    },
+    {
+      "id": "6c6fb9e3-1478-4b55-bfa1-9fd0585579c3",
+      "title": "Green Leaves",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/green_leaves.jpg",
+      "size": 181504,
+      "updated_at": "2026-07-01T12:37:52Z"
+    },
+    {
+      "id": "06f38e64-db33-43ab-90f1-b79ac95d21a8",
+      "title": "Leaves Sunset Water",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/leaves_sunset_water.jpg",
+      "size": 179779,
+      "updated_at": "2026-07-01T17:52:35Z"
+    },
+    {
+      "id": "ab11e118-82f6-4517-8d43-3e88a853eabe",
+      "title": "Life And Death Tree",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/life_and_death_tree.jpg",
+      "size": 184412,
+      "updated_at": "2026-06-02T13:00:28Z"
+    },
+    {
+      "id": "8949f800-275f-4a81-af44-f006d35ef003",
+      "title": "Lone Tree Dark Clouds",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lone_tree_dark_clouds.jpg",
+      "size": 86637,
+      "updated_at": "2026-06-25T00:42:19Z"
+    },
+    {
+      "id": "c368a79e-4a8a-4cc3-800d-75ca2815c06a",
+      "title": "Lone Tree Foggy Mountain",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lone_tree_foggy_mountain.jpg",
+      "size": 146154,
+      "updated_at": "2026-06-30T12:22:50Z"
+    },
+    {
+      "id": "a20b501d-dfad-40f5-b584-77ab9fcea498",
+      "title": "Lone Tree Lavender Field",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lone_tree_lavender_field.jpg",
+      "size": 145515,
+      "updated_at": "2026-06-30T12:22:54Z"
+    },
+    {
+      "id": "3d779e74-7694-4b21-9611-2ea16fd61897",
+      "title": "Magical Forest Canopy",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/magical_forest_canopy.jpg",
+      "size": 275882,
+      "updated_at": "2026-04-27T13:53:37Z"
+    },
+    {
+      "id": "f99c50de-da8b-40c0-abe1-47d964730850",
+      "title": "Milky Way Road",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/milky_way_road.jpg",
+      "size": 155471,
+      "updated_at": "2025-01-03T10:59:54Z"
+    },
+    {
+      "id": "666fd294-8cc6-4b9d-b904-27201fb90008",
+      "title": "Monochrome Crescent Mountains",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/monochrome_crescent_mountains.jpg",
+      "size": 151802,
+      "updated_at": "2026-06-23T23:42:04Z"
+    },
+    {
+      "id": "bed36009-f17b-4314-a26b-59b0415fb9d3",
+      "title": "Monochrome Moon Cherry Blossoms",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/monochrome_moon_cherry_blossoms.jpg",
+      "size": 389015,
+      "updated_at": "2026-06-23T23:41:59Z"
+    }
+  ]
+}

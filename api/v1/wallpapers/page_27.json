@@ -1,0 +1,170 @@
+{
+  "page": 27,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "9c3556db-e2e4-4f34-aa76-fb6b341b60ed",
+      "title": "Pink Cherry Blossoms",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/pink_cherry_blossoms.jpg",
+      "size": 290134,
+      "updated_at": "2026-06-25T17:31:41Z"
+    },
+    {
+      "id": "98e42c4e-f522-4266-9243-7a259d156d58",
+      "title": "Plant In Rocks",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/plant_in_rocks.jpg",
+      "size": 161709,
+      "updated_at": "2026-07-01T12:37:44Z"
+    },
+    {
+      "id": "6daa934e-92fe-4c10-8cb7-9d6c822d7074",
+      "title": "Purple Flowers And Butterflies",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_flowers_and_butterflies.jpg",
+      "size": 97278,
+      "updated_at": "2026-06-27T21:40:56Z"
+    },
+    {
+      "id": "139cfdb3-7e5e-4bd9-a32b-1dad0990dcd4",
+      "title": "Purple Galaxy Pier",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_galaxy_pier.jpg",
+      "size": 251557,
+      "updated_at": "2026-02-23T00:14:55Z"
+    },
+    {
+      "id": "ab0a3516-2136-4714-aa5d-3f48bc798635",
+      "title": "Purple Leaves Drops",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_leaves_drops.jpg",
+      "size": 191004,
+      "updated_at": "2026-07-03T11:50:10Z"
+    },
+    {
+      "id": "085e0b7f-b2df-4fcc-b7d0-8d7244c1a609",
+      "title": "Purple Orange Leaves",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_orange_leaves.jpg",
+      "size": 149838,
+      "updated_at": "2026-07-03T11:50:07Z"
+    },
+    {
+      "id": "20fe38f8-8ecf-4ebe-ae0b-ef2d641d7bd9",
+      "title": "Purple Sunset Rock",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_sunset_rock.jpg",
+      "size": 117077,
+      "updated_at": "2026-07-01T20:20:49Z"
+    },
+    {
+      "id": "85e95830-219d-4fb1-a03b-24c3922cb803",
+      "title": "Red Autumn Forest River",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_autumn_forest_river.jpg",
+      "size": 368634,
+      "updated_at": "2025-01-11T15:41:55Z"
+    },
+    {
+      "id": "b4a6a021-d508-4aeb-894a-537768c6d7c1",
+      "title": "Red Centered Daisy",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_centered_daisy.jpg",
+      "size": 152186,
+      "updated_at": "2026-06-27T17:02:15Z"
+    },
+    {
+      "id": "7b38e6d9-f408-405b-ab2d-88aebd0abfe3",
+      "title": "Red Flowers",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_flowers.jpg",
+      "size": 113109,
+      "updated_at": "2026-06-28T16:31:32Z"
+    },
+    {
+      "id": "6d2ac32d-5fca-492e-8459-53c549b812c2",
+      "title": "Red Glowing Valley",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_glowing_valley.jpg",
+      "size": 40169,
+      "updated_at": "2026-02-23T00:15:17Z"
+    },
+    {
+      "id": "80f52d82-512f-489e-a634-e9c10ec37b2e",
+      "title": "Red Ocean Sunset",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_ocean_sunset.jpg",
+      "size": 109045,
+      "updated_at": "2026-06-15T17:32:59Z"
+    },
+    {
+      "id": "d8d15367-b1e5-4a25-ac49-56ae22e12414",
+      "title": "Red Sunset Clouds",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_sunset_clouds.jpg",
+      "size": 133574,
+      "updated_at": "2026-05-26T01:34:42Z"
+    },
+    {
+      "id": "9719abc6-33dc-4e8e-a708-211b802de4c4",
+      "title": "Red Tree At Sunset",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_tree_at_sunset.jpg",
+      "size": 135407,
+      "updated_at": "2026-05-26T09:56:53Z"
+    },
+    {
+      "id": "d76acb65-ba75-4f4d-aa3f-6b71a4a1c4cb",
+      "title": "Reflective Cloud Tree",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/reflective_cloud_tree.jpg",
+      "size": 151035,
+      "updated_at": "2026-05-26T01:34:36Z"
+    },
+    {
+      "id": "d7e1603b-543e-48ac-9f23-8a02c0e713a4",
+      "title": "Santorini Ocean View",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/santorini_ocean_view.jpg",
+      "size": 159102,
+      "updated_at": "2026-06-25T22:19:16Z"
+    },
+    {
+      "id": "7a6267cd-dea2-4e42-ae53-81ae52e4b450",
+      "title": "Sedona Red Rocks",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sedona_red_rocks.jpg",
+      "size": 479311,
+      "updated_at": "2026-07-01T20:19:12Z"
+    },
+    {
+      "id": "e707ff4b-605d-42b1-a9bd-20f62f6d1079",
+      "title": "Silence Forest Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/silence_forest_lake.jpg",
+      "size": 228294,
+      "updated_at": "2026-04-13T02:11:18Z"
+    },
+    {
+      "id": "ce28a646-12be-44c2-9cea-ba7f844ee607",
+      "title": "Silhouette Of Tree Against Starry Sky",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/silhouette_of_tree_against_starry_sky.jpg",
+      "size": 97029,
+      "updated_at": "2026-04-27T13:53:06Z"
+    },
+    {
+      "id": "1929730d-cb53-4159-99d8-fa898cbae775",
+      "title": "Smooth River Stones",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/smooth_river_stones.jpg",
+      "size": 199208,
+      "updated_at": "2026-06-27T17:02:10Z"
+    }
+  ]
+}

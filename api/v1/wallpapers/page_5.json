@@ -1,0 +1,170 @@
+{
+  "page": 5,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "77a75bd9-3919-49bf-ab7d-914c7b219f35",
+      "title": "Watercolor Phoenix",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/watercolor_phoenix.jpg",
+      "size": 158738,
+      "updated_at": "2026-06-25T11:17:04Z"
+    },
+    {
+      "id": "9f3dba48-4ec4-40c9-aa4b-1ed5d6f39c47",
+      "title": "White Paint Splatter On Black Background",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_paint_splatter_on_black_background.jpg",
+      "size": 478152,
+      "updated_at": "2026-04-25T23:35:06Z"
+    },
+    {
+      "id": "67fc90ce-221b-4f36-b887-4c7db9a426a9",
+      "title": "White Paint Stroke On Black Background",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_paint_stroke_on_black_background.jpg",
+      "size": 111342,
+      "updated_at": "2026-04-25T23:34:43Z"
+    },
+    {
+      "id": "ac603d3c-3c7b-409b-89af-00f58fc362b1",
+      "title": "White Particle Explosion",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_particle_explosion.jpg",
+      "size": 312588,
+      "updated_at": "2026-05-23T12:35:26Z"
+    },
+    {
+      "id": "a0526f17-439c-4fbd-9519-f43672f2b0ff",
+      "title": "Wireframe Purple Lasers",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/wireframe_purple_lasers.jpg",
+      "size": 102441,
+      "updated_at": "2025-01-06T10:26:28Z"
+    },
+    {
+      "id": "456485cf-73ff-4d04-ace1-506deb48149f",
+      "title": "Baby Turtles Beach",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/baby_turtles_beach.jpg",
+      "size": 226210,
+      "updated_at": "2026-07-02T20:13:32Z"
+    },
+    {
+      "id": "ba36037b-09b5-4267-ac9a-c86ede62be81",
+      "title": "Bee On Purple Flower",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/bee_on_purple_flower.jpg",
+      "size": 360197,
+      "updated_at": "2026-07-01T17:52:38Z"
+    },
+    {
+      "id": "8202d7fc-92a9-40e8-bff4-21f139330742",
+      "title": "Birds Under Leaf",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/birds_under_leaf.jpg",
+      "size": 232888,
+      "updated_at": "2026-06-28T14:01:29Z"
+    },
+    {
+      "id": "00e6b49d-cdae-49a3-b9a6-76bb6f381f5f",
+      "title": "Black And White Cat",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_and_white_cat.jpg",
+      "size": 116088,
+      "updated_at": "2026-03-10T02:14:44Z"
+    },
+    {
+      "id": "a6f79dab-1ee5-49e3-9e7a-20cab140586b",
+      "title": "Black And White Lion",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_and_white_lion.jpg",
+      "size": 91332,
+      "updated_at": "2026-06-01T01:41:23Z"
+    },
+    {
+      "id": "506dffb7-c825-4c1a-854a-7876b4b65e5b",
+      "title": "Black Cat In Lily Pond",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_cat_in_lily_pond.jpg",
+      "size": 123960,
+      "updated_at": "2026-06-27T12:26:46Z"
+    },
+    {
+      "id": "00c98934-7a68-4ba7-93cf-87e2731784d7",
+      "title": "Black Cat In Water Ripples",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_cat_in_water_ripples.jpg",
+      "size": 209826,
+      "updated_at": "2026-06-27T01:28:37Z"
+    },
+    {
+      "id": "f13647b6-a5a7-4969-bd1f-7b7e819fd87d",
+      "title": "Black Spider Illustration",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_spider_illustration.jpg",
+      "size": 23716,
+      "updated_at": "2026-04-03T14:31:13Z"
+    },
+    {
+      "id": "73bd4d38-967f-4db4-be89-f80f3baaa48c",
+      "title": "Blue And Pink Snake",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/blue_and_pink_snake.jpg",
+      "size": 130280,
+      "updated_at": "2025-06-11T18:45:15Z"
+    },
+    {
+      "id": "fb1cd095-78d2-4e99-a454-e29499e0d866",
+      "title": "Bread Fish",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/bread_fish.jpg",
+      "size": 257458,
+      "updated_at": "2026-06-19T22:32:03Z"
+    },
+    {
+      "id": "aa6c9ab5-d8b8-451f-93ff-77eef3cb6c96",
+      "title": "Cool Rabbit",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cool_rabbit.jpg",
+      "size": 96132,
+      "updated_at": "2026-06-21T17:56:25Z"
+    },
+    {
+      "id": "4e2ec3c4-44b5-4b43-9f09-a1e52dc5d287",
+      "title": "Crow And Full Moon",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/crow_and_full_moon.jpg",
+      "size": 268142,
+      "updated_at": "2026-06-23T23:41:51Z"
+    },
+    {
+      "id": "41c8b280-7f78-49d0-9cae-9418da2e44b8",
+      "title": "Cute Cartoon Frog",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cute_cartoon_frog.jpg",
+      "size": 135727,
+      "updated_at": "2024-06-24T22:31:02Z"
+    },
+    {
+      "id": "09a5ee2b-9aae-4077-a77a-7d139ea916f6",
+      "title": "Dove Silhouette",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/dove_silhouette.jpg",
+      "size": 18524,
+      "updated_at": "2026-06-27T13:21:08Z"
+    },
+    {
+      "id": "5120e895-10d1-4670-a092-7835ecf0b16c",
+      "title": "Dove Silhouette Ixylt",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/dove_silhouette_ixylt.jpg",
+      "size": 18524,
+      "updated_at": "2026-06-27T13:21:08Z"
+    }
+  ]
+}

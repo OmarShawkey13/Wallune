@@ -1,0 +1,170 @@
+{
+  "page": 10,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "e51181c7-8c22-44a3-b1ff-d2b38918033b",
+      "title": "Luffy Laughing",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_laughing.jpg",
+      "size": 146991,
+      "updated_at": "2024-10-02T10:33:07Z"
+    },
+    {
+      "id": "d4a19a35-b006-4bca-809c-3a69487065c5",
+      "title": "Luffy Pointing",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_pointing.jpg",
+      "size": 118701,
+      "updated_at": "2026-05-23T12:35:17Z"
+    },
+    {
+      "id": "5af23f32-6238-46fa-a177-87c890165d7b",
+      "title": "Luffy Red Aura",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_red_aura.jpg",
+      "size": 297698,
+      "updated_at": "2026-04-23T11:05:35Z"
+    },
+    {
+      "id": "ee1948b8-46eb-422d-ace8-7d0929addee8",
+      "title": "Luffy Red Haki",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_red_haki.jpg",
+      "size": 179748,
+      "updated_at": "2026-04-23T11:05:37Z"
+    },
+    {
+      "id": "41c4dac0-9afc-4a8c-8618-ad454e1856bd",
+      "title": "Luffy Vs Kaido Yonko Clash",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_vs_kaido_yonko_clash.jpg",
+      "size": 298610,
+      "updated_at": "2026-04-01T15:58:50Z"
+    },
+    {
+      "id": "a1d5a303-d6ac-4f2c-ba33-a66a7f659702",
+      "title": "Meditating Flaming Entity",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/meditating_flaming_entity.jpg",
+      "size": 408896,
+      "updated_at": "2024-07-17T17:27:50Z"
+    },
+    {
+      "id": "ec2d900c-e1c5-4570-be19-ecbab933a8a6",
+      "title": "Megumi Fushiguro",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/megumi_fushiguro.jpg",
+      "size": 234240,
+      "updated_at": "2025-04-02T16:55:45.335281Z"
+    },
+    {
+      "id": "877004b2-a9f6-453e-a6a9-b8cc0faf106e",
+      "title": "Mountain Moon Scenery",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/mountain_moon_scenery.jpg",
+      "size": 225925,
+      "updated_at": "2026-04-27T13:53:39Z"
+    },
+    {
+      "id": "f2aad524-c8d9-4c23-9981-c8da1350d6e3",
+      "title": "Naruto Dojutsu Eyes",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/naruto_dojutsu_eyes.jpg",
+      "size": 141144,
+      "updated_at": "2025-09-06T00:01:12Z"
+    },
+    {
+      "id": "21dc9272-9a81-460a-9a11-335c27a43656",
+      "title": "Naruto Profile Profile",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/naruto_profile_profile.jpg",
+      "size": 53660,
+      "updated_at": "2025-09-06T00:01:03Z"
+    },
+    {
+      "id": "2f6a0719-6aa0-4e28-a63c-9bb1594ceb69",
+      "title": "Neon Super Saiyan",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/neon_super_saiyan.jpg",
+      "size": 254529,
+      "updated_at": "2026-04-07T18:07:46Z"
+    },
+    {
+      "id": "3a9eab7c-bcf7-4426-9754-adbd0cc448ea",
+      "title": "Nick Wilde Casual",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/nick_wilde_casual.jpg",
+      "size": 403742,
+      "updated_at": "2026-02-15T11:59:22Z"
+    },
+    {
+      "id": "d061a7dd-2242-48fe-9c8a-79fba9cbc46b",
+      "title": "Night Drive Overlook",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/night_drive_overlook.jpg",
+      "size": 117871,
+      "updated_at": "2026-06-20T21:00:27Z"
+    },
+    {
+      "id": "2f1dda54-8ae9-4535-93a0-810b889d0be3",
+      "title": "No Internet Anime",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/no_internet_anime.jpg",
+      "size": 87792,
+      "updated_at": "2026-06-11T15:57:33Z"
+    },
+    {
+      "id": "b6d90f1a-5fe0-450a-b1d5-e74b1e7423da",
+      "title": "No Internet Grass",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/no_internet_grass.jpg",
+      "size": 89903,
+      "updated_at": "2026-06-11T15:57:36Z"
+    },
+    {
+      "id": "00ae9c3b-8c74-4f5b-8450-52437c0463cd",
+      "title": "Pikachu Starry Night",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/pikachu_starry_night.jpg",
+      "size": 363327,
+      "updated_at": "2026-03-10T02:14:34Z"
+    },
+    {
+      "id": "7a4e29a8-48ce-4326-95ad-45c227586ac5",
+      "title": "Purple Anime Clouds",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/purple_anime_clouds.jpg",
+      "size": 304240,
+      "updated_at": "2024-06-28T20:53:36Z"
+    },
+    {
+      "id": "c29431b3-b575-4ad0-9680-c92e15e71ce7",
+      "title": "Purple Anime Clouds 13Qtf",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/purple_anime_clouds_13qtf.jpg",
+      "size": 116432,
+      "updated_at": "2026-02-23T00:15:21Z"
+    },
+    {
+      "id": "e5aa1dfa-36a9-41b6-b93a-b5a18130a726",
+      "title": "Red Eye Shadow",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/red_eye_shadow.jpg",
+      "size": 16540,
+      "updated_at": "2025-09-06T00:01:33Z"
+    },
+    {
+      "id": "7a956996-6180-4821-a704-cd5f9be09e43",
+      "title": "Samurai Do Or Die",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/samurai_do_or_die.jpg",
+      "size": 119640,
+      "updated_at": "2026-06-17T03:21:47Z"
+    }
+  ]
+}

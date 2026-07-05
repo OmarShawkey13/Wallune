@@ -1,0 +1,170 @@
+{
+  "page": 20,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "d12b2b4a-1863-40c2-ae77-ab55dedb87c7",
+      "title": "Gumball And Darwin In Bed",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/gumball_and_darwin_in_bed.jpg",
+      "size": 184009,
+      "updated_at": "2026-06-27T12:26:29Z"
+    },
+    {
+      "id": "b05414c6-2f64-46d6-9eba-be1f16794e67",
+      "title": "Gumball And Skyline",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/gumball_and_skyline.jpg",
+      "size": 159448,
+      "updated_at": "2026-06-26T23:02:02Z"
+    },
+    {
+      "id": "ba643156-1dc1-415d-98b3-404f30b39751",
+      "title": "Ice Bear In New York",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/ice_bear_in_new_york.jpg",
+      "size": 159649,
+      "updated_at": "2026-06-26T23:01:54Z"
+    },
+    {
+      "id": "7f3a0c60-3537-4232-82fc-240f71781ed9",
+      "title": "Mulan Climbing Pole",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/mulan_climbing_pole.jpg",
+      "size": 61786,
+      "updated_at": "2026-06-26T23:02:05Z"
+    },
+    {
+      "id": "e60704e7-5eb9-49fb-91eb-7a746c8ba5b3",
+      "title": "Squidward And Mr Krabs",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/squidward_and_mr_krabs.jpg",
+      "size": 150040,
+      "updated_at": "2026-06-26T23:01:59Z"
+    },
+    {
+      "id": "a1c8cc07-e7a6-4528-a4e2-e1d315f94f73",
+      "title": "Stitch Blue Background",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_blue_background.jpg",
+      "size": 43632,
+      "updated_at": "2026-06-05T14:04:06Z"
+    },
+    {
+      "id": "9a8bb70a-1a51-41b2-b819-5ee1f3584f5d",
+      "title": "Three Happy Cats",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/three_happy_cats.jpg",
+      "size": 79902,
+      "updated_at": "2026-05-26T03:44:11Z"
+    },
+    {
+      "id": "730c8f0f-f21d-440a-ada7-3fcd1f932e1d",
+      "title": "Woody And Buzz",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/woody_and_buzz.jpg",
+      "size": 123945,
+      "updated_at": "2026-06-28T16:33:19Z"
+    },
+    {
+      "id": "c7d6ec37-d71a-4c8b-9a25-7b6bdc4aa2ab",
+      "title": "Iron Man Portrait",
+      "category": "Characters",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Characters/iron_man_portrait.jpg",
+      "size": 310893,
+      "updated_at": "2026-06-01T01:41:15Z"
+    },
+    {
+      "id": "1f0b7737-49c7-49ef-9066-a95705e0b057",
+      "title": "Autumn Cafe Window",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/autumn_cafe_window.jpg",
+      "size": 323494,
+      "updated_at": "2026-07-02T01:46:57Z"
+    },
+    {
+      "id": "9d7e9be0-f226-4956-b25f-939b97faa3f8",
+      "title": "Big Ben Night",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/big_ben_night.jpg",
+      "size": 171352,
+      "updated_at": "2026-07-02T01:47:05Z"
+    },
+    {
+      "id": "f1c77bc4-c2c0-4d01-b5ff-e185d3867a68",
+      "title": "Cherry Blossom Street Night",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/cherry_blossom_street_night.jpg",
+      "size": 213998,
+      "updated_at": "2026-07-02T01:46:54Z"
+    },
+    {
+      "id": "a410fcca-cc39-47ac-bd7b-caff541f65b0",
+      "title": "City Beach Night",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/city_beach_night.jpg",
+      "size": 109476,
+      "updated_at": "2026-06-30T15:59:55Z"
+    },
+    {
+      "id": "e1cda662-72fb-4cec-b0f2-8fdb08bc4bfd",
+      "title": "Eiffel Tower Paris",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/eiffel_tower_paris.jpg",
+      "size": 218672,
+      "updated_at": "2026-06-30T15:59:52Z"
+    },
+    {
+      "id": "af7b848c-0a44-424d-8ad8-76cf1bc18dd3",
+      "title": "Evening Street Coffee",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/evening_street_coffee.jpg",
+      "size": 200874,
+      "updated_at": "2026-07-02T01:46:49Z"
+    },
+    {
+      "id": "b844e115-c96b-4e82-ae91-d33452b5374e",
+      "title": "Gas Station Night",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/gas_station_night.jpg",
+      "size": 95568,
+      "updated_at": "2026-07-03T12:39:24Z"
+    },
+    {
+      "id": "2a36ded0-216b-4331-9a0d-5c326e8cec36",
+      "title": "Rainy City Window",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/rainy_city_window.jpg",
+      "size": 228840,
+      "updated_at": "2026-06-22T14:53:12Z"
+    },
+    {
+      "id": "411503f0-b4b2-478f-bf8a-aa7a60ee25aa",
+      "title": "Times Square Bw",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/times_square_bw.jpg",
+      "size": 182212,
+      "updated_at": "2026-06-30T15:59:54Z"
+    },
+    {
+      "id": "00880d70-abbc-402f-a86a-6c4988aeb7ee",
+      "title": "Miles Morales Spider Man",
+      "category": "Comics",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/miles_morales_spider_man.jpg",
+      "size": 125539,
+      "updated_at": "2026-04-07T18:08:20Z"
+    },
+    {
+      "id": "8f255dc5-5329-4e7d-ae73-b11fa1d203c7",
+      "title": "Spider Man And Batman",
+      "category": "Comics",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spider_man_and_batman.jpg",
+      "size": 46441,
+      "updated_at": "2024-10-02T10:35:46Z"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "page": 9,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "73ec29f5-f45d-4569-ab2e-046c29963da9",
+      "title": "Asta Sword",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/asta_sword.jpg",
+      "size": 94148,
+      "updated_at": "2026-05-23T12:35:19Z"
+    },
+    {
+      "id": "5b862e70-0b53-49bc-a258-9d603ba6bdc2",
+      "title": "Cliffside Stargazing",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cliffside_stargazing.jpg",
+      "size": 66211,
+      "updated_at": "2026-06-20T21:00:34Z"
+    },
+    {
+      "id": "774a2b87-41d3-471a-b7dc-2ece3f5f3ba1",
+      "title": "Coastal Village At Night",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/coastal_village_at_night.jpg",
+      "size": 215975,
+      "updated_at": "2026-04-27T13:53:19Z"
+    },
+    {
+      "id": "364a2a09-e9d3-40d2-8d4b-64c9998eaae8",
+      "title": "Cute Anime City",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cute_anime_city.jpg",
+      "size": 198888,
+      "updated_at": "2026-06-28T16:33:04Z"
+    },
+    {
+      "id": "b9bf2655-f46d-4cd9-b4f5-9f0497e3cca5",
+      "title": "Cyberpunk Judy Hopps",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cyberpunk_judy_hopps.jpg",
+      "size": 228793,
+      "updated_at": "2026-02-15T11:59:29Z"
+    },
+    {
+      "id": "10da87ba-f578-475b-b656-39c4cc3050bb",
+      "title": "Cyborg Girl Red Background",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cyborg_girl_red_background.jpg",
+      "size": 142871,
+      "updated_at": "2025-10-09T23:13:11Z"
+    },
+    {
+      "id": "d6f99a19-ed57-4919-911d-ef7c28fd3877",
+      "title": "Floating Girl Magic",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/floating_girl_magic.jpg",
+      "size": 38342,
+      "updated_at": "2025-09-19T00:02:31Z"
+    },
+    {
+      "id": "6cd1538b-7818-4bba-9576-9bab90d646fd",
+      "title": "Gengar Starry Night",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gengar_starry_night.jpg",
+      "size": 275602,
+      "updated_at": "2026-03-10T02:14:31Z"
+    },
+    {
+      "id": "2591709a-a697-4bae-b600-bf5e6ebf6fe6",
+      "title": "Gojo Satoru",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gojo_satoru.jpg",
+      "size": 251237,
+      "updated_at": "2025-04-02T16:55:46.821516Z"
+    },
+    {
+      "id": "449b483e-838f-4231-b38d-43fbda6faf58",
+      "title": "Gojo Satoru Glowing Eyes",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gojo_satoru_glowing_eyes.jpg",
+      "size": 61709,
+      "updated_at": "2025-07-19T22:34:02Z"
+    },
+    {
+      "id": "0585b2a5-6751-4196-907a-833d70fb29f0",
+      "title": "Gojo Satoru Graffiti",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gojo_satoru_graffiti.jpg",
+      "size": 333705,
+      "updated_at": "2026-04-01T15:58:52Z"
+    },
+    {
+      "id": "633e975b-8bde-41ce-ac9a-361e29040e62",
+      "title": "Gojo Satoru Red",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gojo_satoru_red.jpg",
+      "size": 103962,
+      "updated_at": "2026-05-23T12:35:25Z"
+    },
+    {
+      "id": "fca116b5-8652-4bd4-9888-863cbc3adc9f",
+      "title": "Goku Orange Background",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_orange_background.jpg",
+      "size": 68744,
+      "updated_at": "2025-09-06T00:01:27Z"
+    },
+    {
+      "id": "3530680f-066a-4dc7-9979-297e541948f5",
+      "title": "Goku Red Aura",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_red_aura.jpg",
+      "size": 76992,
+      "updated_at": "2026-04-23T11:05:04Z"
+    },
+    {
+      "id": "275dfa5e-e94b-4c2c-885f-e6083c732dc5",
+      "title": "Hipster Judy Hopps",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/hipster_judy_hopps.jpg",
+      "size": 161344,
+      "updated_at": "2026-02-15T11:59:50Z"
+    },
+    {
+      "id": "bd95febd-cc60-4307-adf8-75896e28afa1",
+      "title": "Hipster Nick Wilde",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/hipster_nick_wilde.jpg",
+      "size": 186495,
+      "updated_at": "2026-02-15T11:59:42Z"
+    },
+    {
+      "id": "90cb4f57-3e7f-409a-aa5c-825dd7172769",
+      "title": "Jogo Chibi Volcano",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/jogo_chibi_volcano.jpg",
+      "size": 100379,
+      "updated_at": "2026-04-01T15:58:45Z"
+    },
+    {
+      "id": "9610a8be-5bbd-46b0-adfd-15930959f5d7",
+      "title": "Katana Red Leaves",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/katana_red_leaves.jpg",
+      "size": 180241,
+      "updated_at": "2026-07-03T11:50:06Z"
+    },
+    {
+      "id": "1f3845f6-4ad7-4d03-a84b-a026aeb9589b",
+      "title": "Large Cloud Formation Over Red Field",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/large_cloud_formation_over_red_field.jpg",
+      "size": 213021,
+      "updated_at": "2026-04-27T13:53:35Z"
+    },
+    {
+      "id": "dcb086b4-2ced-4602-ab24-5b602576ad18",
+      "title": "Luffy Gear 5 Graffiti",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_gear_5_graffiti.jpg",
+      "size": 324736,
+      "updated_at": "2026-04-01T15:58:48Z"
+    }
+  ]
+}

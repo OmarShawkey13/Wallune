@@ -1,0 +1,170 @@
+{
+  "page": 24,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "5306ec63-21c0-4823-a134-376ff1f9149f",
+      "title": "Autumn Leaves",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/autumn_leaves.jpg",
+      "size": 138409,
+      "updated_at": "2026-06-25T17:31:33Z"
+    },
+    {
+      "id": "15884639-93f2-492c-a07e-4a032d65bae3",
+      "title": "Balcony Hanging Plant",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/balcony_hanging_plant.jpg",
+      "size": 115491,
+      "updated_at": "2026-06-03T12:21:41Z"
+    },
+    {
+      "id": "00afe82b-9af6-4516-9f06-b4627da41be7",
+      "title": "Bee On Daisies",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/bee_on_daisies.jpg",
+      "size": 181117,
+      "updated_at": "2026-06-18T00:31:53Z"
+    },
+    {
+      "id": "69b1b887-0f13-4e0b-b9c4-645b2f9ef769",
+      "title": "Black Sand Dunes",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_sand_dunes.jpg",
+      "size": 66674,
+      "updated_at": "2026-04-25T23:34:32Z"
+    },
+    {
+      "id": "e9007588-2028-4483-91b6-efa81b389e06",
+      "title": "Black Vision Beach",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_vision_beach.jpg",
+      "size": 72116,
+      "updated_at": "2026-07-03T15:45:44Z"
+    },
+    {
+      "id": "d741ee61-8be7-4d2f-9a49-d2cd8b1a3306",
+      "title": "Blossom Wind Chime",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blossom_wind_chime.jpg",
+      "size": 141230,
+      "updated_at": "2026-07-02T20:13:26Z"
+    },
+    {
+      "id": "a33a9227-ab74-4d5e-b7ec-571c220b269c",
+      "title": "Blue Flower Bouquets",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_flower_bouquets.jpg",
+      "size": 152115,
+      "updated_at": "2024-04-29T12:07:07Z"
+    },
+    {
+      "id": "2f08ac0d-f216-4dcf-aac3-bf7bb8054bed",
+      "title": "Blue Flowers Drops",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_flowers_drops.jpg",
+      "size": 101913,
+      "updated_at": "2026-07-01T17:52:37Z"
+    },
+    {
+      "id": "cd926764-1206-4a3f-b3b3-f69c34f66c7f",
+      "title": "Breathe Foggy Mountains",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/breathe_foggy_mountains.jpg",
+      "size": 143303,
+      "updated_at": "2026-06-25T17:31:30Z"
+    },
+    {
+      "id": "7f4824db-f9b2-4775-bf82-6d7b88e281b5",
+      "title": "Cherry Blossom Closeup",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cherry_blossom_closeup.jpg",
+      "size": 201785,
+      "updated_at": "2026-06-30T04:11:09Z"
+    },
+    {
+      "id": "6b34101b-1ead-4d45-8906-1fa6dd92300e",
+      "title": "Cherry Blossom Lamp",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cherry_blossom_lamp.jpg",
+      "size": 244532,
+      "updated_at": "2026-06-30T04:11:06Z"
+    },
+    {
+      "id": "cf69ddb5-898d-48dc-8153-a58137553748",
+      "title": "Cherry Blossom Sign",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cherry_blossom_sign.jpg",
+      "size": 152379,
+      "updated_at": "2026-06-30T04:11:12Z"
+    },
+    {
+      "id": "1fe21476-a2eb-4e98-8a7c-4a67aaaf74b1",
+      "title": "Cliffside Green Tree",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cliffside_green_tree.jpg",
+      "size": 157421,
+      "updated_at": "2026-06-03T12:21:11Z"
+    },
+    {
+      "id": "abb0d89c-cbc1-430f-86a1-37ab6abf491b",
+      "title": "Clovers And Daisies",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/clovers_and_daisies.jpg",
+      "size": 326084,
+      "updated_at": "2026-06-18T00:31:45Z"
+    },
+    {
+      "id": "e23d1aec-c34d-469b-9fad-332715e1939b",
+      "title": "Colorful Blooming Tree",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/colorful_blooming_tree.jpg",
+      "size": 449096,
+      "updated_at": "2026-06-28T16:31:38Z"
+    },
+    {
+      "id": "cac71893-1fa7-48e1-829d-d5bb3fc7932d",
+      "title": "Colorful Cosmos",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/colorful_cosmos.jpg",
+      "size": 381469,
+      "updated_at": "2026-06-18T00:31:48Z"
+    },
+    {
+      "id": "628989a0-1162-4e3c-a9b5-0528dd26c5f1",
+      "title": "Colorful Flower Bouquets",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/colorful_flower_bouquets.jpg",
+      "size": 180708,
+      "updated_at": "2024-04-29T12:07:03Z"
+    },
+    {
+      "id": "b95c4265-5436-44a8-9b2d-4bdf9b5b7223",
+      "title": "Dark And Light Flowers",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_and_light_flowers.jpg",
+      "size": 77223,
+      "updated_at": "2025-02-16T11:40:11Z"
+    },
+    {
+      "id": "e2229999-ba9c-4888-9732-64f866e6456f",
+      "title": "Dark Detailed Feather",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_detailed_feather.jpg",
+      "size": 29684,
+      "updated_at": "2026-05-26T01:33:20Z"
+    },
+    {
+      "id": "0011f9c3-3ab9-4e55-8675-fabbb787c54c",
+      "title": "Dark Forest Road",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_forest_road.jpg",
+      "size": 154919,
+      "updated_at": "2026-06-28T14:01:31Z"
+    }
+  ]
+}

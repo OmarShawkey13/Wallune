@@ -1,0 +1,170 @@
+{
+  "page": 7,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "f6e470ca-08a5-47a8-a5db-f1934beffb83",
+      "title": "Toothless Eye",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/toothless_eye.jpg",
+      "size": 42052,
+      "updated_at": "2026-06-05T14:05:03Z"
+    },
+    {
+      "id": "9bf97f59-89cb-4ea3-b43f-80593e5d415a",
+      "title": "Toothless Split Eyes",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/toothless_split_eyes.jpg",
+      "size": 24721,
+      "updated_at": "2026-04-03T14:31:15Z"
+    },
+    {
+      "id": "df4d927d-74a9-4c7f-91c4-8cf0fd399238",
+      "title": "Wall E Look",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/wall_e_look.jpg",
+      "size": 127451,
+      "updated_at": "2026-06-05T14:05:12Z"
+    },
+    {
+      "id": "38d5b9c7-0b80-452f-8277-b430fa6d2dc3",
+      "title": "Wall E Plant",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/wall_e_plant.jpg",
+      "size": 123525,
+      "updated_at": "2026-06-05T14:05:10Z"
+    },
+    {
+      "id": "c03b319b-f68d-48f0-abe0-818c30b12038",
+      "title": "Zootopia Couch",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/zootopia_couch.jpg",
+      "size": 174100,
+      "updated_at": "2026-04-02T16:40:04Z"
+    },
+    {
+      "id": "fdc9eb74-9c7f-43c5-9b90-676f8a8a674e",
+      "title": "Zootopia Hug",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/zootopia_hug.jpg",
+      "size": 212636,
+      "updated_at": "2026-04-02T16:40:02Z"
+    },
+    {
+      "id": "b711189d-a828-4682-ae2d-d63f7cc5ff2d",
+      "title": "Zootopia Judy Smile",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/zootopia_judy_smile.jpg",
+      "size": 103793,
+      "updated_at": "2026-06-05T14:05:21Z"
+    },
+    {
+      "id": "7add8a2e-2819-4cbf-9523-3177e28cc1d2",
+      "title": "Zootopia Nick Judy",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/zootopia_nick_judy.jpg",
+      "size": 66151,
+      "updated_at": "2026-06-05T14:05:19Z"
+    },
+    {
+      "id": "992d9e5f-a4a1-46e8-95f1-290b66870c53",
+      "title": "Zootopia Selfie",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/zootopia_selfie.jpg",
+      "size": 331750,
+      "updated_at": "2026-04-02T16:40:00Z"
+    },
+    {
+      "id": "b083d4af-3f7e-4a9c-be29-a8303e985c50",
+      "title": "Zootopia Stare",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/zootopia_stare.jpg",
+      "size": 244540,
+      "updated_at": "2026-04-02T16:40:06Z"
+    },
+    {
+      "id": "53ce9b38-2f88-475c-955f-c05b71fe369e",
+      "title": "Zootopia Train Selfie",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/zootopia_train_selfie.jpg",
+      "size": 209997,
+      "updated_at": "2026-04-02T16:40:08Z"
+    },
+    {
+      "id": "070fbc7d-afd2-4db6-99a8-d2d5abcc3776",
+      "title": "Akaza Infinity Castle",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/akaza_infinity_castle.jpg",
+      "size": 131228,
+      "updated_at": "2024-10-21T01:07:32Z"
+    },
+    {
+      "id": "c4583db3-3df3-48c2-b01d-67475877a212",
+      "title": "Akira Bike",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/akira_bike.jpg",
+      "size": 231705,
+      "updated_at": "2026-04-23T11:05:29Z"
+    },
+    {
+      "id": "37472576-0058-47eb-b6e6-5708ff6e3e02",
+      "title": "Angel Cherry Blossoms",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/angel_cherry_blossoms.jpg",
+      "size": 64958,
+      "updated_at": "2026-03-15T22:58:46Z"
+    },
+    {
+      "id": "2d406df9-acf2-4a75-b26d-3f5b01462ec2",
+      "title": "Angel On Stitch Hearts",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/angel_on_stitch_hearts.jpg",
+      "size": 47606,
+      "updated_at": "2026-03-15T22:58:18Z"
+    },
+    {
+      "id": "bf6d8c23-f762-45af-b06d-d941960c5841",
+      "title": "Angel Peeking Pattern",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/angel_peeking_pattern.jpg",
+      "size": 51874,
+      "updated_at": "2026-03-15T22:57:48Z"
+    },
+    {
+      "id": "9d045770-6bfe-4e91-9d94-e746751ef48f",
+      "title": "Angel Peeking Pink",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/angel_peeking_pink.jpg",
+      "size": 36955,
+      "updated_at": "2026-03-15T22:58:26Z"
+    },
+    {
+      "id": "a612d132-305a-4eb6-b19b-a0bdb162f975",
+      "title": "Angel Sitting",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/angel_sitting.jpg",
+      "size": 22529,
+      "updated_at": "2026-03-15T22:57:39Z"
+    },
+    {
+      "id": "f6546043-f311-4de5-a8db-5797bc04960d",
+      "title": "Angel Sitting Pattern",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/angel_sitting_pattern.jpg",
+      "size": 92593,
+      "updated_at": "2026-03-15T22:58:48Z"
+    },
+    {
+      "id": "061d1ce3-c1a6-4ce2-8302-71e005398187",
+      "title": "Anime Balcony Stars",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_balcony_stars.jpg",
+      "size": 269315,
+      "updated_at": "2025-02-16T11:39:57Z"
+    }
+  ]
+}
