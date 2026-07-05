@@ -12,7 +12,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/scientist_and_equations.jpg",
       "size": 157286,
-      "updated_at": "2026-06-07T12:06:49Z"
+      "updated_at": "2026-06-07T12:06:49Z",
+      "width": 864,
+      "height": 1728
     },
     {
       "id": "00205e6d-5a9f-4c1b-a3f5-1e64beb746c3",
@@ -20,7 +22,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/sky_mirror_reflection.jpg",
       "size": 120016,
-      "updated_at": "2026-06-03T12:21:38Z"
+      "updated_at": "2026-06-03T12:21:38Z",
+      "width": 864,
+      "height": 1536
     },
     {
       "id": "4aba8e94-2d64-4205-b703-2cc781896295",
@@ -28,7 +32,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/starry_night_meadow.jpg",
       "size": 160366,
-      "updated_at": "2026-06-20T21:00:31Z"
+      "updated_at": "2026-06-20T21:00:31Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "c0075909-a6ae-4de5-9c59-d648dca56be7",
@@ -36,7 +42,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_blossom.jpg",
       "size": 91826,
-      "updated_at": "2026-03-15T22:58:00Z"
+      "updated_at": "2026-03-15T22:58:00Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "ea7a6e06-aaf0-43e7-8da4-6fdb0be20f08",
@@ -44,7 +52,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_heart.jpg",
       "size": 55901,
-      "updated_at": "2026-03-15T22:58:40Z"
+      "updated_at": "2026-03-15T22:58:40Z",
+      "width": 675,
+      "height": 1200
     },
     {
       "id": "9c34ef06-676f-4d0a-b304-3be8e5f8acda",
@@ -52,7 +62,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_hugging.jpg",
       "size": 59677,
-      "updated_at": "2026-03-15T22:58:56Z"
+      "updated_at": "2026-03-15T22:58:56Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "6e587e29-e5c6-4ada-930c-4a4240bbbccf",
@@ -60,7 +72,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_poses.jpg",
       "size": 61034,
-      "updated_at": "2026-03-15T22:57:42Z"
+      "updated_at": "2026-03-15T22:57:42Z",
+      "width": 675,
+      "height": 1200
     },
     {
       "id": "0283c97e-b827-4fb2-8290-3a9d27fd2734",
@@ -68,7 +82,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_split_background.jpg",
       "size": 18448,
-      "updated_at": "2026-03-15T22:58:37Z"
+      "updated_at": "2026-03-15T22:58:37Z",
+      "width": 638,
+      "height": 911
     },
     {
       "id": "be9271d9-e5cb-419b-8d63-1024c20e142e",
@@ -76,7 +92,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_touching_foreheads.jpg",
       "size": 51882,
-      "updated_at": "2026-03-15T22:58:59Z"
+      "updated_at": "2026-03-15T22:58:59Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "d9b84187-b05b-467b-a759-ac68a03a5091",
@@ -84,7 +102,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_peeking_blue.jpg",
       "size": 30541,
-      "updated_at": "2026-03-15T22:58:34Z"
+      "updated_at": "2026-03-15T22:58:34Z",
+      "width": 600,
+      "height": 1080
     },
     {
       "id": "5abe1b81-2399-4d7b-a656-cb7af8127148",
@@ -92,7 +112,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_reaching_pattern.jpg",
       "size": 56001,
-      "updated_at": "2026-03-15T22:57:54Z"
+      "updated_at": "2026-03-15T22:57:54Z",
+      "width": 675,
+      "height": 1200
     },
     {
       "id": "cfebbd8c-e10e-4f43-9b69-0c405ee9a003",
@@ -100,7 +122,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_sitting.jpg",
       "size": 27934,
-      "updated_at": "2026-03-15T22:57:32Z"
+      "updated_at": "2026-03-15T22:57:32Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "b976271f-61b7-4933-9721-26b1bc6527fd",
@@ -108,7 +132,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/sukuna_red_background.jpg",
       "size": 93603,
-      "updated_at": "2025-07-19T22:34:04Z"
+      "updated_at": "2025-07-19T22:34:04Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "a0d94d4b-2830-4d85-a0d6-9b307fa7a166",
@@ -116,7 +142,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/sukuna_smile.jpg",
       "size": 118174,
-      "updated_at": "2024-09-07T08:04:31Z"
+      "updated_at": "2024-09-07T08:04:31Z",
+      "width": 736,
+      "height": 1635
     },
     {
       "id": "cf9f3398-738f-47f2-90fb-ce082e71b016",
@@ -124,7 +152,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/sukuna_smiling.jpg",
       "size": 99098,
-      "updated_at": "2025-07-19T22:34:06Z"
+      "updated_at": "2025-07-19T22:34:06Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "0d0ec7fa-a79f-4c86-8150-5ba8f59ffc6d",
@@ -132,7 +162,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/swimming_cartoon_cats.jpg",
       "size": 59797,
-      "updated_at": "2026-06-27T12:26:56Z"
+      "updated_at": "2026-06-27T12:26:56Z",
+      "width": 864,
+      "height": 1820
     },
     {
       "id": "ad521840-d12e-4195-90d7-66fa86b5a1cc",
@@ -140,7 +172,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/tanjiro_flaming_sword.jpg",
       "size": 70821,
-      "updated_at": "2025-09-06T00:01:16Z"
+      "updated_at": "2025-09-06T00:01:16Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "1eeba1f6-61ed-4baa-af56-60e70fcfdf5d",
@@ -148,7 +182,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/techwear_nick_wilde.jpg",
       "size": 301384,
-      "updated_at": "2026-02-15T11:59:34Z"
+      "updated_at": "2026-02-15T11:59:34Z",
+      "width": 1025,
+      "height": 2160
     },
     {
       "id": "97ec4c7e-6144-4536-8e0e-a25ba70af176",
@@ -156,7 +192,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/tired_anime_character.jpg",
       "size": 84995,
-      "updated_at": "2026-04-01T15:58:55Z"
+      "updated_at": "2026-04-01T15:58:55Z",
+      "width": 1080,
+      "height": 1936
     },
     {
       "id": "878055bb-a0f5-46e3-b109-8f35e54634c7",
@@ -164,7 +202,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/ultra_instinct_goku.jpg",
       "size": 187238,
-      "updated_at": "2025-04-02T16:56:39.917163Z"
+      "updated_at": "2025-04-02T16:56:39.917163Z",
+      "width": 736,
+      "height": 1308
     }
   ]
 }

@@ -12,7 +12,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/geometric_wrap_bmw.jpg",
       "size": 107917,
-      "updated_at": "2026-04-04T23:18:38Z"
+      "updated_at": "2026-04-04T23:18:38Z",
+      "width": 1080,
+      "height": 1103
     },
     {
       "id": "20c92482-c2e8-44c3-ad7a-8cc329f1893d",
@@ -20,7 +22,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/grey_bmw_autumn.jpg",
       "size": 357366,
-      "updated_at": "2026-06-15T17:33:12Z"
+      "updated_at": "2026-06-15T17:33:12Z",
+      "width": 864,
+      "height": 1872
     },
     {
       "id": "50a18bf6-9959-4aa6-b822-fef0c3ecf516",
@@ -28,7 +32,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/grey_bmw_overhead.jpg",
       "size": 41889,
-      "updated_at": "2026-04-03T14:31:17Z"
+      "updated_at": "2026-04-03T14:31:17Z",
+      "width": 720,
+      "height": 1222
     },
     {
       "id": "6a35ea38-2b6a-4ac8-b7cc-b77248288ccb",
@@ -36,7 +42,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/grey_bmw_red_background.jpg",
       "size": 99772,
-      "updated_at": "2026-04-04T23:18:20Z"
+      "updated_at": "2026-04-04T23:18:20Z",
+      "width": 1080,
+      "height": 1104
     },
     {
       "id": "1d2bdc2c-567c-47db-9890-d20b03552c55",
@@ -44,7 +52,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/highway_night_drive.jpg",
       "size": 227694,
-      "updated_at": "2025-01-14T15:44:39Z"
+      "updated_at": "2025-01-14T15:44:39Z",
+      "width": 1080,
+      "height": 2400
     },
     {
       "id": "a9f26d8d-8d6d-43d0-8bf5-bf73cebb3b2d",
@@ -52,7 +62,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/hulk_vehicle.jpg",
       "size": 181060,
-      "updated_at": "2026-04-23T11:05:31Z"
+      "updated_at": "2026-04-23T11:05:31Z",
+      "width": 993,
+      "height": 2160
     },
     {
       "id": "564583bf-0881-48cd-818c-ee75aac8338c",
@@ -60,7 +72,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/jeep_in_snow.jpg",
       "size": 230545,
-      "updated_at": "2026-04-23T11:05:38Z"
+      "updated_at": "2026-04-23T11:05:38Z",
+      "width": 996,
+      "height": 2160
     },
     {
       "id": "03390484-8733-4166-ab35-60c20049b533",
@@ -68,7 +82,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/marble_wrap_bmw.jpg",
       "size": 172336,
-      "updated_at": "2024-06-25T16:37:57Z"
+      "updated_at": "2024-06-25T16:37:57Z",
+      "width": 1080,
+      "height": 1351
     },
     {
       "id": "5d854faf-405d-4803-bfac-0e96a4194feb",
@@ -76,7 +92,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/mercedes_amg_ink_splatter.jpg",
       "size": 193284,
-      "updated_at": "2026-06-03T12:21:16Z"
+      "updated_at": "2026-06-03T12:21:16Z",
+      "width": 864,
+      "height": 1542
     },
     {
       "id": "3f8264b0-c095-4b7b-b358-86404802fc82",
@@ -84,7 +102,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/nissan_gtr_red_background.jpg",
       "size": 111867,
-      "updated_at": "2026-06-03T12:21:09Z"
+      "updated_at": "2026-06-03T12:21:09Z",
+      "width": 864,
+      "height": 1536
     },
     {
       "id": "aa5185ca-ebc2-40de-8224-18fd4fadc36b",
@@ -92,7 +112,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/orange_bmw_front.jpg",
       "size": 158034,
-      "updated_at": "2026-04-01T18:52:20Z"
+      "updated_at": "2026-04-01T18:52:20Z",
+      "width": 1080,
+      "height": 1080
     },
     {
       "id": "ecd260c3-e279-4f13-8074-df3bc2e6a5f7",
@@ -100,7 +122,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/orange_jeep_at_night.jpg",
       "size": 220641,
-      "updated_at": "2026-06-21T10:07:19Z"
+      "updated_at": "2026-06-21T10:07:19Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "3ca88d84-b7f8-4ae3-895b-b5e1f6171d04",
@@ -108,7 +132,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_cherry_blossoms.jpg",
       "size": 490617,
-      "updated_at": "2026-04-02T16:39:49Z"
+      "updated_at": "2026-04-02T16:39:49Z",
+      "width": 1072,
+      "height": 1920
     },
     {
       "id": "a72964a0-757c-44a8-bb1a-54f1ab775811",
@@ -116,7 +142,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_front_view.jpg",
       "size": 292578,
-      "updated_at": "2026-04-02T16:39:42Z"
+      "updated_at": "2026-04-02T16:39:42Z",
+      "width": 1072,
+      "height": 1920
     },
     {
       "id": "2ff64a26-0d42-406b-8198-e8ca94008023",
@@ -124,7 +152,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_gt3_rs.jpg",
       "size": 117248,
-      "updated_at": "2026-06-29T15:51:48Z"
+      "updated_at": "2026-06-29T15:51:48Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "b69920b5-f68b-4628-becf-78644b33db52",
@@ -132,7 +162,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_hood_detail.jpg",
       "size": 226058,
-      "updated_at": "2026-04-02T16:39:47Z"
+      "updated_at": "2026-04-02T16:39:47Z",
+      "width": 1072,
+      "height": 1920
     },
     {
       "id": "7329bfbb-3e47-4873-8780-616b2298fcc9",
@@ -140,7 +172,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_mountain_road.jpg",
       "size": 76576,
-      "updated_at": "2026-06-03T12:21:23Z"
+      "updated_at": "2026-06-03T12:21:23Z",
+      "width": 864,
+      "height": 1536
     },
     {
       "id": "eefec4e3-0633-4c13-9223-5904bc7b1724",
@@ -148,7 +182,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_rear_view.jpg",
       "size": 298570,
-      "updated_at": "2026-04-02T16:39:45Z"
+      "updated_at": "2026-04-02T16:39:45Z",
+      "width": 1072,
+      "height": 1920
     },
     {
       "id": "2c8a9730-61cc-4f53-8798-986fc8f8ef2c",
@@ -156,7 +192,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_reflection.jpg",
       "size": 253789,
-      "updated_at": "2026-04-02T16:39:38Z"
+      "updated_at": "2026-04-02T16:39:38Z",
+      "width": 1072,
+      "height": 1920
     },
     {
       "id": "ae9092fe-fa72-4f41-b2f4-1fff71305302",
@@ -164,7 +202,9 @@
       "category": "Cars",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/porsche_911_side_profile.jpg",
       "size": 395164,
-      "updated_at": "2026-04-02T16:39:40Z"
+      "updated_at": "2026-04-02T16:39:40Z",
+      "width": 1072,
+      "height": 1920
     }
   ]
 }

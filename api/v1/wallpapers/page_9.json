@@ -12,7 +12,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/asta_sword.jpg",
       "size": 94148,
-      "updated_at": "2026-05-23T12:35:19Z"
+      "updated_at": "2026-05-23T12:35:19Z",
+      "width": 736,
+      "height": 1297
     },
     {
       "id": "5b862e70-0b53-49bc-a258-9d603ba6bdc2",
@@ -20,7 +22,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cliffside_stargazing.jpg",
       "size": 66211,
-      "updated_at": "2026-06-20T21:00:34Z"
+      "updated_at": "2026-06-20T21:00:34Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "774a2b87-41d3-471a-b7dc-2ece3f5f3ba1",
@@ -28,7 +32,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/coastal_village_at_night.jpg",
       "size": 215975,
-      "updated_at": "2026-04-27T13:53:19Z"
+      "updated_at": "2026-04-27T13:53:19Z",
+      "width": 736,
+      "height": 1309
     },
     {
       "id": "364a2a09-e9d3-40d2-8d4b-64c9998eaae8",
@@ -36,7 +42,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cute_anime_city.jpg",
       "size": 198888,
-      "updated_at": "2026-06-28T16:33:04Z"
+      "updated_at": "2026-06-28T16:33:04Z",
+      "width": 864,
+      "height": 1820
     },
     {
       "id": "b9bf2655-f46d-4cd9-b4f5-9f0497e3cca5",
@@ -44,7 +52,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cyberpunk_judy_hopps.jpg",
       "size": 228793,
-      "updated_at": "2026-02-15T11:59:29Z"
+      "updated_at": "2026-02-15T11:59:29Z",
+      "width": 1025,
+      "height": 2160
     },
     {
       "id": "10da87ba-f578-475b-b656-39c4cc3050bb",
@@ -52,7 +62,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cyborg_girl_red_background.jpg",
       "size": 142871,
-      "updated_at": "2025-10-09T23:13:11Z"
+      "updated_at": "2025-10-09T23:13:11Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "d6f99a19-ed57-4919-911d-ef7c28fd3877",
@@ -60,7 +72,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/floating_girl_magic.jpg",
       "size": 38342,
-      "updated_at": "2025-09-19T00:02:31Z"
+      "updated_at": "2025-09-19T00:02:31Z",
+      "width": 591,
+      "height": 1280
     },
     {
       "id": "6cd1538b-7818-4bba-9576-9bab90d646fd",
@@ -68,7 +82,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gengar_starry_night.jpg",
       "size": 275602,
-      "updated_at": "2026-03-10T02:14:31Z"
+      "updated_at": "2026-03-10T02:14:31Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "2591709a-a697-4bae-b600-bf5e6ebf6fe6",
@@ -76,7 +92,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gojo_satoru.jpg",
       "size": 251237,
-      "updated_at": "2025-04-02T16:55:46.821516Z"
+      "updated_at": "2025-04-02T16:55:46.821516Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "449b483e-838f-4231-b38d-43fbda6faf58",
@@ -84,7 +102,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gojo_satoru_glowing_eyes.jpg",
       "size": 61709,
-      "updated_at": "2025-07-19T22:34:02Z"
+      "updated_at": "2025-07-19T22:34:02Z",
+      "width": 735,
+      "height": 1300
     },
     {
       "id": "0585b2a5-6751-4196-907a-833d70fb29f0",
@@ -92,7 +112,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gojo_satoru_graffiti.jpg",
       "size": 333705,
-      "updated_at": "2026-04-01T15:58:52Z"
+      "updated_at": "2026-04-01T15:58:52Z",
+      "width": 1080,
+      "height": 1936
     },
     {
       "id": "633e975b-8bde-41ce-ac9a-361e29040e62",
@@ -100,7 +122,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gojo_satoru_red.jpg",
       "size": 103962,
-      "updated_at": "2026-05-23T12:35:25Z"
+      "updated_at": "2026-05-23T12:35:25Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "fca116b5-8652-4bd4-9888-863cbc3adc9f",
@@ -108,7 +132,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_orange_background.jpg",
       "size": 68744,
-      "updated_at": "2025-09-06T00:01:27Z"
+      "updated_at": "2025-09-06T00:01:27Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "3530680f-066a-4dc7-9979-297e541948f5",
@@ -116,7 +142,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_red_aura.jpg",
       "size": 76992,
-      "updated_at": "2026-04-23T11:05:04Z"
+      "updated_at": "2026-04-23T11:05:04Z",
+      "width": 1080,
+      "height": 2368
     },
     {
       "id": "275dfa5e-e94b-4c2c-885f-e6083c732dc5",
@@ -124,7 +152,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/hipster_judy_hopps.jpg",
       "size": 161344,
-      "updated_at": "2026-02-15T11:59:50Z"
+      "updated_at": "2026-02-15T11:59:50Z",
+      "width": 1025,
+      "height": 2160
     },
     {
       "id": "bd95febd-cc60-4307-adf8-75896e28afa1",
@@ -132,7 +162,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/hipster_nick_wilde.jpg",
       "size": 186495,
-      "updated_at": "2026-02-15T11:59:42Z"
+      "updated_at": "2026-02-15T11:59:42Z",
+      "width": 1025,
+      "height": 2160
     },
     {
       "id": "90cb4f57-3e7f-409a-aa5c-825dd7172769",
@@ -140,7 +172,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/jogo_chibi_volcano.jpg",
       "size": 100379,
-      "updated_at": "2026-04-01T15:58:45Z"
+      "updated_at": "2026-04-01T15:58:45Z",
+      "width": 1080,
+      "height": 1936
     },
     {
       "id": "9610a8be-5bbd-46b0-adfd-15930959f5d7",
@@ -148,7 +182,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/katana_red_leaves.jpg",
       "size": 180241,
-      "updated_at": "2026-07-03T11:50:06Z"
+      "updated_at": "2026-07-03T11:50:06Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "1f3845f6-4ad7-4d03-a84b-a026aeb9589b",
@@ -156,7 +192,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/large_cloud_formation_over_red_field.jpg",
       "size": 213021,
-      "updated_at": "2026-04-27T13:53:35Z"
+      "updated_at": "2026-04-27T13:53:35Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "dcb086b4-2ced-4602-ab24-5b602576ad18",
@@ -164,7 +202,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_gear_5_graffiti.jpg",
       "size": 324736,
-      "updated_at": "2026-04-01T15:58:48Z"
+      "updated_at": "2026-04-01T15:58:48Z",
+      "width": 1080,
+      "height": 1936
     }
   ]
 }

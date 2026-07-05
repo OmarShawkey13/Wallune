@@ -12,7 +12,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_wet_leaves.jpg",
       "size": 115678,
-      "updated_at": "2026-02-23T00:14:47Z"
+      "updated_at": "2026-02-23T00:14:47Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "5df425ce-544c-410e-994b-5dbdb407f4c6",
@@ -20,7 +22,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dramatic_mountain_clouds.jpg",
       "size": 301452,
-      "updated_at": "2026-02-23T00:15:13Z"
+      "updated_at": "2026-02-23T00:15:13Z",
+      "width": 736,
+      "height": 1594
     },
     {
       "id": "f98bcfba-c34e-4609-bdff-8d8fd76d14cb",
@@ -28,7 +32,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/drawn_sun_beach.jpg",
       "size": 214036,
-      "updated_at": "2026-06-19T22:32:13Z"
+      "updated_at": "2026-06-19T22:32:13Z",
+      "width": 864,
+      "height": 1728
     },
     {
       "id": "2975a6b4-8012-4fb9-928d-b8267693f176",
@@ -36,7 +42,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/flower_boat_blue_water.jpg",
       "size": 210449,
-      "updated_at": "2026-07-01T17:52:43Z"
+      "updated_at": "2026-07-01T17:52:43Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "7695fa82-cf19-4403-a513-5712fea982e5",
@@ -44,7 +52,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/flower_shop_display.jpg",
       "size": 287647,
-      "updated_at": "2024-04-29T12:07:11Z"
+      "updated_at": "2024-04-29T12:07:11Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "fb262ba9-82ad-4241-80a1-57bf8fe1addd",
@@ -52,7 +62,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/foamy_beach_waves.jpg",
       "size": 208555,
-      "updated_at": "2026-06-15T17:32:55Z"
+      "updated_at": "2026-06-15T17:32:55Z",
+      "width": 972,
+      "height": 2047
     },
     {
       "id": "e8725361-5723-4e6d-8b83-d5675af5752a",
@@ -60,7 +72,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/foggy_forest_road.jpg",
       "size": 71860,
-      "updated_at": "2026-06-25T00:42:15Z"
+      "updated_at": "2026-06-25T00:42:15Z",
+      "width": 864,
+      "height": 1536
     },
     {
       "id": "fd4800cc-813d-4a95-a021-42702336ef0f",
@@ -68,7 +82,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/gerbera_daisy_drops.jpg",
       "size": 349666,
-      "updated_at": "2026-07-01T17:52:40Z"
+      "updated_at": "2026-07-01T17:52:40Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "420e315c-ae72-4ca8-b11e-ee5fe25c6276",
@@ -76,7 +92,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/glowing_purple_plants.jpg",
       "size": 123950,
-      "updated_at": "2026-06-27T21:40:58Z"
+      "updated_at": "2026-06-27T21:40:58Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "4c5cd413-df01-4360-a9f6-2725a521c3c2",
@@ -84,7 +102,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/gradient_flowers.jpg",
       "size": 136401,
-      "updated_at": "2026-06-16T21:19:58Z"
+      "updated_at": "2026-06-16T21:19:58Z",
+      "width": 864,
+      "height": 1871
     },
     {
       "id": "6c6fb9e3-1478-4b55-bfa1-9fd0585579c3",
@@ -92,7 +112,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/green_leaves.jpg",
       "size": 181504,
-      "updated_at": "2026-07-01T12:37:52Z"
+      "updated_at": "2026-07-01T12:37:52Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "06f38e64-db33-43ab-90f1-b79ac95d21a8",
@@ -100,7 +122,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/leaves_sunset_water.jpg",
       "size": 179779,
-      "updated_at": "2026-07-01T17:52:35Z"
+      "updated_at": "2026-07-01T17:52:35Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "ab11e118-82f6-4517-8d43-3e88a853eabe",
@@ -108,7 +132,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/life_and_death_tree.jpg",
       "size": 184412,
-      "updated_at": "2026-06-02T13:00:28Z"
+      "updated_at": "2026-06-02T13:00:28Z",
+      "width": 864,
+      "height": 1535
     },
     {
       "id": "8949f800-275f-4a81-af44-f006d35ef003",
@@ -116,7 +142,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lone_tree_dark_clouds.jpg",
       "size": 86637,
-      "updated_at": "2026-06-25T00:42:19Z"
+      "updated_at": "2026-06-25T00:42:19Z",
+      "width": 864,
+      "height": 1916
     },
     {
       "id": "c368a79e-4a8a-4cc3-800d-75ca2815c06a",
@@ -124,7 +152,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lone_tree_foggy_mountain.jpg",
       "size": 146154,
-      "updated_at": "2026-06-30T12:22:50Z"
+      "updated_at": "2026-06-30T12:22:50Z",
+      "width": 736,
+      "height": 1307
     },
     {
       "id": "a20b501d-dfad-40f5-b584-77ab9fcea498",
@@ -132,7 +162,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lone_tree_lavender_field.jpg",
       "size": 145515,
-      "updated_at": "2026-06-30T12:22:54Z"
+      "updated_at": "2026-06-30T12:22:54Z",
+      "width": 724,
+      "height": 1448
     },
     {
       "id": "3d779e74-7694-4b21-9611-2ea16fd61897",
@@ -140,7 +172,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/magical_forest_canopy.jpg",
       "size": 275882,
-      "updated_at": "2026-04-27T13:53:37Z"
+      "updated_at": "2026-04-27T13:53:37Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "f99c50de-da8b-40c0-abe1-47d964730850",
@@ -148,7 +182,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/milky_way_road.jpg",
       "size": 155471,
-      "updated_at": "2025-01-03T10:59:54Z"
+      "updated_at": "2025-01-03T10:59:54Z",
+      "width": 1080,
+      "height": 1440
     },
     {
       "id": "666fd294-8cc6-4b9d-b904-27201fb90008",
@@ -156,7 +192,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/monochrome_crescent_mountains.jpg",
       "size": 151802,
-      "updated_at": "2026-06-23T23:42:04Z"
+      "updated_at": "2026-06-23T23:42:04Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "bed36009-f17b-4314-a26b-59b0415fb9d3",
@@ -164,7 +202,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/monochrome_moon_cherry_blossoms.jpg",
       "size": 389015,
-      "updated_at": "2026-06-23T23:41:59Z"
+      "updated_at": "2026-06-23T23:41:59Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

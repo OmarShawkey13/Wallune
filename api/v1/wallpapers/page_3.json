@@ -12,7 +12,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/floating_glass_bubbles.jpg",
       "size": 83157,
-      "updated_at": "2026-04-30T23:23:24Z"
+      "updated_at": "2026-04-30T23:23:24Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "8f6ff4b2-93c2-4163-80cb-2c73ecba7d6a",
@@ -20,7 +22,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/floral_border.jpg",
       "size": 257014,
-      "updated_at": "2026-06-18T01:56:27Z"
+      "updated_at": "2026-06-18T01:56:27Z",
+      "width": 864,
+      "height": 1872
     },
     {
       "id": "c1957a52-4f84-4713-94a9-69d55c090db6",
@@ -28,7 +32,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/forever_heart_left.jpg",
       "size": 116332,
-      "updated_at": "2026-06-05T14:04:45Z"
+      "updated_at": "2026-06-05T14:04:45Z",
+      "width": 1125,
+      "height": 2436
     },
     {
       "id": "6421107e-65d2-4af3-ba6b-d6773a49fd44",
@@ -36,7 +42,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/glowing_arc.jpg",
       "size": 33061,
-      "updated_at": "2026-05-26T09:57:00Z"
+      "updated_at": "2026-05-26T09:57:00Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "0faa743d-1ce7-4e2d-ae5b-f9a13efbf42d",
@@ -44,7 +52,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/glowing_ascension.jpg",
       "size": 112171,
-      "updated_at": "2026-03-15T22:56:00Z"
+      "updated_at": "2026-03-15T22:56:00Z",
+      "width": 1080,
+      "height": 1927
     },
     {
       "id": "1621d912-7611-4f4d-9d36-8520e09f2885",
@@ -52,7 +62,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/glowing_orange_curve.jpg",
       "size": 92455,
-      "updated_at": "2026-04-30T23:23:11Z"
+      "updated_at": "2026-04-30T23:23:11Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "c85058f3-0b51-431a-85fa-67a955085f8c",
@@ -60,7 +72,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/glowing_teal_grass.jpg",
       "size": 90252,
-      "updated_at": "2026-06-16T03:05:34Z"
+      "updated_at": "2026-06-16T03:05:34Z",
+      "width": 864,
+      "height": 1871
     },
     {
       "id": "d906abed-e236-479e-9105-5aa36b0d8107",
@@ -68,7 +82,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/golden_paper_folds.jpg",
       "size": 136404,
-      "updated_at": "2026-04-30T23:23:13Z"
+      "updated_at": "2026-04-30T23:23:13Z",
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "70de1efa-fcb8-44f2-b2e3-38a383ef47c9",
@@ -76,7 +92,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/gradient_bricks.jpg",
       "size": 39310,
-      "updated_at": "2026-05-26T13:00:44Z"
+      "updated_at": "2026-05-26T13:00:44Z",
+      "width": 720,
+      "height": 1443
     },
     {
       "id": "20986900-ca98-4347-ab20-333e49aeb961",
@@ -84,7 +102,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_dino_mirror.jpg",
       "size": 228158,
-      "updated_at": "2026-05-18T16:23:39Z"
+      "updated_at": "2026-05-18T16:23:39Z",
+      "width": 1179,
+      "height": 2556
     },
     {
       "id": "f836ae8d-e1d2-456e-8727-7aa10e4cf00d",
@@ -92,7 +112,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/grey_gradient.jpg",
       "size": 24337,
-      "updated_at": "2026-05-26T09:56:31Z"
+      "updated_at": "2026-05-26T09:56:31Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "b1dd945a-f4ea-4739-8621-22af03672bec",
@@ -100,7 +122,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/house_in_red_desert.jpg",
       "size": 38695,
-      "updated_at": "2026-06-25T17:31:44Z"
+      "updated_at": "2026-06-25T17:31:44Z",
+      "width": 736,
+      "height": 1735
     },
     {
       "id": "5f8166a1-2394-44dc-9524-d9454a9a34fd",
@@ -108,7 +132,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/illuminated_spiral_tunnel.jpg",
       "size": 65668,
-      "updated_at": "2026-05-26T01:33:24Z"
+      "updated_at": "2026-05-26T01:33:24Z",
+      "width": 868,
+      "height": 1736
     },
     {
       "id": "babca6d3-db94-4ac0-8533-1fdb875de76c",
@@ -116,7 +142,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/iridescent_ferns.jpg",
       "size": 336662,
-      "updated_at": "2026-06-17T03:28:06Z"
+      "updated_at": "2026-06-17T03:28:06Z",
+      "width": 864,
+      "height": 1871
     },
     {
       "id": "5020059d-7e38-4716-b99f-fa316291ece9",
@@ -124,7 +152,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/monochrome_celestial_ocean.jpg",
       "size": 214231,
-      "updated_at": "2026-02-23T00:15:06Z"
+      "updated_at": "2026-02-23T00:15:06Z",
+      "width": 736,
+      "height": 1594
     },
     {
       "id": "392fb602-85c7-4667-808d-80b63c1e015c",
@@ -132,7 +162,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/monochrome_oil_drops.jpg",
       "size": 271524,
-      "updated_at": "2026-04-25T23:34:40Z"
+      "updated_at": "2026-04-25T23:34:40Z",
+      "width": 998,
+      "height": 2160
     },
     {
       "id": "5ca8fe5f-5afe-4482-9b9d-9ca3a53c14d4",
@@ -140,7 +172,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_edge_curves.jpg",
       "size": 39977,
-      "updated_at": "2026-04-30T23:23:20Z"
+      "updated_at": "2026-04-30T23:23:20Z",
+      "width": 736,
+      "height": 1595
     },
     {
       "id": "9ef3fd0e-6c8c-4479-be17-874f60cc3332",
@@ -148,7 +182,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_glowing_feather.jpg",
       "size": 90429,
-      "updated_at": "2026-06-01T01:41:13Z"
+      "updated_at": "2026-06-01T01:41:13Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "2910f8e5-1f59-437e-9bbc-a0c6ca229f4b",
@@ -156,7 +192,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/no_internet_beach.jpg",
       "size": 119781,
-      "updated_at": "2026-05-06T13:45:47Z"
+      "updated_at": "2026-05-06T13:45:47Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "0a4864de-3ab9-48bd-8d17-138ff55be321",
@@ -164,7 +202,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/orange_twisting_curves.jpg",
       "size": 169754,
-      "updated_at": "2026-04-30T23:23:15Z"
+      "updated_at": "2026-04-30T23:23:15Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

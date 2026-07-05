@@ -12,7 +12,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/out_of_mind_typography.jpg",
       "size": 111930,
-      "updated_at": "2024-06-24T22:30:30Z"
+      "updated_at": "2024-06-24T22:30:30Z",
+      "width": 736,
+      "height": 1437
     },
     {
       "id": "18c020f8-a1cd-4170-8e11-a1ef4df92b53",
@@ -20,7 +22,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/paint_splatters.jpg",
       "size": 88596,
-      "updated_at": "2026-06-18T01:56:32Z"
+      "updated_at": "2026-06-18T01:56:32Z",
+      "width": 675,
+      "height": 1200
     },
     {
       "id": "37baf946-844e-490e-af35-5d3530ee0b89",
@@ -28,7 +32,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/pink_fabric_red_butterflies.jpg",
       "size": 156576,
-      "updated_at": "2026-06-24T18:40:59Z"
+      "updated_at": "2026-06-24T18:40:59Z",
+      "width": 864,
+      "height": 1152
     },
     {
       "id": "720f62c2-4f5a-473b-85d3-e93eddbe81d2",
@@ -36,7 +42,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_orange_fluid.jpg",
       "size": 111944,
-      "updated_at": "2026-04-30T23:23:27Z"
+      "updated_at": "2026-04-30T23:23:27Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "df14b812-9082-4dac-8e10-a5ed46455a2e",
@@ -44,7 +52,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rainbow_metallic_hearts.jpg",
       "size": 107112,
-      "updated_at": "2026-04-30T23:23:19Z"
+      "updated_at": "2026-04-30T23:23:19Z",
+      "width": 1080,
+      "height": 1917
     },
     {
       "id": "5c1a25b6-3c73-434f-b9cb-2ca02550b74b",
@@ -52,7 +62,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_laser_beam.jpg",
       "size": 43389,
-      "updated_at": "2026-05-29T08:50:29Z"
+      "updated_at": "2026-05-29T08:50:29Z",
+      "width": 942,
+      "height": 2048
     },
     {
       "id": "5ade58e8-ee79-4ea0-8a8a-03d446ca1be6",
@@ -60,7 +72,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_stone_texture.jpg",
       "size": 355546,
-      "updated_at": "2026-05-26T01:34:22Z"
+      "updated_at": "2026-05-26T01:34:22Z",
+      "width": 1080,
+      "height": 2340
     },
     {
       "id": "03973424-04c4-4d5b-b516-b6d66e5fec81",
@@ -68,7 +82,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_upward_chevrons.jpg",
       "size": 22069,
-      "updated_at": "2026-05-26T13:00:40Z"
+      "updated_at": "2026-05-26T13:00:40Z",
+      "width": 720,
+      "height": 1443
     },
     {
       "id": "26be7ca6-b02b-441e-9ed9-20cb6fef40f7",
@@ -76,7 +92,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rolling_red_die.jpg",
       "size": 191497,
-      "updated_at": "2026-04-23T11:05:09Z"
+      "updated_at": "2026-04-23T11:05:09Z",
+      "width": 1080,
+      "height": 2340
     },
     {
       "id": "26401766-38ad-4d5a-825a-e9a0ac6b464c",
@@ -84,7 +102,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/sabr_night_sky.jpg",
       "size": 93939,
-      "updated_at": "2025-01-14T15:44:53Z"
+      "updated_at": "2025-01-14T15:44:53Z",
+      "width": 1080,
+      "height": 1917
     },
     {
       "id": "19420476-887d-457b-b94c-b2b66bf20021",
@@ -92,7 +112,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/smoking_neon_skull.jpg",
       "size": 147807,
-      "updated_at": "2026-04-23T11:05:12Z"
+      "updated_at": "2026-04-23T11:05:12Z",
+      "width": 1023,
+      "height": 2160
     },
     {
       "id": "9a694649-525d-4745-a98e-21c0d35ef40a",
@@ -100,7 +122,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/soft_pink_fabric_abstract.jpg",
       "size": 166884,
-      "updated_at": "2024-06-28T20:53:43Z"
+      "updated_at": "2024-06-28T20:53:43Z",
+      "width": 993,
+      "height": 2160
     },
     {
       "id": "3b8e01e1-0918-414b-8275-3b6d890d3342",
@@ -108,7 +132,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/splatter_wings.jpg",
       "size": 337749,
-      "updated_at": "2026-04-25T23:34:15Z"
+      "updated_at": "2026-04-25T23:34:15Z",
+      "width": 998,
+      "height": 2160
     },
     {
       "id": "e8105af5-5740-48f2-ad26-06f53096ae91",
@@ -116,7 +142,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/split_wings.jpg",
       "size": 94354,
-      "updated_at": "2026-04-25T23:34:13Z"
+      "updated_at": "2026-04-25T23:34:13Z",
+      "width": 998,
+      "height": 2160
     },
     {
       "id": "5caa679a-3242-407f-96d9-0a8aa726a53e",
@@ -124,7 +152,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/stacked_glass_discs.jpg",
       "size": 57109,
-      "updated_at": "2026-04-30T23:23:22Z"
+      "updated_at": "2026-04-30T23:23:22Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "2522040a-d621-4561-842b-7370820fc2ca",
@@ -132,7 +162,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/stairs_to_circle.jpg",
       "size": 73942,
-      "updated_at": "2026-04-25T23:34:34Z"
+      "updated_at": "2026-04-25T23:34:34Z",
+      "width": 998,
+      "height": 2160
     },
     {
       "id": "9f7e6256-ba45-442c-a18c-94b249e6245a",
@@ -140,7 +172,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/together_heart_right.jpg",
       "size": 119246,
-      "updated_at": "2026-06-05T14:04:41Z"
+      "updated_at": "2026-06-05T14:04:41Z",
+      "width": 1125,
+      "height": 2436
     },
     {
       "id": "0e325d42-5432-4278-bfed-9692ff734c40",
@@ -148,7 +182,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/two_hours_later_spongebob.jpg",
       "size": 508696,
-      "updated_at": "2024-07-11T13:13:37Z"
+      "updated_at": "2024-07-11T13:13:37Z",
+      "width": 998,
+      "height": 2160
     },
     {
       "id": "28b48dcd-41b7-4a27-9fe6-6ea8b19aff3d",
@@ -156,7 +192,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/unraveling_bandages_butterflies.jpg",
       "size": 57185,
-      "updated_at": "2026-06-24T18:40:53Z"
+      "updated_at": "2026-06-24T18:40:53Z",
+      "width": 864,
+      "height": 1152
     },
     {
       "id": "39a94082-cc18-4474-ad97-e5852559ed41",
@@ -164,7 +202,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/watercolor_galactic_mermaid.jpg",
       "size": 124162,
-      "updated_at": "2026-06-25T11:17:07Z"
+      "updated_at": "2026-06-25T11:17:07Z",
+      "width": 941,
+      "height": 1672
     }
   ]
 }

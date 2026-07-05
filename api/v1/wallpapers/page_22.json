@@ -12,7 +12,9 @@
       "category": "Gaming",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/minecraft_cat_field.jpg",
       "size": 58263,
-      "updated_at": "2025-01-06T10:26:26Z"
+      "updated_at": "2025-01-06T10:26:26Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "0af91da5-aaeb-4e5c-bdc7-5c4c28bc97db",
@@ -20,7 +22,9 @@
       "category": "Gaming",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/pixel_warrior_moon.jpg",
       "size": 158537,
-      "updated_at": "2026-04-07T18:15:24Z"
+      "updated_at": "2026-04-07T18:15:24Z",
+      "width": 1080,
+      "height": 2561
     },
     {
       "id": "b0bbbff2-b8e7-4501-9c50-4d6d46edd983",
@@ -28,7 +32,9 @@
       "category": "Gaming",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/playstation_symbols.jpg",
       "size": 496973,
-      "updated_at": "2026-04-23T11:05:21Z"
+      "updated_at": "2026-04-23T11:05:21Z",
+      "width": 1080,
+      "height": 2340
     },
     {
       "id": "6c3f8a3d-4d36-46ef-90bd-922b9a51955b",
@@ -36,7 +42,9 @@
       "category": "Gaming",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/spider_man_falling_over_city.jpg",
       "size": 329809,
-      "updated_at": "2025-04-12T17:01:33Z"
+      "updated_at": "2025-04-12T17:01:33Z",
+      "width": 1080,
+      "height": 2338
     },
     {
       "id": "7eafedd3-2d81-47a7-bbd1-0da2941853bf",
@@ -44,7 +52,9 @@
       "category": "Illustration",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/broken_bulb_birds.jpg",
       "size": 26236,
-      "updated_at": "2025-04-02T13:48:39.397712Z"
+      "updated_at": "2025-04-02T13:48:39.397712Z",
+      "width": 736,
+      "height": 1596
     },
     {
       "id": "c3adb493-46bb-46e0-b72c-27b5f33ad42e",
@@ -52,7 +62,9 @@
       "category": "Illustration",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/cute_animals_in_water.jpg",
       "size": 268685,
-      "updated_at": "2026-06-27T12:26:40Z"
+      "updated_at": "2026-06-27T12:26:40Z",
+      "width": 863,
+      "height": 1822
     },
     {
       "id": "dacb829c-f23e-428f-92a0-5c11525dd7b6",
@@ -60,7 +72,9 @@
       "category": "Illustration",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/cute_creatures_under_stars.jpg",
       "size": 182221,
-      "updated_at": "2026-06-27T01:28:49Z"
+      "updated_at": "2026-06-27T01:28:49Z",
+      "width": 864,
+      "height": 1820
     },
     {
       "id": "55c1f4e0-7074-4431-b734-1e88d6a2ffdf",
@@ -68,7 +82,9 @@
       "category": "Landscape",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Landscape/red_boat_dark_canyon.jpg",
       "size": 61299,
-      "updated_at": "2026-06-03T12:21:13Z"
+      "updated_at": "2026-06-03T12:21:13Z",
+      "width": 864,
+      "height": 1536
     },
     {
       "id": "02575ffc-6d9f-40a5-8c3d-6d75175d59ef",
@@ -76,7 +92,9 @@
       "category": "Landscape",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Landscape/red_sky_sand_dune.jpg",
       "size": 120854,
-      "updated_at": "2026-06-03T12:21:28Z"
+      "updated_at": "2026-06-03T12:21:28Z",
+      "width": 1080,
+      "height": 2160
     },
     {
       "id": "2b1e452d-b649-4500-9b7b-cfd30d613cff",
@@ -84,7 +102,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/alice_down_the_rabbit_hole.jpg",
       "size": 191930,
-      "updated_at": "2026-06-26T23:02:08Z"
+      "updated_at": "2026-06-26T23:02:08Z",
+      "width": 864,
+      "height": 1820
     },
     {
       "id": "f59c559e-c3ec-4703-a8a9-fa7af25a014b",
@@ -92,7 +112,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/black_suit_spiderman.jpg",
       "size": 133793,
-      "updated_at": "2026-06-21T13:53:56Z"
+      "updated_at": "2026-06-21T13:53:56Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "3a333cd8-6684-48e7-becd-0261b98b137c",
@@ -100,7 +122,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/boo_and_sulley_peeking.jpg",
       "size": 265939,
-      "updated_at": "2026-02-28T21:32:53Z"
+      "updated_at": "2026-02-28T21:32:53Z",
+      "width": 1080,
+      "height": 1848
     },
     {
       "id": "b11d41b1-4fd4-44d3-ae28-ec8db0a3a359",
@@ -108,7 +132,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/boo_in_bed.jpg",
       "size": 207934,
-      "updated_at": "2026-02-28T21:33:03Z"
+      "updated_at": "2026-02-28T21:33:03Z",
+      "width": 1080,
+      "height": 1848
     },
     {
       "id": "88830071-f4c6-4c45-b011-d944f535ffe3",
@@ -116,7 +142,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/dragons_flying.jpg",
       "size": 132688,
-      "updated_at": "2024-11-23T09:00:00Z"
+      "updated_at": "2024-11-23T09:00:00Z",
+      "width": 1080,
+      "height": 1927
     },
     {
       "id": "ac962486-54fa-493a-9e54-0fd5a89e47a0",
@@ -124,7 +152,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/ghost_rider.jpg",
       "size": 172329,
-      "updated_at": "2026-04-23T11:05:25Z"
+      "updated_at": "2026-04-23T11:05:25Z",
+      "width": 1080,
+      "height": 2377
     },
     {
       "id": "5bf3f906-486a-4940-a313-fce2c087f874",
@@ -132,7 +162,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/happy_boo_standing.jpg",
       "size": 175959,
-      "updated_at": "2026-02-28T21:32:57Z"
+      "updated_at": "2026-02-28T21:32:57Z",
+      "width": 1080,
+      "height": 1848
     },
     {
       "id": "930c44ed-3517-461c-b2e7-c4aa2daeb835",
@@ -140,7 +172,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/hogwarts_magic_silhouette.jpg",
       "size": 64894,
-      "updated_at": "2024-11-18T21:30:31Z"
+      "updated_at": "2024-11-18T21:30:31Z",
+      "width": 740,
+      "height": 1600
     },
     {
       "id": "d41c3ab4-4792-426c-925a-06ded11f21da",
@@ -148,7 +182,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/joker_red_eyes.jpg",
       "size": 217522,
-      "updated_at": "2026-04-23T11:05:23Z"
+      "updated_at": "2026-04-23T11:05:23Z",
+      "width": 1080,
+      "height": 2412
     },
     {
       "id": "110d9524-e7c3-4f8f-9346-0a46122f90d7",
@@ -156,7 +192,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/miles_morales_falling.jpg",
       "size": 241086,
-      "updated_at": "2026-05-18T16:23:44Z"
+      "updated_at": "2026-05-18T16:23:44Z",
+      "width": 1080,
+      "height": 2348
     },
     {
       "id": "b2632975-ce75-463c-b31e-b6df46d2ea32",
@@ -164,7 +202,9 @@
       "category": "Movies",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/sad_sulley_hugging_boo.jpg",
       "size": 178886,
-      "updated_at": "2026-02-28T21:32:59Z"
+      "updated_at": "2026-02-28T21:32:59Z",
+      "width": 1080,
+      "height": 1848
     }
   ]
 }

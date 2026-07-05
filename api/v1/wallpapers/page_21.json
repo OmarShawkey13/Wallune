@@ -12,7 +12,9 @@
       "category": "Comics",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spider_man_city_fall.jpg",
       "size": 222978,
-      "updated_at": "2026-04-07T18:09:16Z"
+      "updated_at": "2026-04-07T18:09:16Z",
+      "width": 1080,
+      "height": 2138
     },
     {
       "id": "a764aff7-d30e-4ad8-a0b3-1ae0588f6121",
@@ -20,7 +22,9 @@
       "category": "Comics",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spiderman_climbing.jpg",
       "size": 338078,
-      "updated_at": "2026-03-10T02:14:40Z"
+      "updated_at": "2026-03-10T02:14:40Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "e5cf6d09-ba3b-4223-ac06-9a05c3f90890",
@@ -28,7 +32,9 @@
       "category": "Comics",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spiderman_defeated.jpg",
       "size": 315112,
-      "updated_at": "2026-04-23T11:05:40Z"
+      "updated_at": "2026-04-23T11:05:40Z",
+      "width": 989,
+      "height": 2160
     },
     {
       "id": "1d36c4e9-003a-44a4-be1f-701e4a7b9719",
@@ -36,7 +42,9 @@
       "category": "Comics",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spiderman_relaxing.jpg",
       "size": 343362,
-      "updated_at": "2026-03-10T02:14:38Z"
+      "updated_at": "2026-03-10T02:14:38Z",
+      "width": 736,
+      "height": 1466
     },
     {
       "id": "2ee35245-9bd7-4d4c-9338-cbca7e5d4cb4",
@@ -44,7 +52,9 @@
       "category": "Comics",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/superman_artistic_portrait.jpg",
       "size": 170487,
-      "updated_at": "2026-04-07T18:09:14Z"
+      "updated_at": "2026-04-07T18:09:14Z",
+      "width": 1080,
+      "height": 1928
     },
     {
       "id": "720f3bba-f3c3-4a57-991f-37058b8df299",
@@ -52,7 +62,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/blue_dragon.jpg",
       "size": 179859,
-      "updated_at": "2026-05-26T03:44:38Z"
+      "updated_at": "2026-05-26T03:44:38Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "443f28e3-d882-4771-ab9a-f41c7e916b44",
@@ -60,7 +72,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fantasy_oriental_tree.jpg",
       "size": 464169,
-      "updated_at": "2026-07-01T01:51:10Z"
+      "updated_at": "2026-07-01T01:51:10Z",
+      "width": 1080,
+      "height": 1927
     },
     {
       "id": "478c5d99-60ca-4119-8a95-a58655446756",
@@ -68,7 +82,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/glowing_eyes_spartan.jpg",
       "size": 334905,
-      "updated_at": "2025-01-08T21:45:57Z"
+      "updated_at": "2025-01-08T21:45:57Z",
+      "width": 1080,
+      "height": 2520
     },
     {
       "id": "b29f9d39-afa8-4594-b4c3-f27270f0999d",
@@ -76,7 +92,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/glowing_roots_tree.jpg",
       "size": 241061,
-      "updated_at": "2026-05-26T01:35:01Z"
+      "updated_at": "2026-05-26T01:35:01Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "b32f23e2-2de4-49af-93cd-0a4d449eac88",
@@ -84,7 +102,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/kneeling_dark_knight.jpg",
       "size": 95367,
-      "updated_at": "2026-02-23T00:15:30Z"
+      "updated_at": "2026-02-23T00:15:30Z",
+      "width": 736,
+      "height": 1294
     },
     {
       "id": "35af4863-bdf6-4d60-a6b9-c86ff440f374",
@@ -92,7 +112,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/purple_angel_warrior.jpg",
       "size": 140372,
-      "updated_at": "2026-02-23T00:15:15Z"
+      "updated_at": "2026-02-23T00:15:15Z",
+      "width": 736,
+      "height": 1586
     },
     {
       "id": "ca8b468f-5237-4c1c-ab93-ace2d2c62122",
@@ -100,7 +122,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_and_black_dragon.jpg",
       "size": 60914,
-      "updated_at": "2026-05-26T03:44:49Z"
+      "updated_at": "2026-05-26T03:44:49Z",
+      "width": 736,
+      "height": 1476
     },
     {
       "id": "62d8168f-4a67-44d0-a39b-a9ce03867416",
@@ -108,7 +132,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_black_knight.jpg",
       "size": 168377,
-      "updated_at": "2026-07-02T20:13:23Z"
+      "updated_at": "2026-07-02T20:13:23Z",
+      "width": 943,
+      "height": 2048
     },
     {
       "id": "cf0e0fd9-2c87-4424-886b-f4a2091eb86e",
@@ -116,7 +142,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_glowing_katana.jpg",
       "size": 152984,
-      "updated_at": "2026-07-03T11:50:04Z"
+      "updated_at": "2026-07-03T11:50:04Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "5fdf7fff-221e-40a3-a42e-b4bc471d88f3",
@@ -124,7 +152,9 @@
       "category": "Fantasy",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/white_dragon_outline.jpg",
       "size": 113624,
-      "updated_at": "2026-05-26T03:44:53Z"
+      "updated_at": "2026-05-26T03:44:53Z",
+      "width": 736,
+      "height": 1476
     },
     {
       "id": "76b527f1-dcbc-498e-9b22-9ab571d6c6c4",
@@ -132,7 +162,9 @@
       "category": "Finance",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Finance/hundred_dollar_bills_roll.jpg",
       "size": 213331,
-      "updated_at": "2026-05-26T09:57:25Z"
+      "updated_at": "2026-05-26T09:57:25Z",
+      "width": 996,
+      "height": 2160
     },
     {
       "id": "d2f7d965-e54a-40ca-9a57-2dd16acbb0d2",
@@ -140,7 +172,9 @@
       "category": "Food",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Food/orange_slices.jpg",
       "size": 282397,
-      "updated_at": "2026-05-26T09:57:28Z"
+      "updated_at": "2026-05-26T09:57:28Z",
+      "width": 996,
+      "height": 2160
     },
     {
       "id": "45dbdc96-2cad-4751-bd9c-48521b0f56c7",
@@ -148,7 +182,9 @@
       "category": "Gaming",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/angry_birds_traffic_light.jpg",
       "size": 150128,
-      "updated_at": "2026-05-26T01:34:29Z"
+      "updated_at": "2026-05-26T01:34:29Z",
+      "width": 1080,
+      "height": 2341
     },
     {
       "id": "6ad1054a-d147-4670-97af-4e1ae4b4d467",
@@ -156,7 +192,9 @@
       "category": "Gaming",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/gta_san_andreas_map.jpg",
       "size": 147607,
-      "updated_at": "2024-10-10T09:25:39Z"
+      "updated_at": "2024-10-10T09:25:39Z",
+      "width": 1080,
+      "height": 2160
     },
     {
       "id": "4df713e9-dcf1-4a63-918b-fea540113db9",
@@ -164,7 +202,9 @@
       "category": "Gaming",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/low_poly_spiderman.jpg",
       "size": 69053,
-      "updated_at": "2026-06-14T23:24:13Z"
+      "updated_at": "2026-06-14T23:24:13Z",
+      "width": 864,
+      "height": 1536
     }
   ]
 }

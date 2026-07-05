@@ -12,7 +12,9 @@
       "category": "Superhero",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superhero/blue_web_spider_man.jpg",
       "size": 142043,
-      "updated_at": "2026-06-05T15:53:22Z"
+      "updated_at": "2026-06-05T15:53:22Z",
+      "width": 736,
+      "height": 1471
     },
     {
       "id": "cb64ef9d-5ac5-475a-abd2-da20c3821f30",
@@ -20,7 +22,9 @@
       "category": "Superhero",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superhero/miles_morales_hoodie.jpg",
       "size": 187603,
-      "updated_at": "2026-06-06T20:15:55Z"
+      "updated_at": "2026-06-06T20:15:55Z",
+      "width": 964,
+      "height": 2091
     },
     {
       "id": "91ef955d-b9ef-4a2d-9c68-245705e23bc6",
@@ -28,7 +32,9 @@
       "category": "Superhero",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superhero/nightwing_logo.jpg",
       "size": 11049,
-      "updated_at": "2026-06-05T15:53:52Z"
+      "updated_at": "2026-06-05T15:53:52Z",
+      "width": 736,
+      "height": 1453
     },
     {
       "id": "bdf83653-9d90-4718-8d29-f964e3f3361a",
@@ -36,7 +42,9 @@
       "category": "Superhero",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superhero/spider_man_peeking.jpg",
       "size": 133528,
-      "updated_at": "2026-06-06T20:15:57Z"
+      "updated_at": "2026-06-06T20:15:57Z",
+      "width": 964,
+      "height": 2091
     },
     {
       "id": "4b3eb0fb-5994-496f-b89c-6b58941c13b5",
@@ -44,7 +52,9 @@
       "category": "Superhero",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superhero/spiderman_hoodie.jpg",
       "size": 82680,
-      "updated_at": "2024-12-03T05:24:34Z"
+      "updated_at": "2024-12-03T05:24:34Z",
+      "width": 1080,
+      "height": 2338
     },
     {
       "id": "d53a9239-e9ca-42c6-bc55-65bfb25e3142",
@@ -52,7 +62,9 @@
       "category": "Superhero",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superhero/the_spider_man_poster.jpg",
       "size": 80952,
-      "updated_at": "2026-06-06T20:15:53Z"
+      "updated_at": "2026-06-06T20:15:53Z",
+      "width": 964,
+      "height": 2086
     },
     {
       "id": "3af481fd-4985-41d6-88dc-a6a495678951",
@@ -60,7 +72,9 @@
       "category": "Superhero",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superhero/torn_spiderman_suit.jpg",
       "size": 136675,
-      "updated_at": "2024-12-26T11:07:46Z"
+      "updated_at": "2024-12-26T11:07:46Z",
+      "width": 554,
+      "height": 1200
     },
     {
       "id": "3c7e9acb-479a-4d9d-8d14-b7a502c280a4",
@@ -68,7 +82,9 @@
       "category": "Superheroes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/glowing_spiderman.jpg",
       "size": 69608,
-      "updated_at": "2026-05-23T12:35:13Z"
+      "updated_at": "2026-05-23T12:35:13Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "50e3c459-0e7b-40af-a86e-9b2985421263",
@@ -76,7 +92,9 @@
       "category": "Superheroes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/iron_fist_silhouette.jpg",
       "size": 28511,
-      "updated_at": "2026-05-23T12:35:30Z"
+      "updated_at": "2026-05-23T12:35:30Z",
+      "width": 736,
+      "height": 1522
     },
     {
       "id": "79750f25-60a0-4748-9f22-cf504ebc4a6a",
@@ -84,7 +102,9 @@
       "category": "Superheroes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/miles_morales_glowing_eyes.jpg",
       "size": 39811,
-      "updated_at": "2026-05-23T12:35:23Z"
+      "updated_at": "2026-05-23T12:35:23Z",
+      "width": 736,
+      "height": 1578
     },
     {
       "id": "7b1cb424-a3e6-465a-81ca-a8c5ed8c9ff3",
@@ -92,7 +112,9 @@
       "category": "Superheroes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/miles_morales_red_suit.jpg",
       "size": 47720,
-      "updated_at": "2026-05-23T12:35:21Z"
+      "updated_at": "2026-05-23T12:35:21Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "e26403cc-01e3-4c97-8b74-075de9952055",
@@ -100,7 +122,9 @@
       "category": "Superheroes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/moon_knight_crescent.jpg",
       "size": 57661,
-      "updated_at": "2026-05-23T12:35:12Z"
+      "updated_at": "2026-05-23T12:35:12Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "4bd60f5d-555d-439a-993b-3c0a1392a9bd",
@@ -108,7 +132,9 @@
       "category": "Superheroes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/silver_spiderman_logo.jpg",
       "size": 29651,
-      "updated_at": "2026-05-29T19:02:30Z"
+      "updated_at": "2026-05-29T19:02:30Z",
+      "width": 864,
+      "height": 1536
     },
     {
       "id": "e9d52db2-d6ec-4556-b9a9-f58dd52ce622",
@@ -116,7 +142,9 @@
       "category": "Technology",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/circuit_board.jpg",
       "size": 54469,
-      "updated_at": "2026-05-26T03:44:42Z"
+      "updated_at": "2026-05-26T03:44:42Z",
+      "width": 736,
+      "height": 1476
     },
     {
       "id": "b5e5ed91-7f25-490e-a8ab-0457a5eb1a1d",
@@ -124,7 +152,9 @@
       "category": "Technology",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/futuristic_light_strip.jpg",
       "size": 53517,
-      "updated_at": "2024-06-28T20:53:27Z"
+      "updated_at": "2024-06-28T20:53:27Z",
+      "width": 998,
+      "height": 2160
     },
     {
       "id": "cca65901-df59-469f-9948-10f62d4c9cf8",
@@ -132,7 +162,9 @@
       "category": "Toys",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Toys/lego_mugshot.jpg",
       "size": 168658,
-      "updated_at": "2026-05-18T16:23:49Z"
+      "updated_at": "2026-05-18T16:23:49Z",
+      "width": 1080,
+      "height": 2348
     },
     {
       "id": "40d66082-9e83-499d-9c12-a6029b4fbaa9",
@@ -140,7 +172,9 @@
       "category": "Travel",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Travel/world_map_outline.jpg",
       "size": 34418,
-      "updated_at": "2026-05-26T03:44:45Z"
+      "updated_at": "2026-05-26T03:44:45Z",
+      "width": 888,
+      "height": 1780
     },
     {
       "id": "a16c0a3d-8533-4e49-9014-544d76f53868",
@@ -148,7 +182,9 @@
       "category": "Typography",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/alone.jpg",
       "size": 13650,
-      "updated_at": "2025-04-02T13:48:36.368230Z"
+      "updated_at": "2025-04-02T13:48:36.368230Z",
+      "width": 736,
+      "height": 1635
     },
     {
       "id": "339a418b-feb1-45ea-977e-c129e32942d8",
@@ -156,7 +192,9 @@
       "category": "Typography",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/always_smile.jpg",
       "size": 50656,
-      "updated_at": "2026-06-11T00:54:30Z"
+      "updated_at": "2026-06-11T00:54:30Z",
+      "width": 1072,
+      "height": 1920
     },
     {
       "id": "331d40ce-8beb-4ae5-b6b5-afaa520e53da",
@@ -164,7 +202,9 @@
       "category": "Typography",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/chinese_calligraphy_text.jpg",
       "size": 474750,
-      "updated_at": "2026-06-27T01:28:43Z"
+      "updated_at": "2026-06-27T01:28:43Z",
+      "width": 864,
+      "height": 1916
     }
   ]
 }

@@ -12,7 +12,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_blossoms_village.jpg",
       "size": 168304,
-      "updated_at": "2026-07-03T11:50:12Z"
+      "updated_at": "2026-07-03T11:50:12Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "5461dd0d-7298-47e5-be67-4dd67376c73e",
@@ -20,7 +22,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_sunset.jpg",
       "size": 83370,
-      "updated_at": "2026-02-23T00:15:23Z"
+      "updated_at": "2026-02-23T00:15:23Z",
+      "width": 564,
+      "height": 1001
     },
     {
       "id": "13a7635e-0984-4bdb-8899-7ffebe66faee",
@@ -28,7 +32,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_town.jpg",
       "size": 33410,
-      "updated_at": "2026-02-23T00:15:19Z"
+      "updated_at": "2026-02-23T00:15:19Z",
+      "width": 512,
+      "height": 1024
     },
     {
       "id": "8088c6ff-a1f0-457c-beb8-21e2f118a6fc",
@@ -36,7 +42,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountains_red_trees.jpg",
       "size": 272882,
-      "updated_at": "2026-03-03T04:29:24Z"
+      "updated_at": "2026-03-03T04:29:24Z",
+      "width": 1080,
+      "height": 1350
     },
     {
       "id": "5a5b9e59-74e3-4054-a101-3148415c700c",
@@ -44,7 +52,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_night_by_the_lake.jpg",
       "size": 125876,
-      "updated_at": "2026-06-20T21:00:39Z"
+      "updated_at": "2026-06-20T21:00:39Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "6b217718-9f5c-413c-bb1a-4341302a23bb",
@@ -52,7 +62,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/stepping_stones_between_mountains_with_red_trees.jpg",
       "size": 155903,
-      "updated_at": "2026-04-27T13:53:25Z"
+      "updated_at": "2026-04-27T13:53:25Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "727efc40-d166-4147-a256-e6ae2c88aeb0",
@@ -60,7 +72,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sun_reflection_on_dark_water.jpg",
       "size": 105369,
-      "updated_at": "2026-04-27T13:53:22Z"
+      "updated_at": "2026-04-27T13:53:22Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "98864583-65c3-4b4c-a306-98688635f748",
@@ -68,7 +82,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunbeams_in_flower_field.jpg",
       "size": 305050,
-      "updated_at": "2026-06-28T14:01:21Z"
+      "updated_at": "2026-06-28T14:01:21Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "c03f8dfc-e028-4c87-be76-b47e225df69f",
@@ -76,7 +92,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunburst_winding_road.jpg",
       "size": 413239,
-      "updated_at": "2026-07-01T12:37:42Z"
+      "updated_at": "2026-07-01T12:37:42Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "bc3584f0-db37-49e0-82b0-ed1a17508853",
@@ -84,7 +102,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunflowers.jpg",
       "size": 158844,
-      "updated_at": "2026-03-03T04:29:34Z"
+      "updated_at": "2026-03-03T04:29:34Z",
+      "width": 1080,
+      "height": 1350
     },
     {
       "id": "9701c3e6-7386-4ba8-ab89-cb61e3209030",
@@ -92,7 +112,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunset_landscape_with_birds.jpg",
       "size": 119060,
-      "updated_at": "2026-05-26T09:57:03Z"
+      "updated_at": "2026-05-26T09:57:03Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "02857fc6-b544-4ec2-bc73-76661f192f82",
@@ -100,7 +122,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunset_landscape_with_birds_bcte3.jpg",
       "size": 119060,
-      "updated_at": "2026-05-26T09:57:03Z"
+      "updated_at": "2026-05-26T09:57:03Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "db3cd6ab-a587-4b1b-997c-a62b57f90fea",
@@ -108,7 +132,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunset_palm_trees.jpg",
       "size": 91456,
-      "updated_at": "2026-04-07T18:08:18Z"
+      "updated_at": "2026-04-07T18:08:18Z",
+      "width": 1080,
+      "height": 1620
     },
     {
       "id": "4ddd0e43-6083-41c6-aaf6-d3465fd1cc58",
@@ -116,7 +142,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunset_path.jpg",
       "size": 181713,
-      "updated_at": "2026-06-28T16:32:43Z"
+      "updated_at": "2026-06-28T16:32:43Z",
+      "width": 864,
+      "height": 1871
     },
     {
       "id": "a4e63281-88af-4da5-a922-32f129f8f1f0",
@@ -124,7 +152,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunset_pier.jpg",
       "size": 133712,
-      "updated_at": "2026-06-27T21:40:46Z"
+      "updated_at": "2026-06-27T21:40:46Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "2ba5f86a-ed71-4e46-a47c-c47906cfcde6",
@@ -132,7 +162,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/tornado_over_road.jpg",
       "size": 112158,
-      "updated_at": "2026-06-22T09:47:59Z"
+      "updated_at": "2026-06-22T09:47:59Z",
+      "width": 864,
+      "height": 1536
     },
     {
       "id": "2d24b886-01ee-47f3-92f5-44f8242ab6d7",
@@ -140,7 +172,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/trees_and_moon.jpg",
       "size": 139887,
-      "updated_at": "2026-05-26T09:54:59Z"
+      "updated_at": "2026-05-26T09:54:59Z",
+      "width": 1080,
+      "height": 2348
     },
     {
       "id": "fce53c72-be8d-4bf7-ae9b-3753d656c839",
@@ -148,7 +182,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/wet_cosmos.jpg",
       "size": 406223,
-      "updated_at": "2026-06-18T00:31:43Z"
+      "updated_at": "2026-06-18T00:31:43Z",
+      "width": 945,
+      "height": 2048
     },
     {
       "id": "e4df339c-1c96-42c5-a12e-93e4df3f7e9f",
@@ -156,7 +192,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/white_cherry_blossoms.jpg",
       "size": 150559,
-      "updated_at": "2026-06-27T17:02:13Z"
+      "updated_at": "2026-06-27T17:02:13Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "810f5b1c-cd05-4691-a20c-8f402ef571d7",
@@ -164,7 +202,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/white_daisy.jpg",
       "size": 174039,
-      "updated_at": "2026-06-27T17:02:07Z"
+      "updated_at": "2026-06-27T17:02:07Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

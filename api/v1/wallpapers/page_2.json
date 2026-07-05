@@ -12,7 +12,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_neon_curves.jpg",
       "size": 30017,
-      "updated_at": "2026-06-05T15:52:47Z"
+      "updated_at": "2026-06-05T15:52:47Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "ff86cbf6-3d2c-4258-9156-122728cd4d68",
@@ -20,7 +22,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_triangle_stone.jpg",
       "size": 280695,
-      "updated_at": "2026-06-01T01:41:20Z"
+      "updated_at": "2026-06-01T01:41:20Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "20847a70-cfaf-49c6-b45b-79b2f0e871ba",
@@ -28,7 +32,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_wavy_abstract.jpg",
       "size": 91380,
-      "updated_at": "2026-05-07T10:07:16Z"
+      "updated_at": "2026-05-07T10:07:16Z",
+      "width": 1179,
+      "height": 2556
     },
     {
       "id": "9b9bdf46-6f6f-48ec-aa18-c0af0d375f0a",
@@ -36,7 +42,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blvck_leather_texture.jpg",
       "size": 187432,
-      "updated_at": "2026-05-26T13:00:37Z"
+      "updated_at": "2026-05-26T13:00:37Z",
+      "width": 720,
+      "height": 1444
     },
     {
       "id": "7806ecf0-e47e-42e6-9b08-92ba40e1cec4",
@@ -44,7 +52,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/butterfly_silhouette_head.jpg",
       "size": 38221,
-      "updated_at": "2025-01-06T10:26:31Z"
+      "updated_at": "2025-01-06T10:26:31Z",
+      "width": 736,
+      "height": 736
     },
     {
       "id": "ae81186a-9f82-44d1-982d-4fec615c1a35",
@@ -52,7 +62,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/celestial_watercolor_butterfly.jpg",
       "size": 139339,
-      "updated_at": "2026-06-25T11:17:00Z"
+      "updated_at": "2026-06-25T11:17:00Z",
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "315b262a-3213-4d97-a177-2c580cea9891",
@@ -60,7 +72,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cloaked_figure_skull.jpg",
       "size": 221969,
-      "updated_at": "2026-04-23T11:05:18Z"
+      "updated_at": "2026-04-23T11:05:18Z",
+      "width": 1080,
+      "height": 2340
     },
     {
       "id": "e589d25b-ce2d-4507-9291-3e0e6be57ec0",
@@ -68,7 +82,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cloaked_figure_skull_gby34.jpg",
       "size": 221969,
-      "updated_at": "2026-04-23T11:05:18Z"
+      "updated_at": "2026-04-23T11:05:18Z",
+      "width": 1080,
+      "height": 2340
     },
     {
       "id": "626dca5a-8805-499e-a657-bac979e75789",
@@ -76,7 +92,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_fluid_blobs.jpg",
       "size": 61707,
-      "updated_at": "2026-04-30T23:23:16Z"
+      "updated_at": "2026-04-30T23:23:16Z",
+      "width": 1080,
+      "height": 1890
     },
     {
       "id": "f887dde3-c869-417f-94ac-678e9dcbbf52",
@@ -84,7 +102,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_liquid_droplets.jpg",
       "size": 368386,
-      "updated_at": "2026-06-01T01:41:27Z"
+      "updated_at": "2026-06-01T01:41:27Z",
+      "width": 980,
+      "height": 1740
     },
     {
       "id": "76798e11-e622-4a4c-92cc-a514dd8a4a82",
@@ -92,7 +112,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/curved_peeling_edge.jpg",
       "size": 414368,
-      "updated_at": "2026-04-25T23:34:21Z"
+      "updated_at": "2026-04-25T23:34:21Z",
+      "width": 998,
+      "height": 2160
     },
     {
       "id": "a56c0662-d92a-4489-a96c-aecb01aff816",
@@ -100,7 +122,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/curved_torn_edge.jpg",
       "size": 297053,
-      "updated_at": "2026-04-25T23:34:23Z"
+      "updated_at": "2026-04-25T23:34:23Z",
+      "width": 998,
+      "height": 2160
     },
     {
       "id": "924e9b88-8e95-4fdf-a299-354a25678cf4",
@@ -108,7 +132,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/danger_tape_pattern.jpg",
       "size": 412239,
-      "updated_at": "2026-05-26T09:56:20Z"
+      "updated_at": "2026-05-26T09:56:20Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "678ea188-4f83-4372-9690-bf8ebcfad277",
@@ -116,7 +142,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_blue_curves.jpg",
       "size": 22341,
-      "updated_at": "2026-06-05T15:53:20Z"
+      "updated_at": "2026-06-05T15:53:20Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "d7a97441-8d18-4a18-9afb-f7032c194898",
@@ -124,7 +152,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_blue_spheres.jpg",
       "size": 27531,
-      "updated_at": "2026-06-05T15:53:41Z"
+      "updated_at": "2026-06-05T15:53:41Z",
+      "width": 736,
+      "height": 1599
     },
     {
       "id": "76ccf1de-e8af-46dc-a92f-58ac981385ff",
@@ -132,7 +162,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_edgy_collage.jpg",
       "size": 193042,
-      "updated_at": "2026-02-23T00:14:44Z"
+      "updated_at": "2026-02-23T00:14:44Z",
+      "width": 720,
+      "height": 1280
     },
     {
       "id": "f2453b66-bacc-4a41-827a-f7f7078a4e3c",
@@ -140,7 +172,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_geometric_pattern.jpg",
       "size": 137134,
-      "updated_at": "2026-06-25T10:19:31Z"
+      "updated_at": "2026-06-25T10:19:31Z",
+      "width": 864,
+      "height": 1871
     },
     {
       "id": "f33f7350-170b-4e3c-a9b6-a57adccc50ba",
@@ -148,7 +182,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_rock_orange_glow.jpg",
       "size": 295975,
-      "updated_at": "2026-07-01T14:17:32Z"
+      "updated_at": "2026-07-01T14:17:32Z",
+      "width": 1170,
+      "height": 2543
     },
     {
       "id": "bbc8bcca-58b1-432a-ae23-22737050fcf0",
@@ -156,7 +192,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/don_t_quit_typography.jpg",
       "size": 37901,
-      "updated_at": "2024-07-12T11:33:02Z"
+      "updated_at": "2024-07-12T11:33:02Z",
+      "width": 1080,
+      "height": 2160
     },
     {
       "id": "11b4c0f7-64d7-4c28-ab3a-fdea85c52893",
@@ -164,7 +202,9 @@
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/falling_into_pink.jpg",
       "size": 39348,
-      "updated_at": "2025-01-06T10:26:17Z"
+      "updated_at": "2025-01-06T10:26:17Z",
+      "width": 640,
+      "height": 800
     }
   ]
 }

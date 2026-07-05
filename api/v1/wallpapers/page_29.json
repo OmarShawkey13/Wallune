@@ -12,7 +12,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winding_mountain_road_night.jpg",
       "size": 164954,
-      "updated_at": "2026-03-03T04:29:16Z"
+      "updated_at": "2026-03-03T04:29:16Z",
+      "width": 1080,
+      "height": 1350
     },
     {
       "id": "626d427a-1c5d-49cd-ac47-46ab1517d337",
@@ -20,7 +22,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winter_forest_sunrise.jpg",
       "size": 115469,
-      "updated_at": "2026-02-23T00:15:28Z"
+      "updated_at": "2026-02-23T00:15:28Z",
+      "width": 564,
+      "height": 1001
     },
     {
       "id": "470a3b88-14fe-494b-81d6-e31bc780975a",
@@ -28,7 +32,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winter_sunset_tree.jpg",
       "size": 306806,
-      "updated_at": "2026-04-07T18:15:29Z"
+      "updated_at": "2026-04-07T18:15:29Z",
+      "width": 1080,
+      "height": 2340
     },
     {
       "id": "5103fb87-4b6a-40ff-b0e8-1f1d384594f9",
@@ -36,7 +42,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/wisteria_sunset_balcony.jpg",
       "size": 175481,
-      "updated_at": "2026-07-01T12:37:46Z"
+      "updated_at": "2026-07-01T12:37:46Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "6117a3b8-837c-4650-aed5-1392c1258d3b",
@@ -44,7 +52,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/yellow_blossoms.jpg",
       "size": 233487,
-      "updated_at": "2026-06-18T00:31:50Z"
+      "updated_at": "2026-06-18T00:31:50Z",
+      "width": 736,
+      "height": 1595
     },
     {
       "id": "aa157fa8-e36f-46e8-b29f-c0421e0677ff",
@@ -52,7 +62,9 @@
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/yellow_tree_blue_water.jpg",
       "size": 223707,
-      "updated_at": "2026-06-30T12:22:59Z"
+      "updated_at": "2026-06-30T12:22:59Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "13d6f355-f702-4c83-85a9-1d5d35fdf7f8",
@@ -60,7 +72,9 @@
       "category": "People",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/blindfolded_girl.jpg",
       "size": 98839,
-      "updated_at": "2026-04-23T11:05:14Z"
+      "updated_at": "2026-04-23T11:05:14Z",
+      "width": 996,
+      "height": 2160
     },
     {
       "id": "d49275a6-ea4f-40a0-a919-51d7d8c8dc25",
@@ -68,7 +82,9 @@
       "category": "People",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/holding_hands_at_sunset.jpg",
       "size": 86674,
-      "updated_at": "2023-07-06T21:42:43Z"
+      "updated_at": "2023-07-06T21:42:43Z",
+      "width": 640,
+      "height": 640
     },
     {
       "id": "ffe6d942-17a0-4683-a0f6-16893016be1a",
@@ -76,7 +92,9 @@
       "category": "People",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/lonely_soccer_field.jpg",
       "size": 84852,
-      "updated_at": "2026-06-20T21:00:36Z"
+      "updated_at": "2026-06-20T21:00:36Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "4ea5b0d4-12bc-4e2b-8f12-35687a3f59af",
@@ -84,7 +102,9 @@
       "category": "People",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/night_train_station.jpg",
       "size": 104689,
-      "updated_at": "2026-06-20T21:00:41Z"
+      "updated_at": "2026-06-20T21:00:41Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "b62f4691-361d-48f4-84a7-40efc1c64d0c",
@@ -92,7 +112,9 @@
       "category": "Pop_Culture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/batman_toy.jpg",
       "size": 73568,
-      "updated_at": "2026-05-26T03:44:14Z"
+      "updated_at": "2026-05-26T03:44:14Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "621c0040-e57e-48bc-a442-e8487b2d1c04",
@@ -100,7 +122,9 @@
       "category": "Pop_Culture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/captain_america_toy.jpg",
       "size": 82598,
-      "updated_at": "2026-05-26T03:44:29Z"
+      "updated_at": "2026-05-26T03:44:29Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "a30c91d5-07db-4659-ad86-af9322797bf0",
@@ -108,7 +132,9 @@
       "category": "Pop_Culture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/mickey_mouse_toy.jpg",
       "size": 84551,
-      "updated_at": "2026-05-26T03:44:22Z"
+      "updated_at": "2026-05-26T03:44:22Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "e22980a4-ca8d-470f-843b-bbb25ec715e2",
@@ -116,7 +142,9 @@
       "category": "Pop_Culture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/spider_man_city.jpg",
       "size": 562436,
-      "updated_at": "2026-05-26T09:57:11Z"
+      "updated_at": "2026-05-26T09:57:11Z",
+      "width": 996,
+      "height": 2160
     },
     {
       "id": "1174c6d9-41db-4b47-a42a-ece7aa7f0762",
@@ -124,7 +152,9 @@
       "category": "Pop_Culture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/thor_toy.jpg",
       "size": 84925,
-      "updated_at": "2026-05-26T03:44:19Z"
+      "updated_at": "2026-05-26T03:44:19Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "d34386e6-7f08-4c1d-bc0f-5a351b95f65f",
@@ -132,7 +162,9 @@
       "category": "Quotes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/be_different.jpg",
       "size": 34471,
-      "updated_at": "2026-06-30T18:58:19Z"
+      "updated_at": "2026-06-30T18:58:19Z",
+      "width": 864,
+      "height": 1152
     },
     {
       "id": "7dbf694f-b21d-41ee-add2-90aa19690514",
@@ -140,7 +172,9 @@
       "category": "Quotes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/grindset_quote.jpg",
       "size": 52076,
-      "updated_at": "2026-06-30T18:58:22Z"
+      "updated_at": "2026-06-30T18:58:22Z",
+      "width": 864,
+      "height": 1151
     },
     {
       "id": "71487a1d-3cea-4d47-afcd-c0e2b6f1a894",
@@ -148,7 +182,9 @@
       "category": "Quotes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/love_what_you_do.jpg",
       "size": 138507,
-      "updated_at": "2026-06-30T18:58:18Z"
+      "updated_at": "2026-06-30T18:58:18Z",
+      "width": 864,
+      "height": 1152
     },
     {
       "id": "1cbf21ba-6df6-4be8-bc48-91128616525b",
@@ -156,7 +192,9 @@
       "category": "Quotes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/mindset_is_the_key.jpg",
       "size": 15434,
-      "updated_at": "2026-06-30T18:58:21Z"
+      "updated_at": "2026-06-30T18:58:21Z",
+      "width": 864,
+      "height": 1152
     },
     {
       "id": "8890d061-e181-47e4-92d3-47133d12cd2b",
@@ -164,7 +202,9 @@
       "category": "Quotes",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/never_give_up.jpg",
       "size": 42946,
-      "updated_at": "2026-06-30T18:58:13Z"
+      "updated_at": "2026-06-30T18:58:13Z",
+      "width": 864,
+      "height": 1152
     }
   ]
 }

@@ -12,7 +12,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_balcony_storm.jpg",
       "size": 249306,
-      "updated_at": "2025-02-16T11:39:50Z"
+      "updated_at": "2025-02-16T11:39:50Z",
+      "width": 1080,
+      "height": 1900
     },
     {
       "id": "453e88d9-4270-4b37-8e7f-a4425f0009a4",
@@ -20,7 +22,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_beach_with_glowing_waves_at_night.jpg",
       "size": 174809,
-      "updated_at": "2026-04-27T13:53:29Z"
+      "updated_at": "2026-04-27T13:53:29Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "9c8e8f65-d43a-4c5a-a606-d23be3784ab8",
@@ -28,7 +32,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_city_crossing.jpg",
       "size": 131002,
-      "updated_at": "2026-06-05T14:04:22Z"
+      "updated_at": "2026-06-05T14:04:22Z",
+      "width": 864,
+      "height": 486
     },
     {
       "id": "bfb4208a-d675-47b6-b07d-68bba3a95a19",
@@ -36,7 +42,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_city_milky_way.jpg",
       "size": 292110,
-      "updated_at": "2025-02-16T11:39:59Z"
+      "updated_at": "2025-02-16T11:39:59Z",
+      "width": 1080,
+      "height": 1900
     },
     {
       "id": "36e867e1-1773-4a0d-b18b-1bf7725ecc3b",
@@ -44,7 +52,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_city_over_water_at_night.jpg",
       "size": 236651,
-      "updated_at": "2026-04-27T13:53:07Z"
+      "updated_at": "2026-04-27T13:53:07Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "cc5641ad-ea2a-4223-a82a-4df2534b5f8d",
@@ -52,7 +62,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_city_street.jpg",
       "size": 163436,
-      "updated_at": "2026-06-05T14:04:14Z"
+      "updated_at": "2026-06-05T14:04:14Z",
+      "width": 864,
+      "height": 648
     },
     {
       "id": "206ab983-aac1-492a-9973-6ca780c45184",
@@ -60,7 +72,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_cityscape.jpg",
       "size": 272221,
-      "updated_at": "2026-06-05T14:04:12Z"
+      "updated_at": "2026-06-05T14:04:12Z",
+      "width": 864,
+      "height": 1872
     },
     {
       "id": "f7324d55-2120-4a99-bf50-699e59e87e17",
@@ -68,7 +82,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_girl_car.jpg",
       "size": 138446,
-      "updated_at": "2026-05-15T23:58:16Z"
+      "updated_at": "2026-05-15T23:58:16Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "b773e8d5-5261-4182-8ac6-ac1dab383e58",
@@ -76,7 +92,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_girl_facing_dragon_under_pink_trees.jpg",
       "size": 148809,
-      "updated_at": "2026-04-27T13:53:31Z"
+      "updated_at": "2026-04-27T13:53:31Z",
+      "width": 675,
+      "height": 1200
     },
     {
       "id": "53b746a1-f334-45d7-8fe2-2d94f782970f",
@@ -84,7 +102,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_girl_facing_red_dragon.jpg",
       "size": 150171,
-      "updated_at": "2026-04-27T13:53:13Z"
+      "updated_at": "2026-04-27T13:53:13Z",
+      "width": 736,
+      "height": 1310
     },
     {
       "id": "d3f93826-9dff-4e2f-a114-0dd67ef63171",
@@ -92,7 +112,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_house_lake_stars.jpg",
       "size": 461366,
-      "updated_at": "2025-02-16T11:40:07Z"
+      "updated_at": "2025-02-16T11:40:07Z",
+      "width": 1080,
+      "height": 1853
     },
     {
       "id": "963d88f9-baa8-40dc-ae4b-e47928820ec6",
@@ -100,7 +122,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_mountain_lake_split_view.jpg",
       "size": 215562,
-      "updated_at": "2026-04-27T13:53:27Z"
+      "updated_at": "2026-04-27T13:53:27Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "04b14b43-9b05-4a6a-911c-ef8feff28d67",
@@ -108,7 +132,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_night_clouds.jpg",
       "size": 103672,
-      "updated_at": "2024-12-28T21:55:41Z"
+      "updated_at": "2024-12-28T21:55:41Z",
+      "width": 1024,
+      "height": 2048
     },
     {
       "id": "06237a5f-cb51-40e0-b984-d80df8b0f99b",
@@ -116,7 +142,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_night_sky_moon.jpg",
       "size": 208053,
-      "updated_at": "2025-02-16T11:39:45Z"
+      "updated_at": "2025-02-16T11:39:45Z",
+      "width": 1080,
+      "height": 1899
     },
     {
       "id": "c7d9dd3a-98a3-4625-b2c9-590cb2d72ed1",
@@ -124,7 +152,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_path_lake_sky.jpg",
       "size": 454089,
-      "updated_at": "2025-02-16T11:40:09Z"
+      "updated_at": "2025-02-16T11:40:09Z",
+      "width": 1080,
+      "height": 1853
     },
     {
       "id": "8f7eb0f6-b7fa-44ed-a02c-123ac50c0f3b",
@@ -132,7 +162,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_rainy_road.jpg",
       "size": 348777,
-      "updated_at": "2026-07-01T12:37:50Z"
+      "updated_at": "2026-07-01T12:37:50Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "71498000-6f66-403a-a57c-64c754a88d01",
@@ -140,7 +172,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_street_night.jpg",
       "size": 217822,
-      "updated_at": "2026-05-08T02:35:59Z"
+      "updated_at": "2026-05-08T02:35:59Z",
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "80443a97-a5ff-4572-abd2-f73a58c3240e",
@@ -148,7 +182,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_street_scene.jpg",
       "size": 462461,
-      "updated_at": "2026-06-28T14:01:27Z"
+      "updated_at": "2026-06-28T14:01:27Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "17d0c9ca-4d21-48ad-a93b-dc470b982d13",
@@ -156,7 +192,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_sunset_pink_clouds.jpg",
       "size": 301452,
-      "updated_at": "2025-02-16T11:40:01Z"
+      "updated_at": "2025-02-16T11:40:01Z",
+      "width": 1080,
+      "height": 1900
     },
     {
       "id": "8bdb78a9-2058-4a6c-8457-fe713b6641d0",
@@ -164,7 +202,9 @@
       "category": "Anime",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_village_street_at_night.jpg",
       "size": 145362,
-      "updated_at": "2026-04-27T13:53:16Z"
+      "updated_at": "2026-04-27T13:53:16Z",
+      "width": 736,
+      "height": 1313
     }
   ]
 }

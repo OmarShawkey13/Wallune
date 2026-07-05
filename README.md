@@ -2,18 +2,19 @@
 
 This script generates a static JSON-based backend for the Wallune wallpaper application, hosted entirely on GitHub. It traverses subdirectories inside the `images` folder (which act as categories), extracts human-readable titles from the filenames, and creates a highly-optimized set of API files designed specifically for a Flutter app to consume efficiently.
 
-## Features
+## 🚀 Features That Make This The Best Flutter API
 
+- **Native Image Dimension Extraction**: The script reads binary headers to extract image `width` and `height` for JPG, PNG, and WebP files *without any external libraries*. This prevents layout jumps in Flutter and perfectly supports `flutter_staggered_grid_view`.
+- **Auto-Generated Dart Models**: Automatically generates a `models.dart` file inside your API folder containing `json_serializable`-ready models. Zero manual parsing required!
 - **Paginated API**: Automatically chunks wallpapers into `page_X.json` files for fast, efficient fetching and infinite scrolling in Flutter.
 - **Search Index**: Generates a lightweight, minified `search_index.json` to allow rapid client-side search filtering.
 - **Metadata Generation**: Calculates file sizes and `updated_at` timestamps for precise app caching logic.
 - **Persistent UUIDs**: Matches URLs with previous API builds to ensure image IDs never change, keeping user favorites intact.
-- **Categorization**: Outputs category overviews with cover images and item counts.
 
 ## Prerequisites
 
 - **Python 3**: Ensure you have Python installed (`python` or `py`). 
-- **No external dependencies**: The script only uses standard Python libraries (`os`, `uuid`, `json`, `urllib`).
+- **No external dependencies**: The script only uses standard Python libraries (`os`, `uuid`, `json`, `urllib`, `struct`).
 
 ## Setup & Usage
 
@@ -50,6 +51,7 @@ This script generates a static JSON-based backend for the Wallune wallpaper appl
      api/v1/
      ├── search_index.json
      ├── categories.json
+     ├── models.dart          <-- Use this directly in your Flutter App!
      └── wallpapers/
          ├── page_1.json
          ├── page_2.json
@@ -57,10 +59,15 @@ This script generates a static JSON-based backend for the Wallune wallpaper appl
      ```
 
 5. **Consume in Flutter**:
-   You can fetch these directly from GitHub using the Raw URL format.
-   For example, to fetch page 1:
+   Copy `api/v1/models.dart` into your Flutter app's `lib/models/` folder.
+   You can fetch pages directly from GitHub using the Raw URL format:
    ```dart
+   import 'models.dart';
+   import 'package:http/http.dart' as http;
+   import 'dart:convert';
+
    final response = await http.get(Uri.parse('https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/wallpapers/page_1.json'));
+   final paginatedData = PaginatedResponse.fromJson(json.decode(response.body));
    ```
 
 6. **Host on GitHub**:

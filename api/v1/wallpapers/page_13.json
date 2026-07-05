@@ -12,7 +12,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/ferris_wheel_silhouette.jpg",
       "size": 72652,
-      "updated_at": "2026-05-26T01:33:36Z"
+      "updated_at": "2026-05-26T01:33:36Z",
+      "width": 736,
+      "height": 1476
     },
     {
       "id": "a9b0a4f7-58c0-4536-8d42-9583b23f1cae",
@@ -20,7 +22,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/glowing_path_to_house.jpg",
       "size": 178091,
-      "updated_at": "2026-06-21T10:07:31Z"
+      "updated_at": "2026-06-21T10:07:31Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "058d35e6-edc0-4eac-817b-588e60dc7726",
@@ -28,7 +32,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/golden_gate_night.jpg",
       "size": 63630,
-      "updated_at": "2026-06-05T15:53:30Z"
+      "updated_at": "2026-06-05T15:53:30Z",
+      "width": 736,
+      "height": 1594
     },
     {
       "id": "3b3e4a8e-de86-4948-b00f-dc6e1c92aa01",
@@ -36,7 +42,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/green_door_with_ivy.jpg",
       "size": 245413,
-      "updated_at": "2026-06-27T17:02:20Z"
+      "updated_at": "2026-06-27T17:02:20Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "60d99568-6139-4d00-872b-f947ba421225",
@@ -44,7 +52,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/infinity_pool_by_ocean.jpg",
       "size": 109720,
-      "updated_at": "2026-06-25T22:19:11Z"
+      "updated_at": "2026-06-25T22:19:11Z",
+      "width": 736,
+      "height": 1307
     },
     {
       "id": "0f50b056-9e9e-4a76-88ef-5a3006d020ce",
@@ -52,7 +62,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/jungle_hut_at_night.jpg",
       "size": 246134,
-      "updated_at": "2026-06-21T10:07:15Z"
+      "updated_at": "2026-06-21T10:07:15Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "d8ec9416-aef8-48bd-9d21-df5185fe861a",
@@ -60,7 +72,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/modern_pillar_structure.jpg",
       "size": 79304,
-      "updated_at": "2026-04-25T23:34:36Z"
+      "updated_at": "2026-04-25T23:34:36Z",
+      "width": 1080,
+      "height": 1620
     },
     {
       "id": "73344f92-ba34-4063-99b5-2009c4974cf0",
@@ -68,7 +82,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/orange_field_house.jpg",
       "size": 297144,
-      "updated_at": "2026-06-21T10:07:34Z"
+      "updated_at": "2026-06-21T10:07:34Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "825f64a5-7c0b-4c26-b99a-d1006f019af5",
@@ -76,7 +92,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/ornate_architecture_clouds.jpg",
       "size": 334490,
-      "updated_at": "2026-06-25T17:31:35Z"
+      "updated_at": "2026-06-25T17:31:35Z",
+      "width": 996,
+      "height": 2160
     },
     {
       "id": "61492d32-9980-4967-9cd7-34cd06f0dfbf",
@@ -84,7 +102,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/pink_cyberpunk_street.jpg",
       "size": 280819,
-      "updated_at": "2026-02-23T00:15:00Z"
+      "updated_at": "2026-02-23T00:15:00Z",
+      "width": 736,
+      "height": 1586
     },
     {
       "id": "5afea895-8125-45e2-a0e5-e803245b1ba7",
@@ -92,7 +112,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/prophets_mosque_archway.jpg",
       "size": 139390,
-      "updated_at": "2025-01-14T15:44:59Z"
+      "updated_at": "2025-01-14T15:44:59Z",
+      "width": 1080,
+      "height": 2124
     },
     {
       "id": "7aaa1660-eb05-4ed8-9c1e-90497122e7c2",
@@ -100,7 +122,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/rainy_cityscape.jpg",
       "size": 376327,
-      "updated_at": "2024-07-30T12:22:23Z"
+      "updated_at": "2024-07-30T12:22:23Z",
+      "width": 993,
+      "height": 2160
     },
     {
       "id": "d6d35dee-9477-4af4-85eb-ac137a35b6f2",
@@ -108,7 +132,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/rainy_vintage_street.jpg",
       "size": 447488,
-      "updated_at": "2026-04-25T23:33:46Z"
+      "updated_at": "2026-04-25T23:33:46Z",
+      "width": 1080,
+      "height": 1927
     },
     {
       "id": "ef064d68-7fb2-4676-8ce8-7a5a7ebb7e49",
@@ -116,7 +142,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/red_street_lamp_and_blossoms.jpg",
       "size": 130836,
-      "updated_at": "2026-06-27T17:02:02Z"
+      "updated_at": "2026-06-27T17:02:02Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "6c879be1-8a8d-45c9-9c5a-062974521693",
@@ -124,7 +152,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/red_torii_gates_reflecting_on_water.jpg",
       "size": 188198,
-      "updated_at": "2026-04-27T13:53:33Z"
+      "updated_at": "2026-04-27T13:53:33Z",
+      "width": 736,
+      "height": 1310
     },
     {
       "id": "92d89f37-4dca-41a3-8393-af52c7e4edfa",
@@ -132,7 +162,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/smoky_classic_chandelier.jpg",
       "size": 372454,
-      "updated_at": "2026-05-26T01:33:53Z"
+      "updated_at": "2026-05-26T01:33:53Z",
+      "width": 1080,
+      "height": 2395
     },
     {
       "id": "f3d72a1c-6c87-47f5-ad9a-43b81b626e72",
@@ -140,7 +172,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/white_santorini_architecture.jpg",
       "size": 97416,
-      "updated_at": "2026-06-25T22:19:18Z"
+      "updated_at": "2026-06-25T22:19:18Z",
+      "width": 736,
+      "height": 1313
     },
     {
       "id": "036ee6a2-5032-4efa-9353-26c08fb13e0a",
@@ -148,7 +182,9 @@
       "category": "Architecture",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/yellow_house_on_rocks.jpg",
       "size": 180850,
-      "updated_at": "2026-06-22T09:47:57Z"
+      "updated_at": "2026-06-22T09:47:57Z",
+      "width": 864,
+      "height": 1916
     },
     {
       "id": "c010f0e2-2c58-4dcb-b209-1250eddaf568",
@@ -156,7 +192,9 @@
       "category": "Art",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/cat_stack.jpg",
       "size": 286848,
-      "updated_at": "2026-06-28T16:33:12Z"
+      "updated_at": "2026-06-28T16:33:12Z",
+      "width": 864,
+      "height": 1878
     },
     {
       "id": "48bbae1a-2ec0-4023-b8a9-48ca545f1d61",
@@ -164,7 +202,9 @@
       "category": "Art",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/colored_pencils.jpg",
       "size": 56258,
-      "updated_at": "2025-04-02T13:48:57.128995Z"
+      "updated_at": "2025-04-02T13:48:57.128995Z",
+      "width": 736,
+      "height": 1308
     }
   ]
 }
