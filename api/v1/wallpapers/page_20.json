@@ -7,46 +7,6 @@
   "has_prev": true,
   "data": [
     {
-      "id": "d12b2b4a-1863-40c2-ae77-ab55dedb87c7",
-      "title": "Gumball And Darwin In Bed",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/gumball_and_darwin_in_bed.jpg",
-      "size": 184009,
-      "updated_at": "2026-06-27T12:26:29Z",
-      "width": 864,
-      "height": 1820
-    },
-    {
-      "id": "b05414c6-2f64-46d6-9eba-be1f16794e67",
-      "title": "Gumball And Skyline",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/gumball_and_skyline.jpg",
-      "size": 159448,
-      "updated_at": "2026-06-26T23:02:02Z",
-      "width": 864,
-      "height": 1820
-    },
-    {
-      "id": "ba643156-1dc1-415d-98b3-404f30b39751",
-      "title": "Ice Bear In New York",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/ice_bear_in_new_york.jpg",
-      "size": 159649,
-      "updated_at": "2026-06-26T23:01:54Z",
-      "width": 864,
-      "height": 1820
-    },
-    {
-      "id": "7f3a0c60-3537-4232-82fc-240f71781ed9",
-      "title": "Mulan Climbing Pole",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/mulan_climbing_pole.jpg",
-      "size": 61786,
-      "updated_at": "2026-06-26T23:02:05Z",
-      "width": 864,
-      "height": 1820
-    },
-    {
       "id": "e60704e7-5eb9-49fb-91eb-7a746c8ba5b3",
       "title": "Squidward And Mr Krabs",
       "category": "Cartoons",
@@ -55,6 +15,16 @@
       "updated_at": "2026-06-26T23:01:59Z",
       "width": 864,
       "height": 1820
+    },
+    {
+      "id": "ba4509b0-2334-412a-8f60-1b6ba919c8e0",
+      "title": "Stitch And Butterfly",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_and_butterfly.jpg",
+      "size": 20851,
+      "updated_at": "2026-03-15T22:56:28Z",
+      "width": 675,
+      "height": 1200
     },
     {
       "id": "a1c8cc07-e7a6-4528-a4e2-e1d315f94f73",
@@ -67,6 +37,26 @@
       "height": 2098
     },
     {
+      "id": "2c862d80-519f-47f6-82fb-763749c29b98",
+      "title": "Stitch Holding Sign",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_holding_sign.jpg",
+      "size": 27029,
+      "updated_at": "2026-03-15T22:56:53Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "03cc7953-4dd7-4a60-a537-f063d05d05db",
+      "title": "Stitch With Heart",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_with_heart.jpg",
+      "size": 28194,
+      "updated_at": "2026-03-15T22:56:48Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
       "id": "9a8bb70a-1a51-41b2-b819-5ee1f3584f5d",
       "title": "Three Happy Cats",
       "category": "Cartoons",
@@ -75,6 +65,16 @@
       "updated_at": "2026-05-26T03:44:11Z",
       "width": 736,
       "height": 1593
+    },
+    {
+      "id": "899a27d5-5488-41e7-80a0-026c5ce5ef29",
+      "title": "Upside Down Stitch",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/upside_down_stitch.jpg",
+      "size": 21126,
+      "updated_at": "2026-03-15T22:56:40Z",
+      "width": 675,
+      "height": 1200
     },
     {
       "id": "730c8f0f-f21d-440a-ada7-3fcd1f932e1d",

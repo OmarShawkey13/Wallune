@@ -45,13 +45,8 @@
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/aston_martin_f1_rear.jpg"
   },
   {
-    "name": "Cartoon",
-    "count": 14,
-    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoon/angry_birds_peeking.jpg"
-  },
-  {
     "name": "Cartoons",
-    "count": 20,
+    "count": 34,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/angel_pink_background.jpg"
   },
   {
@@ -145,14 +140,9 @@
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sports/champions_league_logo.jpg"
   },
   {
-    "name": "Superhero",
-    "count": 8,
-    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superhero/blue_neon_spider.jpg"
-  },
-  {
     "name": "Superheroes",
-    "count": 6,
-    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/glowing_spiderman.jpg"
+    "count": 14,
+    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/blue_neon_spider.jpg"
   },
   {
     "name": "Technology",
