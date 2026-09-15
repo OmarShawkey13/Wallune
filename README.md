@@ -1,74 +1,186 @@
-# Wallune Static API Generator
+# Wallune Static Backend
 
-This script generates a static JSON-based backend for the Wallune wallpaper application, hosted entirely on GitHub. It traverses subdirectories inside the `images` folder (which act as categories), extracts human-readable titles from the filenames, and creates a highly-optimized set of API files designed specifically for a Flutter app to consume efficiently.
+This repository is the production content backend for the Wallune Flutter wallpaper application.
 
-## 🚀 Features That Make This The Best Flutter API
+It is intentionally static:
 
-- **Native Image Dimension Extraction**: The script reads binary headers to extract image `width` and `height` for JPG, PNG, and WebP files *without any external libraries*. This prevents layout jumps in Flutter and perfectly supports `flutter_staggered_grid_view`.
-- **Auto-Generated Dart Models**: Automatically generates a `models.dart` file inside your API folder containing `json_serializable`-ready models. Zero manual parsing required!
-- **Paginated API**: Automatically chunks wallpapers into `page_X.json` files for fast, efficient fetching and infinite scrolling in Flutter.
-- **Search Index**: Generates a lightweight, minified `search_index.json` to allow rapid client-side search filtering.
-- **Metadata Generation**: Calculates file sizes and `updated_at` timestamps for precise app caching logic.
-- **Persistent UUIDs**: Matches URLs with previous API builds to ensure image IDs never change, keeping user favorites intact.
+~~~
+Flutter application
+       |
+       +--> GitHub Raw JSON API
+       |
+       +--> GitHub Raw wallpaper images
+~~~
 
-## Prerequisites
+There is no backend server, database, authentication layer, AWS dependency, or runtime API. GitHub serves the committed images and generated JSON files.
 
-- **Python 3**: Ensure you have Python installed (`python` or `py`). 
-- **No external dependencies**: The script only uses standard Python libraries (`os`, `uuid`, `json`, `urllib`, `struct`).
+## Repository identity
 
-## Setup & Usage
+- GitHub owner: OmarShawkey13
+- Repository: Wallune
+- Branch: main
+- Raw base URL: https://raw.githubusercontent.com/OmarShawkey13/Wallune/main
 
-1. **Create your Image Directories**:
-   In the same directory as the script, ensure there is an `images` folder. Inside `images`, subfolders dictate the categories. Place your wallpapers in these subfolders.
-   
-   ```text
-   D:\wallpaper_backend\
-   ├── images/
-   │   ├── Nature/
-   │   │   ├── snowy_mountain_sunset.jpg
-   │   │   └── autumn_forest.png
-   │   ├── Cars/
-   │   │   ├── red_sportscar.jpg
-   │   └── Abstract/
-   │       └── glass_chain.webp
-   └── generate_api.py
-   ```
+The generator is configured with this identity in generate_api.py. Every generated image_url, category cover, and API URL must use the same owner, repository, and branch.
 
-2. **Verify Configuration**:
-   The script is pre-configured with your GitHub details (`OmarShawkey13/Wallune`, branch `main`). If you ever change your username or repository name, update the constants at the top of `generate_api.py`.
+## Layout
 
-3. **Run the Script**:
-   Run the Python script from your terminal:
-   ```bash
-   py generate_api.py
-   ```
+~~~
+images/
+  Nature/
+    snowy_mountain_sunset.jpg
+  Cars/
+    red_bmw_front.jpg
 
-4. **Check Output**:
-   - The script cleans up filenames to use as titles.
-   - Outputs the traditional monolithic JSON files (`wallpapers.json`, `categories.json`).
-   - Generates the optimized V1 API folder:
-     ```text
-     api/v1/
-     ├── search_index.json
-     ├── categories.json
-     ├── models.dart          <-- Use this directly in your Flutter App!
-     └── wallpapers/
-         ├── page_1.json
-         ├── page_2.json
-         └── ...
-     ```
+api/v1/
+  config.json
+  categories.json
+  search_index.json
+  wallpaper_ids.json
+  models.dart
+  wallpapers/
+    page_1.json
+    page_2.json
+    ...
 
-5. **Consume in Flutter**:
-   Copy `api/v1/models.dart` into your Flutter app's `lib/models/` folder.
-   You can fetch pages directly from GitHub using the Raw URL format:
-   ```dart
-   import 'models.dart';
-   import 'package:http/http.dart' as http;
-   import 'dart:convert';
+generate_api.py
+tests/
+  test_generate_api.py
+~~~
 
-   final response = await http.get(Uri.parse('https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/wallpapers/page_1.json'));
-   final paginatedData = PaginatedResponse.fromJson(json.decode(response.body));
-   ```
+Each direct folder under images is a category. Supported image extensions are .jpg, .jpeg, .png, and .webp.
 
-6. **Host on GitHub**:
-   Commit and push your changes (the `images` folder, `api` folder, and monolithic JSONs) to your GitHub repository. Your Flutter app can immediately utilize the latest APIs via their Raw URLs.
+## Static endpoints
+
+Set this base URL in the Flutter client:
+
+~~~
+https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1
+~~~
+
+| Endpoint | Purpose |
+| --- | --- |
+| /config.json | API version, content version, totals, and generation time |
+| /categories.json | Category names, counts, and valid cover URLs |
+| /search_index.json | Local search records with display metadata |
+| /wallpapers/page_N.json | Paginated canonical wallpaper records |
+
+A page has this shape:
+
+~~~json
+{
+  "page": 1,
+  "total_pages": 34,
+  "total_items": 674,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": false,
+  "data": []
+}
+~~~
+
+Each wallpaper in data contains id, title, category, image_url, size, updated_at, width, and height. The search index contains the same lightweight fields, so a search result can be displayed without fetching another page. The generated models.dart file also includes ApiConfig for config.json.
+
+## Configuration and versions
+
+config.json contains:
+
+~~~json
+{
+  "api_version": 1,
+  "content_version": 1,
+  "total_items": 674,
+  "total_pages": 34,
+  "items_per_page": 20,
+  "generated_at": "2026-09-15T10:30:45Z",
+  "catalog_hash": "..."
+}
+~~~
+
+api_version identifies the JSON schema. content_version is retained when the catalog semantics are unchanged and incremented when the catalog changes. catalog_hash is the deterministic catalog fingerprint used to make that decision. generated_at is always a real UTC timestamp.
+
+## Stable IDs
+
+The generated wallpaper IDs are persisted in api/v1/wallpaper_ids.json. A record stores:
+
+- a UUID
+- a SHA-256 hash of the image bytes
+- historical relative-path aliases
+- a retired flag
+
+On the first hardened generation, existing page files are migrated into this metadata file so current Flutter favorites keep their IDs. The image content hash is independent of the GitHub repository, branch, URL encoding, category, and filename. Path aliases and deterministic duplicate matching distinguish equal image bytes in different categories.
+
+Retired records remain as tombstones and are never assigned to a newly introduced image. A new image receives a new UUID. Do not delete wallpaper_ids.json.
+
+## Generate and validate
+
+Use Python 3 from the repository root:
+
+~~~bash
+python generate_api.py
+~~~
+
+Windows users can also use:
+
+~~~bash
+py generate_api.py
+~~~
+
+Generation:
+
+1. reads supported files under images;
+2. extracts positive dimensions and file sizes;
+3. assigns or preserves stable IDs;
+4. sorts records by category, title, and URL;
+5. writes exactly the required page_*.json files;
+6. writes categories, search index, ID metadata, config, and models.dart;
+7. validates all cross-file invariants before and after writing.
+
+Only files named page_<number>.json are removed during stale-page cleanup. Unrelated files in api/v1/wallpapers are left alone. If there are no images, total_pages is zero and no page files are generated.
+
+## Adding or removing wallpapers
+
+1. Put the image in an existing category folder or create a new direct child of images.
+2. Keep the extension supported and the filename URL-safe after encoding.
+3. Run the generator.
+4. Run the test suite.
+5. Review the generated diff and commit images, api/v1, generate_api.py, tests, and documentation.
+
+The generator does not recompress, resize, rename, or move image binaries. A filename or category rename keeps the UUID when the image bytes remain the same. Changing the image bytes creates a new identity.
+
+## Validation and tests
+
+The validator checks counts, page continuity, page flags, UUID format and uniqueness, canonical Wallune URLs, URL encoding, local-image coverage, dimensions, sizes, categories and covers, search-index completeness, config totals, and UTC timestamps.
+
+Run:
+
+~~~bash
+python -m unittest discover -s tests -v
+~~~
+
+Tests use temporary fixture directories and do not require network access. They cover empty catalogs, 1/20/21 item pagination, multiple categories, duplicate filenames, unsupported extensions, stale cleanup, ID preservation across URL changes, new and deleted images, UTC timestamps, URL encoding, search completeness, category counts, config totals, and final-page metadata.
+
+## Generated files to commit
+
+- images/
+- api/v1/config.json
+- api/v1/categories.json
+- api/v1/search_index.json
+- api/v1/wallpaper_ids.json
+- api/v1/models.dart
+- api/v1/wallpapers/page_*.json
+- generate_api.py
+- tests/
+- documentation
+
+Do not add a monolithic wallpapers.json file. Do not add Firebase, Supabase, AWS, Node.js, PHP, Django, Flask, or another server runtime.
+
+## Current catalog snapshot
+
+The current catalog contains 674 supported images in 35 categories, generated into 34 pages with 20 items per page (14 on the final page). The image binaries are about 108 MiB. These are generated values, not hardcoded limits.
+
+## Operational limitations
+
+GitHub Raw provides public, static delivery. It does not provide authentication, server-side filtering, uploads, rate limiting, or guaranteed application-level caching. The Flutter client should cache config and search_index locally, use content_version to decide when to refresh catalog data, and treat non-200 responses and malformed JSON as recoverable API errors.
+
+Review image licensing before publishing the repository.

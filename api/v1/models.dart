@@ -1,7 +1,5 @@
 // AUTO-GENERATED CODE - DO NOT MODIFY BY HAND
-// Use this code in your Flutter app to easily parse the Wallune API
-
-import 'dart:convert';
+// Wallune static API models.
 
 class Wallpaper {
   final String id;
@@ -24,31 +22,21 @@ class Wallpaper {
     required this.height,
   });
 
-  factory Wallpaper.fromJson(Map<String, dynamic> json) {
-    return Wallpaper(
-      id: json['id'] ?? '',
-      title: json['title'] ?? '',
-      category: json['category'] ?? '',
-      imageUrl: json['image_url'] ?? '',
-      size: json['size'] ?? 0,
-      updatedAt: json['updated_at'] ?? '',
-      width: json['width'] ?? 0,
-      height: json['height'] ?? 0,
-    );
-  }
+  factory Wallpaper.fromJson(Map<String, dynamic> json) => Wallpaper(
+    id: json['id'] as String? ?? '',
+    title: json['title'] as String? ?? '',
+    category: json['category'] as String? ?? '',
+    imageUrl: json['image_url'] as String? ?? '',
+    size: (json['size'] as num?)?.toInt() ?? 0,
+    updatedAt: json['updated_at'] as String? ?? '',
+    width: (json['width'] as num?)?.toInt() ?? 0,
+    height: (json['height'] as num?)?.toInt() ?? 0,
+  );
 
-  Map<String, dynamic> toJson() {
-    return {
-      'id': id,
-      'title': title,
-      'category': category,
-      'image_url': imageUrl,
-      'size': size,
-      'updated_at': updatedAt,
-      'width': width,
-      'height': height,
-    };
-  }
+  Map<String, dynamic> toJson() => {
+    'id': id, 'title': title, 'category': category, 'image_url': imageUrl,
+    'size': size, 'updated_at': updatedAt, 'width': width, 'height': height,
+  };
 }
 
 class PaginatedResponse {
@@ -70,19 +58,17 @@ class PaginatedResponse {
     required this.data,
   });
 
-  factory PaginatedResponse.fromJson(Map<String, dynamic> json) {
-    return PaginatedResponse(
-      page: json['page'] ?? 1,
-      totalPages: json['total_pages'] ?? 1,
-      totalItems: json['total_items'] ?? 0,
-      itemsPerPage: json['items_per_page'] ?? 20,
-      hasNext: json['has_next'] ?? false,
-      hasPrev: json['has_prev'] ?? false,
-      data: (json['data'] as List?)
-          ?.map((e) => Wallpaper.fromJson(e))
-          .toList() ?? [],
-    );
-  }
+  factory PaginatedResponse.fromJson(Map<String, dynamic> json) => PaginatedResponse(
+    page: (json['page'] as num?)?.toInt() ?? 0,
+    totalPages: (json['total_pages'] as num?)?.toInt() ?? 0,
+    totalItems: (json['total_items'] as num?)?.toInt() ?? 0,
+    itemsPerPage: (json['items_per_page'] as num?)?.toInt() ?? 20,
+    hasNext: json['has_next'] as bool? ?? false,
+    hasPrev: json['has_prev'] as bool? ?? false,
+    data: ((json['data'] as List?) ?? const [])
+        .map((item) => Wallpaper.fromJson(item as Map<String, dynamic>))
+        .toList(),
+  );
 }
 
 class Category {
@@ -90,17 +76,41 @@ class Category {
   final int count;
   final String cover;
 
-  Category({
-    required this.name,
-    required this.count,
-    required this.cover,
+  Category({required this.name, required this.count, required this.cover});
+
+  factory Category.fromJson(Map<String, dynamic> json) => Category(
+    name: json['name'] as String? ?? '',
+    count: (json['count'] as num?)?.toInt() ?? 0,
+    cover: json['cover'] as String? ?? '',
+  );
+}
+
+class ApiConfig {
+  final int apiVersion;
+  final int contentVersion;
+  final int totalItems;
+  final int totalPages;
+  final int itemsPerPage;
+  final String generatedAt;
+  final String catalogHash;
+
+  ApiConfig({
+    required this.apiVersion,
+    required this.contentVersion,
+    required this.totalItems,
+    required this.totalPages,
+    required this.itemsPerPage,
+    required this.generatedAt,
+    required this.catalogHash,
   });
 
-  factory Category.fromJson(Map<String, dynamic> json) {
-    return Category(
-      name: json['name'] ?? '',
-      count: json['count'] ?? 0,
-      cover: json['cover'] ?? '',
-    );
-  }
+  factory ApiConfig.fromJson(Map<String, dynamic> json) => ApiConfig(
+    apiVersion: (json['api_version'] as num?)?.toInt() ?? 1,
+    contentVersion: (json['content_version'] as num?)?.toInt() ?? 0,
+    totalItems: (json['total_items'] as num?)?.toInt() ?? 0,
+    totalPages: (json['total_pages'] as num?)?.toInt() ?? 0,
+    itemsPerPage: (json['items_per_page'] as num?)?.toInt() ?? 20,
+    generatedAt: json['generated_at'] as String? ?? '',
+    catalogHash: json['catalog_hash'] as String? ?? '',
+  );
 }
