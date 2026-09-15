@@ -1,41 +1,11 @@
 {
   "page": 6,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "6fc13451-e757-4205-84c6-f6763200fd6a",
-      "title": "Dove With Olive Branch",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/dove_with_olive_branch.jpg",
-      "size": 51669,
-      "updated_at": "2026-06-27T10:21:06Z",
-      "width": 864,
-      "height": 1536
-    },
-    {
-      "id": "cbd7fba7-8ecc-49e8-8ffa-193985284271",
-      "title": "Flying White Dove",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/flying_white_dove.jpg",
-      "size": 45276,
-      "updated_at": "2026-06-27T10:21:02Z",
-      "width": 864,
-      "height": 1916
-    },
-    {
-      "id": "7aed92a1-d1de-4965-8ef4-4be15a127f2a",
-      "title": "Glowing Green Water Cat",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/glowing_green_water_cat.jpg",
-      "size": 108613,
-      "updated_at": "2026-06-27T09:26:50Z",
-      "width": 864,
-      "height": 1916
-    },
     {
       "id": "60475972-68fa-4587-ad89-95b4768e34cc",
       "title": "Grey Cat With Blue Eyes",
@@ -205,6 +175,36 @@
       "updated_at": "2026-06-05T12:52:44Z",
       "width": 736,
       "height": 1238
+    },
+    {
+      "id": "f6e470ca-08a5-47a8-a5db-f1934beffb83",
+      "title": "Toothless Eye",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/toothless_eye.jpg",
+      "size": 42052,
+      "updated_at": "2026-06-05T11:05:03Z",
+      "width": 702,
+      "height": 1092
+    },
+    {
+      "id": "9bf97f59-89cb-4ea3-b43f-80593e5d415a",
+      "title": "Toothless Split Eyes",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/toothless_split_eyes.jpg",
+      "size": 24721,
+      "updated_at": "2026-04-03T12:31:15Z",
+      "width": 720,
+      "height": 1065
+    },
+    {
+      "id": "df4d927d-74a9-4c7f-91c4-8cf0fd399238",
+      "title": "Wall E Look",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/wall_e_look.jpg",
+      "size": 127451,
+      "updated_at": "2026-06-05T11:05:12Z",
+      "width": 864,
+      "height": 1536
     }
   ]
 }

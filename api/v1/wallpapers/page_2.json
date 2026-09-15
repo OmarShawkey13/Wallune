@@ -1,7 +1,7 @@
 {
   "page": 2,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
@@ -71,16 +71,6 @@
       "title": "Cloaked Figure Skull",
       "category": "Abstract",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cloaked_figure_skull.jpg",
-      "size": 221969,
-      "updated_at": "2026-04-23T09:05:18Z",
-      "width": 1080,
-      "height": 2340
-    },
-    {
-      "id": "e589d25b-ce2d-4507-9291-3e0e6be57ec0",
-      "title": "Cloaked Figure Skull Gby34",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cloaked_figure_skull_gby34.jpg",
       "size": 221969,
       "updated_at": "2026-04-23T09:05:18Z",
       "width": 1080,
@@ -205,6 +195,16 @@
       "updated_at": "2025-01-06T08:26:17Z",
       "width": 640,
       "height": 800
+    },
+    {
+      "id": "56dae8dd-765e-4281-a0da-0695232a6b1e",
+      "title": "Floating Glass Bubbles",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/floating_glass_bubbles.jpg",
+      "size": 83157,
+      "updated_at": "2026-04-30T20:23:24Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

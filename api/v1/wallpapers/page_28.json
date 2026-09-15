@@ -1,41 +1,11 @@
 {
   "page": 28,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "61779a6c-bb71-4732-a27f-823f0eeb1e7d",
-      "title": "Snowy Blossoms Village",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_blossoms_village.jpg",
-      "size": 168304,
-      "updated_at": "2026-07-03T08:50:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "5461dd0d-7298-47e5-be67-4dd67376c73e",
-      "title": "Snowy Mountain Sunset",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_sunset.jpg",
-      "size": 83370,
-      "updated_at": "2026-02-22T22:15:23Z",
-      "width": 564,
-      "height": 1001
-    },
-    {
-      "id": "13a7635e-0984-4bdb-8899-7ffebe66faee",
-      "title": "Snowy Mountain Town",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_town.jpg",
-      "size": 33410,
-      "updated_at": "2026-02-22T22:15:19Z",
-      "width": 512,
-      "height": 1024
-    },
     {
       "id": "8088c6ff-a1f0-457c-beb8-21e2f118a6fc",
       "title": "Snowy Mountains Red Trees",
@@ -111,16 +81,6 @@
       "title": "Sunset Landscape With Birds",
       "category": "Nature",
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunset_landscape_with_birds.jpg",
-      "size": 119060,
-      "updated_at": "2026-05-26T06:57:03Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "02857fc6-b544-4ec2-bc73-76661f192f82",
-      "title": "Sunset Landscape With Birds Bcte3",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunset_landscape_with_birds_bcte3.jpg",
       "size": 119060,
       "updated_at": "2026-05-26T06:57:03Z",
       "width": 736,
@@ -203,6 +163,46 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/white_daisy.jpg",
       "size": 174039,
       "updated_at": "2026-06-27T14:02:07Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "69c8483f-6f26-4b9b-8a18-73f36258afed",
+      "title": "Winding Mountain Road Night",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winding_mountain_road_night.jpg",
+      "size": 164954,
+      "updated_at": "2026-03-03T02:29:16Z",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "id": "626d427a-1c5d-49cd-ac47-46ab1517d337",
+      "title": "Winter Forest Sunrise",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winter_forest_sunrise.jpg",
+      "size": 115469,
+      "updated_at": "2026-02-22T22:15:28Z",
+      "width": 564,
+      "height": 1001
+    },
+    {
+      "id": "470a3b88-14fe-494b-81d6-e31bc780975a",
+      "title": "Winter Sunset Tree",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winter_sunset_tree.jpg",
+      "size": 306806,
+      "updated_at": "2026-04-07T16:15:29Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "5103fb87-4b6a-40ff-b0e8-1f1d384594f9",
+      "title": "Wisteria Sunset Balcony",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/wisteria_sunset_balcony.jpg",
+      "size": 175481,
+      "updated_at": "2026-07-01T09:37:46Z",
       "width": 1080,
       "height": 1920
     }

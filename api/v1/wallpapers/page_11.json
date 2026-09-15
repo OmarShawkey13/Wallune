@@ -1,41 +1,11 @@
 {
   "page": 11,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "f73b9e0f-8639-4470-b9d4-a1ab5b8ac39d",
-      "title": "Scientist And Equations",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/scientist_and_equations.jpg",
-      "size": 157286,
-      "updated_at": "2026-06-07T09:06:49Z",
-      "width": 864,
-      "height": 1728
-    },
-    {
-      "id": "00205e6d-5a9f-4c1b-a3f5-1e64beb746c3",
-      "title": "Sky Mirror Reflection",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/sky_mirror_reflection.jpg",
-      "size": 120016,
-      "updated_at": "2026-06-03T09:21:38Z",
-      "width": 864,
-      "height": 1536
-    },
-    {
-      "id": "4aba8e94-2d64-4205-b703-2cc781896295",
-      "title": "Starry Night Meadow",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/starry_night_meadow.jpg",
-      "size": 160366,
-      "updated_at": "2026-06-20T18:00:31Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "c0075909-a6ae-4de5-9c59-d648dca56be7",
       "title": "Stitch And Angel Blossom",
@@ -203,6 +173,36 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/ultra_instinct_goku.jpg",
       "size": 187238,
       "updated_at": "2025-04-02T14:56:39Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "1e2cdc8a-057c-4a49-84f5-b40e20bb65e0",
+      "title": "Valley Of The End",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/valley_of_the_end.jpg",
+      "size": 79972,
+      "updated_at": "2026-02-22T22:14:58Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "b2873c5a-6eae-4979-8850-0c2b860a9762",
+      "title": "Vegeta Flame",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/vegeta_flame.jpg",
+      "size": 25509,
+      "updated_at": "2024-11-09T06:05:56Z",
+      "width": 736,
+      "height": 1167
+    },
+    {
+      "id": "592128ec-cb5a-4246-80ed-305452331009",
+      "title": "Zenitsu Yellow Background",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zenitsu_yellow_background.jpg",
+      "size": 67630,
+      "updated_at": "2025-09-05T21:00:58Z",
       "width": 736,
       "height": 1308
     }

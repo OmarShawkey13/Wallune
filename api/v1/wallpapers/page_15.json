@@ -1,41 +1,11 @@
 {
   "page": 15,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "adaa51ab-aac2-4ddf-9435-ba734982ca72",
-      "title": "Shipwreck Split View",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/shipwreck_split_view.jpg",
-      "size": 151597,
-      "updated_at": "2026-06-30T15:53:07Z",
-      "width": 996,
-      "height": 2160
-    },
-    {
-      "id": "1be6753f-93c8-4ae6-aacb-7abd7e98ecc2",
-      "title": "Starry Wheat Field",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/starry_wheat_field.jpg",
-      "size": 216286,
-      "updated_at": "2026-07-01T11:17:39Z",
-      "width": 736,
-      "height": 1600
-    },
-    {
-      "id": "7584c4dd-dc07-4eea-88b2-d55ca2381d51",
-      "title": "Swirling Sky Quote",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/swirling_sky_quote.jpg",
-      "size": 131523,
-      "updated_at": "2026-06-11T12:57:31Z",
-      "width": 964,
-      "height": 1713
-    },
     {
       "id": "cec38871-a7d3-487e-bdef-dbcb0334575b",
       "title": "Walking Teddy Bear",
@@ -205,6 +175,36 @@
       "updated_at": "2026-04-03T12:31:05Z",
       "width": 720,
       "height": 977
+    },
+    {
+      "id": "86a09bc9-85b5-448c-bc4c-0b16b326bf24",
+      "title": "Bmw M3 Gtr",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m3_gtr.jpg",
+      "size": 216789,
+      "updated_at": "2026-06-29T12:51:41Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "4415ad3e-de7d-461c-b9e7-0027d02a5b51",
+      "title": "Bmw M4 Black",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m4_black.jpg",
+      "size": 29607,
+      "updated_at": "2026-04-03T12:30:56Z",
+      "width": 720,
+      "height": 1058
+    },
+    {
+      "id": "b890cdc7-18ea-4204-8c4b-5fc8c2b912b0",
+      "title": "Bmw M4 Gt3 Back",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m4_gt3_back.jpg",
+      "size": 123300,
+      "updated_at": "2026-04-01T16:52:19Z",
+      "width": 1080,
+      "height": 1080
     }
   ]
 }

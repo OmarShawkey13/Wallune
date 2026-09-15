@@ -1,41 +1,11 @@
 {
   "page": 13,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "0235b4f2-3062-4ede-961c-fdbbc8919817",
-      "title": "Ferris Wheel Silhouette",
-      "category": "Architecture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/ferris_wheel_silhouette.jpg",
-      "size": 72652,
-      "updated_at": "2026-05-25T22:33:36Z",
-      "width": 736,
-      "height": 1476
-    },
-    {
-      "id": "a9b0a4f7-58c0-4536-8d42-9583b23f1cae",
-      "title": "Glowing Path To House",
-      "category": "Architecture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/glowing_path_to_house.jpg",
-      "size": 178091,
-      "updated_at": "2026-06-21T07:07:31Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "058d35e6-edc0-4eac-817b-588e60dc7726",
-      "title": "Golden Gate Night",
-      "category": "Architecture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/golden_gate_night.jpg",
-      "size": 63630,
-      "updated_at": "2026-06-05T12:53:30Z",
-      "width": 736,
-      "height": 1594
-    },
     {
       "id": "3b3e4a8e-de86-4948-b00f-dc6e1c92aa01",
       "title": "Green Door With Ivy",
@@ -205,6 +175,36 @@
       "updated_at": "2025-04-02T11:48:57Z",
       "width": 736,
       "height": 1308
+    },
+    {
+      "id": "2a6a1381-1974-41c2-83e5-37a027c196ae",
+      "title": "Dark Great Wave",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/dark_great_wave.jpg",
+      "size": 135478,
+      "updated_at": "2026-06-05T12:53:32Z",
+      "width": 736,
+      "height": 1632
+    },
+    {
+      "id": "8f4600b7-64e6-4532-8d32-16d376c3d572",
+      "title": "Dark Samurai Smoke",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/dark_samurai_smoke.jpg",
+      "size": 153643,
+      "updated_at": "2024-12-20T13:12:09Z",
+      "width": 1080,
+      "height": 2400
+    },
+    {
+      "id": "b4a9a901-c9ce-4d84-b9bb-a42f8fa17954",
+      "title": "Flower Stand Illustration",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/flower_stand_illustration.jpg",
+      "size": 252064,
+      "updated_at": "2024-04-29T09:07:09Z",
+      "width": 736,
+      "height": 1228
     }
   ]
 }

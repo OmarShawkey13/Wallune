@@ -1,41 +1,11 @@
 {
   "page": 25,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "53daa765-47c0-4d1b-9a38-c68075c32cbb",
-      "title": "Dark Wet Leaves",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_wet_leaves.jpg",
-      "size": 115678,
-      "updated_at": "2026-02-22T22:14:47Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "5df425ce-544c-410e-994b-5dbdb407f4c6",
-      "title": "Dramatic Mountain Clouds",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dramatic_mountain_clouds.jpg",
-      "size": 301452,
-      "updated_at": "2026-02-22T22:15:13Z",
-      "width": 736,
-      "height": 1594
-    },
-    {
-      "id": "f98bcfba-c34e-4609-bdff-8d8fd76d14cb",
-      "title": "Drawn Sun Beach",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/drawn_sun_beach.jpg",
-      "size": 214036,
-      "updated_at": "2026-06-19T19:32:13Z",
-      "width": 864,
-      "height": 1728
-    },
     {
       "id": "2975a6b4-8012-4fb9-928d-b8267693f176",
       "title": "Flower Boat Blue Water",
@@ -205,6 +175,36 @@
       "updated_at": "2026-06-23T20:41:59Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "71a7998b-5df9-4ea7-9bce-990f854022ea",
+      "title": "Moon And Clouds Collage",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_and_clouds_collage.jpg",
+      "size": 50271,
+      "updated_at": "2024-04-29T09:06:58Z",
+      "width": 640,
+      "height": 796
+    },
+    {
+      "id": "098a1599-271a-49b8-8bf9-99bd7edc95d8",
+      "title": "Moon Phases Collage",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_phases_collage.jpg",
+      "size": 80004,
+      "updated_at": "2024-04-29T09:06:55Z",
+      "width": 640,
+      "height": 788
+    },
+    {
+      "id": "12af5e02-8756-4c48-9de8-1d29792dbb8d",
+      "title": "Moon Through Trees",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_through_trees.jpg",
+      "size": 140275,
+      "updated_at": "2026-05-26T06:54:57Z",
+      "width": 1080,
+      "height": 2395
     }
   ]
 }

@@ -1,41 +1,11 @@
 {
   "page": 16,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "86a09bc9-85b5-448c-bc4c-0b16b326bf24",
-      "title": "Bmw M3 Gtr",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m3_gtr.jpg",
-      "size": 216789,
-      "updated_at": "2026-06-29T12:51:41Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "4415ad3e-de7d-461c-b9e7-0027d02a5b51",
-      "title": "Bmw M4 Black",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m4_black.jpg",
-      "size": 29607,
-      "updated_at": "2026-04-03T12:30:56Z",
-      "width": 720,
-      "height": 1058
-    },
-    {
-      "id": "b890cdc7-18ea-4204-8c4b-5fc8c2b912b0",
-      "title": "Bmw M4 Gt3 Back",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m4_gt3_back.jpg",
-      "size": 123300,
-      "updated_at": "2026-04-01T16:52:19Z",
-      "width": 1080,
-      "height": 1080
-    },
     {
       "id": "f1d748f3-e2a1-46f1-a4ea-4177c04d464b",
       "title": "Bmw M4 Waterfall Poster",
@@ -205,6 +175,36 @@
       "updated_at": "2026-06-29T12:51:54Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "54417b48-9dc1-4574-a286-8d1a2a8b87b0",
+      "title": "Geometric Wrap Bmw",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/geometric_wrap_bmw.jpg",
+      "size": 107917,
+      "updated_at": "2026-04-04T21:18:38Z",
+      "width": 1080,
+      "height": 1103
+    },
+    {
+      "id": "20c92482-c2e8-44c3-ad7a-8cc329f1893d",
+      "title": "Grey Bmw Autumn",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/grey_bmw_autumn.jpg",
+      "size": 357366,
+      "updated_at": "2026-06-15T14:33:12Z",
+      "width": 864,
+      "height": 1872
+    },
+    {
+      "id": "50a18bf6-9959-4aa6-b822-fef0c3ecf516",
+      "title": "Grey Bmw Overhead",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/grey_bmw_overhead.jpg",
+      "size": 41889,
+      "updated_at": "2026-04-03T12:31:17Z",
+      "width": 720,
+      "height": 1222
     }
   ]
 }

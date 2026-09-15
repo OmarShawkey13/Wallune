@@ -1,61 +1,11 @@
 {
   "page": 34,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": false,
   "has_prev": true,
   "data": [
-    {
-      "id": "1ccd7044-52e6-4663-97d5-9acfdb20eaaa",
-      "title": "Dont Touch Warning",
-      "category": "Typography",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/dont_touch_warning.jpg",
-      "size": 34986,
-      "updated_at": "2026-06-26T22:28:52Z",
-      "width": 864,
-      "height": 1916
-    },
-    {
-      "id": "ec5a119f-e09e-4fda-af96-f56d4e6bbd0f",
-      "title": "Guess Typography",
-      "category": "Typography",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/guess_typography.jpg",
-      "size": 90764,
-      "updated_at": "2026-05-26T06:57:18Z",
-      "width": 996,
-      "height": 2160
-    },
-    {
-      "id": "74e979be-21a9-41a5-aedf-9a097b2a88b0",
-      "title": "It Z Me Quote",
-      "category": "Typography",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/it_z_me_quote.jpg",
-      "size": 22373,
-      "updated_at": "2026-06-10T19:43:45Z",
-      "width": 1072,
-      "height": 1920
-    },
-    {
-      "id": "019c2949-b2bc-4c3d-a772-586ecbb354ba",
-      "title": "Qarib Mujib Space",
-      "category": "Typography",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/qarib_mujib_space.jpg",
-      "size": 56649,
-      "updated_at": "2024-11-09T06:06:27Z",
-      "width": 960,
-      "height": 1920
-    },
-    {
-      "id": "0c4d4baa-0ca0-4b69-b90c-08b78925d519",
-      "title": "Sabr Mountains",
-      "category": "Typography",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/sabr_mountains.jpg",
-      "size": 31325,
-      "updated_at": "2024-11-09T06:06:31Z",
-      "width": 886,
-      "height": 1920
-    },
     {
       "id": "6391daae-84dd-446c-a367-c947e0a69b07",
       "title": "Airplane Above Clouds",

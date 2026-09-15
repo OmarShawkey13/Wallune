@@ -1,61 +1,11 @@
 {
   "page": 33,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "83fd6a5a-0208-4127-9958-e26ce0ce4afe",
-      "title": "Blue Web Spider Man",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/blue_web_spider_man.jpg",
-      "size": 142043,
-      "updated_at": "2026-06-05T12:53:22Z",
-      "width": 736,
-      "height": 1471
-    },
-    {
-      "id": "3c7e9acb-479a-4d9d-8d14-b7a502c280a4",
-      "title": "Glowing Spiderman",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/glowing_spiderman.jpg",
-      "size": 69608,
-      "updated_at": "2026-05-23T09:35:13Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "50e3c459-0e7b-40af-a86e-9b2985421263",
-      "title": "Iron Fist Silhouette",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/iron_fist_silhouette.jpg",
-      "size": 28511,
-      "updated_at": "2026-05-23T09:35:30Z",
-      "width": 736,
-      "height": 1522
-    },
-    {
-      "id": "79750f25-60a0-4748-9f22-cf504ebc4a6a",
-      "title": "Miles Morales Glowing Eyes",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/miles_morales_glowing_eyes.jpg",
-      "size": 39811,
-      "updated_at": "2026-05-23T09:35:23Z",
-      "width": 736,
-      "height": 1578
-    },
-    {
-      "id": "2cdefec8-40eb-4d2c-af2a-632597b12d74",
-      "title": "Miles Morales Hoodie",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/miles_morales_hoodie.jpg",
-      "size": 187603,
-      "updated_at": "2026-06-06T17:15:55Z",
-      "width": 964,
-      "height": 2091
-    },
     {
       "id": "7b1cb424-a3e6-465a-81ca-a8c5ed8c9ff3",
       "title": "Miles Morales Red Suit",
@@ -205,6 +155,56 @@
       "updated_at": "2026-06-26T22:28:43Z",
       "width": 864,
       "height": 1916
+    },
+    {
+      "id": "1ccd7044-52e6-4663-97d5-9acfdb20eaaa",
+      "title": "Dont Touch Warning",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/dont_touch_warning.jpg",
+      "size": 34986,
+      "updated_at": "2026-06-26T22:28:52Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
+      "id": "ec5a119f-e09e-4fda-af96-f56d4e6bbd0f",
+      "title": "Guess Typography",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/guess_typography.jpg",
+      "size": 90764,
+      "updated_at": "2026-05-26T06:57:18Z",
+      "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "74e979be-21a9-41a5-aedf-9a097b2a88b0",
+      "title": "It Z Me Quote",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/it_z_me_quote.jpg",
+      "size": 22373,
+      "updated_at": "2026-06-10T19:43:45Z",
+      "width": 1072,
+      "height": 1920
+    },
+    {
+      "id": "019c2949-b2bc-4c3d-a772-586ecbb354ba",
+      "title": "Qarib Mujib Space",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/qarib_mujib_space.jpg",
+      "size": 56649,
+      "updated_at": "2024-11-09T06:06:27Z",
+      "width": 960,
+      "height": 1920
+    },
+    {
+      "id": "0c4d4baa-0ca0-4b69-b90c-08b78925d519",
+      "title": "Sabr Mountains",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/sabr_mountains.jpg",
+      "size": 31325,
+      "updated_at": "2024-11-09T06:06:31Z",
+      "width": 886,
+      "height": 1920
     }
   ]
 }

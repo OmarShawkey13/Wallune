@@ -72,13 +72,15 @@ class PaginatedResponse {
 }
 
 class Category {
+  final String id;
   final String name;
   final int count;
   final String cover;
 
-  Category({required this.name, required this.count, required this.cover});
+  Category({required this.id, required this.name, required this.count, required this.cover});
 
   factory Category.fromJson(Map<String, dynamic> json) => Category(
+    id: json['id'] as String? ?? '',
     name: json['name'] as String? ?? '',
     count: (json['count'] as num?)?.toInt() ?? 0,
     cover: json['cover'] as String? ?? '',

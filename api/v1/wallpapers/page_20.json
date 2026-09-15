@@ -1,41 +1,11 @@
 {
   "page": 20,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "e60704e7-5eb9-49fb-91eb-7a746c8ba5b3",
-      "title": "Squidward And Mr Krabs",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/squidward_and_mr_krabs.jpg",
-      "size": 150040,
-      "updated_at": "2026-06-26T20:01:59Z",
-      "width": 864,
-      "height": 1820
-    },
-    {
-      "id": "ba4509b0-2334-412a-8f60-1b6ba919c8e0",
-      "title": "Stitch And Butterfly",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_and_butterfly.jpg",
-      "size": 20851,
-      "updated_at": "2026-03-15T20:56:28Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "a1c8cc07-e7a6-4528-a4e2-e1d315f94f73",
-      "title": "Stitch Blue Background",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_blue_background.jpg",
-      "size": 43632,
-      "updated_at": "2026-06-05T11:04:06Z",
-      "width": 1180,
-      "height": 2098
-    },
     {
       "id": "2c862d80-519f-47f6-82fb-763749c29b98",
       "title": "Stitch Holding Sign",
@@ -204,6 +174,36 @@
       "size": 46441,
       "updated_at": "2024-10-02T07:35:46Z",
       "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "4899a5c5-aa44-4a5e-a2f6-c8a9cecf4a75",
+      "title": "Spider Man City Fall",
+      "category": "Comics",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spider_man_city_fall.jpg",
+      "size": 222978,
+      "updated_at": "2026-04-07T16:09:16Z",
+      "width": 1080,
+      "height": 2138
+    },
+    {
+      "id": "a764aff7-d30e-4ad8-a0b3-1ae0588f6121",
+      "title": "Spiderman Climbing",
+      "category": "Comics",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spiderman_climbing.jpg",
+      "size": 338078,
+      "updated_at": "2026-03-10T00:14:40Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "e5cf6d09-ba3b-4223-ac06-9a05c3f90890",
+      "title": "Spiderman Defeated",
+      "category": "Comics",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spiderman_defeated.jpg",
+      "size": 315112,
+      "updated_at": "2026-04-23T09:05:40Z",
+      "width": 989,
       "height": 2160
     }
   ]

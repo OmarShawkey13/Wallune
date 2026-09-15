@@ -1,31 +1,11 @@
 {
   "page": 5,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "77a75bd9-3919-49bf-ab7d-914c7b219f35",
-      "title": "Watercolor Phoenix",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/watercolor_phoenix.jpg",
-      "size": 158738,
-      "updated_at": "2026-06-25T08:17:04Z",
-      "width": 941,
-      "height": 1672
-    },
-    {
-      "id": "9f3dba48-4ec4-40c9-aa4b-1ed5d6f39c47",
-      "title": "White Paint Splatter On Black Background",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_paint_splatter_on_black_background.jpg",
-      "size": 478152,
-      "updated_at": "2026-04-25T20:35:06Z",
-      "width": 998,
-      "height": 2160
-    },
     {
       "id": "67fc90ce-221b-4f36-b887-4c7db9a426a9",
       "title": "White Paint Stroke On Black Background",
@@ -197,14 +177,34 @@
       "height": 1280
     },
     {
-      "id": "5120e895-10d1-4670-a092-7835ecf0b16c",
-      "title": "Dove Silhouette Ixylt",
+      "id": "6fc13451-e757-4205-84c6-f6763200fd6a",
+      "title": "Dove With Olive Branch",
       "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/dove_silhouette_ixylt.jpg",
-      "size": 18524,
-      "updated_at": "2026-06-27T10:21:08Z",
-      "width": 720,
-      "height": 1280
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/dove_with_olive_branch.jpg",
+      "size": 51669,
+      "updated_at": "2026-06-27T10:21:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "cbd7fba7-8ecc-49e8-8ffa-193985284271",
+      "title": "Flying White Dove",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/flying_white_dove.jpg",
+      "size": 45276,
+      "updated_at": "2026-06-27T10:21:02Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
+      "id": "7aed92a1-d1de-4965-8ef4-4be15a127f2a",
+      "title": "Glowing Green Water Cat",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/glowing_green_water_cat.jpg",
+      "size": 108613,
+      "updated_at": "2026-06-27T09:26:50Z",
+      "width": 864,
+      "height": 1916
     }
   ]
 }

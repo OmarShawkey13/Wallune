@@ -1,41 +1,11 @@
 {
   "page": 19,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "ebf9e885-5ad0-4374-9e6b-19d6ee5b9538",
-      "title": "Courage Dark Path",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/courage_dark_path.jpg",
-      "size": 381834,
-      "updated_at": "2026-04-01T16:51:54Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "47348de6-c38f-4d2e-a485-900658fd37b2",
-      "title": "Courage Giant Sky Worm",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/courage_giant_sky_worm.jpg",
-      "size": 508553,
-      "updated_at": "2026-04-01T16:52:05Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "cabfbb8c-4a2d-4d94-9597-1853bcc16e1f",
-      "title": "Courage Meteor Shower",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/courage_meteor_shower.jpg",
-      "size": 376533,
-      "updated_at": "2026-04-01T16:52:04Z",
-      "width": 1080,
-      "height": 2160
-    },
     {
       "id": "6d9f1a8b-044f-4c38-a7eb-ce70b861590b",
       "title": "Courage Red Sky Ghosts",
@@ -205,6 +175,36 @@
       "updated_at": "2024-07-21T09:27:13Z",
       "width": 997,
       "height": 2160
+    },
+    {
+      "id": "e60704e7-5eb9-49fb-91eb-7a746c8ba5b3",
+      "title": "Squidward And Mr Krabs",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/squidward_and_mr_krabs.jpg",
+      "size": 150040,
+      "updated_at": "2026-06-26T20:01:59Z",
+      "width": 864,
+      "height": 1820
+    },
+    {
+      "id": "ba4509b0-2334-412a-8f60-1b6ba919c8e0",
+      "title": "Stitch And Butterfly",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_and_butterfly.jpg",
+      "size": 20851,
+      "updated_at": "2026-03-15T20:56:28Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "a1c8cc07-e7a6-4528-a4e2-e1d315f94f73",
+      "title": "Stitch Blue Background",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_blue_background.jpg",
+      "size": 43632,
+      "updated_at": "2026-06-05T11:04:06Z",
+      "width": 1180,
+      "height": 2098
     }
   ]
 }

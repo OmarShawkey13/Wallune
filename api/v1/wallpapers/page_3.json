@@ -1,21 +1,11 @@
 {
   "page": 3,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "56dae8dd-765e-4281-a0da-0695232a6b1e",
-      "title": "Floating Glass Bubbles",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/floating_glass_bubbles.jpg",
-      "size": 83157,
-      "updated_at": "2026-04-30T20:23:24Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "8f6ff4b2-93c2-4163-80cb-2c73ecba7d6a",
       "title": "Floral Border",
@@ -205,6 +195,16 @@
       "updated_at": "2026-04-30T20:23:15Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "e11570ca-ebdf-43bd-a8f3-35ef6a28936e",
+      "title": "Out Of Mind Typography",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/out_of_mind_typography.jpg",
+      "size": 111930,
+      "updated_at": "2024-06-24T19:30:30Z",
+      "width": 736,
+      "height": 1437
     }
   ]
 }

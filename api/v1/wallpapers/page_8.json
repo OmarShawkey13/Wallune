@@ -1,41 +1,11 @@
 {
   "page": 8,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "2aa6a390-69de-499d-82f3-92ba23de12ae",
-      "title": "Anime Balcony Storm",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_balcony_storm.jpg",
-      "size": 249306,
-      "updated_at": "2025-02-16T09:39:50Z",
-      "width": 1080,
-      "height": 1900
-    },
-    {
-      "id": "453e88d9-4270-4b37-8e7f-a4425f0009a4",
-      "title": "Anime Beach With Glowing Waves At Night",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_beach_with_glowing_waves_at_night.jpg",
-      "size": 174809,
-      "updated_at": "2026-04-27T10:53:29Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "9c8e8f65-d43a-4c5a-a606-d23be3784ab8",
-      "title": "Anime City Crossing",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_city_crossing.jpg",
-      "size": 131002,
-      "updated_at": "2026-06-05T11:04:22Z",
-      "width": 864,
-      "height": 486
-    },
     {
       "id": "bfb4208a-d675-47b6-b07d-68bba3a95a19",
       "title": "Anime City Milky Way",
@@ -205,6 +175,36 @@
       "updated_at": "2026-04-27T10:53:16Z",
       "width": 736,
       "height": 1313
+    },
+    {
+      "id": "73ec29f5-f45d-4569-ab2e-046c29963da9",
+      "title": "Asta Sword",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/asta_sword.jpg",
+      "size": 94148,
+      "updated_at": "2026-05-23T09:35:19Z",
+      "width": 736,
+      "height": 1297
+    },
+    {
+      "id": "5b862e70-0b53-49bc-a258-9d603ba6bdc2",
+      "title": "Cliffside Stargazing",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cliffside_stargazing.jpg",
+      "size": 66211,
+      "updated_at": "2026-06-20T18:00:34Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "774a2b87-41d3-471a-b7dc-2ece3f5f3ba1",
+      "title": "Coastal Village At Night",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/coastal_village_at_night.jpg",
+      "size": 215975,
+      "updated_at": "2026-04-27T10:53:19Z",
+      "width": 736,
+      "height": 1309
     }
   ]
 }

@@ -1,41 +1,11 @@
 {
   "page": 22,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "e0fbd9f1-17c6-4fff-98fc-30cf0bee0ed3",
-      "title": "Minecraft Cat Field",
-      "category": "Gaming",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/minecraft_cat_field.jpg",
-      "size": 58263,
-      "updated_at": "2025-01-06T08:26:26Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "0af91da5-aaeb-4e5c-bdc7-5c4c28bc97db",
-      "title": "Pixel Warrior Moon",
-      "category": "Gaming",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/pixel_warrior_moon.jpg",
-      "size": 158537,
-      "updated_at": "2026-04-07T16:15:24Z",
-      "width": 1080,
-      "height": 2561
-    },
-    {
-      "id": "b0bbbff2-b8e7-4501-9c50-4d6d46edd983",
-      "title": "Playstation Symbols",
-      "category": "Gaming",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/playstation_symbols.jpg",
-      "size": 496973,
-      "updated_at": "2026-04-23T09:05:21Z",
-      "width": 1080,
-      "height": 2340
-    },
     {
       "id": "6c3f8a3d-4d36-46ef-90bd-922b9a51955b",
       "title": "Spider Man Falling Over City",
@@ -205,6 +175,36 @@
       "updated_at": "2026-02-28T19:32:59Z",
       "width": 1080,
       "height": 1848
+    },
+    {
+      "id": "c9cbc4c8-ec19-496e-a6d7-c4a34f8a8d9c",
+      "title": "Smiling Boo Portrait",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/smiling_boo_portrait.jpg",
+      "size": 241737,
+      "updated_at": "2026-02-28T19:32:51Z",
+      "width": 1080,
+      "height": 1848
+    },
+    {
+      "id": "a7cb3b9e-8695-4044-9167-815ccfb39186",
+      "title": "Spider Verse Dimensional Fall",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spider_verse_dimensional_fall.jpg",
+      "size": 441466,
+      "updated_at": "2026-03-03T02:28:38Z",
+      "width": 1053,
+      "height": 2160
+    },
+    {
+      "id": "b0db1450-62a3-4774-bf44-a7a5fc1d1676",
+      "title": "Spiderman Black Suit Split",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_black_suit_split.jpg",
+      "size": 182984,
+      "updated_at": "2026-06-16T18:20:28Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

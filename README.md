@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1
 | Endpoint | Purpose |
 | --- | --- |
 | /config.json | API version, content version, totals, and generation time |
-| /categories.json | Category names, counts, and valid cover URLs |
+| /categories.json | Category IDs, names, counts, and valid cover URLs |
 | /search_index.json | Local search records with display metadata |
 | /wallpapers/page_N.json | Paginated canonical wallpaper records |
 
@@ -71,7 +71,7 @@ A page has this shape:
 {
   "page": 1,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -81,6 +81,8 @@ A page has this shape:
 
 Each wallpaper in data contains id, title, category, image_url, size, updated_at, width, and height. The search index contains the same lightweight fields, so a search result can be displayed without fetching another page. The generated models.dart file also includes ApiConfig for config.json.
 
+Each category record contains `id`, `name`, `count`, and `cover`. The category `id` is a deterministic UUID derived from the category name, so it stays stable across repeated generations.
+
 ## Configuration and versions
 
 config.json contains:
@@ -88,12 +90,12 @@ config.json contains:
 ~~~json
 {
   "api_version": 1,
-  "content_version": 1,
-  "total_items": 674,
+  "content_version": 3,
+  "total_items": 669,
   "total_pages": 34,
   "items_per_page": 20,
-  "generated_at": "2026-09-15T10:30:45Z",
-  "catalog_hash": "..."
+  "generated_at": "2026-09-15T12:33:20Z",
+  "catalog_hash": "e38e8cf3df3dcc26cfe6cdd16d0ea2ceb27988b5a74cb4b0fafb454887b66260"
 }
 ~~~
 
@@ -108,7 +110,7 @@ The generated wallpaper IDs are persisted in api/v1/wallpaper_ids.json. A record
 - historical relative-path aliases
 - a retired flag
 
-On the first hardened generation, existing page files are migrated into this metadata file so current Flutter favorites keep their IDs. The image content hash is independent of the GitHub repository, branch, URL encoding, category, and filename. Path aliases and deterministic duplicate matching distinguish equal image bytes in different categories.
+On the first hardened generation, existing page files are migrated into this metadata file so current Flutter favorites keep their IDs. The image content hash is independent of the GitHub repository, branch, URL encoding, category, and filename. Path aliases preserve an ID when a file is renamed. Exact duplicate image bytes are rejected by the generator and should be removed before publishing.
 
 Retired records remain as tombstones and are never assigned to a newly introduced image. A new image receives a new UUID. Do not delete wallpaper_ids.json.
 
@@ -134,7 +136,8 @@ Generation:
 4. sorts records by category, title, and URL;
 5. writes exactly the required page_*.json files;
 6. writes categories, search index, ID metadata, config, and models.dart;
-7. validates all cross-file invariants before and after writing.
+7. rejects duplicate image bytes;
+8. validates all cross-file invariants before and after writing.
 
 Only files named page_<number>.json are removed during stale-page cleanup. Unrelated files in api/v1/wallpapers are left alone. If there are no images, total_pages is zero and no page files are generated.
 
@@ -158,7 +161,7 @@ Run:
 python -m unittest discover -s tests -v
 ~~~
 
-Tests use temporary fixture directories and do not require network access. They cover empty catalogs, 1/20/21 item pagination, multiple categories, duplicate filenames, unsupported extensions, stale cleanup, ID preservation across URL changes, new and deleted images, UTC timestamps, URL encoding, search completeness, category counts, config totals, and final-page metadata.
+Tests use temporary fixture directories and do not require network access. They cover empty catalogs, 1/20/21 item pagination, multiple categories, duplicate filenames, duplicate-byte rejection, unsupported extensions, stale cleanup, ID preservation across URL changes, new and deleted images, UTC timestamps, URL encoding, search completeness, category IDs, category counts, config totals, and final-page metadata.
 
 ## Generated files to commit
 
@@ -177,7 +180,9 @@ Do not add a monolithic wallpapers.json file. Do not add Firebase, Supabase, AWS
 
 ## Current catalog snapshot
 
-The current catalog contains 674 supported images in 35 categories, generated into 34 pages with 20 items per page (14 on the final page). The image binaries are about 108 MiB. These are generated values, not hardcoded limits.
+The current catalog contains 669 supported images in 35 categories, generated into 34 pages with 20 items per page (9 on the final page). The image binaries are about 108 MiB. These are generated values, not hardcoded limits.
+
+A visual content review removed one clearly identifiable tobacco image (`images/Abstract/smoking_neon_skull.jpg`) and four byte-identical duplicate files from the catalog. A perceptual comparison found no other near-duplicate pairs. The removed files were moved to an external quarantine folder before regeneration; their UUIDs remain as retired tombstones in `api/v1/wallpaper_ids.json`.
 
 ## Operational limitations
 

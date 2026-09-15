@@ -1,51 +1,11 @@
 {
   "page": 30,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "74c9722c-4aff-46aa-97c3-c2c5af18bdf7",
-      "title": "Work Hard In Silence Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/work_hard_in_silence_quote.jpg",
-      "size": 161927,
-      "updated_at": "2025-08-01T12:19:07Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "e2e43488-bd28-4c0f-af6e-1991b43f8fa8",
-      "title": "Allah Wall Lamp",
-      "category": "Religion",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/allah_wall_lamp.jpg",
-      "size": 34154,
-      "updated_at": "2026-05-27T16:00:59Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "7488e4b0-5d5c-4804-922f-c0505af67469",
-      "title": "Arabic Calligraphy Design",
-      "category": "Religion",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/arabic_calligraphy_design.jpg",
-      "size": 17107,
-      "updated_at": "2026-05-27T16:01:08Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "f191be3c-2fe8-44f1-86cd-adf0261aed5c",
-      "title": "Bismillah Calligraphy",
-      "category": "Religion",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/bismillah_calligraphy.jpg",
-      "size": 19235,
-      "updated_at": "2026-05-27T16:01:05Z",
-      "width": 675,
-      "height": 1200
-    },
     {
       "id": "817ed4a6-9dc8-4214-85c7-fd5dd2b31c80",
       "title": "Boy Praying Illustration",
@@ -205,6 +165,46 @@
       "updated_at": "2026-06-25T08:17:02Z",
       "width": 941,
       "height": 1672
+    },
+    {
+      "id": "e6acd4d1-1b22-40f4-88be-b418ebe6ca9d",
+      "title": "Cosmic Sky Portal",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/cosmic_sky_portal.jpg",
+      "size": 229206,
+      "updated_at": "2026-04-30T20:24:29Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "05009e8d-38d6-4de1-a6c8-b4232c43d973",
+      "title": "Dark Cloudy Moon Night",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/dark_cloudy_moon_night.jpg",
+      "size": 36194,
+      "updated_at": "2026-02-22T22:15:26Z",
+      "width": 564,
+      "height": 1002
+    },
+    {
+      "id": "adb7a5e2-d37e-42a9-85aa-0556e1f77a7b",
+      "title": "Dotted Black Hole",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/dotted_black_hole.jpg",
+      "size": 175248,
+      "updated_at": "2026-05-26T10:00:34Z",
+      "width": 720,
+      "height": 1440
+    },
+    {
+      "id": "7953d04d-5743-4e8a-b010-681d4cd0b39b",
+      "title": "Earth From Orbit",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/earth_from_orbit.jpg",
+      "size": 141422,
+      "updated_at": "2026-04-27T20:57:18Z",
+      "width": 1080,
+      "height": 2341
     }
   ]
 }

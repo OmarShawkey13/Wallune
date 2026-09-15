@@ -1,21 +1,11 @@
 {
   "page": 4,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "e11570ca-ebdf-43bd-a8f3-35ef6a28936e",
-      "title": "Out Of Mind Typography",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/out_of_mind_typography.jpg",
-      "size": 111930,
-      "updated_at": "2024-06-24T19:30:30Z",
-      "width": 736,
-      "height": 1437
-    },
     {
       "id": "18c020f8-a1cd-4170-8e11-a1ef4df92b53",
       "title": "Paint Splatters",
@@ -107,16 +97,6 @@
       "height": 1917
     },
     {
-      "id": "19420476-887d-457b-b94c-b2b66bf20021",
-      "title": "Smoking Neon Skull",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/smoking_neon_skull.jpg",
-      "size": 147807,
-      "updated_at": "2026-04-23T09:05:12Z",
-      "width": 1023,
-      "height": 2160
-    },
-    {
       "id": "9a694649-525d-4745-a98e-21c0d35ef40a",
       "title": "Soft Pink Fabric Abstract",
       "category": "Abstract",
@@ -205,6 +185,26 @@
       "updated_at": "2026-06-25T08:17:07Z",
       "width": 941,
       "height": 1672
+    },
+    {
+      "id": "77a75bd9-3919-49bf-ab7d-914c7b219f35",
+      "title": "Watercolor Phoenix",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/watercolor_phoenix.jpg",
+      "size": 158738,
+      "updated_at": "2026-06-25T08:17:04Z",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "9f3dba48-4ec4-40c9-aa4b-1ed5d6f39c47",
+      "title": "White Paint Splatter On Black Background",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_paint_splatter_on_black_background.jpg",
+      "size": 478152,
+      "updated_at": "2026-04-25T20:35:06Z",
+      "width": 998,
+      "height": 2160
     }
   ]
 }

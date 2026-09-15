@@ -1,175 +1,210 @@
 [
   {
+    "id": "e9a23dbd-a4ad-5ef0-b1d1-05e4a4b053ce",
     "name": "3D_Art",
     "count": 2,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/3D_Art/bunny_suit_character.jpg"
   },
   {
+    "id": "14f2dd7d-5373-58d5-bb6b-e50264b69b48",
     "name": "Abstract",
-    "count": 83,
+    "count": 81,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/3d_paper_mountains.jpg"
   },
   {
+    "id": "5b2383ca-2525-5cdd-be57-09dd7a3f3462",
     "name": "Animals",
-    "count": 25,
+    "count": 24,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/baby_turtles_beach.jpg"
   },
   {
+    "id": "c84e22c0-d901-5675-9656-b860fbf26559",
     "name": "Animation",
     "count": 21,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/flynn_rider_tied.jpg"
   },
   {
+    "id": "9f352953-ffca-591a-9f72-4874c03568f6",
     "name": "Anime",
     "count": 102,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/akaza_infinity_castle.jpg"
   },
   {
+    "id": "85319433-ed2f-594c-ad99-f2eaf688299d",
     "name": "Architecture",
     "count": 25,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/big_ben_at_night.jpg"
   },
   {
+    "id": "0470e18e-b988-5e98-aa24-98d896f9fef6",
     "name": "Art",
     "count": 28,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/cat_stack.jpg"
   },
   {
+    "id": "d80d18b2-263d-586b-8430-3d18b053f7f8",
     "name": "Brands",
     "count": 1,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Brands/blue_monster_logo.jpg"
   },
   {
+    "id": "0da0dc9b-a29d-5ee0-a4a8-96bff80e15b6",
     "name": "Cars",
     "count": 67,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/aston_martin_f1_rear.jpg"
   },
   {
+    "id": "282ad7f9-9347-567d-bd76-b5433665ac33",
     "name": "Cartoons",
     "count": 34,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/angel_pink_background.jpg"
   },
   {
+    "id": "8371892d-1f0d-54fe-af29-6cba18afd11b",
     "name": "Characters",
     "count": 1,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Characters/iron_man_portrait.jpg"
   },
   {
+    "id": "14ac729c-bdaa-5a18-8e4c-e68d1745f230",
     "name": "Cityscape",
     "count": 9,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/autumn_cafe_window.jpg"
   },
   {
+    "id": "d2cfa708-22a1-54be-b906-6798397025a9",
     "name": "Comics",
     "count": 7,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/miles_morales_spider_man.jpg"
   },
   {
+    "id": "28e0e7c3-b5e3-510f-ac9f-3a0160965cbc",
     "name": "Fantasy",
     "count": 10,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/blue_dragon.jpg"
   },
   {
+    "id": "f1aad3bb-62a8-51b9-b90d-afac52883795",
     "name": "Finance",
     "count": 1,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Finance/hundred_dollar_bills_roll.jpg"
   },
   {
+    "id": "ca3fecd5-2c8f-5e5a-aad2-4a78548677b9",
     "name": "Food",
     "count": 1,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Food/orange_slices.jpg"
   },
   {
+    "id": "c2cc75ec-6d17-5485-8d1d-b69de90257b7",
     "name": "Gaming",
     "count": 7,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/angry_birds_traffic_light.jpg"
   },
   {
+    "id": "33309edd-9f8d-5e96-ad2c-cb98f14f65c2",
     "name": "Illustration",
     "count": 3,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/broken_bulb_birds.jpg"
   },
   {
+    "id": "2c173db8-6ee9-57e2-9108-17f961fcd714",
     "name": "Landscape",
     "count": 2,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Landscape/red_boat_dark_canyon.jpg"
   },
   {
+    "id": "c4d659ca-47db-57e4-a846-d181b8c3602b",
     "name": "Movies",
     "count": 29,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/alice_down_the_rabbit_hole.jpg"
   },
   {
+    "id": "19381e2b-0853-5b1d-bfb2-cc339b8b9f36",
     "name": "Nature",
-    "count": 108,
+    "count": 107,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/anime_night_lake.jpg"
   },
   {
+    "id": "c3c5ea8a-594b-5df9-83f2-abd93e28d44e",
     "name": "People",
     "count": 4,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/blindfolded_girl.jpg"
   },
   {
+    "id": "982f9359-bc6d-53df-aa45-c6690df7810e",
     "name": "Pop_Culture",
     "count": 5,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/batman_toy.jpg"
   },
   {
+    "id": "3785b4c4-8f3c-530f-b59c-21b3f60477c9",
     "name": "Quotes",
     "count": 6,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/be_different.jpg"
   },
   {
+    "id": "5ed2cdfe-ef49-50db-896f-1b68c7d4f2c7",
     "name": "Religion",
     "count": 8,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/allah_wall_lamp.jpg"
   },
   {
+    "id": "6221752d-f199-5313-808a-78f86b3238a9",
     "name": "Sci_Fi",
     "count": 3,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sci_Fi/cyborg_samurai.jpg"
   },
   {
+    "id": "d951a00f-3282-530b-99a3-59d9be86ea4b",
     "name": "Space",
-    "count": 45,
+    "count": 44,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/astronaut_silhouette.jpg"
   },
   {
+    "id": "2106ad11-890a-593c-a284-b714f9ea104f",
     "name": "Sports",
     "count": 2,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sports/champions_league_logo.jpg"
   },
   {
+    "id": "b483716d-fd66-5b37-98d4-186398fc96b5",
     "name": "Superheroes",
     "count": 14,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/blue_neon_spider.jpg"
   },
   {
+    "id": "06ba6d73-d705-591b-8b84-79413ce134bb",
     "name": "Technology",
     "count": 2,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/circuit_board.jpg"
   },
   {
+    "id": "886879c0-d900-59ad-b7f4-69b7671ddd17",
     "name": "Toys",
     "count": 1,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Toys/lego_mugshot.jpg"
   },
   {
+    "id": "7f08ec53-95dd-5439-a8b2-b11e7545be88",
     "name": "Travel",
     "count": 1,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Travel/world_map_outline.jpg"
   },
   {
+    "id": "a624baa1-b705-5c39-bcf2-cea074fe4bae",
     "name": "Typography",
     "count": 8,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/alone.jpg"
   },
   {
+    "id": "b7c6c7ce-aac2-5476-be37-97a30fa17d2e",
     "name": "Vehicles",
     "count": 6,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Vehicles/airplane_above_clouds.jpg"
   },
   {
+    "id": "d1614864-9611-59a3-9b45-d2ddfcf73a2d",
     "name": "Weapons",
     "count": 3,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Weapons/black_and_white_katana.jpg"

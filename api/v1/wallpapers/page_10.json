@@ -1,41 +1,11 @@
 {
   "page": 10,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "e51181c7-8c22-44a3-b1ff-d2b38918033b",
-      "title": "Luffy Laughing",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_laughing.jpg",
-      "size": 146991,
-      "updated_at": "2024-10-02T07:33:07Z",
-      "width": 1152,
-      "height": 2048
-    },
-    {
-      "id": "d4a19a35-b006-4bca-809c-3a69487065c5",
-      "title": "Luffy Pointing",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_pointing.jpg",
-      "size": 118701,
-      "updated_at": "2026-05-23T09:35:17Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "5af23f32-6238-46fa-a177-87c890165d7b",
-      "title": "Luffy Red Aura",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_red_aura.jpg",
-      "size": 297698,
-      "updated_at": "2026-04-23T09:05:35Z",
-      "width": 986,
-      "height": 2160
-    },
     {
       "id": "ee1948b8-46eb-422d-ace8-7d0929addee8",
       "title": "Luffy Red Haki",
@@ -203,6 +173,36 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/samurai_do_or_die.jpg",
       "size": 119640,
       "updated_at": "2026-06-17T00:21:47Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f73b9e0f-8639-4470-b9d4-a1ab5b8ac39d",
+      "title": "Scientist And Equations",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/scientist_and_equations.jpg",
+      "size": 157286,
+      "updated_at": "2026-06-07T09:06:49Z",
+      "width": 864,
+      "height": 1728
+    },
+    {
+      "id": "00205e6d-5a9f-4c1b-a3f5-1e64beb746c3",
+      "title": "Sky Mirror Reflection",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/sky_mirror_reflection.jpg",
+      "size": 120016,
+      "updated_at": "2026-06-03T09:21:38Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "4aba8e94-2d64-4205-b703-2cc781896295",
+      "title": "Starry Night Meadow",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/starry_night_meadow.jpg",
+      "size": 160366,
+      "updated_at": "2026-06-20T18:00:31Z",
       "width": 1080,
       "height": 1920
     }

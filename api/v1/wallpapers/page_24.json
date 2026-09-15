@@ -1,41 +1,11 @@
 {
   "page": 24,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "5306ec63-21c0-4823-a134-376ff1f9149f",
-      "title": "Autumn Leaves",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/autumn_leaves.jpg",
-      "size": 138409,
-      "updated_at": "2026-06-25T14:31:33Z",
-      "width": 736,
-      "height": 1595
-    },
-    {
-      "id": "15884639-93f2-492c-a07e-4a032d65bae3",
-      "title": "Balcony Hanging Plant",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/balcony_hanging_plant.jpg",
-      "size": 115491,
-      "updated_at": "2026-06-03T09:21:41Z",
-      "width": 864,
-      "height": 1541
-    },
-    {
-      "id": "00afe82b-9af6-4516-9f06-b4627da41be7",
-      "title": "Bee On Daisies",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/bee_on_daisies.jpg",
-      "size": 181117,
-      "updated_at": "2026-06-17T21:31:53Z",
-      "width": 736,
-      "height": 1593
-    },
     {
       "id": "69b1b887-0f13-4e0b-b9c4-645b2f9ef769",
       "title": "Black Sand Dunes",
@@ -205,6 +175,36 @@
       "updated_at": "2026-06-28T11:01:31Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "53daa765-47c0-4d1b-9a38-c68075c32cbb",
+      "title": "Dark Wet Leaves",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_wet_leaves.jpg",
+      "size": 115678,
+      "updated_at": "2026-02-22T22:14:47Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "5df425ce-544c-410e-994b-5dbdb407f4c6",
+      "title": "Dramatic Mountain Clouds",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dramatic_mountain_clouds.jpg",
+      "size": 301452,
+      "updated_at": "2026-02-22T22:15:13Z",
+      "width": 736,
+      "height": 1594
+    },
+    {
+      "id": "f98bcfba-c34e-4609-bdff-8d8fd76d14cb",
+      "title": "Drawn Sun Beach",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/drawn_sun_beach.jpg",
+      "size": 214036,
+      "updated_at": "2026-06-19T19:32:13Z",
+      "width": 864,
+      "height": 1728
     }
   ]
 }

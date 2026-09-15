@@ -1,41 +1,11 @@
 {
   "page": 7,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "f6e470ca-08a5-47a8-a5db-f1934beffb83",
-      "title": "Toothless Eye",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/toothless_eye.jpg",
-      "size": 42052,
-      "updated_at": "2026-06-05T11:05:03Z",
-      "width": 702,
-      "height": 1092
-    },
-    {
-      "id": "9bf97f59-89cb-4ea3-b43f-80593e5d415a",
-      "title": "Toothless Split Eyes",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/toothless_split_eyes.jpg",
-      "size": 24721,
-      "updated_at": "2026-04-03T12:31:15Z",
-      "width": 720,
-      "height": 1065
-    },
-    {
-      "id": "df4d927d-74a9-4c7f-91c4-8cf0fd399238",
-      "title": "Wall E Look",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/wall_e_look.jpg",
-      "size": 127451,
-      "updated_at": "2026-06-05T11:05:12Z",
-      "width": 864,
-      "height": 1536
-    },
     {
       "id": "38d5b9c7-0b80-452f-8277-b430fa6d2dc3",
       "title": "Wall E Plant",
@@ -205,6 +175,36 @@
       "updated_at": "2025-02-16T09:39:57Z",
       "width": 1080,
       "height": 1900
+    },
+    {
+      "id": "2aa6a390-69de-499d-82f3-92ba23de12ae",
+      "title": "Anime Balcony Storm",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_balcony_storm.jpg",
+      "size": 249306,
+      "updated_at": "2025-02-16T09:39:50Z",
+      "width": 1080,
+      "height": 1900
+    },
+    {
+      "id": "453e88d9-4270-4b37-8e7f-a4425f0009a4",
+      "title": "Anime Beach With Glowing Waves At Night",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_beach_with_glowing_waves_at_night.jpg",
+      "size": 174809,
+      "updated_at": "2026-04-27T10:53:29Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "9c8e8f65-d43a-4c5a-a606-d23be3784ab8",
+      "title": "Anime City Crossing",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_city_crossing.jpg",
+      "size": 131002,
+      "updated_at": "2026-06-05T11:04:22Z",
+      "width": 864,
+      "height": 486
     }
   ]
 }

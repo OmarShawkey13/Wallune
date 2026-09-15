@@ -59,6 +59,11 @@ def _url(category, filename):
     return base + "/" + urllib.parse.quote(category, safe="") + "/" + urllib.parse.quote(filename, safe="")
 
 
+def _category_id(name):
+    """Return a deterministic UUID for a category name."""
+    return str(uuid.uuid5(uuid.NAMESPACE_URL, "wallune:category:" + name))
+
+
 def _url_relative(value):
     try:
         parsed = urllib.parse.urlsplit(value)
@@ -93,6 +98,16 @@ def _iter_images():
         for path in sorted(category.iterdir(), key=lambda item: item.name):
             if path.is_file() and path.suffix.lower() in VALID_EXTENSIONS:
                 yield category.name, path.name, str(path)
+
+
+def _reject_duplicate_images(items):
+    by_hash = {}
+    for item in items:
+        by_hash.setdefault(item["content_hash"], []).append(item["relative"])
+    duplicates = [paths for paths in by_hash.values() if len(paths) > 1]
+    if duplicates:
+        details = "; ".join(", ".join(paths) for paths in duplicates)
+        raise ValueError("Duplicate image bytes found; remove one copy: " + details)
 
 
 def _metadata_path():
@@ -404,12 +419,19 @@ def _validate_catalog(wallpapers, categories, search, pages, config, local_image
     expected_paths = set(local)
     if len(seen_paths) != len(expected_paths) or set(seen_paths) != expected_paths:
         raise ValueError("Local images and generated records are not a one-to-one mapping")
+    category_ids = [item.get("id") for item in categories]
+    if any(not _valid_uuid(value) for value in category_ids) or len(set(category_ids)) != len(category_ids):
+        raise ValueError("Category IDs are missing, invalid, or duplicated")
     names = {item["name"] for item in categories}
     if names != {item["category"] for item in wallpapers}:
         raise ValueError("Category names do not match wallpaper records")
     for category in categories:
         matching = [item for item in wallpapers if item["category"] == category["name"]]
-        if category["count"] != len(matching) or category["cover"] not in {item["image_url"] for item in matching}:
+        if (
+            category["id"] != _category_id(category["name"])
+            or category["count"] != len(matching)
+            or category["cover"] not in {item["image_url"] for item in matching}
+        ):
             raise ValueError("Category count or cover is invalid")
     by_id = {item["id"]: item for item in wallpapers}
     search_by_id = {item.get("id"): item for item in search}
@@ -524,13 +546,15 @@ class PaginatedResponse {
 }
 
 class Category {
+  final String id;
   final String name;
   final int count;
   final String cover;
 
-  Category({required this.name, required this.count, required this.cover});
+  Category({required this.id, required this.name, required this.count, required this.cover});
 
   factory Category.fromJson(Map<String, dynamic> json) => Category(
+    id: json['id'] as String? ?? '',
     name: json['name'] as String? ?? '',
     count: (json['count'] as num?)?.toInt() ?? 0,
     cover: json['cover'] as String? ?? '',
@@ -625,13 +649,14 @@ def process_images():
             "height": dimensions[1],
             "content_hash": _sha256(path),
         })
+    _reject_duplicate_images(items)
     wallpapers, metadata = _assign_ids(items, previous)
     wallpapers.sort(key=lambda item: (item["category"], item["title"], item["image_url"]))
     grouped = {}
     for item in wallpapers:
         grouped.setdefault(item["category"], []).append(item)
     categories = [
-        {"name": name, "count": len(values), "cover": values[0]["image_url"]}
+        {"id": _category_id(name), "name": name, "count": len(values), "cover": values[0]["image_url"]}
         for name, values in sorted(grouped.items())
     ]
     search = _search_index(wallpapers)

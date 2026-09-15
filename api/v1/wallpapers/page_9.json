@@ -1,41 +1,11 @@
 {
   "page": 9,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "73ec29f5-f45d-4569-ab2e-046c29963da9",
-      "title": "Asta Sword",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/asta_sword.jpg",
-      "size": 94148,
-      "updated_at": "2026-05-23T09:35:19Z",
-      "width": 736,
-      "height": 1297
-    },
-    {
-      "id": "5b862e70-0b53-49bc-a258-9d603ba6bdc2",
-      "title": "Cliffside Stargazing",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cliffside_stargazing.jpg",
-      "size": 66211,
-      "updated_at": "2026-06-20T18:00:34Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "774a2b87-41d3-471a-b7dc-2ece3f5f3ba1",
-      "title": "Coastal Village At Night",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/coastal_village_at_night.jpg",
-      "size": 215975,
-      "updated_at": "2026-04-27T10:53:19Z",
-      "width": 736,
-      "height": 1309
-    },
     {
       "id": "364a2a09-e9d3-40d2-8d4b-64c9998eaae8",
       "title": "Cute Anime City",
@@ -205,6 +175,36 @@
       "updated_at": "2026-04-01T13:58:48Z",
       "width": 1080,
       "height": 1936
+    },
+    {
+      "id": "e51181c7-8c22-44a3-b1ff-d2b38918033b",
+      "title": "Luffy Laughing",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_laughing.jpg",
+      "size": 146991,
+      "updated_at": "2024-10-02T07:33:07Z",
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "id": "d4a19a35-b006-4bca-809c-3a69487065c5",
+      "title": "Luffy Pointing",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_pointing.jpg",
+      "size": 118701,
+      "updated_at": "2026-05-23T09:35:17Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "5af23f32-6238-46fa-a177-87c890165d7b",
+      "title": "Luffy Red Aura",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_red_aura.jpg",
+      "size": 297698,
+      "updated_at": "2026-04-23T09:05:35Z",
+      "width": 986,
+      "height": 2160
     }
   ]
 }

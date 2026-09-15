@@ -1,41 +1,11 @@
 {
   "page": 21,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "4899a5c5-aa44-4a5e-a2f6-c8a9cecf4a75",
-      "title": "Spider Man City Fall",
-      "category": "Comics",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spider_man_city_fall.jpg",
-      "size": 222978,
-      "updated_at": "2026-04-07T16:09:16Z",
-      "width": 1080,
-      "height": 2138
-    },
-    {
-      "id": "a764aff7-d30e-4ad8-a0b3-1ae0588f6121",
-      "title": "Spiderman Climbing",
-      "category": "Comics",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spiderman_climbing.jpg",
-      "size": 338078,
-      "updated_at": "2026-03-10T00:14:40Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "e5cf6d09-ba3b-4223-ac06-9a05c3f90890",
-      "title": "Spiderman Defeated",
-      "category": "Comics",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spiderman_defeated.jpg",
-      "size": 315112,
-      "updated_at": "2026-04-23T09:05:40Z",
-      "width": 989,
-      "height": 2160
-    },
     {
       "id": "1d36c4e9-003a-44a4-be1f-701e4a7b9719",
       "title": "Spiderman Relaxing",
@@ -205,6 +175,36 @@
       "updated_at": "2026-06-14T20:24:13Z",
       "width": 864,
       "height": 1536
+    },
+    {
+      "id": "e0fbd9f1-17c6-4fff-98fc-30cf0bee0ed3",
+      "title": "Minecraft Cat Field",
+      "category": "Gaming",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/minecraft_cat_field.jpg",
+      "size": 58263,
+      "updated_at": "2025-01-06T08:26:26Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "0af91da5-aaeb-4e5c-bdc7-5c4c28bc97db",
+      "title": "Pixel Warrior Moon",
+      "category": "Gaming",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/pixel_warrior_moon.jpg",
+      "size": 158537,
+      "updated_at": "2026-04-07T16:15:24Z",
+      "width": 1080,
+      "height": 2561
+    },
+    {
+      "id": "b0bbbff2-b8e7-4501-9c50-4d6d46edd983",
+      "title": "Playstation Symbols",
+      "category": "Gaming",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/playstation_symbols.jpg",
+      "size": 496973,
+      "updated_at": "2026-04-23T09:05:21Z",
+      "width": 1080,
+      "height": 2340
     }
   ]
 }

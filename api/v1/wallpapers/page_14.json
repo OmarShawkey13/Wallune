@@ -1,41 +1,11 @@
 {
   "page": 14,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "2a6a1381-1974-41c2-83e5-37a027c196ae",
-      "title": "Dark Great Wave",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/dark_great_wave.jpg",
-      "size": 135478,
-      "updated_at": "2026-06-05T12:53:32Z",
-      "width": 736,
-      "height": 1632
-    },
-    {
-      "id": "8f4600b7-64e6-4532-8d32-16d376c3d572",
-      "title": "Dark Samurai Smoke",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/dark_samurai_smoke.jpg",
-      "size": 153643,
-      "updated_at": "2024-12-20T13:12:09Z",
-      "width": 1080,
-      "height": 2400
-    },
-    {
-      "id": "b4a9a901-c9ce-4d84-b9bb-a42f8fa17954",
-      "title": "Flower Stand Illustration",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/flower_stand_illustration.jpg",
-      "size": 252064,
-      "updated_at": "2024-04-29T09:07:09Z",
-      "width": 736,
-      "height": 1228
-    },
     {
       "id": "90b4842c-98e5-42b2-8ec3-f1572cdf98d6",
       "title": "Holding Hands Bw",
@@ -205,6 +175,36 @@
       "updated_at": "2026-04-27T10:53:04Z",
       "width": 736,
       "height": 1594
+    },
+    {
+      "id": "adaa51ab-aac2-4ddf-9435-ba734982ca72",
+      "title": "Shipwreck Split View",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/shipwreck_split_view.jpg",
+      "size": 151597,
+      "updated_at": "2026-06-30T15:53:07Z",
+      "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "1be6753f-93c8-4ae6-aacb-7abd7e98ecc2",
+      "title": "Starry Wheat Field",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/starry_wheat_field.jpg",
+      "size": 216286,
+      "updated_at": "2026-07-01T11:17:39Z",
+      "width": 736,
+      "height": 1600
+    },
+    {
+      "id": "7584c4dd-dc07-4eea-88b2-d55ca2381d51",
+      "title": "Swirling Sky Quote",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/swirling_sky_quote.jpg",
+      "size": 131523,
+      "updated_at": "2026-06-11T12:57:31Z",
+      "width": 964,
+      "height": 1713
     }
   ]
 }

@@ -1,41 +1,11 @@
 {
   "page": 26,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "71a7998b-5df9-4ea7-9bce-990f854022ea",
-      "title": "Moon And Clouds Collage",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_and_clouds_collage.jpg",
-      "size": 50271,
-      "updated_at": "2024-04-29T09:06:58Z",
-      "width": 640,
-      "height": 796
-    },
-    {
-      "id": "098a1599-271a-49b8-8bf9-99bd7edc95d8",
-      "title": "Moon Phases Collage",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_phases_collage.jpg",
-      "size": 80004,
-      "updated_at": "2024-04-29T09:06:55Z",
-      "width": 640,
-      "height": 788
-    },
-    {
-      "id": "12af5e02-8756-4c48-9de8-1d29792dbb8d",
-      "title": "Moon Through Trees",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_through_trees.jpg",
-      "size": 140275,
-      "updated_at": "2026-05-26T06:54:57Z",
-      "width": 1080,
-      "height": 2395
-    },
     {
       "id": "b3a8763a-0c2b-4377-a6c0-20cc326dcba8",
       "title": "Moon Tree Silhouette",
@@ -203,6 +173,36 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/pink_blossoms.jpg",
       "size": 204326,
       "updated_at": "2026-06-16T12:36:21Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "9c3556db-e2e4-4f34-aa76-fb6b341b60ed",
+      "title": "Pink Cherry Blossoms",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/pink_cherry_blossoms.jpg",
+      "size": 290134,
+      "updated_at": "2026-06-25T14:31:41Z",
+      "width": 736,
+      "height": 1207
+    },
+    {
+      "id": "98e42c4e-f522-4266-9243-7a259d156d58",
+      "title": "Plant In Rocks",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/plant_in_rocks.jpg",
+      "size": 161709,
+      "updated_at": "2026-07-01T09:37:44Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6daa934e-92fe-4c10-8cb7-9d6c822d7074",
+      "title": "Purple Flowers And Butterflies",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_flowers_and_butterflies.jpg",
+      "size": 97278,
+      "updated_at": "2026-06-27T18:40:56Z",
       "width": 1080,
       "height": 1920
     }

@@ -1,41 +1,11 @@
 {
   "page": 27,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "9c3556db-e2e4-4f34-aa76-fb6b341b60ed",
-      "title": "Pink Cherry Blossoms",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/pink_cherry_blossoms.jpg",
-      "size": 290134,
-      "updated_at": "2026-06-25T14:31:41Z",
-      "width": 736,
-      "height": 1207
-    },
-    {
-      "id": "98e42c4e-f522-4266-9243-7a259d156d58",
-      "title": "Plant In Rocks",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/plant_in_rocks.jpg",
-      "size": 161709,
-      "updated_at": "2026-07-01T09:37:44Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "6daa934e-92fe-4c10-8cb7-9d6c822d7074",
-      "title": "Purple Flowers And Butterflies",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_flowers_and_butterflies.jpg",
-      "size": 97278,
-      "updated_at": "2026-06-27T18:40:56Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "139cfdb3-7e5e-4bd9-a32b-1dad0990dcd4",
       "title": "Purple Galaxy Pier",
@@ -205,6 +175,36 @@
       "updated_at": "2026-06-27T14:02:10Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "61779a6c-bb71-4732-a27f-823f0eeb1e7d",
+      "title": "Snowy Blossoms Village",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_blossoms_village.jpg",
+      "size": 168304,
+      "updated_at": "2026-07-03T08:50:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "5461dd0d-7298-47e5-be67-4dd67376c73e",
+      "title": "Snowy Mountain Sunset",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_sunset.jpg",
+      "size": 83370,
+      "updated_at": "2026-02-22T22:15:23Z",
+      "width": 564,
+      "height": 1001
+    },
+    {
+      "id": "13a7635e-0984-4bdb-8899-7ffebe66faee",
+      "title": "Snowy Mountain Town",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_town.jpg",
+      "size": 33410,
+      "updated_at": "2026-02-22T22:15:19Z",
+      "width": 512,
+      "height": 1024
     }
   ]
 }

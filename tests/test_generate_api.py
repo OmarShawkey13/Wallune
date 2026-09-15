@@ -105,6 +105,15 @@ class StaticGeneratorTests(GeneratorFixture):
         self.assertEqual(len({item["image_url"] for item in records}), 2)
         categories = json.loads(Path("api/v1/categories.json").read_text())
         self.assertEqual({item["name"] for item in categories}, {"Animals", "Cars"})
+        self.assertEqual(len({item["id"] for item in categories}), 2)
+        for category in categories:
+            self.assertEqual(category["id"], generator._category_id(category["name"]))
+
+    def test_duplicate_image_bytes_fail_generation(self):
+        write_png(Path("images/Nature/first.jpg"), marker=b"same")
+        write_png(Path("images/Nature/second.jpg"), marker=b"same")
+        with self.assertRaisesRegex(ValueError, "Duplicate image bytes"):
+            self.generate()
 
     def test_stale_page_cleanup(self):
         for index in range(21):

@@ -1,51 +1,11 @@
 {
   "page": 31,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "e6acd4d1-1b22-40f4-88be-b418ebe6ca9d",
-      "title": "Cosmic Sky Portal",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/cosmic_sky_portal.jpg",
-      "size": 229206,
-      "updated_at": "2026-04-30T20:24:29Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "05009e8d-38d6-4de1-a6c8-b4232c43d973",
-      "title": "Dark Cloudy Moon Night",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/dark_cloudy_moon_night.jpg",
-      "size": 36194,
-      "updated_at": "2026-02-22T22:15:26Z",
-      "width": 564,
-      "height": 1002
-    },
-    {
-      "id": "adb7a5e2-d37e-42a9-85aa-0556e1f77a7b",
-      "title": "Dotted Black Hole",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/dotted_black_hole.jpg",
-      "size": 175248,
-      "updated_at": "2026-05-26T10:00:34Z",
-      "width": 720,
-      "height": 1440
-    },
-    {
-      "id": "7953d04d-5743-4e8a-b010-681d4cd0b39b",
-      "title": "Earth From Orbit",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/earth_from_orbit.jpg",
-      "size": 141422,
-      "updated_at": "2026-04-27T20:57:18Z",
-      "width": 1080,
-      "height": 2341
-    },
     {
       "id": "d9d4f1fc-425c-4487-811a-23d6d26397ce",
       "title": "Floating Space Portal",
@@ -137,16 +97,6 @@
       "height": 1213
     },
     {
-      "id": "57ba7a7b-b3bb-42bd-9f8e-d4090e261bb5",
-      "title": "Milky Way Canopy 2",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_canopy_2.jpg",
-      "size": 164455,
-      "updated_at": "2026-06-30T21:08:58Z",
-      "width": 768,
-      "height": 1213
-    },
-    {
       "id": "26968e30-91e5-4e15-b77d-7af326965e99",
       "title": "Milky Way Mountains",
       "category": "Space",
@@ -205,6 +155,56 @@
       "updated_at": "2026-06-27T18:41:01Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "4d93c0ab-aba0-481a-b886-f4a4236996f2",
+      "title": "Pink Magenta Nebula Clouds",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/pink_magenta_nebula_clouds.jpg",
+      "size": 381642,
+      "updated_at": "2026-02-08T08:02:49Z",
+      "width": 1080,
+      "height": 1926
+    },
+    {
+      "id": "7ac32545-2945-4e9d-a7c3-6c2f38d48177",
+      "title": "Pink Planets Red Mountains",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/pink_planets_red_mountains.jpg",
+      "size": 221310,
+      "updated_at": "2026-02-08T08:02:29Z",
+      "width": 816,
+      "height": 1456
+    },
+    {
+      "id": "6055cbec-72cf-42a5-b294-2e57a1a29248",
+      "title": "Planet Campfire",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/planet_campfire.jpg",
+      "size": 552096,
+      "updated_at": "2026-06-19T19:31:57Z",
+      "width": 942,
+      "height": 2048
+    },
+    {
+      "id": "e4c142ac-4e22-4223-8ab2-40bf080e20c7",
+      "title": "Planet Glowing Purple Rings",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/planet_glowing_purple_rings.jpg",
+      "size": 116821,
+      "updated_at": "2026-02-08T08:02:46Z",
+      "width": 816,
+      "height": 1456
+    },
+    {
+      "id": "1534bc3d-aa21-43a7-825b-cf48e6f0e514",
+      "title": "Planet Purple Pink Rings",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/planet_purple_pink_rings.jpg",
+      "size": 129446,
+      "updated_at": "2026-02-08T08:02:43Z",
+      "width": 816,
+      "height": 1456
     }
   ]
 }

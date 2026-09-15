@@ -847,7 +847,7 @@
       "aliases": [
         "images/Abstract/cloaked_figure_skull_gby34.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "f191be3c-2fe8-44f1-86cd-adf0261aed5c",
@@ -1143,7 +1143,7 @@
       "aliases": [
         "images/Nature/sunset_landscape_with_birds_bcte3.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "9701c3e6-7386-4ba8-ab89-cb61e3209030",
@@ -4087,7 +4087,7 @@
       "aliases": [
         "images/Abstract/smoking_neon_skull.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "2738a3ab-8df8-4947-acd7-103d0ee91a9d",
@@ -4431,7 +4431,7 @@
       "aliases": [
         "images/Space/milky_way_canopy_2.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "f811a1c7-2658-4053-81a4-b1dce572a077",
@@ -4647,7 +4647,7 @@
       "aliases": [
         "images/Animals/dove_silhouette_ixylt.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "38d5b9c7-0b80-452f-8277-b430fa6d2dc3",

@@ -1,61 +1,11 @@
 {
   "page": 32,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "4d93c0ab-aba0-481a-b886-f4a4236996f2",
-      "title": "Pink Magenta Nebula Clouds",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/pink_magenta_nebula_clouds.jpg",
-      "size": 381642,
-      "updated_at": "2026-02-08T08:02:49Z",
-      "width": 1080,
-      "height": 1926
-    },
-    {
-      "id": "7ac32545-2945-4e9d-a7c3-6c2f38d48177",
-      "title": "Pink Planets Red Mountains",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/pink_planets_red_mountains.jpg",
-      "size": 221310,
-      "updated_at": "2026-02-08T08:02:29Z",
-      "width": 816,
-      "height": 1456
-    },
-    {
-      "id": "6055cbec-72cf-42a5-b294-2e57a1a29248",
-      "title": "Planet Campfire",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/planet_campfire.jpg",
-      "size": 552096,
-      "updated_at": "2026-06-19T19:31:57Z",
-      "width": 942,
-      "height": 2048
-    },
-    {
-      "id": "e4c142ac-4e22-4223-8ab2-40bf080e20c7",
-      "title": "Planet Glowing Purple Rings",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/planet_glowing_purple_rings.jpg",
-      "size": 116821,
-      "updated_at": "2026-02-08T08:02:46Z",
-      "width": 816,
-      "height": 1456
-    },
-    {
-      "id": "1534bc3d-aa21-43a7-825b-cf48e6f0e514",
-      "title": "Planet Purple Pink Rings",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/planet_purple_pink_rings.jpg",
-      "size": 129446,
-      "updated_at": "2026-02-08T08:02:43Z",
-      "width": 816,
-      "height": 1456
-    },
     {
       "id": "937c31a6-b5dc-44ab-87c1-83dafc51628a",
       "title": "Red Accretion Disk",
@@ -205,6 +155,56 @@
       "updated_at": "2026-06-05T12:53:54Z",
       "width": 736,
       "height": 1312
+    },
+    {
+      "id": "83fd6a5a-0208-4127-9958-e26ce0ce4afe",
+      "title": "Blue Web Spider Man",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/blue_web_spider_man.jpg",
+      "size": 142043,
+      "updated_at": "2026-06-05T12:53:22Z",
+      "width": 736,
+      "height": 1471
+    },
+    {
+      "id": "3c7e9acb-479a-4d9d-8d14-b7a502c280a4",
+      "title": "Glowing Spiderman",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/glowing_spiderman.jpg",
+      "size": 69608,
+      "updated_at": "2026-05-23T09:35:13Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "50e3c459-0e7b-40af-a86e-9b2985421263",
+      "title": "Iron Fist Silhouette",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/iron_fist_silhouette.jpg",
+      "size": 28511,
+      "updated_at": "2026-05-23T09:35:30Z",
+      "width": 736,
+      "height": 1522
+    },
+    {
+      "id": "79750f25-60a0-4748-9f22-cf504ebc4a6a",
+      "title": "Miles Morales Glowing Eyes",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/miles_morales_glowing_eyes.jpg",
+      "size": 39811,
+      "updated_at": "2026-05-23T09:35:23Z",
+      "width": 736,
+      "height": 1578
+    },
+    {
+      "id": "2cdefec8-40eb-4d2c-af2a-632597b12d74",
+      "title": "Miles Morales Hoodie",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/miles_morales_hoodie.jpg",
+      "size": 187603,
+      "updated_at": "2026-06-06T17:15:55Z",
+      "width": 964,
+      "height": 2091
     }
   ]
 }

@@ -1,51 +1,11 @@
 {
   "page": 29,
   "total_pages": 34,
-  "total_items": 674,
+  "total_items": 669,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "69c8483f-6f26-4b9b-8a18-73f36258afed",
-      "title": "Winding Mountain Road Night",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winding_mountain_road_night.jpg",
-      "size": 164954,
-      "updated_at": "2026-03-03T02:29:16Z",
-      "width": 1080,
-      "height": 1350
-    },
-    {
-      "id": "626d427a-1c5d-49cd-ac47-46ab1517d337",
-      "title": "Winter Forest Sunrise",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winter_forest_sunrise.jpg",
-      "size": 115469,
-      "updated_at": "2026-02-22T22:15:28Z",
-      "width": 564,
-      "height": 1001
-    },
-    {
-      "id": "470a3b88-14fe-494b-81d6-e31bc780975a",
-      "title": "Winter Sunset Tree",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/winter_sunset_tree.jpg",
-      "size": 306806,
-      "updated_at": "2026-04-07T16:15:29Z",
-      "width": 1080,
-      "height": 2340
-    },
-    {
-      "id": "5103fb87-4b6a-40ff-b0e8-1f1d384594f9",
-      "title": "Wisteria Sunset Balcony",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/wisteria_sunset_balcony.jpg",
-      "size": 175481,
-      "updated_at": "2026-07-01T09:37:46Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "6117a3b8-837c-4650-aed5-1392c1258d3b",
       "title": "Yellow Blossoms",
@@ -205,6 +165,46 @@
       "updated_at": "2026-06-30T15:58:13Z",
       "width": 864,
       "height": 1152
+    },
+    {
+      "id": "74c9722c-4aff-46aa-97c3-c2c5af18bdf7",
+      "title": "Work Hard In Silence Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/work_hard_in_silence_quote.jpg",
+      "size": 161927,
+      "updated_at": "2025-08-01T12:19:07Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "e2e43488-bd28-4c0f-af6e-1991b43f8fa8",
+      "title": "Allah Wall Lamp",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/allah_wall_lamp.jpg",
+      "size": 34154,
+      "updated_at": "2026-05-27T16:00:59Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "7488e4b0-5d5c-4804-922f-c0505af67469",
+      "title": "Arabic Calligraphy Design",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/arabic_calligraphy_design.jpg",
+      "size": 17107,
+      "updated_at": "2026-05-27T16:01:08Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "f191be3c-2fe8-44f1-86cd-adf0261aed5c",
+      "title": "Bismillah Calligraphy",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/bismillah_calligraphy.jpg",
+      "size": 19235,
+      "updated_at": "2026-05-27T16:01:05Z",
+      "width": 675,
+      "height": 1200
     }
   ]
 }
