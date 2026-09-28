@@ -1,51 +1,11 @@
 {
   "page": 20,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "2c862d80-519f-47f6-82fb-763749c29b98",
-      "title": "Stitch Holding Sign",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_holding_sign.jpg",
-      "size": 27029,
-      "updated_at": "2026-03-15T20:56:53Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "03cc7953-4dd7-4a60-a537-f063d05d05db",
-      "title": "Stitch With Heart",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_with_heart.jpg",
-      "size": 28194,
-      "updated_at": "2026-03-15T20:56:48Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "9a8bb70a-1a51-41b2-b819-5ee1f3584f5d",
-      "title": "Three Happy Cats",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/three_happy_cats.jpg",
-      "size": 79902,
-      "updated_at": "2026-05-26T00:44:11Z",
-      "width": 736,
-      "height": 1593
-    },
-    {
-      "id": "899a27d5-5488-41e7-80a0-026c5ce5ef29",
-      "title": "Upside Down Stitch",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/upside_down_stitch.jpg",
-      "size": 21126,
-      "updated_at": "2026-03-15T20:56:40Z",
-      "width": 675,
-      "height": 1200
-    },
     {
       "id": "730c8f0f-f21d-440a-ada7-3fcd1f932e1d",
       "title": "Woody And Buzz",
@@ -205,6 +165,46 @@
       "updated_at": "2026-04-23T09:05:40Z",
       "width": 989,
       "height": 2160
+    },
+    {
+      "id": "1d36c4e9-003a-44a4-be1f-701e4a7b9719",
+      "title": "Spiderman Relaxing",
+      "category": "Comics",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spiderman_relaxing.jpg",
+      "size": 343362,
+      "updated_at": "2026-03-10T00:14:38Z",
+      "width": 736,
+      "height": 1466
+    },
+    {
+      "id": "2ee35245-9bd7-4d4c-9338-cbca7e5d4cb4",
+      "title": "Superman Artistic Portrait",
+      "category": "Comics",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/superman_artistic_portrait.jpg",
+      "size": 170487,
+      "updated_at": "2026-04-07T16:09:14Z",
+      "width": 1080,
+      "height": 1928
+    },
+    {
+      "id": "720f3bba-f3c3-4a57-991f-37058b8df299",
+      "title": "Blue Dragon",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/blue_dragon.jpg",
+      "size": 179859,
+      "updated_at": "2026-05-26T00:44:38Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "443f28e3-d882-4771-ab9a-f41c7e916b44",
+      "title": "Fantasy Oriental Tree",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fantasy_oriental_tree.jpg",
+      "size": 464169,
+      "updated_at": "2026-06-30T22:51:10Z",
+      "width": 1080,
+      "height": 1927
     }
   ]
 }

@@ -231,7 +231,7 @@
       "aliases": [
         "images/Cartoons/gangster_bugs_bunny.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "ad8ea659-93d3-4e33-b313-b4bdbec5ffc4",
@@ -679,7 +679,7 @@
       "aliases": [
         "images/Art/samurai_blood_moon.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "b1fbffa9-5243-43bb-b85e-9b84a38fccc6",
@@ -839,7 +839,7 @@
       "aliases": [
         "images/Abstract/cloaked_figure_skull.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "e589d25b-ce2d-4507-9291-3e0e6be57ec0",
@@ -1679,7 +1679,7 @@
       "aliases": [
         "images/Weapons/glowing_purple_katana.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "e60704e7-5eb9-49fb-91eb-7a746c8ba5b3",
@@ -2543,7 +2543,7 @@
       "aliases": [
         "images/Weapons/cherry_blossom_katana.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "c03b319b-f68d-48f0-abe0-818c30b12038",
@@ -4255,7 +4255,7 @@
       "aliases": [
         "images/Art/dark_samurai_smoke.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "bf6d8c23-f762-45af-b06d-d941960c5841",
@@ -4791,7 +4791,7 @@
       "aliases": [
         "images/Typography/dont_touch_warning.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "e2229999-ba9c-4888-9732-64f866e6456f",
@@ -5263,7 +5263,7 @@
       "aliases": [
         "images/Weapons/black_and_white_katana.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "fb262ba9-82ad-4241-80a1-57bf8fe1addd",

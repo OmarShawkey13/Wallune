@@ -1,41 +1,11 @@
 {
   "page": 15,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "cec38871-a7d3-487e-bdef-dbcb0334575b",
-      "title": "Walking Teddy Bear",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/walking_teddy_bear.jpg",
-      "size": 63445,
-      "updated_at": "2026-06-28T13:33:09Z",
-      "width": 554,
-      "height": 1200
-    },
-    {
-      "id": "56aa810b-d631-4749-a23a-3f0502b6416e",
-      "title": "White Doodles",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/white_doodles.jpg",
-      "size": 206675,
-      "updated_at": "2026-05-26T09:05:21Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "6082410d-2a58-49d1-9b3c-9196f2077838",
-      "title": "White Red Stylized Tree",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/white_red_stylized_tree.jpg",
-      "size": 105068,
-      "updated_at": "2026-06-30T09:22:57Z",
-      "width": 736,
-      "height": 1308
-    },
     {
       "id": "8ae6aa24-a06f-44e9-829f-bc566e0ecbc5",
       "title": "Blue Monster Logo",
@@ -203,6 +173,36 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m4_gt3_back.jpg",
       "size": 123300,
       "updated_at": "2026-04-01T16:52:19Z",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "f1d748f3-e2a1-46f1-a4ea-4177c04d464b",
+      "title": "Bmw M4 Waterfall Poster",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m4_waterfall_poster.jpg",
+      "size": 94436,
+      "updated_at": "2026-04-03T12:31:07Z",
+      "width": 720,
+      "height": 953
+    },
+    {
+      "id": "3ddb789a-de76-48c6-b196-2625e14571a8",
+      "title": "Bmw M5 Parking Lot",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_m5_parking_lot.jpg",
+      "size": 59664,
+      "updated_at": "2026-04-03T12:31:21Z",
+      "width": 720,
+      "height": 712
+    },
+    {
+      "id": "d218f423-e6e4-4937-bdc6-71213b5dbd14",
+      "title": "Bmw Motorsport Front",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_motorsport_front.jpg",
+      "size": 63682,
+      "updated_at": "2026-04-01T16:52:26Z",
       "width": 1080,
       "height": 1080
     }

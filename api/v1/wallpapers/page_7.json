@@ -1,21 +1,11 @@
 {
   "page": 7,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "38d5b9c7-0b80-452f-8277-b430fa6d2dc3",
-      "title": "Wall E Plant",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/wall_e_plant.jpg",
-      "size": 123525,
-      "updated_at": "2026-06-05T11:05:10Z",
-      "width": 864,
-      "height": 1536
-    },
     {
       "id": "c03b319b-f68d-48f0-abe0-818c30b12038",
       "title": "Zootopia Couch",
@@ -205,6 +195,16 @@
       "updated_at": "2026-06-05T11:04:22Z",
       "width": 864,
       "height": 486
+    },
+    {
+      "id": "bfb4208a-d675-47b6-b07d-68bba3a95a19",
+      "title": "Anime City Milky Way",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_city_milky_way.jpg",
+      "size": 292110,
+      "updated_at": "2025-02-16T09:39:59Z",
+      "width": 1080,
+      "height": 1900
     }
   ]
 }

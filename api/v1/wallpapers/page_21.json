@@ -1,51 +1,11 @@
 {
   "page": 21,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "1d36c4e9-003a-44a4-be1f-701e4a7b9719",
-      "title": "Spiderman Relaxing",
-      "category": "Comics",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/spiderman_relaxing.jpg",
-      "size": 343362,
-      "updated_at": "2026-03-10T00:14:38Z",
-      "width": 736,
-      "height": 1466
-    },
-    {
-      "id": "2ee35245-9bd7-4d4c-9338-cbca7e5d4cb4",
-      "title": "Superman Artistic Portrait",
-      "category": "Comics",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Comics/superman_artistic_portrait.jpg",
-      "size": 170487,
-      "updated_at": "2026-04-07T16:09:14Z",
-      "width": 1080,
-      "height": 1928
-    },
-    {
-      "id": "720f3bba-f3c3-4a57-991f-37058b8df299",
-      "title": "Blue Dragon",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/blue_dragon.jpg",
-      "size": 179859,
-      "updated_at": "2026-05-26T00:44:38Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "443f28e3-d882-4771-ab9a-f41c7e916b44",
-      "title": "Fantasy Oriental Tree",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fantasy_oriental_tree.jpg",
-      "size": 464169,
-      "updated_at": "2026-06-30T22:51:10Z",
-      "width": 1080,
-      "height": 1927
-    },
     {
       "id": "478c5d99-60ca-4119-8a95-a58655446756",
       "title": "Glowing Eyes Spartan",
@@ -205,6 +165,46 @@
       "updated_at": "2026-04-23T09:05:21Z",
       "width": 1080,
       "height": 2340
+    },
+    {
+      "id": "6c3f8a3d-4d36-46ef-90bd-922b9a51955b",
+      "title": "Spider Man Falling Over City",
+      "category": "Gaming",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/spider_man_falling_over_city.jpg",
+      "size": 329809,
+      "updated_at": "2025-04-12T15:01:33Z",
+      "width": 1080,
+      "height": 2338
+    },
+    {
+      "id": "7eafedd3-2d81-47a7-bbd1-0da2941853bf",
+      "title": "Broken Bulb Birds",
+      "category": "Illustration",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/broken_bulb_birds.jpg",
+      "size": 26236,
+      "updated_at": "2025-04-02T11:48:39Z",
+      "width": 736,
+      "height": 1596
+    },
+    {
+      "id": "c3adb493-46bb-46e0-b72c-27b5f33ad42e",
+      "title": "Cute Animals In Water",
+      "category": "Illustration",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/cute_animals_in_water.jpg",
+      "size": 268685,
+      "updated_at": "2026-06-27T09:26:40Z",
+      "width": 863,
+      "height": 1822
+    },
+    {
+      "id": "dacb829c-f23e-428f-92a0-5c11525dd7b6",
+      "title": "Cute Creatures Under Stars",
+      "category": "Illustration",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/cute_creatures_under_stars.jpg",
+      "size": 182221,
+      "updated_at": "2026-06-26T22:28:49Z",
+      "width": 864,
+      "height": 1820
     }
   ]
 }

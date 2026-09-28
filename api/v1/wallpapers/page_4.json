@@ -1,21 +1,11 @@
 {
   "page": 4,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "18c020f8-a1cd-4170-8e11-a1ef4df92b53",
-      "title": "Paint Splatters",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/paint_splatters.jpg",
-      "size": 88596,
-      "updated_at": "2026-06-17T22:56:32Z",
-      "width": 675,
-      "height": 1200
-    },
     {
       "id": "37baf946-844e-490e-af35-5d3530ee0b89",
       "title": "Pink Fabric Red Butterflies",
@@ -203,6 +193,16 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_paint_splatter_on_black_background.jpg",
       "size": 478152,
       "updated_at": "2026-04-25T20:35:06Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "67fc90ce-221b-4f36-b887-4c7db9a426a9",
+      "title": "White Paint Stroke On Black Background",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_paint_stroke_on_black_background.jpg",
+      "size": 111342,
+      "updated_at": "2026-04-25T20:34:43Z",
       "width": 998,
       "height": 2160
     }

@@ -1,51 +1,11 @@
 {
   "page": 22,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "6c3f8a3d-4d36-46ef-90bd-922b9a51955b",
-      "title": "Spider Man Falling Over City",
-      "category": "Gaming",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Gaming/spider_man_falling_over_city.jpg",
-      "size": 329809,
-      "updated_at": "2025-04-12T15:01:33Z",
-      "width": 1080,
-      "height": 2338
-    },
-    {
-      "id": "7eafedd3-2d81-47a7-bbd1-0da2941853bf",
-      "title": "Broken Bulb Birds",
-      "category": "Illustration",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/broken_bulb_birds.jpg",
-      "size": 26236,
-      "updated_at": "2025-04-02T11:48:39Z",
-      "width": 736,
-      "height": 1596
-    },
-    {
-      "id": "c3adb493-46bb-46e0-b72c-27b5f33ad42e",
-      "title": "Cute Animals In Water",
-      "category": "Illustration",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/cute_animals_in_water.jpg",
-      "size": 268685,
-      "updated_at": "2026-06-27T09:26:40Z",
-      "width": 863,
-      "height": 1822
-    },
-    {
-      "id": "dacb829c-f23e-428f-92a0-5c11525dd7b6",
-      "title": "Cute Creatures Under Stars",
-      "category": "Illustration",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Illustration/cute_creatures_under_stars.jpg",
-      "size": 182221,
-      "updated_at": "2026-06-26T22:28:49Z",
-      "width": 864,
-      "height": 1820
-    },
     {
       "id": "55c1f4e0-7074-4431-b734-1e88d6a2ffdf",
       "title": "Red Boat Dark Canyon",
@@ -203,6 +163,46 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_black_suit_split.jpg",
       "size": 182984,
       "updated_at": "2026-06-16T18:20:28Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a44b0e46-da6d-4410-90ee-268568d7dcfc",
+      "title": "Spiderman City Overlook",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_city_overlook.jpg",
+      "size": 224448,
+      "updated_at": "2026-06-16T18:20:48Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e3f01feb-b1f9-40d4-8ceb-0e9200f43d60",
+      "title": "Spiderman Dust",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_dust.jpg",
+      "size": 262298,
+      "updated_at": "2026-06-16T18:20:38Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "8dd92e68-d507-4224-8ed8-e0c8c2686276",
+      "title": "Spiderman Portal Fall",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_portal_fall.jpg",
+      "size": 529586,
+      "updated_at": "2026-06-16T18:20:54Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "cfa7fc4d-0507-41ca-b765-60d794a45c31",
+      "title": "Spiderman Red Field",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_red_field.jpg",
+      "size": 100849,
+      "updated_at": "2026-06-16T18:20:58Z",
       "width": 1080,
       "height": 1920
     }

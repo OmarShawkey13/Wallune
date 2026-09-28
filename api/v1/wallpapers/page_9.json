@@ -1,21 +1,11 @@
 {
   "page": 9,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "364a2a09-e9d3-40d2-8d4b-64c9998eaae8",
-      "title": "Cute Anime City",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cute_anime_city.jpg",
-      "size": 198888,
-      "updated_at": "2026-06-28T13:33:04Z",
-      "width": 864,
-      "height": 1820
-    },
     {
       "id": "b9bf2655-f46d-4cd9-b4f5-9f0497e3cca5",
       "title": "Cyberpunk Judy Hopps",
@@ -204,6 +194,16 @@
       "size": 297698,
       "updated_at": "2026-04-23T09:05:35Z",
       "width": 986,
+      "height": 2160
+    },
+    {
+      "id": "ee1948b8-46eb-422d-ace8-7d0929addee8",
+      "title": "Luffy Red Haki",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_red_haki.jpg",
+      "size": 179748,
+      "updated_at": "2026-04-23T09:05:37Z",
+      "width": 954,
       "height": 2160
     }
   ]

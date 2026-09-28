@@ -8,7 +8,7 @@
   {
     "id": "14f2dd7d-5373-58d5-bb6b-e50264b69b48",
     "name": "Abstract",
-    "count": 81,
+    "count": 80,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/3d_paper_mountains.jpg"
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": "0470e18e-b988-5e98-aa24-98d896f9fef6",
     "name": "Art",
-    "count": 28,
+    "count": 26,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/cat_stack.jpg"
   },
   {
@@ -56,7 +56,7 @@
   {
     "id": "282ad7f9-9347-567d-bd76-b5433665ac33",
     "name": "Cartoons",
-    "count": 34,
+    "count": 33,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/angel_pink_background.jpg"
   },
   {
@@ -194,7 +194,7 @@
   {
     "id": "a624baa1-b705-5c39-bcf2-cea074fe4bae",
     "name": "Typography",
-    "count": 8,
+    "count": 7,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/alone.jpg"
   },
   {
@@ -202,11 +202,5 @@
     "name": "Vehicles",
     "count": 6,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Vehicles/airplane_above_clouds.jpg"
-  },
-  {
-    "id": "d1614864-9611-59a3-9b45-d2ddfcf73a2d",
-    "name": "Weapons",
-    "count": 3,
-    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Weapons/black_and_white_katana.jpg"
   }
 ]

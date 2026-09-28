@@ -1,51 +1,11 @@
 {
   "page": 25,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "2975a6b4-8012-4fb9-928d-b8267693f176",
-      "title": "Flower Boat Blue Water",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/flower_boat_blue_water.jpg",
-      "size": 210449,
-      "updated_at": "2026-07-01T14:52:43Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "7695fa82-cf19-4403-a513-5712fea982e5",
-      "title": "Flower Shop Display",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/flower_shop_display.jpg",
-      "size": 287647,
-      "updated_at": "2024-04-29T09:07:11Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "fb262ba9-82ad-4241-80a1-57bf8fe1addd",
-      "title": "Foamy Beach Waves",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/foamy_beach_waves.jpg",
-      "size": 208555,
-      "updated_at": "2026-06-15T14:32:55Z",
-      "width": 972,
-      "height": 2047
-    },
-    {
-      "id": "e8725361-5723-4e6d-8b83-d5675af5752a",
-      "title": "Foggy Forest Road",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/foggy_forest_road.jpg",
-      "size": 71860,
-      "updated_at": "2026-06-24T21:42:15Z",
-      "width": 864,
-      "height": 1536
-    },
     {
       "id": "fd4800cc-813d-4a95-a021-42702336ef0f",
       "title": "Gerbera Daisy Drops",
@@ -205,6 +165,46 @@
       "updated_at": "2026-05-26T06:54:57Z",
       "width": 1080,
       "height": 2395
+    },
+    {
+      "id": "b3a8763a-0c2b-4377-a6c0-20cc326dcba8",
+      "title": "Moon Tree Silhouette",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_tree_silhouette.jpg",
+      "size": 48974,
+      "updated_at": "2025-04-02T11:48:40Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "c8f2ed44-6136-4ebc-a85f-9eb9a2c4455d",
+      "title": "Moonlight Mountain Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moonlight_mountain_lake.jpg",
+      "size": 223505,
+      "updated_at": "2026-05-25T22:34:44Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "9f4753e2-b73f-415c-84d0-cc8ca2067779",
+      "title": "Moonlight Over Japanese Garden",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moonlight_over_japanese_garden.jpg",
+      "size": 314840,
+      "updated_at": "2026-06-21T07:07:36Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "bf50c839-1cb9-471b-8ccc-924db17e10b4",
+      "title": "Moonlit Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moonlit_lake.jpg",
+      "size": 208894,
+      "updated_at": "2025-01-08T20:57:38Z",
+      "width": 960,
+      "height": 1198
     }
   ]
 }

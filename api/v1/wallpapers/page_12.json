@@ -1,21 +1,11 @@
 {
   "page": 12,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "aaa8a201-9e6d-46f1-9d78-a6786eeb3b36",
-      "title": "Zootopia Judy Pixel Art",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_judy_pixel_art.jpg",
-      "size": 271296,
-      "updated_at": "2026-02-15T09:58:54Z",
-      "width": 1025,
-      "height": 2160
-    },
     {
       "id": "b1fbffa9-5243-43bb-b85e-9b84a38fccc6",
       "title": "Zootopia Judy Plushies",
@@ -205,6 +195,16 @@
       "updated_at": "2026-06-05T12:53:30Z",
       "width": 736,
       "height": 1594
+    },
+    {
+      "id": "3b3e4a8e-de86-4948-b00f-dc6e1c92aa01",
+      "title": "Green Door With Ivy",
+      "category": "Architecture",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/green_door_with_ivy.jpg",
+      "size": 245413,
+      "updated_at": "2026-06-27T14:02:20Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

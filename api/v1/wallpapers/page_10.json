@@ -1,21 +1,11 @@
 {
   "page": 10,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "ee1948b8-46eb-422d-ace8-7d0929addee8",
-      "title": "Luffy Red Haki",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_red_haki.jpg",
-      "size": 179748,
-      "updated_at": "2026-04-23T09:05:37Z",
-      "width": 954,
-      "height": 2160
-    },
     {
       "id": "41c4dac0-9afc-4a8c-8618-ad454e1856bd",
       "title": "Luffy Vs Kaido Yonko Clash",
@@ -205,6 +195,16 @@
       "updated_at": "2026-06-20T18:00:31Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "c0075909-a6ae-4de5-9c59-d648dca56be7",
+      "title": "Stitch And Angel Blossom",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_blossom.jpg",
+      "size": 91826,
+      "updated_at": "2026-03-15T20:58:00Z",
+      "width": 736,
+      "height": 1308
     }
   ]
 }

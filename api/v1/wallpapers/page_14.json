@@ -1,31 +1,11 @@
 {
   "page": 14,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "90b4842c-98e5-42b2-8ec3-f1572cdf98d6",
-      "title": "Holding Hands Bw",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/holding_hands_bw.jpg",
-      "size": 64270,
-      "updated_at": "2026-07-03T12:45:50Z",
-      "width": 864,
-      "height": 1536
-    },
-    {
-      "id": "4f3ddfc6-d523-4f00-90b8-c427953ca7eb",
-      "title": "Ladder To The Moon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/ladder_to_the_moon.jpg",
-      "size": 190159,
-      "updated_at": "2026-06-28T11:01:23Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "1a1c4205-fe2e-435d-8fa4-c8b8ad8390ad",
       "title": "Minimalist Sailboats",
@@ -127,16 +107,6 @@
       "height": 2340
     },
     {
-      "id": "bfa6637c-aaa1-4ccc-b049-3198cde58f47",
-      "title": "Samurai Blood Moon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_blood_moon.jpg",
-      "size": 326327,
-      "updated_at": "2024-12-20T13:12:05Z",
-      "width": 1179,
-      "height": 2556
-    },
-    {
       "id": "106708fa-1db0-493d-a5d8-ea20d627134b",
       "title": "Samurai Huge Moon",
       "category": "Art",
@@ -205,6 +175,36 @@
       "updated_at": "2026-06-11T12:57:31Z",
       "width": 964,
       "height": 1713
+    },
+    {
+      "id": "cec38871-a7d3-487e-bdef-dbcb0334575b",
+      "title": "Walking Teddy Bear",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/walking_teddy_bear.jpg",
+      "size": 63445,
+      "updated_at": "2026-06-28T13:33:09Z",
+      "width": 554,
+      "height": 1200
+    },
+    {
+      "id": "56aa810b-d631-4749-a23a-3f0502b6416e",
+      "title": "White Doodles",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/white_doodles.jpg",
+      "size": 206675,
+      "updated_at": "2026-05-26T09:05:21Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6082410d-2a58-49d1-9b3c-9196f2077838",
+      "title": "White Red Stylized Tree",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/white_red_stylized_tree.jpg",
+      "size": 105068,
+      "updated_at": "2026-06-30T09:22:57Z",
+      "width": 736,
+      "height": 1308
     }
   ]
 }

@@ -1,51 +1,11 @@
 {
   "page": 29,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "6117a3b8-837c-4650-aed5-1392c1258d3b",
-      "title": "Yellow Blossoms",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/yellow_blossoms.jpg",
-      "size": 233487,
-      "updated_at": "2026-06-17T21:31:50Z",
-      "width": 736,
-      "height": 1595
-    },
-    {
-      "id": "aa157fa8-e36f-46e8-b29f-c0421e0677ff",
-      "title": "Yellow Tree Blue Water",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/yellow_tree_blue_water.jpg",
-      "size": 223707,
-      "updated_at": "2026-06-30T09:22:59Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "13d6f355-f702-4c83-85a9-1d5d35fdf7f8",
-      "title": "Blindfolded Girl",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/blindfolded_girl.jpg",
-      "size": 98839,
-      "updated_at": "2026-04-23T09:05:14Z",
-      "width": 996,
-      "height": 2160
-    },
-    {
-      "id": "d49275a6-ea4f-40a0-a919-51d7d8c8dc25",
-      "title": "Holding Hands At Sunset",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/holding_hands_at_sunset.jpg",
-      "size": 86674,
-      "updated_at": "2023-07-06T18:42:43Z",
-      "width": 640,
-      "height": 640
-    },
     {
       "id": "ffe6d942-17a0-4683-a0f6-16893016be1a",
       "title": "Lonely Soccer Field",
@@ -205,6 +165,46 @@
       "updated_at": "2026-05-27T16:01:05Z",
       "width": 675,
       "height": 1200
+    },
+    {
+      "id": "817ed4a6-9dc8-4214-85c7-fd5dd2b31c80",
+      "title": "Boy Praying Illustration",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/boy_praying_illustration.jpg",
+      "size": 102684,
+      "updated_at": "2025-01-14T13:45:03Z",
+      "width": 1080,
+      "height": 1925
+    },
+    {
+      "id": "6945af2a-8328-4ffb-ab9d-dcc70fc5d281",
+      "title": "Framed Arabic Calligraphy",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/framed_arabic_calligraphy.jpg",
+      "size": 27869,
+      "updated_at": "2026-05-27T16:01:10Z",
+      "width": 718,
+      "height": 1199
+    },
+    {
+      "id": "91870d5a-297e-4512-983c-90cb6926ffa0",
+      "title": "Quran And Allah",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/quran_and_allah.jpg",
+      "size": 37660,
+      "updated_at": "2026-05-27T16:01:02Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "3e4ef14b-cc45-4daf-b2b9-25c07586d0a7",
+      "title": "Quran Helping Hand",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/quran_helping_hand.jpg",
+      "size": 36111,
+      "updated_at": "2025-02-16T09:39:11Z",
+      "width": 714,
+      "height": 563
     }
   ]
 }

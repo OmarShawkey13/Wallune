@@ -1,51 +1,11 @@
 {
   "page": 27,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "139cfdb3-7e5e-4bd9-a32b-1dad0990dcd4",
-      "title": "Purple Galaxy Pier",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_galaxy_pier.jpg",
-      "size": 251557,
-      "updated_at": "2026-02-22T22:14:55Z",
-      "width": 736,
-      "height": 1593
-    },
-    {
-      "id": "ab0a3516-2136-4714-aa5d-3f48bc798635",
-      "title": "Purple Leaves Drops",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_leaves_drops.jpg",
-      "size": 191004,
-      "updated_at": "2026-07-03T08:50:10Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "085e0b7f-b2df-4fcc-b7d0-8d7244c1a609",
-      "title": "Purple Orange Leaves",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_orange_leaves.jpg",
-      "size": 149838,
-      "updated_at": "2026-07-03T08:50:07Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "20fe38f8-8ecf-4ebe-ae0b-ef2d641d7bd9",
-      "title": "Purple Sunset Rock",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_sunset_rock.jpg",
-      "size": 117077,
-      "updated_at": "2026-07-01T17:20:49Z",
-      "width": 1000,
-      "height": 2110
-    },
     {
       "id": "85e95830-219d-4fb1-a03b-24c3922cb803",
       "title": "Red Autumn Forest River",
@@ -205,6 +165,46 @@
       "updated_at": "2026-02-22T22:15:19Z",
       "width": 512,
       "height": 1024
+    },
+    {
+      "id": "8088c6ff-a1f0-457c-beb8-21e2f118a6fc",
+      "title": "Snowy Mountains Red Trees",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountains_red_trees.jpg",
+      "size": 272882,
+      "updated_at": "2026-03-03T02:29:24Z",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "id": "5a5b9e59-74e3-4054-a101-3148415c700c",
+      "title": "Starry Night By The Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_night_by_the_lake.jpg",
+      "size": 125876,
+      "updated_at": "2026-06-20T18:00:39Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6b217718-9f5c-413c-bb1a-4341302a23bb",
+      "title": "Stepping Stones Between Mountains With Red Trees",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/stepping_stones_between_mountains_with_red_trees.jpg",
+      "size": 155903,
+      "updated_at": "2026-04-27T10:53:25Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "727efc40-d166-4147-a256-e6ae2c88aeb0",
+      "title": "Sun Reflection On Dark Water",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sun_reflection_on_dark_water.jpg",
+      "size": 105369,
+      "updated_at": "2026-04-27T10:53:22Z",
+      "width": 736,
+      "height": 1308
     }
   ]
 }

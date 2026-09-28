@@ -1,51 +1,11 @@
 {
   "page": 32,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "937c31a6-b5dc-44ab-87c1-83dafc51628a",
-      "title": "Red Accretion Disk",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_accretion_disk.jpg",
-      "size": 309073,
-      "updated_at": "2026-02-06T20:29:56Z",
-      "width": 1080,
-      "height": 1927
-    },
-    {
-      "id": "a3426bf7-0a31-4095-89cf-eb427f4e37d7",
-      "title": "Red Alien City",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_alien_city.jpg",
-      "size": 255649,
-      "updated_at": "2026-04-30T20:24:32Z",
-      "width": 1080,
-      "height": 1922
-    },
-    {
-      "id": "e2e94f42-4a24-4fea-8af6-0330489b123c",
-      "title": "Red Castle Stars",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_castle_stars.jpg",
-      "size": 398317,
-      "updated_at": "2026-02-06T20:29:52Z",
-      "width": 1080,
-      "height": 1927
-    },
-    {
-      "id": "74a3657e-576d-417b-ae84-386214e25b68",
-      "title": "Red Clouds Planet",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_clouds_planet.jpg",
-      "size": 353913,
-      "updated_at": "2026-02-06T20:29:54Z",
-      "width": 1080,
-      "height": 1927
-    },
     {
       "id": "c2621e2f-5729-4701-ac86-1db909dedd08",
       "title": "Red Crescent Landscape",
@@ -205,6 +165,46 @@
       "updated_at": "2026-06-06T17:15:55Z",
       "width": 964,
       "height": 2091
+    },
+    {
+      "id": "7b1cb424-a3e6-465a-81ca-a8c5ed8c9ff3",
+      "title": "Miles Morales Red Suit",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/miles_morales_red_suit.jpg",
+      "size": 47720,
+      "updated_at": "2026-05-23T09:35:21Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "e26403cc-01e3-4c97-8b74-075de9952055",
+      "title": "Moon Knight Crescent",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/moon_knight_crescent.jpg",
+      "size": 57661,
+      "updated_at": "2026-05-23T09:35:12Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "a61e84f0-bd43-4b59-b530-b2b723c6c6a1",
+      "title": "Nightwing Logo",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/nightwing_logo.jpg",
+      "size": 11049,
+      "updated_at": "2026-06-05T12:53:52Z",
+      "width": 736,
+      "height": 1453
+    },
+    {
+      "id": "4bd60f5d-555d-439a-993b-3c0a1392a9bd",
+      "title": "Silver Spiderman Logo",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/silver_spiderman_logo.jpg",
+      "size": 29651,
+      "updated_at": "2026-05-29T16:02:30Z",
+      "width": 864,
+      "height": 1536
     }
   ]
 }

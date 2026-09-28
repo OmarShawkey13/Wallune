@@ -1,21 +1,11 @@
 {
   "page": 11,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "c0075909-a6ae-4de5-9c59-d648dca56be7",
-      "title": "Stitch And Angel Blossom",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_blossom.jpg",
-      "size": 91826,
-      "updated_at": "2026-03-15T20:58:00Z",
-      "width": 736,
-      "height": 1308
-    },
     {
       "id": "ea7a6e06-aaf0-43e7-8da4-6fdb0be20f08",
       "title": "Stitch And Angel Heart",
@@ -205,6 +195,16 @@
       "updated_at": "2025-09-05T21:00:58Z",
       "width": 736,
       "height": 1308
+    },
+    {
+      "id": "aaa8a201-9e6d-46f1-9d78-a6786eeb3b36",
+      "title": "Zootopia Judy Pixel Art",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_judy_pixel_art.jpg",
+      "size": 271296,
+      "updated_at": "2026-02-15T09:58:54Z",
+      "width": 1025,
+      "height": 2160
     }
   ]
 }

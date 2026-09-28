@@ -1,51 +1,11 @@
 {
   "page": 23,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "a44b0e46-da6d-4410-90ee-268568d7dcfc",
-      "title": "Spiderman City Overlook",
-      "category": "Movies",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_city_overlook.jpg",
-      "size": 224448,
-      "updated_at": "2026-06-16T18:20:48Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e3f01feb-b1f9-40d4-8ceb-0e9200f43d60",
-      "title": "Spiderman Dust",
-      "category": "Movies",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_dust.jpg",
-      "size": 262298,
-      "updated_at": "2026-06-16T18:20:38Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "8dd92e68-d507-4224-8ed8-e0c8c2686276",
-      "title": "Spiderman Portal Fall",
-      "category": "Movies",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_portal_fall.jpg",
-      "size": 529586,
-      "updated_at": "2026-06-16T18:20:54Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "cfa7fc4d-0507-41ca-b765-60d794a45c31",
-      "title": "Spiderman Red Field",
-      "category": "Movies",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_red_field.jpg",
-      "size": 100849,
-      "updated_at": "2026-06-16T18:20:58Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "6ec09eef-204c-48f3-8b72-b79759bf627d",
       "title": "Spiderman Red Moon",
@@ -205,6 +165,46 @@
       "updated_at": "2026-06-17T21:31:53Z",
       "width": 736,
       "height": 1593
+    },
+    {
+      "id": "69b1b887-0f13-4e0b-b9c4-645b2f9ef769",
+      "title": "Black Sand Dunes",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_sand_dunes.jpg",
+      "size": 66674,
+      "updated_at": "2026-04-25T20:34:32Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "e9007588-2028-4483-91b6-efa81b389e06",
+      "title": "Black Vision Beach",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_vision_beach.jpg",
+      "size": 72116,
+      "updated_at": "2026-07-03T12:45:44Z",
+      "width": 864,
+      "height": 1740
+    },
+    {
+      "id": "d741ee61-8be7-4d2f-9a49-d2cd8b1a3306",
+      "title": "Blossom Wind Chime",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blossom_wind_chime.jpg",
+      "size": 141230,
+      "updated_at": "2026-07-02T17:13:26Z",
+      "width": 736,
+      "height": 1597
+    },
+    {
+      "id": "a33a9227-ab74-4d5e-b7ec-571c220b269c",
+      "title": "Blue Flower Bouquets",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_flower_bouquets.jpg",
+      "size": 152115,
+      "updated_at": "2024-04-29T09:07:07Z",
+      "width": 636,
+      "height": 1200
     }
   ]
 }

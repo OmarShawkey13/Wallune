@@ -1,21 +1,11 @@
 {
   "page": 13,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "3b3e4a8e-de86-4948-b00f-dc6e1c92aa01",
-      "title": "Green Door With Ivy",
-      "category": "Architecture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/green_door_with_ivy.jpg",
-      "size": 245413,
-      "updated_at": "2026-06-27T14:02:20Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "60d99568-6139-4d00-872b-f947ba421225",
       "title": "Infinity Pool By Ocean",
@@ -187,16 +177,6 @@
       "height": 1632
     },
     {
-      "id": "8f4600b7-64e6-4532-8d32-16d376c3d572",
-      "title": "Dark Samurai Smoke",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/dark_samurai_smoke.jpg",
-      "size": 153643,
-      "updated_at": "2024-12-20T13:12:09Z",
-      "width": 1080,
-      "height": 2400
-    },
-    {
       "id": "b4a9a901-c9ce-4d84-b9bb-a42f8fa17954",
       "title": "Flower Stand Illustration",
       "category": "Art",
@@ -205,6 +185,26 @@
       "updated_at": "2024-04-29T09:07:09Z",
       "width": 736,
       "height": 1228
+    },
+    {
+      "id": "90b4842c-98e5-42b2-8ec3-f1572cdf98d6",
+      "title": "Holding Hands Bw",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/holding_hands_bw.jpg",
+      "size": 64270,
+      "updated_at": "2026-07-03T12:45:50Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "4f3ddfc6-d523-4f00-90b8-c427953ca7eb",
+      "title": "Ladder To The Moon",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/ladder_to_the_moon.jpg",
+      "size": 190159,
+      "updated_at": "2026-06-28T11:01:23Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

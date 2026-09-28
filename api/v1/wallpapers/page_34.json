@@ -1,61 +1,11 @@
 {
   "page": 34,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": false,
   "has_prev": true,
   "data": [
-    {
-      "id": "6391daae-84dd-446c-a367-c947e0a69b07",
-      "title": "Airplane Above Clouds",
-      "category": "Vehicles",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Vehicles/airplane_above_clouds.jpg",
-      "size": 190579,
-      "updated_at": "2026-06-26T22:28:09Z",
-      "width": 864,
-      "height": 1916
-    },
-    {
-      "id": "03065281-0e0a-4a07-bbf0-fcc9793d5bb0",
-      "title": "Airplane In Clouds",
-      "category": "Vehicles",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Vehicles/airplane_in_clouds.jpg",
-      "size": 177594,
-      "updated_at": "2026-06-17T22:56:30Z",
-      "width": 864,
-      "height": 1872
-    },
-    {
-      "id": "c46356aa-8674-4e7e-ac9a-dc241fb4e1f5",
-      "title": "Airplane Night",
-      "category": "Vehicles",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Vehicles/airplane_night.jpg",
-      "size": 11072,
-      "updated_at": "2025-04-02T11:48:37Z",
-      "width": 736,
-      "height": 1141
-    },
-    {
-      "id": "ad8ea659-93d3-4e33-b313-b4bdbec5ffc4",
-      "title": "Airplane Under Starry Sky",
-      "category": "Vehicles",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Vehicles/airplane_under_starry_sky.jpg",
-      "size": 231481,
-      "updated_at": "2026-06-26T22:28:12Z",
-      "width": 864,
-      "height": 1536
-    },
-    {
-      "id": "b701cdc8-9ba6-4235-8974-fa85a6a2c24a",
-      "title": "Biplane At Sunset",
-      "category": "Vehicles",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Vehicles/biplane_at_sunset.jpg",
-      "size": 163597,
-      "updated_at": "2026-06-22T06:47:51Z",
-      "width": 864,
-      "height": 1916
-    },
     {
       "id": "d5b64a9d-f670-4ff8-b2cb-493b99fc0960",
       "title": "Ship In Cave",
@@ -65,36 +15,6 @@
       "updated_at": "2026-04-25T20:34:28Z",
       "width": 998,
       "height": 2160
-    },
-    {
-      "id": "1d140fca-720d-4e46-84cb-c4adb4498eac",
-      "title": "Black And White Katana",
-      "category": "Weapons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Weapons/black_and_white_katana.jpg",
-      "size": 34275,
-      "updated_at": "2026-06-22T23:19:34Z",
-      "width": 864,
-      "height": 1697
-    },
-    {
-      "id": "0c4bf716-e41b-4554-a6d3-94359d2172de",
-      "title": "Cherry Blossom Katana",
-      "category": "Weapons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Weapons/cherry_blossom_katana.jpg",
-      "size": 22404,
-      "updated_at": "2026-06-22T23:19:38Z",
-      "width": 864,
-      "height": 1526
-    },
-    {
-      "id": "668d92bb-1fb2-4e3b-9150-3f1ce11b1f94",
-      "title": "Glowing Purple Katana",
-      "category": "Weapons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Weapons/glowing_purple_katana.jpg",
-      "size": 203115,
-      "updated_at": "2026-06-22T23:19:36Z",
-      "width": 864,
-      "height": 1535
     }
   ]
 }

@@ -1,21 +1,11 @@
 {
   "page": 8,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "bfb4208a-d675-47b6-b07d-68bba3a95a19",
-      "title": "Anime City Milky Way",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_city_milky_way.jpg",
-      "size": 292110,
-      "updated_at": "2025-02-16T09:39:59Z",
-      "width": 1080,
-      "height": 1900
-    },
     {
       "id": "36e867e1-1773-4a0d-b18b-1bf7725ecc3b",
       "title": "Anime City Over Water At Night",
@@ -205,6 +195,16 @@
       "updated_at": "2026-04-27T10:53:19Z",
       "width": 736,
       "height": 1309
+    },
+    {
+      "id": "364a2a09-e9d3-40d2-8d4b-64c9998eaae8",
+      "title": "Cute Anime City",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cute_anime_city.jpg",
+      "size": 198888,
+      "updated_at": "2026-06-28T13:33:04Z",
+      "width": 864,
+      "height": 1820
     }
   ]
 }

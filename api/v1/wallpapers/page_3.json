@@ -1,21 +1,11 @@
 {
   "page": 3,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "8f6ff4b2-93c2-4163-80cb-2c73ecba7d6a",
-      "title": "Floral Border",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/floral_border.jpg",
-      "size": 257014,
-      "updated_at": "2026-06-17T22:56:27Z",
-      "width": 864,
-      "height": 1872
-    },
     {
       "id": "c1957a52-4f84-4713-94a9-69d55c090db6",
       "title": "Forever Heart Left",
@@ -205,6 +195,16 @@
       "updated_at": "2024-06-24T19:30:30Z",
       "width": 736,
       "height": 1437
+    },
+    {
+      "id": "18c020f8-a1cd-4170-8e11-a1ef4df92b53",
+      "title": "Paint Splatters",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/paint_splatters.jpg",
+      "size": 88596,
+      "updated_at": "2026-06-17T22:56:32Z",
+      "width": 675,
+      "height": 1200
     }
   ]
 }

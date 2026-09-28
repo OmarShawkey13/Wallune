@@ -1,41 +1,11 @@
 {
   "page": 19,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "6d9f1a8b-044f-4c38-a7eb-ce70b861590b",
-      "title": "Courage Red Sky Ghosts",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/courage_red_sky_ghosts.jpg",
-      "size": 391145,
-      "updated_at": "2026-04-01T16:51:59Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "cd6c7b8d-95e9-49ec-aa1f-bbe7e18824cf",
-      "title": "Courage Red Tornado",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/courage_red_tornado.jpg",
-      "size": 288918,
-      "updated_at": "2026-04-01T16:51:55Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "06addf6e-d31e-4b5c-817a-aeb6547fbfb0",
-      "title": "Courage Sky Of Eyes",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/courage_sky_of_eyes.jpg",
-      "size": 410342,
-      "updated_at": "2026-04-01T16:52:00Z",
-      "width": 1080,
-      "height": 2160
-    },
     {
       "id": "74342110-382f-4a0a-a7c6-caaafbeaf4b3",
       "title": "Courage Swirly Red Sky",
@@ -75,16 +45,6 @@
       "updated_at": "2026-05-18T13:23:42Z",
       "width": 1080,
       "height": 2344
-    },
-    {
-      "id": "c0efe300-6281-41c8-9103-96a85a887dc1",
-      "title": "Gangster Bugs Bunny",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/gangster_bugs_bunny.jpg",
-      "size": 90029,
-      "updated_at": "2026-05-25T18:56:42Z",
-      "width": 945,
-      "height": 2048
     },
     {
       "id": "d12b2b4a-1863-40c2-ae77-ab55dedb87c7",
@@ -205,6 +165,46 @@
       "updated_at": "2026-06-05T11:04:06Z",
       "width": 1180,
       "height": 2098
+    },
+    {
+      "id": "2c862d80-519f-47f6-82fb-763749c29b98",
+      "title": "Stitch Holding Sign",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_holding_sign.jpg",
+      "size": 27029,
+      "updated_at": "2026-03-15T20:56:53Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "03cc7953-4dd7-4a60-a537-f063d05d05db",
+      "title": "Stitch With Heart",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/stitch_with_heart.jpg",
+      "size": 28194,
+      "updated_at": "2026-03-15T20:56:48Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "9a8bb70a-1a51-41b2-b819-5ee1f3584f5d",
+      "title": "Three Happy Cats",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/three_happy_cats.jpg",
+      "size": 79902,
+      "updated_at": "2026-05-26T00:44:11Z",
+      "width": 736,
+      "height": 1593
+    },
+    {
+      "id": "899a27d5-5488-41e7-80a0-026c5ce5ef29",
+      "title": "Upside Down Stitch",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/upside_down_stitch.jpg",
+      "size": 21126,
+      "updated_at": "2026-03-15T20:56:40Z",
+      "width": 675,
+      "height": 1200
     }
   ]
 }

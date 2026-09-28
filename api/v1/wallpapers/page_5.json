@@ -1,21 +1,11 @@
 {
   "page": 5,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "67fc90ce-221b-4f36-b887-4c7db9a426a9",
-      "title": "White Paint Stroke On Black Background",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_paint_stroke_on_black_background.jpg",
-      "size": 111342,
-      "updated_at": "2026-04-25T20:34:43Z",
-      "width": 998,
-      "height": 2160
-    },
     {
       "id": "ac603d3c-3c7b-409b-89af-00f58fc362b1",
       "title": "White Particle Explosion",
@@ -205,6 +195,16 @@
       "updated_at": "2026-06-27T09:26:50Z",
       "width": 864,
       "height": 1916
+    },
+    {
+      "id": "60475972-68fa-4587-ad89-95b4768e34cc",
+      "title": "Grey Cat With Blue Eyes",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/grey_cat_with_blue_eyes.jpg",
+      "size": 166567,
+      "updated_at": "2025-03-17T07:56:25Z",
+      "width": 540,
+      "height": 1200
     }
   ]
 }

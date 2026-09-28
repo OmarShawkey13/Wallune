@@ -1,51 +1,11 @@
 {
   "page": 26,
   "total_pages": 34,
-  "total_items": 669,
+  "total_items": 661,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "b3a8763a-0c2b-4377-a6c0-20cc326dcba8",
-      "title": "Moon Tree Silhouette",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moon_tree_silhouette.jpg",
-      "size": 48974,
-      "updated_at": "2025-04-02T11:48:40Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "c8f2ed44-6136-4ebc-a85f-9eb9a2c4455d",
-      "title": "Moonlight Mountain Lake",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moonlight_mountain_lake.jpg",
-      "size": 223505,
-      "updated_at": "2026-05-25T22:34:44Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "9f4753e2-b73f-415c-84d0-cc8ca2067779",
-      "title": "Moonlight Over Japanese Garden",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moonlight_over_japanese_garden.jpg",
-      "size": 314840,
-      "updated_at": "2026-06-21T07:07:36Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "bf50c839-1cb9-471b-8ccc-924db17e10b4",
-      "title": "Moonlit Lake",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moonlit_lake.jpg",
-      "size": 208894,
-      "updated_at": "2025-01-08T20:57:38Z",
-      "width": 960,
-      "height": 1198
-    },
     {
       "id": "efc519ee-c2d1-426f-84ce-600268906283",
       "title": "Moonlit Water",
@@ -205,6 +165,46 @@
       "updated_at": "2026-06-27T18:40:56Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "139cfdb3-7e5e-4bd9-a32b-1dad0990dcd4",
+      "title": "Purple Galaxy Pier",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_galaxy_pier.jpg",
+      "size": 251557,
+      "updated_at": "2026-02-22T22:14:55Z",
+      "width": 736,
+      "height": 1593
+    },
+    {
+      "id": "ab0a3516-2136-4714-aa5d-3f48bc798635",
+      "title": "Purple Leaves Drops",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_leaves_drops.jpg",
+      "size": 191004,
+      "updated_at": "2026-07-03T08:50:10Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "085e0b7f-b2df-4fcc-b7d0-8d7244c1a609",
+      "title": "Purple Orange Leaves",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_orange_leaves.jpg",
+      "size": 149838,
+      "updated_at": "2026-07-03T08:50:07Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "20fe38f8-8ecf-4ebe-ae0b-ef2d641d7bd9",
+      "title": "Purple Sunset Rock",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_sunset_rock.jpg",
+      "size": 117077,
+      "updated_at": "2026-07-01T17:20:49Z",
+      "width": 1000,
+      "height": 2110
     }
   ]
 }
