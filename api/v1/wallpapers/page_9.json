@@ -1,21 +1,11 @@
 {
   "page": 9,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "b9bf2655-f46d-4cd9-b4f5-9f0497e3cca5",
-      "title": "Cyberpunk Judy Hopps",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cyberpunk_judy_hopps.jpg",
-      "size": 228793,
-      "updated_at": "2026-02-15T09:59:29Z",
-      "width": 1025,
-      "height": 2160
-    },
     {
       "id": "10da87ba-f578-475b-b656-39c4cc3050bb",
       "title": "Cyborg Girl Red Background",
@@ -205,6 +195,16 @@
       "updated_at": "2026-04-23T09:05:37Z",
       "width": 954,
       "height": 2160
+    },
+    {
+      "id": "41c4dac0-9afc-4a8c-8618-ad454e1856bd",
+      "title": "Luffy Vs Kaido Yonko Clash",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_vs_kaido_yonko_clash.jpg",
+      "size": 298610,
+      "updated_at": "2026-04-01T13:58:50Z",
+      "width": 1080,
+      "height": 1936
     }
   ]
 }

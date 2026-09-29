@@ -1,21 +1,11 @@
 {
   "page": 8,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "36e867e1-1773-4a0d-b18b-1bf7725ecc3b",
-      "title": "Anime City Over Water At Night",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_city_over_water_at_night.jpg",
-      "size": 236651,
-      "updated_at": "2026-04-27T10:53:07Z",
-      "width": 736,
-      "height": 1308
-    },
     {
       "id": "cc5641ad-ea2a-4223-a82a-4df2534b5f8d",
       "title": "Anime City Street",
@@ -205,6 +195,16 @@
       "updated_at": "2026-06-28T13:33:04Z",
       "width": 864,
       "height": 1820
+    },
+    {
+      "id": "b9bf2655-f46d-4cd9-b4f5-9f0497e3cca5",
+      "title": "Cyberpunk Judy Hopps",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cyberpunk_judy_hopps.jpg",
+      "size": 228793,
+      "updated_at": "2026-02-15T09:59:29Z",
+      "width": 1025,
+      "height": 2160
     }
   ]
 }

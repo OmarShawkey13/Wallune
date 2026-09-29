@@ -1,7 +1,7 @@
 {
   "page": 2,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
@@ -137,16 +137,6 @@
       "height": 1599
     },
     {
-      "id": "76ccf1de-e8af-46dc-a92f-58ac981385ff",
-      "title": "Dark Edgy Collage",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_edgy_collage.jpg",
-      "size": 193042,
-      "updated_at": "2026-02-22T22:14:44Z",
-      "width": 720,
-      "height": 1280
-    },
-    {
       "id": "f2453b66-bacc-4a41-827a-f7f7078a4e3c",
       "title": "Dark Geometric Pattern",
       "category": "Abstract",
@@ -205,6 +195,16 @@
       "updated_at": "2026-06-17T22:56:27Z",
       "width": 864,
       "height": 1872
+    },
+    {
+      "id": "c1957a52-4f84-4713-94a9-69d55c090db6",
+      "title": "Forever Heart Left",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/forever_heart_left.jpg",
+      "size": 116332,
+      "updated_at": "2026-06-05T11:04:45Z",
+      "width": 1125,
+      "height": 2436
     }
   ]
 }

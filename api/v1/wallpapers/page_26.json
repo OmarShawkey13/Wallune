@@ -1,31 +1,11 @@
 {
   "page": 26,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "efc519ee-c2d1-426f-84ce-600268906283",
-      "title": "Moonlit Water",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moonlit_water.jpg",
-      "size": 181838,
-      "updated_at": "2026-06-23T20:41:57Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "cc874422-90ba-4fc4-963d-b352bf0ab0ee",
-      "title": "Mount Fuji City Lights",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/mount_fuji_city_lights.jpg",
-      "size": 184997,
-      "updated_at": "2026-06-26T22:28:39Z",
-      "width": 864,
-      "height": 1820
-    },
     {
       "id": "1b402a48-eb5c-4594-a799-f4456780fa1b",
       "title": "Mount Fuji Time Split",
@@ -205,6 +185,26 @@
       "updated_at": "2026-07-01T17:20:49Z",
       "width": 1000,
       "height": 2110
+    },
+    {
+      "id": "85e95830-219d-4fb1-a03b-24c3922cb803",
+      "title": "Red Autumn Forest River",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_autumn_forest_river.jpg",
+      "size": 368634,
+      "updated_at": "2025-01-11T13:41:55Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "b4a6a021-d508-4aeb-894a-537768c6d7c1",
+      "title": "Red Centered Daisy",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_centered_daisy.jpg",
+      "size": 152186,
+      "updated_at": "2026-06-27T14:02:15Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

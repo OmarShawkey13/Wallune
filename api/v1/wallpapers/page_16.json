@@ -1,21 +1,11 @@
 {
   "page": 16,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "71b648dc-7fda-4465-9fc8-617652de704f",
-      "title": "Bmw Motorsport Side",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_motorsport_side.jpg",
-      "size": 65383,
-      "updated_at": "2026-04-01T16:52:28Z",
-      "width": 1080,
-      "height": 1080
-    },
     {
       "id": "03acb2e6-d314-4143-8418-2664b84357bb",
       "title": "Bmw Motorsport Top",
@@ -204,6 +194,16 @@
       "size": 181060,
       "updated_at": "2026-04-23T09:05:31Z",
       "width": 993,
+      "height": 2160
+    },
+    {
+      "id": "564583bf-0881-48cd-818c-ee75aac8338c",
+      "title": "Jeep In Snow",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/jeep_in_snow.jpg",
+      "size": 230545,
+      "updated_at": "2026-04-23T09:05:38Z",
+      "width": 996,
       "height": 2160
     }
   ]

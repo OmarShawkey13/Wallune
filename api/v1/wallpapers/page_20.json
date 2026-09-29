@@ -1,31 +1,11 @@
 {
   "page": 20,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "730c8f0f-f21d-440a-ada7-3fcd1f932e1d",
-      "title": "Woody And Buzz",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/woody_and_buzz.jpg",
-      "size": 123945,
-      "updated_at": "2026-06-28T13:33:19Z",
-      "width": 864,
-      "height": 1878
-    },
-    {
-      "id": "c7d6ec37-d71a-4c8b-9a25-7b6bdc4aa2ab",
-      "title": "Iron Man Portrait",
-      "category": "Characters",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Characters/iron_man_portrait.jpg",
-      "size": 310893,
-      "updated_at": "2026-05-31T22:41:15Z",
-      "width": 960,
-      "height": 1708
-    },
     {
       "id": "1f0b7737-49c7-49ef-9066-a95705e0b057",
       "title": "Autumn Cafe Window",
@@ -205,6 +185,26 @@
       "updated_at": "2026-06-30T22:51:10Z",
       "width": 1080,
       "height": 1927
+    },
+    {
+      "id": "478c5d99-60ca-4119-8a95-a58655446756",
+      "title": "Glowing Eyes Spartan",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/glowing_eyes_spartan.jpg",
+      "size": 334905,
+      "updated_at": "2025-01-08T19:45:57Z",
+      "width": 1080,
+      "height": 2520
+    },
+    {
+      "id": "b29f9d39-afa8-4594-b4c3-f27270f0999d",
+      "title": "Glowing Roots Tree",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/glowing_roots_tree.jpg",
+      "size": 241061,
+      "updated_at": "2026-05-25T22:35:01Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

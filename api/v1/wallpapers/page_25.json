@@ -1,31 +1,11 @@
 {
   "page": 25,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "fd4800cc-813d-4a95-a021-42702336ef0f",
-      "title": "Gerbera Daisy Drops",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/gerbera_daisy_drops.jpg",
-      "size": 349666,
-      "updated_at": "2026-07-01T14:52:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "420e315c-ae72-4ca8-b11e-ee5fe25c6276",
-      "title": "Glowing Purple Plants",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/glowing_purple_plants.jpg",
-      "size": 123950,
-      "updated_at": "2026-06-27T18:40:58Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "4c5cd413-df01-4360-a9f6-2725a521c3c2",
       "title": "Gradient Flowers",
@@ -205,6 +185,26 @@
       "updated_at": "2025-01-08T20:57:38Z",
       "width": 960,
       "height": 1198
+    },
+    {
+      "id": "efc519ee-c2d1-426f-84ce-600268906283",
+      "title": "Moonlit Water",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/moonlit_water.jpg",
+      "size": 181838,
+      "updated_at": "2026-06-23T20:41:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "cc874422-90ba-4fc4-963d-b352bf0ab0ee",
+      "title": "Mount Fuji City Lights",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/mount_fuji_city_lights.jpg",
+      "size": 184997,
+      "updated_at": "2026-06-26T22:28:39Z",
+      "width": 864,
+      "height": 1820
     }
   ]
 }

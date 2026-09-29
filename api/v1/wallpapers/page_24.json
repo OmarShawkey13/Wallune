@@ -1,31 +1,11 @@
 {
   "page": 24,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "2f08ac0d-f216-4dcf-aac3-bf7bb8054bed",
-      "title": "Blue Flowers Drops",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_flowers_drops.jpg",
-      "size": 101913,
-      "updated_at": "2026-07-01T14:52:37Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "cd926764-1206-4a3f-b3b3-f69c34f66c7f",
-      "title": "Breathe Foggy Mountains",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/breathe_foggy_mountains.jpg",
-      "size": 143303,
-      "updated_at": "2026-06-25T14:31:30Z",
-      "width": 864,
-      "height": 1916
-    },
     {
       "id": "7f4824db-f9b2-4775-bf82-6d7b88e281b5",
       "title": "Cherry Blossom Closeup",
@@ -205,6 +185,26 @@
       "updated_at": "2026-06-24T21:42:15Z",
       "width": 864,
       "height": 1536
+    },
+    {
+      "id": "fd4800cc-813d-4a95-a021-42702336ef0f",
+      "title": "Gerbera Daisy Drops",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/gerbera_daisy_drops.jpg",
+      "size": 349666,
+      "updated_at": "2026-07-01T14:52:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "420e315c-ae72-4ca8-b11e-ee5fe25c6276",
+      "title": "Glowing Purple Plants",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/glowing_purple_plants.jpg",
+      "size": 123950,
+      "updated_at": "2026-06-27T18:40:58Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

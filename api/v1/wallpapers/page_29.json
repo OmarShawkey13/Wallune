@@ -1,31 +1,11 @@
 {
   "page": 29,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "ffe6d942-17a0-4683-a0f6-16893016be1a",
-      "title": "Lonely Soccer Field",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/lonely_soccer_field.jpg",
-      "size": 84852,
-      "updated_at": "2026-06-20T18:00:36Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "4ea5b0d4-12bc-4e2b-8f12-35687a3f59af",
-      "title": "Night Train Station",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/night_train_station.jpg",
-      "size": 104689,
-      "updated_at": "2026-06-20T18:00:41Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "b62f4691-361d-48f4-84a7-40efc1c64d0c",
       "title": "Batman Toy",
@@ -205,6 +185,26 @@
       "updated_at": "2025-02-16T09:39:11Z",
       "width": 714,
       "height": 563
+    },
+    {
+      "id": "be88a402-764d-4e30-a261-c1de9e777bd0",
+      "title": "Quran Quote Mosque",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/quran_quote_mosque.jpg",
+      "size": 106830,
+      "updated_at": "2025-01-14T13:44:55Z",
+      "width": 1080,
+      "height": 1919
+    },
+    {
+      "id": "e21cc690-004a-43ca-9255-f59910d9649d",
+      "title": "Cyborg Samurai",
+      "category": "Sci_Fi",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sci_Fi/cyborg_samurai.jpg",
+      "size": 193127,
+      "updated_at": "2026-04-23T09:05:10Z",
+      "width": 1080,
+      "height": 2340
     }
   ]
 }

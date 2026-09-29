@@ -1,21 +1,11 @@
 {
   "page": 14,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "1a1c4205-fe2e-435d-8fa4-c8b8ad8390ad",
-      "title": "Minimalist Sailboats",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/minimalist_sailboats.jpg",
-      "size": 13126,
-      "updated_at": "2026-07-01T11:17:41Z",
-      "width": 568,
-      "height": 1200
-    },
     {
       "id": "b77c83aa-6d81-4480-9fb6-2964cb57c050",
       "title": "Mountain Lake Cabin Art",
@@ -203,6 +193,16 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/white_red_stylized_tree.jpg",
       "size": 105068,
       "updated_at": "2026-06-30T09:22:57Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "8ae6aa24-a06f-44e9-829f-bc566e0ecbc5",
+      "title": "Blue Monster Logo",
+      "category": "Brands",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Brands/blue_monster_logo.jpg",
+      "size": 42979,
+      "updated_at": "2026-06-05T12:53:51Z",
       "width": 736,
       "height": 1308
     }

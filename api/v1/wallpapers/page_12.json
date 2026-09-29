@@ -1,21 +1,11 @@
 {
   "page": 12,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "b1fbffa9-5243-43bb-b85e-9b84a38fccc6",
-      "title": "Zootopia Judy Plushies",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_judy_plushies.jpg",
-      "size": 350027,
-      "updated_at": "2026-02-15T09:59:17Z",
-      "width": 1025,
-      "height": 2160
-    },
     {
       "id": "838d6eca-dfe8-4158-94f7-2a3703a63cfe",
       "title": "Zootopia Nick Judy Dark Edgy",
@@ -205,6 +195,16 @@
       "updated_at": "2026-06-27T14:02:20Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "60d99568-6139-4d00-872b-f947ba421225",
+      "title": "Infinity Pool By Ocean",
+      "category": "Architecture",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/infinity_pool_by_ocean.jpg",
+      "size": 109720,
+      "updated_at": "2026-06-25T19:19:11Z",
+      "width": 736,
+      "height": 1307
     }
   ]
 }

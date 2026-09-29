@@ -1,21 +1,11 @@
 {
   "page": 5,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "ac603d3c-3c7b-409b-89af-00f58fc362b1",
-      "title": "White Particle Explosion",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_particle_explosion.jpg",
-      "size": 312588,
-      "updated_at": "2026-05-23T09:35:26Z",
-      "width": 736,
-      "height": 1593
-    },
     {
       "id": "a0526f17-439c-4fbd-9519-f43672f2b0ff",
       "title": "Wireframe Purple Lasers",
@@ -205,6 +195,16 @@
       "updated_at": "2025-03-17T07:56:25Z",
       "width": 540,
       "height": 1200
+    },
+    {
+      "id": "927429bd-93ed-4caf-be9b-2e365328044f",
+      "title": "Hamster Lifting Weights",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/hamster_lifting_weights.jpg",
+      "size": 297616,
+      "updated_at": "2026-05-18T13:23:28Z",
+      "width": 1080,
+      "height": 2348
     }
   ]
 }

@@ -1,31 +1,11 @@
 {
   "page": 28,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "98864583-65c3-4b4c-a306-98688635f748",
-      "title": "Sunbeams In Flower Field",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunbeams_in_flower_field.jpg",
-      "size": 305050,
-      "updated_at": "2026-06-28T11:01:21Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c03f8dfc-e028-4c87-be76-b47e225df69f",
-      "title": "Sunburst Winding Road",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunburst_winding_road.jpg",
-      "size": 413239,
-      "updated_at": "2026-07-01T09:37:42Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "bc3584f0-db37-49e0-82b0-ed1a17508853",
       "title": "Sunflowers",
@@ -205,6 +185,26 @@
       "updated_at": "2023-07-06T18:42:43Z",
       "width": 640,
       "height": 640
+    },
+    {
+      "id": "ffe6d942-17a0-4683-a0f6-16893016be1a",
+      "title": "Lonely Soccer Field",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/lonely_soccer_field.jpg",
+      "size": 84852,
+      "updated_at": "2026-06-20T18:00:36Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "4ea5b0d4-12bc-4e2b-8f12-35687a3f59af",
+      "title": "Night Train Station",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/night_train_station.jpg",
+      "size": 104689,
+      "updated_at": "2026-06-20T18:00:41Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

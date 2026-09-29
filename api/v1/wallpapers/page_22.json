@@ -1,31 +1,11 @@
 {
   "page": 22,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "55c1f4e0-7074-4431-b734-1e88d6a2ffdf",
-      "title": "Red Boat Dark Canyon",
-      "category": "Landscape",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Landscape/red_boat_dark_canyon.jpg",
-      "size": 61299,
-      "updated_at": "2026-06-03T09:21:13Z",
-      "width": 864,
-      "height": 1536
-    },
-    {
-      "id": "02575ffc-6d9f-40a5-8c3d-6d75175d59ef",
-      "title": "Red Sky Sand Dune",
-      "category": "Landscape",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Landscape/red_sky_sand_dune.jpg",
-      "size": 120854,
-      "updated_at": "2026-06-03T09:21:28Z",
-      "width": 1080,
-      "height": 2160
-    },
     {
       "id": "2b1e452d-b649-4500-9b7b-cfd30d613cff",
       "title": "Alice Down The Rabbit Hole",
@@ -203,6 +183,26 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_red_field.jpg",
       "size": 100849,
       "updated_at": "2026-06-16T18:20:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6ec09eef-204c-48f3-8b72-b79759bf627d",
+      "title": "Spiderman Red Moon",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_red_moon.jpg",
+      "size": 168036,
+      "updated_at": "2026-06-16T18:20:56Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "078f8fb7-eb57-46d8-86eb-df03d49dbde6",
+      "title": "Spiderman Symbiote Burst",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_symbiote_burst.jpg",
+      "size": 404588,
+      "updated_at": "2026-06-16T18:20:51Z",
       "width": 1080,
       "height": 1920
     }

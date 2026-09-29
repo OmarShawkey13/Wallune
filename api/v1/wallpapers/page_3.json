@@ -1,21 +1,11 @@
 {
   "page": 3,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "c1957a52-4f84-4713-94a9-69d55c090db6",
-      "title": "Forever Heart Left",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/forever_heart_left.jpg",
-      "size": 116332,
-      "updated_at": "2026-06-05T11:04:45Z",
-      "width": 1125,
-      "height": 2436
-    },
     {
       "id": "6421107e-65d2-4af3-ba6b-d6773a49fd44",
       "title": "Glowing Arc",
@@ -205,6 +195,16 @@
       "updated_at": "2026-06-17T22:56:32Z",
       "width": 675,
       "height": 1200
+    },
+    {
+      "id": "37baf946-844e-490e-af35-5d3530ee0b89",
+      "title": "Pink Fabric Red Butterflies",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/pink_fabric_red_butterflies.jpg",
+      "size": 156576,
+      "updated_at": "2026-06-24T15:40:59Z",
+      "width": 864,
+      "height": 1152
     }
   ]
 }

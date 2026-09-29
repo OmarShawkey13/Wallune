@@ -1,21 +1,11 @@
 {
   "page": 4,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "37baf946-844e-490e-af35-5d3530ee0b89",
-      "title": "Pink Fabric Red Butterflies",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/pink_fabric_red_butterflies.jpg",
-      "size": 156576,
-      "updated_at": "2026-06-24T15:40:59Z",
-      "width": 864,
-      "height": 1152
-    },
     {
       "id": "720f62c2-4f5a-473b-85d3-e93eddbe81d2",
       "title": "Purple Orange Fluid",
@@ -205,6 +195,16 @@
       "updated_at": "2026-04-25T20:34:43Z",
       "width": 998,
       "height": 2160
+    },
+    {
+      "id": "ac603d3c-3c7b-409b-89af-00f58fc362b1",
+      "title": "White Particle Explosion",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_particle_explosion.jpg",
+      "size": 312588,
+      "updated_at": "2026-05-23T09:35:26Z",
+      "width": 736,
+      "height": 1593
     }
   ]
 }

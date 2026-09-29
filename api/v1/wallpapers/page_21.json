@@ -1,31 +1,11 @@
 {
   "page": 21,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "478c5d99-60ca-4119-8a95-a58655446756",
-      "title": "Glowing Eyes Spartan",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/glowing_eyes_spartan.jpg",
-      "size": 334905,
-      "updated_at": "2025-01-08T19:45:57Z",
-      "width": 1080,
-      "height": 2520
-    },
-    {
-      "id": "b29f9d39-afa8-4594-b4c3-f27270f0999d",
-      "title": "Glowing Roots Tree",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/glowing_roots_tree.jpg",
-      "size": 241061,
-      "updated_at": "2026-05-25T22:35:01Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "b32f23e2-2de4-49af-93cd-0a4d449eac88",
       "title": "Kneeling Dark Knight",
@@ -205,6 +185,26 @@
       "updated_at": "2026-06-26T22:28:49Z",
       "width": 864,
       "height": 1820
+    },
+    {
+      "id": "55c1f4e0-7074-4431-b734-1e88d6a2ffdf",
+      "title": "Red Boat Dark Canyon",
+      "category": "Landscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Landscape/red_boat_dark_canyon.jpg",
+      "size": 61299,
+      "updated_at": "2026-06-03T09:21:13Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "02575ffc-6d9f-40a5-8c3d-6d75175d59ef",
+      "title": "Red Sky Sand Dune",
+      "category": "Landscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Landscape/red_sky_sand_dune.jpg",
+      "size": 120854,
+      "updated_at": "2026-06-03T09:21:28Z",
+      "width": 1080,
+      "height": 2160
     }
   ]
 }

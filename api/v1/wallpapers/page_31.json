@@ -1,31 +1,11 @@
 {
   "page": 31,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "baa078cc-5c12-495d-805b-669ca1899ca0",
-      "title": "Glowing Blue River",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/glowing_blue_river.jpg",
-      "size": 235760,
-      "updated_at": "2026-04-30T20:24:23Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "4d6cb742-1d3a-43ae-a6b9-401a84409289",
-      "title": "Jupiter",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/jupiter.jpg",
-      "size": 82243,
-      "updated_at": "2026-06-30T18:00:09Z",
-      "width": 864,
-      "height": 1870
-    },
     {
       "id": "1c112ce3-745b-40a5-b367-418125b34e9e",
       "title": "Majestic Black Hole",
@@ -205,6 +185,26 @@
       "updated_at": "2026-02-06T20:29:54Z",
       "width": 1080,
       "height": 1927
+    },
+    {
+      "id": "c2621e2f-5729-4701-ac86-1db909dedd08",
+      "title": "Red Crescent Landscape",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_crescent_landscape.jpg",
+      "size": 50826,
+      "updated_at": "2026-02-22T22:14:53Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "dca4b0fe-cd83-4045-95d1-21d1e989b0f5",
+      "title": "Red Eclipse City",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_eclipse_city.jpg",
+      "size": 130439,
+      "updated_at": "2026-02-22T22:14:49Z",
+      "width": 736,
+      "height": 1594
     }
   ]
 }

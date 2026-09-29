@@ -1,31 +1,11 @@
 {
   "page": 18,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "5f435b85-baba-4964-811a-53e625a232d0",
-      "title": "Red Nissan Silvia",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/red_nissan_silvia.jpg",
-      "size": 244528,
-      "updated_at": "2026-06-17T01:29:15Z",
-      "width": 864,
-      "height": 1550
-    },
-    {
-      "id": "9adbdda0-9483-47b4-8552-9e0b77e45b80",
-      "title": "Slr Mclaren",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/slr_mclaren.jpg",
-      "size": 100499,
-      "updated_at": "2026-06-29T12:51:50Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "89d8ab6e-5aae-4293-ad95-f5da12e417bc",
       "title": "Sportscar Drifting",
@@ -205,6 +185,26 @@
       "updated_at": "2026-04-01T16:52:00Z",
       "width": 1080,
       "height": 2160
+    },
+    {
+      "id": "74342110-382f-4a0a-a7c6-caaafbeaf4b3",
+      "title": "Courage Swirly Red Sky",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/courage_swirly_red_sky.jpg",
+      "size": 496026,
+      "updated_at": "2026-04-01T16:51:57Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "d34a7ddb-8f78-4813-867c-ae2fb80430ad",
+      "title": "Courage The Cowardly Dog",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/courage_the_cowardly_dog.jpg",
+      "size": 186241,
+      "updated_at": "2026-06-28T13:33:15Z",
+      "width": 864,
+      "height": 1728
     }
   ]
 }

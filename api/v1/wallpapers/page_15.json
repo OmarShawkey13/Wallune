@@ -1,21 +1,11 @@
 {
   "page": 15,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "8ae6aa24-a06f-44e9-829f-bc566e0ecbc5",
-      "title": "Blue Monster Logo",
-      "category": "Brands",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Brands/blue_monster_logo.jpg",
-      "size": 42979,
-      "updated_at": "2026-06-05T12:53:51Z",
-      "width": 736,
-      "height": 1308
-    },
     {
       "id": "c9c23aeb-573e-46af-a7e0-2dff7992acca",
       "title": "Aston Martin F1 Rear",
@@ -203,6 +193,16 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_motorsport_front.jpg",
       "size": 63682,
       "updated_at": "2026-04-01T16:52:26Z",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "71b648dc-7fda-4465-9fc8-617652de704f",
+      "title": "Bmw Motorsport Side",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_motorsport_side.jpg",
+      "size": 65383,
+      "updated_at": "2026-04-01T16:52:28Z",
       "width": 1080,
       "height": 1080
     }

@@ -1,31 +1,11 @@
 {
   "page": 23,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "6ec09eef-204c-48f3-8b72-b79759bf627d",
-      "title": "Spiderman Red Moon",
-      "category": "Movies",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_red_moon.jpg",
-      "size": 168036,
-      "updated_at": "2026-06-16T18:20:56Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "078f8fb7-eb57-46d8-86eb-df03d49dbde6",
-      "title": "Spiderman Symbiote Burst",
-      "category": "Movies",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_symbiote_burst.jpg",
-      "size": 404588,
-      "updated_at": "2026-06-16T18:20:51Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "c2207e2e-decc-468d-b669-05cf94090e1a",
       "title": "Spiderman Vs Venom",
@@ -205,6 +185,26 @@
       "updated_at": "2024-04-29T09:07:07Z",
       "width": 636,
       "height": 1200
+    },
+    {
+      "id": "2f08ac0d-f216-4dcf-aac3-bf7bb8054bed",
+      "title": "Blue Flowers Drops",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_flowers_drops.jpg",
+      "size": 101913,
+      "updated_at": "2026-07-01T14:52:37Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "cd926764-1206-4a3f-b3b3-f69c34f66c7f",
+      "title": "Breathe Foggy Mountains",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/breathe_foggy_mountains.jpg",
+      "size": 143303,
+      "updated_at": "2026-06-25T14:31:30Z",
+      "width": 864,
+      "height": 1916
     }
   ]
 }

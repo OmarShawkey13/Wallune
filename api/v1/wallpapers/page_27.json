@@ -1,31 +1,11 @@
 {
   "page": 27,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "85e95830-219d-4fb1-a03b-24c3922cb803",
-      "title": "Red Autumn Forest River",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_autumn_forest_river.jpg",
-      "size": 368634,
-      "updated_at": "2025-01-11T13:41:55Z",
-      "width": 1080,
-      "height": 2340
-    },
-    {
-      "id": "b4a6a021-d508-4aeb-894a-537768c6d7c1",
-      "title": "Red Centered Daisy",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_centered_daisy.jpg",
-      "size": 152186,
-      "updated_at": "2026-06-27T14:02:15Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "7b38e6d9-f408-405b-ab2d-88aebd0abfe3",
       "title": "Red Flowers",
@@ -205,6 +185,26 @@
       "updated_at": "2026-04-27T10:53:22Z",
       "width": 736,
       "height": 1308
+    },
+    {
+      "id": "98864583-65c3-4b4c-a306-98688635f748",
+      "title": "Sunbeams In Flower Field",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunbeams_in_flower_field.jpg",
+      "size": 305050,
+      "updated_at": "2026-06-28T11:01:21Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "c03f8dfc-e028-4c87-be76-b47e225df69f",
+      "title": "Sunburst Winding Road",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunburst_winding_road.jpg",
+      "size": 413239,
+      "updated_at": "2026-07-01T09:37:42Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

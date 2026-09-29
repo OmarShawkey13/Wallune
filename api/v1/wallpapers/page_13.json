@@ -1,21 +1,11 @@
 {
   "page": 13,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "60d99568-6139-4d00-872b-f947ba421225",
-      "title": "Infinity Pool By Ocean",
-      "category": "Architecture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/infinity_pool_by_ocean.jpg",
-      "size": 109720,
-      "updated_at": "2026-06-25T19:19:11Z",
-      "width": 736,
-      "height": 1307
-    },
     {
       "id": "0f50b056-9e9e-4a76-88ef-5a3006d020ce",
       "title": "Jungle Hut At Night",
@@ -205,6 +195,16 @@
       "updated_at": "2026-06-28T11:01:23Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "1a1c4205-fe2e-435d-8fa4-c8b8ad8390ad",
+      "title": "Minimalist Sailboats",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/minimalist_sailboats.jpg",
+      "size": 13126,
+      "updated_at": "2026-07-01T11:17:41Z",
+      "width": 568,
+      "height": 1200
     }
   ]
 }

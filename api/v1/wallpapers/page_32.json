@@ -1,31 +1,11 @@
 {
   "page": 32,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "c2621e2f-5729-4701-ac86-1db909dedd08",
-      "title": "Red Crescent Landscape",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_crescent_landscape.jpg",
-      "size": 50826,
-      "updated_at": "2026-02-22T22:14:53Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "dca4b0fe-cd83-4045-95d1-21d1e989b0f5",
-      "title": "Red Eclipse City",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_eclipse_city.jpg",
-      "size": 130439,
-      "updated_at": "2026-02-22T22:14:49Z",
-      "width": 736,
-      "height": 1594
-    },
     {
       "id": "1b882344-dbf6-4df1-aa90-e03b1296179d",
       "title": "Red Moon And Blossoms",
@@ -205,6 +185,26 @@
       "updated_at": "2026-05-29T16:02:30Z",
       "width": 864,
       "height": 1536
+    },
+    {
+      "id": "e056278a-4a93-4dde-8b63-78ec7b13ff52",
+      "title": "Spider Man Peeking",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_man_peeking.jpg",
+      "size": 133528,
+      "updated_at": "2026-06-06T17:15:57Z",
+      "width": 964,
+      "height": 2091
+    },
+    {
+      "id": "08d2752e-b2cf-4a8f-82fe-cd798cd5cc3e",
+      "title": "Spiderman Hoodie",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_hoodie.jpg",
+      "size": 82680,
+      "updated_at": "2024-12-03T03:24:34Z",
+      "width": 1080,
+      "height": 2338
     }
   ]
 }

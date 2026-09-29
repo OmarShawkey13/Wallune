@@ -1,21 +1,11 @@
 {
   "page": 11,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "ea7a6e06-aaf0-43e7-8da4-6fdb0be20f08",
-      "title": "Stitch And Angel Heart",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_heart.jpg",
-      "size": 55901,
-      "updated_at": "2026-03-15T20:58:40Z",
-      "width": 675,
-      "height": 1200
-    },
     {
       "id": "9c34ef06-676f-4d0a-b304-3be8e5f8acda",
       "title": "Stitch And Angel Hugging",
@@ -203,6 +193,16 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_judy_pixel_art.jpg",
       "size": 271296,
       "updated_at": "2026-02-15T09:58:54Z",
+      "width": 1025,
+      "height": 2160
+    },
+    {
+      "id": "b1fbffa9-5243-43bb-b85e-9b84a38fccc6",
+      "title": "Zootopia Judy Plushies",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_judy_plushies.jpg",
+      "size": 350027,
+      "updated_at": "2026-02-15T09:59:17Z",
       "width": 1025,
       "height": 2160
     }

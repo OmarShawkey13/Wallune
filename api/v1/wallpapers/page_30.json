@@ -1,31 +1,11 @@
 {
   "page": 30,
-  "total_pages": 34,
-  "total_items": 661,
+  "total_pages": 33,
+  "total_items": 659,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "be88a402-764d-4e30-a261-c1de9e777bd0",
-      "title": "Quran Quote Mosque",
-      "category": "Religion",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/quran_quote_mosque.jpg",
-      "size": 106830,
-      "updated_at": "2025-01-14T13:44:55Z",
-      "width": 1080,
-      "height": 1919
-    },
-    {
-      "id": "e21cc690-004a-43ca-9255-f59910d9649d",
-      "title": "Cyborg Samurai",
-      "category": "Sci_Fi",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sci_Fi/cyborg_samurai.jpg",
-      "size": 193127,
-      "updated_at": "2026-04-23T09:05:10Z",
-      "width": 1080,
-      "height": 2340
-    },
     {
       "id": "830a1362-ab93-4ee0-909d-9fea0e34e856",
       "title": "Retro Spaceship",
@@ -205,6 +185,26 @@
       "updated_at": "2026-04-30T20:24:31Z",
       "width": 1080,
       "height": 1925
+    },
+    {
+      "id": "baa078cc-5c12-495d-805b-669ca1899ca0",
+      "title": "Glowing Blue River",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/glowing_blue_river.jpg",
+      "size": 235760,
+      "updated_at": "2026-04-30T20:24:23Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "4d6cb742-1d3a-43ae-a6b9-401a84409289",
+      "title": "Jupiter",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/jupiter.jpg",
+      "size": 82243,
+      "updated_at": "2026-06-30T18:00:09Z",
+      "width": 864,
+      "height": 1870
     }
   ]
 }

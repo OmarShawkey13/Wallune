@@ -4127,7 +4127,7 @@
       "aliases": [
         "images/Abstract/dark_edgy_collage.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "e8725361-5723-4e6d-8b83-d5675af5752a",
@@ -4911,7 +4911,7 @@
       "aliases": [
         "images/Cars/red_mustang_graffiti.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "83664098-d32c-41d8-9d2b-51334e9936b0",
