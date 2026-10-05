@@ -1,31 +1,11 @@
 {
   "page": 26,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "1b402a48-eb5c-4594-a799-f4456780fa1b",
-      "title": "Mount Fuji Time Split",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/mount_fuji_time_split.jpg",
-      "size": 193906,
-      "updated_at": "2026-03-03T02:29:27Z",
-      "width": 1080,
-      "height": 1350
-    },
-    {
-      "id": "dbf57f0b-166f-41f1-b1fe-342c2971a479",
-      "title": "Mountain Peak Cloud",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/mountain_peak_cloud.jpg",
-      "size": 45042,
-      "updated_at": "2025-01-09T14:29:15Z",
-      "width": 1080,
-      "height": 2160
-    },
     {
       "id": "043ecf05-b2a6-49a8-8369-10f2623c9704",
       "title": "Neon Red Leaves",
@@ -205,6 +185,26 @@
       "updated_at": "2026-06-27T14:02:15Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "7b38e6d9-f408-405b-ab2d-88aebd0abfe3",
+      "title": "Red Flowers",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_flowers.jpg",
+      "size": 113109,
+      "updated_at": "2026-06-28T13:31:32Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6d2ac32d-5fca-492e-8459-53c549b812c2",
+      "title": "Red Glowing Valley",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_glowing_valley.jpg",
+      "size": 40169,
+      "updated_at": "2026-02-22T22:15:17Z",
+      "width": 720,
+      "height": 1500
     }
   ]
 }

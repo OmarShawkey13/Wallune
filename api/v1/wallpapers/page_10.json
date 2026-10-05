@@ -1,31 +1,11 @@
 {
   "page": 10,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "a1d5a303-d6ac-4f2c-ba33-a66a7f659702",
-      "title": "Meditating Flaming Entity",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/meditating_flaming_entity.jpg",
-      "size": 408896,
-      "updated_at": "2024-07-17T14:27:50Z",
-      "width": 1148,
-      "height": 2048
-    },
-    {
-      "id": "ec2d900c-e1c5-4570-be19-ecbab933a8a6",
-      "title": "Megumi Fushiguro",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/megumi_fushiguro.jpg",
-      "size": 234240,
-      "updated_at": "2025-04-02T14:55:45Z",
-      "width": 720,
-      "height": 1280
-    },
     {
       "id": "877004b2-a9f6-453e-a6a9-b8cc0faf106e",
       "title": "Mountain Moon Scenery",
@@ -203,6 +183,26 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_heart.jpg",
       "size": 55901,
       "updated_at": "2026-03-15T20:58:40Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "9c34ef06-676f-4d0a-b304-3be8e5f8acda",
+      "title": "Stitch And Angel Hugging",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_hugging.jpg",
+      "size": 59677,
+      "updated_at": "2026-03-15T20:58:56Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "6e587e29-e5c6-4ada-930c-4a4240bbbccf",
+      "title": "Stitch And Angel Poses",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_poses.jpg",
+      "size": 61034,
+      "updated_at": "2026-03-15T20:57:42Z",
       "width": 675,
       "height": 1200
     }

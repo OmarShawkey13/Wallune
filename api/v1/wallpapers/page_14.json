@@ -1,31 +1,11 @@
 {
   "page": 14,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "b77c83aa-6d81-4480-9fb6-2964cb57c050",
-      "title": "Mountain Lake Cabin Art",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/mountain_lake_cabin_art.jpg",
-      "size": 408859,
-      "updated_at": "2026-07-01T09:37:48Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "9321bddc-8483-48fd-baea-14d8625b5f87",
-      "title": "Night Forest Shop",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/night_forest_shop.jpg",
-      "size": 270301,
-      "updated_at": "2026-06-15T14:33:03Z",
-      "width": 942,
-      "height": 2048
-    },
     {
       "id": "c53c7b97-fd26-4785-a326-cc13fd590dd2",
       "title": "Painted Blue Flower",
@@ -205,6 +185,26 @@
       "updated_at": "2026-06-05T12:53:51Z",
       "width": 736,
       "height": 1308
+    },
+    {
+      "id": "c9c23aeb-573e-46af-a7e0-2dff7992acca",
+      "title": "Aston Martin F1 Rear",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/aston_martin_f1_rear.jpg",
+      "size": 80162,
+      "updated_at": "2026-06-03T09:21:06Z",
+      "width": 997,
+      "height": 2160
+    },
+    {
+      "id": "faa16fd5-3e90-4481-bba0-2ee0d253cffe",
+      "title": "Black Bmw I8",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_bmw_i8.jpg",
+      "size": 216900,
+      "updated_at": "2026-07-03T09:39:25Z",
+      "width": 864,
+      "height": 1728
     }
   ]
 }

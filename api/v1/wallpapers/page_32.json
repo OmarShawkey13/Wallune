@@ -1,41 +1,11 @@
 {
   "page": 32,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "1b882344-dbf6-4df1-aa90-e03b1296179d",
-      "title": "Red Moon And Blossoms",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_moon_and_blossoms.jpg",
-      "size": 197533,
-      "updated_at": "2026-06-27T18:41:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "3aeb3dcf-7753-46e1-b2f2-ef0ed62aa3f1",
-      "title": "Red Stormy Planet",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_stormy_planet.jpg",
-      "size": 143337,
-      "updated_at": "2026-05-27T09:25:31Z",
-      "width": 942,
-      "height": 2048
-    },
-    {
-      "id": "aa36dd13-2fa9-4a89-92d0-01cf98d24c27",
-      "title": "Starry Nebula Fluid",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/starry_nebula_fluid.jpg",
-      "size": 193914,
-      "updated_at": "2026-05-25T22:33:05Z",
-      "width": 924,
-      "height": 2047
-    },
     {
       "id": "c4808528-b4f1-4b82-9251-4929ce0fdeff",
       "title": "Starry Night Over Rocks",
@@ -205,6 +175,36 @@
       "updated_at": "2024-12-03T03:24:34Z",
       "width": 1080,
       "height": 2338
+    },
+    {
+      "id": "568b2c62-1998-43f6-aee2-38412eb8da49",
+      "title": "The Spider Man Poster",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/the_spider_man_poster.jpg",
+      "size": 80952,
+      "updated_at": "2026-06-06T17:15:53Z",
+      "width": 964,
+      "height": 2086
+    },
+    {
+      "id": "a21b3be3-ada2-4562-8685-123fce857b37",
+      "title": "Torn Spiderman Suit",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/torn_spiderman_suit.jpg",
+      "size": 136675,
+      "updated_at": "2024-12-26T09:07:46Z",
+      "width": 554,
+      "height": 1200
+    },
+    {
+      "id": "e9d52db2-d6ec-4556-b9a9-f58dd52ce622",
+      "title": "Circuit Board",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/circuit_board.jpg",
+      "size": 54469,
+      "updated_at": "2026-05-26T00:44:42Z",
+      "width": 736,
+      "height": 1476
     }
   ]
 }

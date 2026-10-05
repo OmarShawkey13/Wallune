@@ -1,41 +1,11 @@
 {
   "page": 30,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "830a1362-ab93-4ee0-909d-9fea0e34e856",
-      "title": "Retro Spaceship",
-      "category": "Sci_Fi",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sci_Fi/retro_spaceship.jpg",
-      "size": 232866,
-      "updated_at": "2026-06-07T09:06:51Z",
-      "width": 864,
-      "height": 1728
-    },
-    {
-      "id": "5412c1d3-200d-4302-b5d9-514d1d75a6a9",
-      "title": "Tardis In Space",
-      "category": "Sci_Fi",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sci_Fi/tardis_in_space.jpg",
-      "size": 121546,
-      "updated_at": "2026-06-07T09:06:46Z",
-      "width": 864,
-      "height": 1870
-    },
-    {
-      "id": "dbc3398b-8d2d-4c02-af0f-b12bb2028424",
-      "title": "Astronaut Silhouette",
-      "category": "Space",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/astronaut_silhouette.jpg",
-      "size": 58260,
-      "updated_at": "2026-04-23T09:05:16Z",
-      "width": 996,
-      "height": 2160
-    },
     {
       "id": "5e1027ad-c384-4469-b168-32efeab5b976",
       "title": "Black Hole",
@@ -205,6 +175,36 @@
       "updated_at": "2026-06-30T18:00:09Z",
       "width": 864,
       "height": 1870
+    },
+    {
+      "id": "1c112ce3-745b-40a5-b367-418125b34e9e",
+      "title": "Majestic Black Hole",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/majestic_black_hole.jpg",
+      "size": 278690,
+      "updated_at": "2024-04-05T12:38:40Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "a638b01d-a6b9-47e3-a2e4-433f56ce2598",
+      "title": "Milky Way Cabin",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_cabin.jpg",
+      "size": 157561,
+      "updated_at": "2026-06-30T21:08:55Z",
+      "width": 768,
+      "height": 1221
+    },
+    {
+      "id": "f811a1c7-2658-4053-81a4-b1dce572a077",
+      "title": "Milky Way Canopy 1",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/milky_way_canopy_1.jpg",
+      "size": 164455,
+      "updated_at": "2026-06-30T21:08:57Z",
+      "width": 768,
+      "height": 1213
     }
   ]
 }

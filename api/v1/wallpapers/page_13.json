@@ -1,31 +1,11 @@
 {
   "page": 13,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "0f50b056-9e9e-4a76-88ef-5a3006d020ce",
-      "title": "Jungle Hut At Night",
-      "category": "Architecture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/jungle_hut_at_night.jpg",
-      "size": 246134,
-      "updated_at": "2026-06-21T07:07:15Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "d8ec9416-aef8-48bd-9d21-df5185fe861a",
-      "title": "Modern Pillar Structure",
-      "category": "Architecture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/modern_pillar_structure.jpg",
-      "size": 79304,
-      "updated_at": "2026-04-25T20:34:36Z",
-      "width": 1080,
-      "height": 1620
-    },
     {
       "id": "73344f92-ba34-4063-99b5-2009c4974cf0",
       "title": "Orange Field House",
@@ -205,6 +185,26 @@
       "updated_at": "2026-07-01T11:17:41Z",
       "width": 568,
       "height": 1200
+    },
+    {
+      "id": "b77c83aa-6d81-4480-9fb6-2964cb57c050",
+      "title": "Mountain Lake Cabin Art",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/mountain_lake_cabin_art.jpg",
+      "size": 408859,
+      "updated_at": "2026-07-01T09:37:48Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "9321bddc-8483-48fd-baea-14d8625b5f87",
+      "title": "Night Forest Shop",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/night_forest_shop.jpg",
+      "size": 270301,
+      "updated_at": "2026-06-15T14:33:03Z",
+      "width": 942,
+      "height": 2048
     }
   ]
 }

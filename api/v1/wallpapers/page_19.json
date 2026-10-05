@@ -1,31 +1,11 @@
 {
   "page": 19,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "ca07b0bc-d2be-4d3a-9366-0325b12491cc",
-      "title": "Curious Stitch",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/curious_stitch.jpg",
-      "size": 25382,
-      "updated_at": "2026-03-15T20:57:12Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "3a0ac91c-4de5-42a4-9417-8d925433b081",
-      "title": "Finn And Jake Sunset",
-      "category": "Cartoons",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/finn_and_jake_sunset.jpg",
-      "size": 319497,
-      "updated_at": "2026-05-18T13:23:42Z",
-      "width": 1080,
-      "height": 2344
-    },
     {
       "id": "d12b2b4a-1863-40c2-ae77-ab55dedb87c7",
       "title": "Gumball And Darwin In Bed",
@@ -205,6 +185,26 @@
       "updated_at": "2026-05-31T22:41:15Z",
       "width": 960,
       "height": 1708
+    },
+    {
+      "id": "1f0b7737-49c7-49ef-9066-a95705e0b057",
+      "title": "Autumn Cafe Window",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/autumn_cafe_window.jpg",
+      "size": 323494,
+      "updated_at": "2026-07-01T22:46:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "9d7e9be0-f226-4956-b25f-939b97faa3f8",
+      "title": "Big Ben Night",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/big_ben_night.jpg",
+      "size": 171352,
+      "updated_at": "2026-07-01T22:47:05Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

@@ -1,31 +1,11 @@
 {
   "page": 22,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "2b1e452d-b649-4500-9b7b-cfd30d613cff",
-      "title": "Alice Down The Rabbit Hole",
-      "category": "Movies",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/alice_down_the_rabbit_hole.jpg",
-      "size": 191930,
-      "updated_at": "2026-06-26T20:02:08Z",
-      "width": 864,
-      "height": 1820
-    },
-    {
-      "id": "f59c559e-c3ec-4703-a8a9-fa7af25a014b",
-      "title": "Black Suit Spiderman",
-      "category": "Movies",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/black_suit_spiderman.jpg",
-      "size": 133793,
-      "updated_at": "2026-06-21T10:53:56Z",
-      "width": 1080,
-      "height": 1920
-    },
     {
       "id": "3a333cd8-6684-48e7-becd-0261b98b137c",
       "title": "Boo And Sulley Peeking",
@@ -203,6 +183,26 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_symbiote_burst.jpg",
       "size": 404588,
       "updated_at": "2026-06-16T18:20:51Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "c2207e2e-decc-468d-b669-05cf94090e1a",
+      "title": "Spiderman Vs Venom",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_vs_venom.jpg",
+      "size": 156406,
+      "updated_at": "2026-06-16T18:20:44Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "8b02c35c-7389-4dee-8687-e18a5ce84015",
+      "title": "Spiderman White Background",
+      "category": "Movies",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Movies/spiderman_white_background.jpg",
+      "size": 136052,
+      "updated_at": "2026-06-16T18:20:36Z",
       "width": 1080,
       "height": 1920
     }

@@ -1,31 +1,11 @@
 {
   "page": 24,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "7f4824db-f9b2-4775-bf82-6d7b88e281b5",
-      "title": "Cherry Blossom Closeup",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cherry_blossom_closeup.jpg",
-      "size": 201785,
-      "updated_at": "2026-06-30T01:11:09Z",
-      "width": 864,
-      "height": 1536
-    },
-    {
-      "id": "6b34101b-1ead-4d45-8906-1fa6dd92300e",
-      "title": "Cherry Blossom Lamp",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cherry_blossom_lamp.jpg",
-      "size": 244532,
-      "updated_at": "2026-06-30T01:11:06Z",
-      "width": 864,
-      "height": 1871
-    },
     {
       "id": "cf69ddb5-898d-48dc-8153-a58137553748",
       "title": "Cherry Blossom Sign",
@@ -203,6 +183,26 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/glowing_purple_plants.jpg",
       "size": 123950,
       "updated_at": "2026-06-27T18:40:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "4c5cd413-df01-4360-a9f6-2725a521c3c2",
+      "title": "Gradient Flowers",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/gradient_flowers.jpg",
+      "size": 136401,
+      "updated_at": "2026-06-16T18:19:58Z",
+      "width": 864,
+      "height": 1871
+    },
+    {
+      "id": "6c6fb9e3-1478-4b55-bfa1-9fd0585579c3",
+      "title": "Green Leaves",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/green_leaves.jpg",
+      "size": 181504,
+      "updated_at": "2026-07-01T09:37:52Z",
       "width": 1080,
       "height": 1920
     }

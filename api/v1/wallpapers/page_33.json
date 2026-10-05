@@ -1,41 +1,11 @@
 {
   "page": 33,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": false,
   "has_prev": true,
   "data": [
-    {
-      "id": "568b2c62-1998-43f6-aee2-38412eb8da49",
-      "title": "The Spider Man Poster",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/the_spider_man_poster.jpg",
-      "size": 80952,
-      "updated_at": "2026-06-06T17:15:53Z",
-      "width": 964,
-      "height": 2086
-    },
-    {
-      "id": "a21b3be3-ada2-4562-8685-123fce857b37",
-      "title": "Torn Spiderman Suit",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/torn_spiderman_suit.jpg",
-      "size": 136675,
-      "updated_at": "2024-12-26T09:07:46Z",
-      "width": 554,
-      "height": 1200
-    },
-    {
-      "id": "e9d52db2-d6ec-4556-b9a9-f58dd52ce622",
-      "title": "Circuit Board",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/circuit_board.jpg",
-      "size": 54469,
-      "updated_at": "2026-05-26T00:44:42Z",
-      "width": 736,
-      "height": 1476
-    },
     {
       "id": "b5e5ed91-7f25-490e-a8ab-0457a5eb1a1d",
       "title": "Futuristic Light Strip",

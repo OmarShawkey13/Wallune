@@ -1,31 +1,11 @@
 {
   "page": 9,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "10da87ba-f578-475b-b656-39c4cc3050bb",
-      "title": "Cyborg Girl Red Background",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/cyborg_girl_red_background.jpg",
-      "size": 142871,
-      "updated_at": "2025-10-09T20:13:11Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "d6f99a19-ed57-4919-911d-ef7c28fd3877",
-      "title": "Floating Girl Magic",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/floating_girl_magic.jpg",
-      "size": 38342,
-      "updated_at": "2025-09-18T21:02:31Z",
-      "width": 591,
-      "height": 1280
-    },
     {
       "id": "6cd1538b-7818-4bba-9576-9bab90d646fd",
       "title": "Gengar Starry Night",
@@ -205,6 +185,26 @@
       "updated_at": "2026-04-01T13:58:50Z",
       "width": 1080,
       "height": 1936
+    },
+    {
+      "id": "a1d5a303-d6ac-4f2c-ba33-a66a7f659702",
+      "title": "Meditating Flaming Entity",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/meditating_flaming_entity.jpg",
+      "size": 408896,
+      "updated_at": "2024-07-17T14:27:50Z",
+      "width": 1148,
+      "height": 2048
+    },
+    {
+      "id": "ec2d900c-e1c5-4570-be19-ecbab933a8a6",
+      "title": "Megumi Fushiguro",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/megumi_fushiguro.jpg",
+      "size": 234240,
+      "updated_at": "2025-04-02T14:55:45Z",
+      "width": 720,
+      "height": 1280
     }
   ]
 }

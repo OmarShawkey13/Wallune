@@ -1,31 +1,11 @@
 {
   "page": 11,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "9c34ef06-676f-4d0a-b304-3be8e5f8acda",
-      "title": "Stitch And Angel Hugging",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_hugging.jpg",
-      "size": 59677,
-      "updated_at": "2026-03-15T20:58:56Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "6e587e29-e5c6-4ada-930c-4a4240bbbccf",
-      "title": "Stitch And Angel Poses",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/stitch_and_angel_poses.jpg",
-      "size": 61034,
-      "updated_at": "2026-03-15T20:57:42Z",
-      "width": 675,
-      "height": 1200
-    },
     {
       "id": "0283c97e-b827-4fb2-8290-3a9d27fd2734",
       "title": "Stitch And Angel Split Background",
@@ -203,6 +183,26 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_judy_plushies.jpg",
       "size": 350027,
       "updated_at": "2026-02-15T09:59:17Z",
+      "width": 1025,
+      "height": 2160
+    },
+    {
+      "id": "838d6eca-dfe8-4158-94f7-2a3703a63cfe",
+      "title": "Zootopia Nick Judy Dark Edgy",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_nick_judy_dark_edgy.jpg",
+      "size": 457676,
+      "updated_at": "2026-02-15T09:59:09Z",
+      "width": 1025,
+      "height": 2160
+    },
+    {
+      "id": "96edf851-04ad-49c0-b93a-3fcb09eb912a",
+      "title": "Zootopia Nick Judy Edgy",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_nick_judy_edgy.jpg",
+      "size": 430099,
+      "updated_at": "2026-02-15T09:59:03Z",
       "width": 1025,
       "height": 2160
     }

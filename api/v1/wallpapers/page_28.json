@@ -1,31 +1,11 @@
 {
   "page": 28,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "bc3584f0-db37-49e0-82b0-ed1a17508853",
-      "title": "Sunflowers",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunflowers.jpg",
-      "size": 158844,
-      "updated_at": "2026-03-03T02:29:34Z",
-      "width": 1080,
-      "height": 1350
-    },
-    {
-      "id": "9701c3e6-7386-4ba8-ab89-cb61e3209030",
-      "title": "Sunset Landscape With Birds",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunset_landscape_with_birds.jpg",
-      "size": 119060,
-      "updated_at": "2026-05-26T06:57:03Z",
-      "width": 736,
-      "height": 1308
-    },
     {
       "id": "db3cd6ab-a587-4b1b-997c-a62b57f90fea",
       "title": "Sunset Palm Trees",
@@ -167,16 +147,6 @@
       "height": 1472
     },
     {
-      "id": "13d6f355-f702-4c83-85a9-1d5d35fdf7f8",
-      "title": "Blindfolded Girl",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/blindfolded_girl.jpg",
-      "size": 98839,
-      "updated_at": "2026-04-23T09:05:14Z",
-      "width": 996,
-      "height": 2160
-    },
-    {
       "id": "d49275a6-ea4f-40a0-a919-51d7d8c8dc25",
       "title": "Holding Hands At Sunset",
       "category": "People",
@@ -205,6 +175,36 @@
       "updated_at": "2026-06-20T18:00:41Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "b62f4691-361d-48f4-84a7-40efc1c64d0c",
+      "title": "Batman Toy",
+      "category": "Pop_Culture",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/batman_toy.jpg",
+      "size": 73568,
+      "updated_at": "2026-05-26T00:44:14Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "621c0040-e57e-48bc-a442-e8487b2d1c04",
+      "title": "Captain America Toy",
+      "category": "Pop_Culture",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/captain_america_toy.jpg",
+      "size": 82598,
+      "updated_at": "2026-05-26T00:44:29Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "a30c91d5-07db-4659-ad86-af9322797bf0",
+      "title": "Mickey Mouse Toy",
+      "category": "Pop_Culture",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/mickey_mouse_toy.jpg",
+      "size": 84551,
+      "updated_at": "2026-05-26T00:44:22Z",
+      "width": 736,
+      "height": 1472
     }
   ]
 }

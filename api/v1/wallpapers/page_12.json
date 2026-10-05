@@ -1,31 +1,11 @@
 {
   "page": 12,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "838d6eca-dfe8-4158-94f7-2a3703a63cfe",
-      "title": "Zootopia Nick Judy Dark Edgy",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_nick_judy_dark_edgy.jpg",
-      "size": 457676,
-      "updated_at": "2026-02-15T09:59:09Z",
-      "width": 1025,
-      "height": 2160
-    },
-    {
-      "id": "96edf851-04ad-49c0-b93a-3fcb09eb912a",
-      "title": "Zootopia Nick Judy Edgy",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/zootopia_nick_judy_edgy.jpg",
-      "size": 430099,
-      "updated_at": "2026-02-15T09:59:03Z",
-      "width": 1025,
-      "height": 2160
-    },
     {
       "id": "45268d0f-3b57-4750-8fa0-e0e71d24f6ab",
       "title": "Zootopia Nick Judy Love",
@@ -205,6 +185,26 @@
       "updated_at": "2026-06-25T19:19:11Z",
       "width": 736,
       "height": 1307
+    },
+    {
+      "id": "0f50b056-9e9e-4a76-88ef-5a3006d020ce",
+      "title": "Jungle Hut At Night",
+      "category": "Architecture",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/jungle_hut_at_night.jpg",
+      "size": 246134,
+      "updated_at": "2026-06-21T07:07:15Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "d8ec9416-aef8-48bd-9d21-df5185fe861a",
+      "title": "Modern Pillar Structure",
+      "category": "Architecture",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Architecture/modern_pillar_structure.jpg",
+      "size": 79304,
+      "updated_at": "2026-04-25T20:34:36Z",
+      "width": 1080,
+      "height": 1620
     }
   ]
 }

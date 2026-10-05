@@ -1,41 +1,11 @@
 {
   "page": 29,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
-    {
-      "id": "b62f4691-361d-48f4-84a7-40efc1c64d0c",
-      "title": "Batman Toy",
-      "category": "Pop_Culture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/batman_toy.jpg",
-      "size": 73568,
-      "updated_at": "2026-05-26T00:44:14Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "621c0040-e57e-48bc-a442-e8487b2d1c04",
-      "title": "Captain America Toy",
-      "category": "Pop_Culture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/captain_america_toy.jpg",
-      "size": 82598,
-      "updated_at": "2026-05-26T00:44:29Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "a30c91d5-07db-4659-ad86-af9322797bf0",
-      "title": "Mickey Mouse Toy",
-      "category": "Pop_Culture",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Pop_Culture/mickey_mouse_toy.jpg",
-      "size": 84551,
-      "updated_at": "2026-05-26T00:44:22Z",
-      "width": 736,
-      "height": 1472
-    },
     {
       "id": "e22980a4-ca8d-470f-843b-bbb25ec715e2",
       "title": "Spider Man City",
@@ -205,6 +175,36 @@
       "updated_at": "2026-04-23T09:05:10Z",
       "width": 1080,
       "height": 2340
+    },
+    {
+      "id": "830a1362-ab93-4ee0-909d-9fea0e34e856",
+      "title": "Retro Spaceship",
+      "category": "Sci_Fi",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sci_Fi/retro_spaceship.jpg",
+      "size": 232866,
+      "updated_at": "2026-06-07T09:06:51Z",
+      "width": 864,
+      "height": 1728
+    },
+    {
+      "id": "5412c1d3-200d-4302-b5d9-514d1d75a6a9",
+      "title": "Tardis In Space",
+      "category": "Sci_Fi",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sci_Fi/tardis_in_space.jpg",
+      "size": 121546,
+      "updated_at": "2026-06-07T09:06:46Z",
+      "width": 864,
+      "height": 1870
+    },
+    {
+      "id": "dbc3398b-8d2d-4c02-af0f-b12bb2028424",
+      "title": "Astronaut Silhouette",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/astronaut_silhouette.jpg",
+      "size": 58260,
+      "updated_at": "2026-04-23T09:05:16Z",
+      "width": 996,
+      "height": 2160
     }
   ]
 }

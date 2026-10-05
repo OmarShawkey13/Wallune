@@ -1,9 +1,9 @@
 {
   "api_version": 1,
-  "content_version": 5,
-  "total_items": 659,
+  "content_version": 6,
+  "total_items": 656,
   "total_pages": 33,
   "items_per_page": 20,
-  "generated_at": "2026-09-29T09:49:58Z",
-  "catalog_hash": "2f42690400242984fc47d2866431d22086d4b639241ab8725a32f846e6fcbba2"
+  "generated_at": "2026-10-05T11:14:46Z",
+  "catalog_hash": "f72b36627d500e5074508f284ae13bb0fb9b5537c2cd30c1dc4488bdf39e8c92"
 }

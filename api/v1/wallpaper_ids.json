@@ -1415,7 +1415,7 @@
       "aliases": [
         "images/Anime/anime_girl_car.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "d34386e6-7f08-4c1d-bc0f-5a351b95f65f",
@@ -2199,7 +2199,7 @@
       "aliases": [
         "images/People/blindfolded_girl.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "cd6c7b8d-95e9-49ec-aa1f-bbe7e18824cf",
@@ -3639,7 +3639,7 @@
       "aliases": [
         "images/Anime/cyborg_girl_red_background.jpg"
       ],
-      "retired": false
+      "retired": true
     },
     {
       "id": "206ab983-aac1-492a-9973-6ca780c45184",

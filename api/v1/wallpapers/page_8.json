@@ -1,7 +1,7 @@
 {
   "page": 8,
   "total_pages": 33,
-  "total_items": 659,
+  "total_items": 656,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
@@ -25,16 +25,6 @@
       "updated_at": "2026-06-05T11:04:12Z",
       "width": 864,
       "height": 1872
-    },
-    {
-      "id": "f7324d55-2120-4a99-bf50-699e59e87e17",
-      "title": "Anime Girl Car",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_girl_car.jpg",
-      "size": 138446,
-      "updated_at": "2026-05-15T20:58:16Z",
-      "width": 1080,
-      "height": 1920
     },
     {
       "id": "b773e8d5-5261-4182-8ac6-ac1dab383e58",
@@ -205,6 +195,16 @@
       "updated_at": "2026-02-15T09:59:29Z",
       "width": 1025,
       "height": 2160
+    },
+    {
+      "id": "d6f99a19-ed57-4919-911d-ef7c28fd3877",
+      "title": "Floating Girl Magic",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/floating_girl_magic.jpg",
+      "size": 38342,
+      "updated_at": "2025-09-18T21:02:31Z",
+      "width": 591,
+      "height": 1280
     }
   ]
 }
