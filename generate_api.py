@@ -5,11 +5,15 @@ JSON and image references, with no server or external runtime dependency.
 """
 
 from datetime import datetime, timezone
+import argparse
 import hashlib
 import os
 import json
 import re
+import shutil
 import struct
+import sys
+import tempfile
 import urllib.parse
 import uuid
 from pathlib import Path
@@ -31,6 +35,8 @@ VALID_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
 ITEMS_PER_PAGE = 20
 ID_METADATA_FILENAME = "wallpaper_ids.json"
 CONFIG_FILENAME = "config.json"
+METADATA_SCHEMA_VERSION = 2
+MIGRATION_FALLBACK_UPDATED_AT = "2000-01-01T00:00:00Z"
 _PAGE_RE = re.compile(r"page_(\d+)\.json$")
 _UUID_RE = re.compile(r"^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-5][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$")
 
@@ -110,74 +116,156 @@ def _reject_duplicate_images(items):
         raise ValueError("Duplicate image bytes found; remove one copy: " + details)
 
 
-def _metadata_path():
-    return os.path.join(API_DIR, ID_METADATA_FILENAME)
+def _metadata_path(api_dir=None):
+    return str(Path(api_dir or API_DIR) / ID_METADATA_FILENAME)
 
 
-def _config_path():
-    return os.path.join(API_DIR, CONFIG_FILENAME)
+def _config_path(api_dir=None):
+    return str(Path(api_dir or API_DIR) / CONFIG_FILENAME)
 
 
-def _validate_metadata(records):
+def _validate_metadata(records, allow_missing_updated_at=False):
+    if not isinstance(records, list):
+        raise ValueError("UUID metadata must contain a wallpapers list")
     seen = set()
-    for record in records:
-        record_id = record.get("id")
+    for index, record in enumerate(records):
+        if not isinstance(record, dict):
+            raise ValueError(f"UUID metadata record {index} is not an object")
+        required = {"id", "content_hash", "aliases", "retired"}
+        missing = sorted(required - set(record))
+        if missing:
+            raise ValueError(
+                f"UUID metadata record {index} is missing required fields: {', '.join(missing)}"
+            )
+        record_id = record["id"]
         if not _valid_uuid(record_id) or record_id in seen:
             raise ValueError("UUID metadata contains an invalid or duplicate ID")
-        if not isinstance(record.get("content_hash"), str) or not re.fullmatch(r"[0-9a-f]{64}", record["content_hash"]):
-            raise ValueError("UUID metadata contains an invalid content hash")
-        if not isinstance(record.get("aliases", []), list):
-            raise ValueError("UUID metadata contains invalid aliases")
+        content_hash = record["content_hash"]
+        if not isinstance(content_hash, str) or not re.fullmatch(r"[0-9a-f]{64}", content_hash):
+            raise ValueError(f"UUID metadata record {record_id} contains an invalid content hash")
+        aliases = record["aliases"]
+        if not isinstance(aliases, list) or any(not isinstance(alias, str) or not alias for alias in aliases):
+            raise ValueError(f"UUID metadata record {record_id} contains invalid aliases")
+        normalized_aliases = [_normalize(alias) for alias in aliases]
+        if len(normalized_aliases) != len(set(normalized_aliases)):
+            raise ValueError(f"UUID metadata record {record_id} contains duplicate aliases")
+        if record["retired"] not in (True, False) or not isinstance(record["retired"], bool):
+            raise ValueError(f"UUID metadata record {record_id} contains an invalid retired flag")
+        if "updated_at" not in record:
+            if not allow_missing_updated_at:
+                raise ValueError(
+                    f"UUID metadata record {record_id} is missing updated_at; run one normal generation to migrate it"
+                )
+        elif not isinstance(record["updated_at"], str):
+            raise ValueError(f"UUID metadata record {record_id} contains an invalid updated_at")
+        else:
+            _parse_utc(record["updated_at"])
         seen.add(record_id)
 
 
-def _load_metadata():
-    path = _metadata_path()
+def _load_metadata(api_dir=None):
+    path = _metadata_path(api_dir)
     if not os.path.isfile(path):
         return []
-    with open(path, encoding="utf-8") as handle:
-        payload = json.load(handle)
-    records = payload.get("wallpapers", []) if isinstance(payload, dict) else []
+    try:
+        with open(path, encoding="utf-8") as handle:
+            payload = json.load(handle)
+    except (OSError, json.JSONDecodeError) as exc:
+        raise ValueError(f"Could not read identity metadata {path}: {exc}") from exc
+    if not isinstance(payload, dict) or "wallpapers" not in payload:
+        raise ValueError("Invalid wallpaper_ids.json format: expected an object with wallpapers")
+    schema_version = payload.get("schema_version", 1)
+    if not _is_int(schema_version) or schema_version not in (1, METADATA_SCHEMA_VERSION):
+        raise ValueError(f"Unsupported wallpaper_ids.json schema_version: {schema_version!r}")
+    records = payload["wallpapers"]
     if not isinstance(records, list):
-        raise ValueError("Invalid wallpaper_ids.json format")
+        raise ValueError("Invalid wallpaper_ids.json format: wallpapers must be a list")
     normalized = []
     for record in records:
-        normalized.append({
-            "id": record.get("id"),
-            "content_hash": record.get("content_hash"),
-            "aliases": sorted({_normalize(alias) for alias in record.get("aliases", [])}),
-            "retired": bool(record.get("retired", False)),
-        })
-    _validate_metadata(normalized)
+        if not isinstance(record, dict):
+            normalized.append(record)
+            continue
+        # Keep the original key set so a malformed record reports the
+        # missing field instead of being converted into an unrelated type
+        # error (for example, ``content_hash=None``).
+        value = {key: record[key] for key in record if key in {
+            "id", "content_hash", "aliases", "retired", "updated_at"
+        }}
+        normalized.append(value)
+    _validate_metadata(normalized, allow_missing_updated_at=True)
     return normalized
 
 
-def _legacy_pages():
+def _legacy_pages(api_dir=None):
     result = []
-    directory = Path(API_DIR) / "wallpapers"
+    directory = Path(api_dir or API_DIR) / "wallpapers"
     if directory.is_dir():
         paths = sorted(
             (path for path in directory.iterdir() if _PAGE_RE.fullmatch(path.name)),
             key=lambda path: int(_PAGE_RE.fullmatch(path.name).group(1)),
         )
         for path in paths:
-            with open(path, encoding="utf-8") as handle:
-                result.extend(json.load(handle).get("data", []))
+            try:
+                with open(path, encoding="utf-8") as handle:
+                    payload = json.load(handle)
+            except (OSError, json.JSONDecodeError) as exc:
+                raise ValueError(f"Could not read legacy page {path}: {exc}") from exc
+            if not isinstance(payload, dict) or not isinstance(payload.get("data"), list):
+                raise ValueError(f"Legacy page {path} has invalid data")
+            result.extend(payload["data"])
     legacy = Path("wallpapers.json")
     if legacy.is_file():
         try:
             with open(legacy, encoding="utf-8") as handle:
                 payload = json.load(handle)
-            result.extend(payload.get("wallpapers", []) if isinstance(payload, dict) else payload)
-        except (OSError, ValueError):
-            pass
+        except (OSError, json.JSONDecodeError) as exc:
+            raise ValueError(f"Could not read legacy wallpapers.json: {exc}") from exc
+        if isinstance(payload, dict):
+            values = payload.get("wallpapers")
+        else:
+            values = payload
+        if not isinstance(values, list):
+            raise ValueError("Legacy wallpapers.json must contain a list")
+        result.extend(values)
     return result
 
 
-def _load_identity_records():
-    records = _load_metadata()
-    by_id = {record["id"]: record for record in records}
+def _deterministic_migration_timestamp(content_hash):
+    """Fallback for legacy records without a valid timestamp."""
+    # A fixed UTC value keeps migration reproducible and avoids treating file
+    # mtime as identity data. The hash argument is retained for call-site
+    # clarity and future migration strategies.
+    return MIGRATION_FALLBACK_UPDATED_AT
+
+
+def _legacy_timestamp_by_id(api_dir=None):
+    timestamps = {}
+    for item in _legacy_pages(api_dir):
+        if not isinstance(item, dict):
+            continue
+        record_id = item.get("id")
+        if not _valid_uuid(record_id):
+            continue
+        value = item.get("updated_at")
+        if value is None:
+            continue
+        try:
+            _parse_utc(value)
+        except ValueError:
+            continue
+        previous = timestamps.get(record_id)
+        if previous is not None and previous != value:
+            raise ValueError(f"Legacy pages contain conflicting updated_at values for UUID {record_id}")
+        timestamps[record_id] = value
+    return timestamps
+
+
+def _migrate_legacy_records():
+    records = []
+    by_id = {}
     for item in _legacy_pages():
+        if not isinstance(item, dict):
+            continue
         record_id, value = item.get("id"), item.get("image_url")
         if not _valid_uuid(record_id) or not isinstance(value, str):
             continue
@@ -190,15 +278,60 @@ def _load_identity_records():
         if not path.is_file():
             continue
         digest = _sha256(str(path))
+        timestamp = item.get("updated_at")
+        try:
+            _parse_utc(timestamp)
+        except (TypeError, ValueError):
+            timestamp = _deterministic_migration_timestamp(digest)
         record = by_id.get(record_id)
         if record is None:
-            record = {"id": record_id, "content_hash": digest, "aliases": [], "retired": False}
+            record = {
+                "id": record_id,
+                "content_hash": digest,
+                "aliases": [],
+                "retired": False,
+                "updated_at": timestamp,
+            }
             records.append(record)
             by_id[record_id] = record
         elif record["content_hash"] != digest:
-            raise ValueError("A legacy UUID maps to different image bytes")
+            raise ValueError(
+                f"Legacy pages contain conflicting image bytes for UUID {record_id}; "
+                "repair the legacy catalog before migration"
+            )
         if relative not in record["aliases"]:
             record["aliases"].append(relative)
+    _validate_metadata(records)
+    return records
+
+
+def _load_identity_records():
+    metadata_path = Path(_metadata_path())
+    if not metadata_path.is_file():
+        return _migrate_legacy_records()
+
+    records = _load_metadata()
+    if not records:
+        legacy_ids = [
+            item.get("id")
+            for item in _legacy_pages()
+            if isinstance(item, dict) and _valid_uuid(item.get("id"))
+        ]
+        if legacy_ids:
+            raise ValueError(
+                "Identity metadata is empty while legacy catalog records exist; "
+                "refusing to reset wallpaper IDs"
+            )
+    if any("updated_at" not in record for record in records):
+        timestamps = _legacy_timestamp_by_id()
+        for record in records:
+            record.setdefault(
+                "updated_at",
+                timestamps.get(
+                    record["id"],
+                    _deterministic_migration_timestamp(record["content_hash"]),
+                ),
+            )
     _validate_metadata(records)
     return records
 
@@ -209,6 +342,7 @@ def _assign_ids(items, previous):
         "content_hash": record["content_hash"],
         "aliases": list(record.get("aliases", [])),
         "retired": bool(record.get("retired", False)),
+        "updated_at": record.get("updated_at", _deterministic_migration_timestamp(record["content_hash"])),
         "_was_active": not bool(record.get("retired", False)),
     } for record in previous]
     by_hash = {}
@@ -232,11 +366,14 @@ def _assign_ids(items, previous):
                 "content_hash": item["content_hash"],
                 "aliases": [],
                 "retired": False,
+                "updated_at": item["updated_at"],
                 "_was_active": True,
             }
             metadata.append(record)
             by_hash.setdefault(item["content_hash"], []).append(record)
         record["retired"] = False
+        if not record.get("updated_at"):
+            record["updated_at"] = item["updated_at"]
         record["aliases"] = sorted(set(record["aliases"]) | {item["relative"]})
         assigned.add(record["id"])
         public.append({
@@ -245,11 +382,16 @@ def _assign_ids(items, previous):
             "category": item["category"],
             "image_url": item["image_url"],
             "size": item["size"],
-            "updated_at": item["updated_at"],
+            "updated_at": record["updated_at"],
             "width": item["width"],
             "height": item["height"],
         })
+    current_paths = {item["relative"] for item in items}
     for record in metadata:
+        if record["id"] not in assigned:
+            record["aliases"] = [
+                alias for alias in record["aliases"] if alias not in current_paths
+            ]
         record.pop("_was_active", None)
     metadata.sort(key=lambda record: (record["content_hash"], record["id"]))
     _validate_metadata(metadata)
@@ -347,7 +489,16 @@ def _pages(wallpapers):
 
 def _catalog_hash(wallpapers, categories):
     semantic = [{key: value for key, value in item.items() if key != "updated_at"} for item in wallpapers]
-    raw = json.dumps({"wallpapers": semantic, "categories": categories}, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+    raw = json.dumps(
+        {
+            "wallpapers": semantic,
+            "categories": categories,
+            "items_per_page": ITEMS_PER_PAGE,
+        },
+        ensure_ascii=False,
+        sort_keys=True,
+        separators=(",", ":"),
+    )
     return hashlib.sha256(raw.encode("utf-8")).hexdigest()
 
 
@@ -367,12 +518,74 @@ def _content_version(current_hash):
     return 1
 
 
-def _cleanup_pages():
-    directory = Path(API_DIR) / "wallpapers"
-    directory.mkdir(parents=True, exist_ok=True)
-    for path in directory.iterdir():
-        if path.is_file() and _PAGE_RE.fullmatch(path.name):
-            path.unlink()
+def _generated_output_files(root):
+    root = Path(root)
+    files = [
+        path for path in (
+            root / "categories.json",
+            root / "search_index.json",
+            root / ID_METADATA_FILENAME,
+            root / CONFIG_FILENAME,
+            root / "models.dart",
+        )
+        if path.is_file()
+    ]
+    pages = root / "wallpapers"
+    if pages.is_dir():
+        files.extend(path for path in pages.iterdir() if path.is_file() and _PAGE_RE.fullmatch(path.name))
+    return files
+
+
+def _replace_staged_output(stage_dir):
+    """Replace generated files with rollback; the directory swap is not atomic."""
+    api_root = Path(API_DIR)
+    api_root.parent.mkdir(parents=True, exist_ok=True)
+    api_root.mkdir(parents=True, exist_ok=True)
+    (api_root / "wallpapers").mkdir(parents=True, exist_ok=True)
+    stage_dir = Path(stage_dir)
+    stage_files = [
+        path for path in stage_dir.rglob("*") if path.is_file()
+    ]
+    existing_files = _generated_output_files(api_root)
+    backup_dir = Path(tempfile.mkdtemp(prefix=f".{api_root.name}.backup-", dir=str(api_root.parent)))
+    backup_map = {}
+    touched = set()
+    try:
+        for path in existing_files:
+            relative = path.relative_to(api_root)
+            backup_path = backup_dir / relative
+            backup_path.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(path, backup_path)
+            backup_map[path] = backup_path
+            touched.add(path)
+        for path in stage_files:
+            relative = path.relative_to(stage_dir)
+            target = api_root / relative
+            target.parent.mkdir(parents=True, exist_ok=True)
+            os.replace(path, target)
+            touched.add(target)
+        stage_names = {
+            api_root / path.relative_to(stage_dir)
+            for path in stage_files
+        }
+        for path in existing_files:
+            if path not in stage_names and path.exists():
+                path.unlink()
+        validate_generated_api(api_root)
+    except Exception:
+        for path in touched:
+            if path.exists() and path not in backup_map:
+                try:
+                    path.unlink()
+                except OSError:
+                    pass
+        for path, backup_path in backup_map.items():
+            if backup_path.exists():
+                path.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(backup_path, path)
+        raise
+    finally:
+        shutil.rmtree(backup_dir, ignore_errors=True)
 
 
 def _parse_utc(value):
@@ -387,26 +600,50 @@ def _parse_utc(value):
     return parsed
 
 
+def _is_int(value):
+    return isinstance(value, int) and not isinstance(value, bool)
+
+
+def _validate_public_record(item, context):
+    if not isinstance(item, dict):
+        raise ValueError(f"{context} must be an object")
+    fields = ("id", "title", "category", "image_url", "size", "updated_at", "width", "height")
+    missing = [field for field in fields if field not in item]
+    if missing:
+        raise ValueError(f"{context} is missing fields: {', '.join(missing)}")
+    for field in ("id", "title", "category", "image_url", "updated_at"):
+        if not isinstance(item[field], str) or not item[field]:
+            raise ValueError(f"{context}.{field} must be a non-empty string")
+    if not _valid_uuid(item["id"]):
+        raise ValueError(f"{context}.id is not a UUID")
+    for field in ("size", "width", "height"):
+        if not _is_int(item[field]) or item[field] <= 0:
+            raise ValueError(f"{context}.{field} must be a positive integer")
+    _parse_utc(item["updated_at"])
+
+
 def _validate_catalog(wallpapers, categories, search, pages, config, local_images):
+    if not isinstance(wallpapers, list):
+        raise ValueError("Wallpaper data must be a list")
+    if not isinstance(categories, list):
+        raise ValueError("categories.json must contain an array")
+    if not isinstance(search, list):
+        raise ValueError("search_index.json must contain an array")
+    if not isinstance(pages, list):
+        raise ValueError("Wallpaper pages must be a list")
     total = len(wallpapers)
     page_count = (total + ITEMS_PER_PAGE - 1) // ITEMS_PER_PAGE
-    if len(pages) != page_count or sum(item["count"] for item in categories) != total:
-        raise ValueError("Wallpaper and category totals are inconsistent")
-    ids = [item.get("id") for item in wallpapers]
-    urls = [item.get("image_url") for item in wallpapers]
-    if any(not _valid_uuid(item) for item in ids) or len(set(ids)) != len(ids):
-        raise ValueError("Wallpaper IDs are missing, invalid, or duplicated")
-    if len(set(urls)) != len(urls):
-        raise ValueError("Wallpaper URLs are duplicated")
+    if len(pages) != page_count:
+        raise ValueError("Wallpaper page count does not match total_items")
+    ids = []
+    urls = []
     local = {_normalize(item["relative"]): item for item in local_images}
     seen_paths = []
     fields = ("id", "title", "category", "image_url", "size", "updated_at", "width", "height")
-    for item in wallpapers:
-        if any(field not in item for field in fields):
-            raise ValueError("Wallpaper record is missing a field")
-        if item["size"] <= 0 or item["width"] <= 0 or item["height"] <= 0:
-            raise ValueError("Wallpaper metadata contains non-positive values")
-        _parse_utc(item["updated_at"])
+    for index, item in enumerate(wallpapers):
+        _validate_public_record(item, f"wallpapers[{index}]")
+        ids.append(item["id"])
+        urls.append(item["image_url"])
         relative = _url_relative(item["image_url"])
         if not relative or relative not in local:
             raise ValueError("Wallpaper URL does not map to a local image")
@@ -416,14 +653,37 @@ def _validate_catalog(wallpapers, categories, search, pages, config, local_image
         if item["image_url"] != _url(parts[1], parts[2]):
             raise ValueError("Wallpaper URL does not use canonical Wallune identity")
         seen_paths.append(relative)
+    if len(set(ids)) != len(ids):
+        raise ValueError("Wallpaper IDs are missing, invalid, or duplicated")
+    if len(set(urls)) != len(urls):
+        raise ValueError("Wallpaper URLs are duplicated")
     expected_paths = set(local)
     if len(seen_paths) != len(expected_paths) or set(seen_paths) != expected_paths:
         raise ValueError("Local images and generated records are not a one-to-one mapping")
-    category_ids = [item.get("id") for item in categories]
-    if any(not _valid_uuid(value) for value in category_ids) or len(set(category_ids)) != len(category_ids):
-        raise ValueError("Category IDs are missing, invalid, or duplicated")
-    names = {item["name"] for item in categories}
-    if names != {item["category"] for item in wallpapers}:
+
+    category_ids = []
+    category_names = []
+    for index, category in enumerate(categories):
+        if not isinstance(category, dict):
+            raise ValueError(f"categories[{index}] must be an object")
+        required = ("id", "name", "count", "cover")
+        if any(field not in category for field in required):
+            raise ValueError(f"categories[{index}] is missing a required field")
+        if not _valid_uuid(category["id"]) or not isinstance(category["name"], str) or not category["name"]:
+            raise ValueError(f"categories[{index}] has invalid id or name")
+        if not _is_int(category["count"]) or category["count"] < 0:
+            raise ValueError(f"categories[{index}].count must be a non-negative integer")
+        if not isinstance(category["cover"], str) or not category["cover"]:
+            raise ValueError(f"categories[{index}].cover must be a non-empty string")
+        category_ids.append(category["id"])
+        category_names.append(category["name"])
+    if len(set(category_ids)) != len(category_ids):
+        raise ValueError("Category IDs are duplicated")
+    if len(set(category_names)) != len(category_names):
+        raise ValueError("Category names are duplicated")
+    names = set(category_names)
+    wallpaper_names = {item["category"] for item in wallpapers}
+    if names != wallpaper_names:
         raise ValueError("Category names do not match wallpaper records")
     for category in categories:
         matching = [item for item in wallpapers if item["category"] == category["name"]]
@@ -433,34 +693,62 @@ def _validate_catalog(wallpapers, categories, search, pages, config, local_image
             or category["cover"] not in {item["image_url"] for item in matching}
         ):
             raise ValueError("Category count or cover is invalid")
+        if _url_relative(category["cover"]) not in expected_paths:
+            raise ValueError("Category cover does not map to a local image")
+
+    search_ids = []
+    for index, result in enumerate(search):
+        _validate_public_record(result, f"search_index[{index}]")
+        search_ids.append(result["id"])
+    if len(search_ids) != len(set(search_ids)):
+        raise ValueError("Search index contains duplicate IDs")
+    if set(search_ids) != set(ids):
+        raise ValueError("Search index is incomplete or contains extra records")
     by_id = {item["id"]: item for item in wallpapers}
-    search_by_id = {item.get("id"): item for item in search}
-    if len(search_by_id) != total or set(search_by_id) != set(by_id):
-        raise ValueError("Search index is incomplete or contains orphans")
-    for record_id, result in search_by_id.items():
-        if any(result.get(field) != by_id[record_id].get(field) for field in fields):
+    for result in search:
+        if any(result[field] != by_id[result["id"]][field] for field in fields):
             raise ValueError("Search index metadata differs from canonical data")
+
     for index, page in enumerate(pages, 1):
+        if not isinstance(page, dict):
+            raise ValueError(f"page {index} must be an object")
+        for field in ("page", "total_pages", "total_items", "items_per_page"):
+            if not _is_int(page.get(field)):
+                raise ValueError(f"page {index}.{field} must be an integer")
+        if not isinstance(page.get("has_next"), bool) or not isinstance(page.get("has_prev"), bool):
+            raise ValueError(f"page {index} navigation flags must be boolean")
+        if not isinstance(page.get("data"), list):
+            raise ValueError(f"page {index}.data must be an array")
         expected_length = ITEMS_PER_PAGE if index < page_count else total - ITEMS_PER_PAGE * (page_count - 1)
         if (
-            page.get("page") != index
-            or page.get("total_pages") != page_count
-            or page.get("total_items") != total
-            or page.get("items_per_page") != ITEMS_PER_PAGE
-            or len(page.get("data", [])) != expected_length
-            or page.get("has_next") != (index < page_count)
-            or page.get("has_prev") != (index > 1)
+            page["page"] != index
+            or page["total_pages"] != page_count
+            or page["total_items"] != total
+            or page["items_per_page"] != ITEMS_PER_PAGE
+            or len(page["data"]) != expected_length
+            or page["has_next"] != (index < page_count)
+            or page["has_prev"] != (index > 1)
         ):
             raise ValueError("Pagination metadata is invalid")
+        for item_index, item in enumerate(page["data"]):
+            _validate_public_record(item, f"page {index}.data[{item_index}]")
+
+    if not isinstance(config, dict):
+        raise ValueError("config.json must contain an object")
+    if not _is_int(config.get("api_version")) or config.get("api_version") != 1:
+        raise ValueError("config.json api_version is invalid")
+    if not _is_int(config.get("content_version")) or config["content_version"] <= 0:
+        raise ValueError("config.json content_version is invalid")
     if (
-        config.get("api_version") != 1
-        or not isinstance(config.get("content_version"), int)
-        or config["content_version"] <= 0
-        or config.get("total_items") != total
+        config.get("total_items") != total
         or config.get("total_pages") != page_count
         or config.get("items_per_page") != ITEMS_PER_PAGE
     ):
         raise ValueError("config.json totals are invalid")
+    if not isinstance(config.get("catalog_hash"), str) or not re.fullmatch(r"[0-9a-f]{64}", config["catalog_hash"]):
+        raise ValueError("config.json catalog_hash is invalid")
+    if config["catalog_hash"] != _catalog_hash(wallpapers, categories):
+        raise ValueError("config.json catalog_hash does not match the catalog")
     _parse_utc(config.get("generated_at"))
 
 
@@ -471,7 +759,7 @@ def _write_json(path, payload, compact=False):
         handle.write("\n")
 
 
-def _write_models():
+def _write_models(api_dir=None):
     dart = """// AUTO-GENERATED CODE - DO NOT MODIFY BY HAND
 // Wallune static API models.
 
@@ -591,41 +879,104 @@ class ApiConfig {
   );
 }
 """
-    os.makedirs(API_DIR, exist_ok=True)
-    with open(os.path.join(API_DIR, "models.dart"), "w", encoding="utf-8", newline="\n") as handle:
+    output_dir = api_dir or API_DIR
+    os.makedirs(output_dir, exist_ok=True)
+    with open(os.path.join(output_dir, "models.dart"), "w", encoding="utf-8", newline="\n") as handle:
         handle.write(dart)
 
 
-def validate_generated_api():
-    with open(os.path.join(API_DIR, "categories.json"), encoding="utf-8") as handle:
-        categories = json.load(handle)
-    with open(os.path.join(API_DIR, "search_index.json"), encoding="utf-8") as handle:
-        search = json.load(handle)
-    with open(_config_path(), encoding="utf-8") as handle:
-        config = json.load(handle)
-    directory = Path(API_DIR) / "wallpapers"
-    paths = sorted(
-        (path for path in directory.iterdir() if _PAGE_RE.fullmatch(path.name)),
+def validate_generated_api(api_dir=None):
+    api_root = Path(api_dir or API_DIR)
+    try:
+        with open(api_root / "categories.json", encoding="utf-8") as handle:
+            categories = json.load(handle)
+        with open(api_root / "search_index.json", encoding="utf-8") as handle:
+            search = json.load(handle)
+        with open(api_root / CONFIG_FILENAME, encoding="utf-8") as handle:
+            config = json.load(handle)
+    except (OSError, json.JSONDecodeError) as exc:
+        raise ValueError(f"Could not read generated API under {api_root}: {exc}") from exc
+    directory = api_root / "wallpapers"
+    if not directory.is_dir():
+        raise ValueError(f"Generated API is missing {directory}")
+    matching_paths = sorted(
+        (path for path in directory.iterdir() if path.is_file() and _PAGE_RE.fullmatch(path.name)),
         key=lambda path: int(_PAGE_RE.fullmatch(path.name).group(1)),
     )
+    page_count_hint = config.get("total_pages") if isinstance(config, dict) else None
+    if not _is_int(page_count_hint) or page_count_hint < 0:
+        raise ValueError("config.json total_pages must be a non-negative integer")
+    expected_names = [f"page_{index}.json" for index in range(1, page_count_hint + 1)]
+    actual_names = [path.name for path in matching_paths]
+    if actual_names != expected_names:
+        raise ValueError(
+            "Wallpaper page filenames must be exactly "
+            + (", ".join(expected_names) if expected_names else "none")
+            + f"; found {', '.join(actual_names) if actual_names else 'none'}"
+        )
     pages = []
-    for path in paths:
-        with open(path, encoding="utf-8") as handle:
-            pages.append(json.load(handle))
+    for expected_number, path in enumerate(matching_paths, 1):
+        try:
+            with open(path, encoding="utf-8") as handle:
+                page = json.load(handle)
+        except (OSError, json.JSONDecodeError) as exc:
+            raise ValueError(f"Could not read generated page {path}: {exc}") from exc
+        if not isinstance(page, dict) or page.get("page") != expected_number:
+            raise ValueError(f"Page filename {path.name} does not match its JSON page number")
+        pages.append(page)
     wallpapers = [item for page in pages for item in page.get("data", [])]
     local_images = [
         {"relative": f"{IMAGE_DIR}/{category}/{filename}", "path": path}
         for category, filename, path in _iter_images()
     ]
     _validate_catalog(wallpapers, categories, search, pages, config, local_images)
-    metadata = _load_metadata()
-    active_ids = {item["id"] for item in wallpapers}
-    metadata_ids = {record["id"] for record in metadata}
-    if not active_ids.issubset(metadata_ids):
-        raise ValueError("Generated wallpaper is missing from UUID metadata")
-    if any(not record["retired"] and record["id"] not in active_ids for record in metadata):
-        raise ValueError("Active UUID metadata contains an orphan")
-    return {"total_items": len(wallpapers), "total_pages": len(pages), "categories": len(categories), "search_items": len(search)}
+    metadata = _load_metadata(api_root)
+    _validate_metadata(metadata)
+    metadata_by_id = {record["id"]: record for record in metadata}
+    active_metadata_ids = {record["id"] for record in metadata if not record["retired"]}
+    public_ids = {item["id"] for item in wallpapers}
+    if public_ids != active_metadata_ids:
+        raise ValueError("Public wallpaper IDs must exactly match active UUID metadata IDs")
+    local_by_relative = {_normalize(item["relative"]): item for item in local_images}
+    active_aliases = {}
+    for record in metadata:
+        for alias in record["aliases"]:
+            normalized = _normalize(alias)
+            if normalized in local_by_relative and not record["retired"]:
+                previous = active_aliases.get(normalized)
+                if previous is not None and previous != record["id"]:
+                    raise ValueError(f"Current image path has multiple active identity aliases: {normalized}")
+                active_aliases[normalized] = record["id"]
+    for item in wallpapers:
+        relative = _url_relative(item["image_url"])
+        record = metadata_by_id.get(item["id"])
+        if record is None:
+            raise ValueError(f"Generated wallpaper ID is missing from identity metadata: {item['id']}")
+        if record["retired"]:
+            raise ValueError(f"Public wallpaper points to retired identity: {item['id']}")
+        if relative not in record["aliases"]:
+            raise ValueError(f"Current image path is missing from identity aliases: {relative}")
+        local = local_by_relative[relative]
+        actual_path = local["path"]
+        actual_size = os.path.getsize(actual_path)
+        actual_dimensions = get_image_size(actual_path)
+        actual_hash = _sha256(actual_path)
+        if item["size"] != actual_size:
+            raise ValueError(f"Wallpaper size does not match the image: {relative}")
+        if not actual_dimensions or (item["width"], item["height"]) != actual_dimensions:
+            raise ValueError(f"Wallpaper dimensions do not match the image: {relative}")
+        if record["content_hash"] != actual_hash:
+            raise ValueError(f"Identity content hash does not match the image: {relative}")
+        if item["updated_at"] != record["updated_at"]:
+            raise ValueError(f"Wallpaper updated_at does not match identity metadata: {relative}")
+        if active_aliases.get(relative) != item["id"]:
+            raise ValueError(f"Current image path is not owned by its public identity: {relative}")
+    return {
+        "total_items": len(wallpapers),
+        "total_pages": len(pages),
+        "categories": len(categories),
+        "search_items": len(search),
+    }
 
 
 def process_images():
@@ -644,7 +995,7 @@ def process_images():
             "title": get_clean_title(filename),
             "image_url": _url(category, filename),
             "size": os.path.getsize(path),
-            "updated_at": utc_iso(os.stat(path).st_mtime),
+            "updated_at": utc_iso(),
             "width": dimensions[0],
             "height": dimensions[1],
             "content_hash": _sha256(path),
@@ -674,19 +1025,49 @@ def process_images():
     local_images = [{"relative": item["relative"], "path": item["relative"]} for item in items]
     _validate_catalog(wallpapers, categories, search, pages, config, local_images)
     _validate_metadata(metadata)
-    os.makedirs(API_DIR, exist_ok=True)
-    _cleanup_pages()
-    for page in pages:
-        _write_json(os.path.join(API_DIR, "wallpapers", f"page_{page['page']}.json"), page)
-    _write_json(os.path.join(API_DIR, "categories.json"), categories)
-    _write_json(os.path.join(API_DIR, "search_index.json"), search, compact=True)
-    _write_json(os.path.join(API_DIR, ID_METADATA_FILENAME), {"schema_version": 1, "wallpapers": metadata})
-    _write_json(os.path.join(API_DIR, CONFIG_FILENAME), config)
-    _write_models()
+    api_root = Path(API_DIR)
+    api_root.parent.mkdir(parents=True, exist_ok=True)
+    stage_dir = Path(tempfile.mkdtemp(prefix=f".{api_root.name}.staging-", dir=str(api_root.parent)))
+    try:
+        (stage_dir / "wallpapers").mkdir(parents=True, exist_ok=True)
+        for page in pages:
+            _write_json(stage_dir / "wallpapers" / f"page_{page['page']}.json", page)
+        _write_json(stage_dir / "categories.json", categories)
+        _write_json(stage_dir / "search_index.json", search, compact=True)
+        _write_json(
+            stage_dir / ID_METADATA_FILENAME,
+            {"schema_version": METADATA_SCHEMA_VERSION, "wallpapers": metadata},
+        )
+        _write_json(stage_dir / CONFIG_FILENAME, config)
+        _write_models(stage_dir)
+        validate_generated_api(stage_dir)
+        _replace_staged_output(stage_dir)
+    finally:
+        shutil.rmtree(stage_dir, ignore_errors=True)
     summary = validate_generated_api()
     print("Wallune static API generated and validated: " + str(summary))
     return summary
 
 
+def main(argv=None):
+    parser = argparse.ArgumentParser(description="Generate or validate the Wallune static API")
+    parser.add_argument(
+        "--validate-only",
+        action="store_true",
+        help="validate the existing generated API without modifying any files",
+    )
+    args = parser.parse_args(argv)
+    try:
+        if args.validate_only:
+            summary = validate_generated_api()
+            print("Wallune static API validation passed: " + str(summary))
+        else:
+            process_images()
+    except Exception as exc:
+        print(f"Wallune static API {'validation' if args.validate_only else 'generation'} failed: {exc}", file=sys.stderr)
+        return 1
+    return 0
+
+
 if __name__ == "__main__":
-    process_images()
+    raise SystemExit(main())

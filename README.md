@@ -70,8 +70,8 @@ A page has this shape:
 ~~~json
 {
   "page": 1,
-  "total_pages": 34,
-  "total_items": 669,
+  "total_pages": 5,
+  "total_items": 100,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -90,12 +90,12 @@ config.json contains:
 ~~~json
 {
   "api_version": 1,
-  "content_version": 3,
-  "total_items": 669,
-  "total_pages": 34,
+  "content_version": 8,
+  "total_items": 100,
+  "total_pages": 5,
   "items_per_page": 20,
-  "generated_at": "2026-09-15T12:33:20Z",
-  "catalog_hash": "e38e8cf3df3dcc26cfe6cdd16d0ea2ceb27988b5a74cb4b0fafb454887b66260"
+  "generated_at": "2026-10-12T11:39:33Z",
+  "catalog_hash": "2af03ac45d1b799b6b21e8a4f23ae935028bbce04f50a04be4db86d98f2900cf"
 }
 ~~~
 
@@ -109,8 +109,9 @@ The generated wallpaper IDs are persisted in api/v1/wallpaper_ids.json. A record
 - a SHA-256 hash of the image bytes
 - historical relative-path aliases
 - a retired flag
+- a persisted UTC `updated_at` timestamp
 
-On the first hardened generation, existing page files are migrated into this metadata file so current Flutter favorites keep their IDs. The image content hash is independent of the GitHub repository, branch, URL encoding, category, and filename. Path aliases preserve an ID when a file is renamed. Exact duplicate image bytes are rejected by the generator and should be removed before publishing.
+On the first hardened generation, existing page files are migrated into this metadata file so current Flutter favorites keep their IDs. Once the metadata file exists, it is authoritative; stale page files cannot silently restore or replace identities. The image content hash is independent of the GitHub repository, branch, URL encoding, category, and filename. Path aliases preserve an ID when a file is renamed. Replacing the bytes at the same path creates a new UUID and retires the old identity. Exact duplicate image bytes are rejected by the generator and should be removed before publishing.
 
 Retired records remain as tombstones and are never assigned to a newly introduced image. A new image receives a new UUID. Do not delete wallpaper_ids.json.
 
@@ -139,7 +140,15 @@ Generation:
 7. rejects duplicate image bytes;
 8. validates all cross-file invariants before and after writing.
 
-Only files named page_<number>.json are removed during stale-page cleanup. Unrelated files in api/v1/wallpapers are left alone. If there are no images, total_pages is zero and no page files are generated.
+The generated files are first written to a staging directory. The existing generated files are backed up, replaced, and validated; a failure restores the previous files. This is a per-file replacement and rollback process, not a claim that the entire directory swap is filesystem-atomic. Only files named page_<number>.json are removed during stale-page cleanup. Unrelated files in api/v1/wallpapers are left alone. If there are no images, total_pages is zero and no page files are generated.
+
+To check an existing checkout without writing anything, run:
+
+~~~bash
+python generate_api.py --validate-only
+~~~
+
+Validation exits with a non-zero status and an actionable message when a page, image hash, dimension, size, alias, ID, search record, or catalog hash is inconsistent.
 
 ## Adding or removing wallpapers
 
@@ -153,7 +162,7 @@ The generator does not recompress, resize, rename, or move image binaries. A fil
 
 ## Validation and tests
 
-The validator checks counts, page continuity, page flags, UUID format and uniqueness, canonical Wallune URLs, URL encoding, local-image coverage, dimensions, sizes, categories and covers, search-index completeness, config totals, and UTC timestamps.
+The validator checks exact page filenames and page numbers, counts, page continuity, page flags, UUID format and uniqueness, canonical Wallune URLs, URL encoding, local-image coverage, actual dimensions, actual file sizes, actual SHA-256 hashes, identity aliases, active/retired ID consistency, categories and covers, search-index completeness and duplicates, config totals, catalog hash, and UTC timestamps.
 
 Run:
 
@@ -161,7 +170,7 @@ Run:
 python -m unittest discover -s tests -v
 ~~~
 
-Tests use temporary fixture directories and do not require network access. They cover empty catalogs, 1/20/21 item pagination, multiple categories, duplicate filenames, duplicate-byte rejection, unsupported extensions, stale cleanup, ID preservation across URL changes, new and deleted images, UTC timestamps, URL encoding, search completeness, category IDs, category counts, config totals, and final-page metadata.
+Tests use temporary fixture directories and do not require network access. The 26 regression tests cover empty catalogs, 1/20/21 item pagination, multiple categories, duplicate filenames, duplicate-byte rejection, unsupported extensions, stale cleanup, ID preservation across URL changes and renames, byte replacement and retired IDs, authoritative/corrupt/empty metadata, legacy timestamp migration and fallback, timestamp stability, content-version changes from pagination settings, valid JPEG/PNG/WebP dimensions, wrong size/dimensions/hash, page gaps, duplicate search rows, invalid catalog hashes, write and post-replacement rollback, validate-only no-write behavior, category IDs, category counts, config totals, and final-page metadata.
 
 ## Generated files to commit
 
@@ -180,9 +189,9 @@ Do not add a monolithic wallpapers.json file. Do not add Firebase, Supabase, AWS
 
 ## Current catalog snapshot
 
-The current catalog contains 669 supported images in 35 categories, generated into 34 pages with 20 items per page (9 on the final page). The image binaries are about 108 MiB. These are generated values, not hardcoded limits.
+The current catalog contains 100 supported images in 17 categories, generated into 5 pages with 20 items per page. The image binaries are 14,619,642 bytes (about 13.9 MiB). These are generated values, not hardcoded limits.
 
-A visual content review removed one clearly identifiable tobacco image (`images/Abstract/smoking_neon_skull.jpg`) and four byte-identical duplicate files from the catalog. A perceptual comparison found no other near-duplicate pairs. The removed files were moved to an external quarantine folder before regeneration; their UUIDs remain as retired tombstones in `api/v1/wallpaper_ids.json`.
+The current 100-image catalog was reviewed in contact sheets and at full resolution for policy-sensitive content. No image showing tobacco, alcohol, drugs, nudity, explicit sexual content, or graphic violence was retained. The accepted set has no duplicate SHA-256 image bytes; decorative fantasy and superhero weapon artwork is non-graphic.
 
 ## Operational limitations
 

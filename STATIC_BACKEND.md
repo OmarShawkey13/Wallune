@@ -8,20 +8,20 @@
 
 | العنصر | الحالة الحالية |
 | --- | ---: |
-| الصور المدعومة | 669 صورة |
-| التصنيفات | 35 تصنيفًا |
-| سجلات الـ API | 669 سجلًا |
-| صفحات الـ API | 34 صفحة |
-| العناصر في الصفحة | 20 (والصفحة الأخيرة 9) |
-| حجم الصور | 112,834,241 بايت تقريبًا (107.6 MiB) |
-| حجم ملفات `api/v1` | 620,680 بايت تقريبًا |
+| الصور المدعومة | 100 صورة |
+| التصنيفات | 17 تصنيفًا |
+| سجلات الـ API | 100 سجلًا |
+| صفحات الـ API | 5 صفحات |
+| العناصر في الصفحة | 20 في كل صفحة |
+| حجم الصور | 14,619,642 بايت تقريبًا (13.9 MiB) |
+| حجم ملفات `api/v1` | 292,837 بايت تقريبًا |
 | روابط الصور التي لا تطابق ملفًا محليًا | 0 |
 | اختلاف حجم الملف عن metadata | 0 |
 | IDs مكررة | 0 |
 | روابط مكررة | 0 |
 | أبعاد غير مقروءة (`0 × 0`) | 0 |
 
-كل ملفات JSON الحالية قابلة للقراءة، وأعداد التصنيفات في `categories.json` مطابقة لأعداد مجلدات الصور. تمت مراجعة الصور بصريًا وإخراج صورة واحدة واضحة للتبغ وأربع نسخ مطابقة byte-for-byte من الكتالوج؛ ولم يظهر أي زوج near-duplicate إضافي في المقارنة الإدراكية. بقيت معرّفات الملفات المزالة محفوظة كـ tombstones متقاعدة حتى لا يعاد استخدامها.
+كل ملفات JSON الحالية قابلة للقراءة، وأعداد التصنيفات في `categories.json` مطابقة لأعداد مجلدات الصور. تمت مراجعة الصور بصريًا في contact sheets وبالحجم الكامل، واستبعاد أي صورة فيها تبغ أو كحول أو مخدرات أو عُري أو إيحاء جنسي صريح أو عنف دموي. الفحص النهائي لا يحتوي على صور مكررة ببصمة SHA-256، وكل الصور المقبولة صالحة للقراءة.
 
 ## ملاحظة مهمة قبل النشر أو إعادة التوليد
 
@@ -67,6 +67,8 @@
 8. يقسم السجلات إلى صفحات، كل صفحة تحتوي على 20 عنصرًا.
 9. يرفض الصور المتطابقة byte-for-byte حتى لا تدخل نسخ مكررة إلى الكتالوج.
 10. ينشئ `search_index.json` و`categories.json` و`config.json` و`wallpaper_ids.json` و`models.dart`.
+11. يكتب الناتج في staging، ثم يستبدل الملفات المولدة مع backup وrollback عند الفشل.
+12. يشغّل validator قبل الاستبدال وبعده، ويتأكد من bytes الصورة الفعلية وhash والأبعاد والحجم والـ IDs والـ aliases.
 
 الإعدادات الرئيسية الموجودة في بداية الملف:
 
@@ -96,7 +98,7 @@ ITEMS_PER_PAGE = 20
   {
     "id": "uuid",
     "name": "Nature",
-    "count": 108,
+    "count": 26,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cover.jpg"
   }
 ]
@@ -132,7 +134,7 @@ ITEMS_PER_PAGE = 20
 ]
 ```
 
-الفهرس لا يحتوي على bytes للصورة، وحجمه الحالي حوالي 193 KB.
+الفهرس لا يحتوي على bytes للصورة، وحجمه الحالي حوالي 30 KB. يجب أن يطابق كل سجل في الفهرس السجل الموجود في الصفحات حرفيًا في الحقول العامة.
 
 ### إعدادات الـ API
 
@@ -157,19 +159,19 @@ ITEMS_PER_PAGE = 20
 ```json
 {
   "page": 1,
-  "total_pages": 34,
-  "total_items": 669,
+  "total_pages": 5,
+  "total_items": 100,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
   "data": [
     {
       "id": "uuid",
-      "title": "Bunny Suit Character",
-      "category": "3D_Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/3D_Art/bunny_suit_character.jpg",
+      "title": "Birds On Red Sky",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_on_red_sky.jpg",
       "size": 56101,
-      "updated_at": "2026-05-29T19:02:47Z",
+      "updated_at": "2026-10-12T11:39:33Z",
       "width": 864,
       "height": 1536
     }
@@ -186,7 +188,7 @@ ITEMS_PER_PAGE = 20
 | `category` | string | التصنيف |
 | `image_url` | string | رابط الصورة على GitHub Raw |
 | `size` | integer | حجم الملف بالبايت |
-| `updated_at` | string | وقت تعديل الملف وقت التوليد |
+| `updated_at` | string | وقت تثبيت هوية الصورة؛ محفوظ في metadata ولا يتغير مع mtime |
 | `width` / `height` | integer | أبعاد الصورة بالبكسل |
 
 ## الاستخدام في Flutter
@@ -241,7 +243,13 @@ py generate_api.py
 5. راجع عدد السجلات والصفحات والروابط قبل commit.
 6. ارفع `images` و`api/v1` و`generate_api.py` إلى الفرع المنشور.
 
-قبل كتابة الصفحات، يحذف المولد فقط الملفات المطابقة للنمط `page_<number>.json`، ثم ينشئ العدد الجديد بالضبط. الملفات الأخرى داخل المجلد لا تُلمس.
+للفحص فقط بدون تعديل أي ملف:
+
+```bash
+python generate_api.py --validate-only
+```
+
+قبل كتابة الصفحات، يجهز المولد كل الملفات داخل مجلد staging، ثم ينقلها إلى `api/v1` بعد أخذ نسخة احتياطية من الملفات المولدة. إذا فشل النقل أو التحقق يعيد الملفات السابقة. هذا rollback لكل ملف مولد، وليس ادعاءً بأن تبديل المجلد كاملًا atomic على كل أنظمة الملفات. يحذف فقط الملفات المطابقة للنمط `page_<number>.json`، ثم ينشئ العدد الجديد بالضبط؛ الملفات الأخرى داخل المجلد لا تُلمس.
 
 ## قواعد الحفاظ على الـ IDs
 
@@ -249,16 +257,25 @@ py generate_api.py
 
 - إعادة التوليد يحافظ على `id` لنفس bytes الصورة.
 - تغيير اسم الملف أو التصنيف أو repository أو branch لا يغير `id` طالما بقي محتوى الصورة نفسه.
+- تغيير bytes الصورة في نفس المسار ينشئ `id` جديدًا ويحوّل الـ ID القديم إلى retired tombstone.
+- بعد وجود `wallpaper_ids.json` تصبح metadata هي المصدر authoritative؛ لا يعيد المولد بناء الهوية من صفحات قديمة، ويرفض metadata الفارغة إذا كانت صفحات legacy تحتوي IDs حتى لا يعيد تعيين الهوية.
+- `updated_at` محفوظ داخل metadata. أثناء migration تُحفظ قيمة legacy الصحيحة، والقيمة الناقصة أو غير الصالحة تستخدم fallback ثابتًا `2000-01-01T00:00:00Z` حتى لا تتغير timestamps بسبب mtime.
 - الصور المتطابقة byte-for-byte مرفوضة أثناء التوليد حتى لا تدخل نسخ مكررة إلى الكتالوج.
 - الصور الجديدة تحصل على UUID جديد، والعناصر المحذوفة تبقى tombstones ولا يعاد استخدام IDs الخاصة بها.
 - لا تحذف `wallpaper_ids.json` لأنه جزء من هوية البيانات.
+
+## التحقق والاختبارات
+
+`validate_generated_api()` يعمل للقراءة فقط ويتأكد من أن أسماء الصفحات هي `page_1.json` حتى `page_N.json` بلا فجوات أو صفحات زائدة، وأن رقم الصفحة داخل JSON يطابق اسمها. كما يقارن السجلات بالصور المحلية فعليًا: حجم الملف، الأبعاد، وSHA-256، ثم يطابق الـ IDs النشطة والـ aliases مع `wallpaper_ids.json`. ويتحقق من عدم وجود IDs أو URLs مكررة، اكتمال `search_index.json`، صحة category IDs والأعداد والـ covers، وصحة `catalog_hash` وحقول pagination وUTC timestamps.
+
+الاختبارات المعزولة داخل `tests/test_generate_api.py` تستخدم صور JPEG وPNG وWebP صحيحة و26 حالة regression. وهي تغطي استبدال bytes، rename، retired IDs، فساد وفراغ metadata، migration وfallback للـ timestamps، ثبات timestamps، تغيير pagination و`content_version`، أخطاء الحجم والأبعاد والhash، فجوات الصفحات، duplicate search rows، فشل الكتابة والrollback بعد الاستبدال، و`--validate-only` بدون أي كتابة.
 
 ## حدود وملاحظات تشغيلية
 
 - هذا backend لا يوفر authentication أو صلاحيات أو رفع ملفات أو filtering server-side أو rate limiting.
 - الاعتماد على GitHub Raw يعني أن توفر الخدمة والـ caching وسرعة التنزيل تابعة لـ GitHub.
 - المستودع عام عمليًا لكل من يملك الرابط؛ لا تضع أسرارًا أو بيانات خاصة في الصور أو JSON.
-- `updated_at` و`generated_at` يستخدمان تحويلًا timezone-aware إلى UTC قبل إضافة `Z`.
+- `updated_at` و`generated_at` يستخدمان UTC مع `Z`. `updated_at` للهوية لا يعاد توليده عند تغيير mtime أو إعادة التسمية.
 - `models.dart` مولد تلقائيًا؛ لا تعدله يدويًا، وأي تعديل على schema يجب أن ينعكس في `generate_dart_models`.
 - المصدر المنشور الوحيد هو `api/v1`؛ لا يتم إنشاء ملف monolithic باسم `wallpapers.json`.
 - الصور تتضمن محتوى لشخصيات وعلامات تجارية وأعمال فنية. راجع حقوق الاستخدام والترخيص قبل النشر العام.
@@ -272,6 +289,7 @@ py generate_api.py
 [ ] لا توجد صفحات قديمة بعد آخر page_N.
 [ ] روابط image_url وcover تشير إلى repository الصحيح.
 [ ] تم اختبار config.json وcategories.json وsearch_index.json وصفحة أولى وصفحة أخيرة.
+[ ] تم تشغيل `python generate_api.py --validate-only` بعد التوليد.
 [ ] تم التأكد من حقوق استخدام الصور.
 [ ] تم تشغيل git diff قبل commit.
 ```

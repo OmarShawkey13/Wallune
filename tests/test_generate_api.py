@@ -1,3 +1,6 @@
+import base64
+import contextlib
+import io
 import json
 import os
 import struct
@@ -23,6 +26,24 @@ def write_png(path, width=100, height=200, marker=b""):
         + b"\x08\x02\x00\x00\x00"
     )
     path.write_bytes(header + marker)
+
+
+VALID_IMAGE_BYTES = {
+    ".png": base64.b64decode(
+        "iVBORw0KGgoAAAANSUhEUgAAAAIAAAADCAIAAAA2iEnWAAAAFElEQVR4nGPkUbJgYGBgYgADKAUAB7oAbH+xUAEAAAAASUVORK5CYII="
+    ),
+    ".jpg": base64.b64decode(
+        "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAADAAIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDx2iiiu04z/9k="
+    ),
+    ".webp": base64.b64decode(
+        "UklGRjAAAABXRUJQVlA4ICQAAABQAQCdASoCAAMAAUAmJQBOgC6gAP77LkvF3YjjJ4dVU9ffoAA="
+    ),
+}
+
+
+def write_valid_image(path, extension):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_bytes(VALID_IMAGE_BYTES[extension])
 
 
 class GeneratorFixture(unittest.TestCase):
@@ -58,6 +79,17 @@ class GeneratorFixture(unittest.TestCase):
 
     def config(self):
         return json.loads(Path("api/v1/config.json").read_text(encoding="utf-8"))
+
+    def api_snapshot(self):
+        root = Path("api/v1")
+        return {
+            path.relative_to(root).as_posix(): path.read_bytes()
+            for path in root.rglob("*")
+            if path.is_file()
+        }
+
+    def metadata(self):
+        return json.loads(Path("api/v1/wallpaper_ids.json").read_text(encoding="utf-8"))["wallpapers"]
 
 
 class StaticGeneratorTests(GeneratorFixture):
@@ -186,6 +218,222 @@ class StaticGeneratorTests(GeneratorFixture):
         bad.write_bytes(b"not-an-image")
         with self.assertRaises(ValueError):
             self.generate()
+
+    def test_valid_jpeg_png_and_webp_fixtures_have_dimensions(self):
+        for extension in (".jpg", ".png", ".webp"):
+            path = Path("images/Fixtures") / f"valid{extension}"
+            write_valid_image(path, extension)
+            self.assertEqual(generator.get_image_size(str(path)), (2, 3))
+        self.generate()
+        self.assertEqual(len(self.records()), 3)
+
+    def test_replacing_bytes_at_same_path_retires_old_identity(self):
+        path = Path("images/Nature/replaced.jpg")
+        write_png(path, marker=b"first")
+        self.generate()
+        old = self.records()[0]
+        old_timestamp = old["updated_at"]
+        write_png(path, marker=b"second")
+        with mock.patch.object(generator, "utc_iso", return_value="2026-01-02T03:04:05Z"):
+            self.generate()
+        current = self.records()[0]
+        self.assertNotEqual(current["id"], old["id"])
+        self.assertNotEqual(current["updated_at"], old_timestamp)
+        retired = [item for item in self.metadata() if item["id"] == old["id"]][0]
+        self.assertTrue(retired["retired"])
+        generator.validate_generated_api()
+
+    def test_existing_identity_metadata_is_authoritative_after_legacy_migration(self):
+        path = Path("images/Nature/replaced.jpg")
+        write_png(path, marker=b"first")
+        self.generate()
+        old = self.records()[0]
+        metadata_path = Path("api/v1/wallpaper_ids.json")
+        metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+        for record in metadata["wallpapers"]:
+            record.pop("updated_at", None)
+        metadata_path.write_text(json.dumps(metadata), encoding="utf-8")
+        write_png(path, marker=b"second")
+        with mock.patch.object(generator, "utc_iso", return_value="2026-01-02T03:04:05Z"):
+            self.generate()
+        current = self.records()[0]
+        self.assertNotEqual(current["id"], old["id"])
+        self.assertTrue([item for item in self.metadata() if item["id"] == old["id"]][0]["retired"])
+
+    def test_legacy_migration_preserves_valid_timestamp_and_has_fixed_fallback(self):
+        path = Path("images/Nature/legacy.jpg")
+        write_png(path, marker=b"legacy")
+        legacy_id = "123e4567-e89b-42d3-a456-426614174000"
+        legacy = {
+            "id": legacy_id,
+            "title": "Legacy",
+            "category": "Nature",
+            "image_url": generator._url("Nature", "legacy.jpg"),
+            "size": path.stat().st_size,
+            "updated_at": "2024-01-02T03:04:05Z",
+            "width": 100,
+            "height": 200,
+        }
+        Path("api/v1/wallpapers").mkdir(parents=True)
+        Path("api/v1/wallpapers/page_1.json").write_text(
+            json.dumps({"data": [legacy]}), encoding="utf-8"
+        )
+        self.generate()
+        migrated = [item for item in self.metadata() if item["id"] == legacy_id][0]
+        self.assertEqual(migrated["updated_at"], "2024-01-02T03:04:05Z")
+
+        metadata_path = Path("api/v1/wallpaper_ids.json")
+        metadata_path.unlink()
+        legacy["updated_at"] = "not-a-timestamp"
+        Path("api/v1/wallpapers/page_1.json").write_text(
+            json.dumps({"data": [legacy]}), encoding="utf-8"
+        )
+        self.generate()
+        migrated = [item for item in self.metadata() if item["id"] == legacy_id][0]
+        self.assertEqual(migrated["updated_at"], "2000-01-01T00:00:00Z")
+
+    def test_timestamp_survives_mtime_changes_and_copy_like_regeneration(self):
+        path = Path("images/Nature/stable.jpg")
+        write_png(path, marker=b"stable")
+        self.generate()
+        first = self.records()[0]
+        first_config = self.config()
+        os.utime(path, (1, 1))
+        self.generate()
+        second = self.records()[0]
+        self.assertEqual(second["id"], first["id"])
+        self.assertEqual(second["updated_at"], first["updated_at"])
+        self.assertEqual(self.config()["content_version"], first_config["content_version"])
+
+    def test_content_version_changes_for_pagination_setting_then_stabilizes(self):
+        write_png(Path("images/Nature/one.jpg"), marker=b"one")
+        write_png(Path("images/Nature/two.jpg"), marker=b"two")
+        self.generate()
+        first = self.config()["content_version"]
+        with mock.patch.object(generator, "ITEMS_PER_PAGE", 1):
+            self.generate()
+            second = self.config()["content_version"]
+            self.generate()
+            third = self.config()["content_version"]
+        self.assertNotEqual(first, second)
+        self.assertEqual(second, third)
+
+    def test_corrupt_identity_metadata_fails_without_resetting_ids(self):
+        write_png(Path("images/Nature/one.jpg"))
+        self.generate()
+        page_before = Path("api/v1/wallpapers/page_1.json").read_bytes()
+        Path("api/v1/wallpaper_ids.json").write_text(
+            json.dumps({"schema_version": 2, "wallpapers": [{"id": self.records()[0]["id"]}]}),
+            encoding="utf-8",
+        )
+        with self.assertRaisesRegex(ValueError, "missing required fields"):
+            self.generate()
+        self.assertEqual(Path("api/v1/wallpapers/page_1.json").read_bytes(), page_before)
+
+    def test_empty_identity_metadata_refuses_to_reset_existing_ids(self):
+        write_png(Path("images/Nature/one.jpg"))
+        self.generate()
+        page_before = Path("api/v1/wallpapers/page_1.json").read_bytes()
+        Path("api/v1/wallpaper_ids.json").write_text(
+            json.dumps({"schema_version": 2, "wallpapers": []}), encoding="utf-8"
+        )
+        with self.assertRaisesRegex(ValueError, "refusing to reset wallpaper IDs"):
+            self.generate()
+        self.assertEqual(Path("api/v1/wallpapers/page_1.json").read_bytes(), page_before)
+
+    def test_validation_rejects_incorrect_image_metadata_and_identity_hash(self):
+        write_valid_image(Path("images/Nature/one.jpg"), ".jpg")
+        self.generate()
+        page_path = Path("api/v1/wallpapers/page_1.json")
+        original_page = json.loads(page_path.read_text(encoding="utf-8"))
+        for field, value in (("size", 1), ("width", 1), ("height", 1)):
+            page = json.loads(json.dumps(original_page))
+            page["data"][0][field] = value
+            page_path.write_text(json.dumps(page), encoding="utf-8")
+            with self.assertRaises(ValueError):
+                generator.validate_generated_api()
+        page_path.write_text(json.dumps(original_page), encoding="utf-8")
+        metadata_path = Path("api/v1/wallpaper_ids.json")
+        original_metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+        original_metadata["wallpapers"][0]["content_hash"] = "0" * 64
+        metadata_path.write_text(json.dumps(original_metadata), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "content hash"):
+            generator.validate_generated_api()
+
+    def test_validation_rejects_page_gaps_and_extra_search_records(self):
+        for index in range(21):
+            write_png(Path("images/Nature") / f"image_{index}.jpg", marker=bytes([index]))
+        self.generate()
+        page_two = Path("api/v1/wallpapers/page_2.json")
+        page_three = Path("api/v1/wallpapers/page_3.json")
+        page_two.rename(page_three)
+        with self.assertRaisesRegex(ValueError, "page filenames"):
+            generator.validate_generated_api()
+        page_three.rename(page_two)
+        search_path = Path("api/v1/search_index.json")
+        search = json.loads(search_path.read_text(encoding="utf-8"))
+        search.append(search[0])
+        search_path.write_text(json.dumps(search), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "duplicate IDs"):
+            generator.validate_generated_api()
+
+    def test_validation_rejects_invalid_catalog_hash(self):
+        write_png(Path("images/Nature/one.jpg"))
+        self.generate()
+        config_path = Path("api/v1/config.json")
+        config = self.config()
+        config["catalog_hash"] = "0" * 64
+        config_path.write_text(json.dumps(config), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "catalog_hash"):
+            generator.validate_generated_api()
+
+    def test_write_failure_preserves_previous_output(self):
+        write_png(Path("images/Nature/one.jpg"), marker=b"one")
+        self.generate()
+        before = self.api_snapshot()
+        write_png(Path("images/Nature/two.jpg"), marker=b"two")
+        with mock.patch.object(generator, "_write_json", side_effect=OSError("disk full")):
+            with self.assertRaisesRegex(OSError, "disk full"):
+                self.generate()
+        self.assertEqual(self.api_snapshot(), before)
+        self.assertEqual(list(Path("api").glob(".v1.staging-*")), [])
+
+    def test_post_replace_validation_failure_rolls_back_previous_output(self):
+        write_png(Path("images/Nature/one.jpg"), marker=b"one")
+        self.generate()
+        before = self.api_snapshot()
+        write_png(Path("images/Nature/two.jpg"), marker=b"two")
+        real_validate = generator.validate_generated_api
+        calls = 0
+
+        def validate_then_fail(api_dir=None):
+            nonlocal calls
+            calls += 1
+            if calls == 1:
+                return real_validate(api_dir)
+            raise ValueError("validation after replacement")
+
+        with mock.patch.object(generator, "validate_generated_api", side_effect=validate_then_fail):
+            with self.assertRaisesRegex(ValueError, "validation after replacement"):
+                self.generate()
+        self.assertEqual(self.api_snapshot(), before)
+        self.assertEqual(list(Path("api").glob(".v1.staging-*")), [])
+
+    def test_validate_only_does_not_write_and_reports_failure(self):
+        write_png(Path("images/Nature/one.jpg"))
+        self.generate()
+        before = self.api_snapshot()
+        with contextlib.redirect_stdout(io.StringIO()):
+            self.assertEqual(generator.main(["--validate-only"]), 0)
+        self.assertEqual(self.api_snapshot(), before)
+        config_path = Path("api/v1/config.json")
+        config = self.config()
+        config["catalog_hash"] = "0" * 64
+        config_path.write_text(json.dumps(config), encoding="utf-8")
+        error = io.StringIO()
+        with contextlib.redirect_stderr(error):
+            self.assertEqual(generator.main(["--validate-only"]), 1)
+        self.assertIn("validation failed", error.getvalue())
 
 
 if __name__ == "__main__":
