@@ -1,21 +1,11 @@
 {
   "page": 5,
   "total_pages": 5,
-  "total_items": 100,
+  "total_items": 99,
   "items_per_page": 20,
   "has_next": false,
   "has_prev": true,
   "data": [
-    {
-      "id": "019c2949-b2bc-4c3d-a772-586ecbb354ba",
-      "title": "Qarib Mujib Space Quote",
-      "category": "Religion",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/qarib_mujib_space_quote.jpg",
-      "size": 56649,
-      "updated_at": "2024-11-08T21:00:00Z",
-      "width": 960,
-      "height": 1920
-    },
     {
       "id": "7be5240a-61eb-4ac6-a0a5-d9a6a3be5e3c",
       "title": "Blue Moon Butterfly",

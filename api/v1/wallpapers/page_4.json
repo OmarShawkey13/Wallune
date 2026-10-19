@@ -1,7 +1,7 @@
 {
   "page": 4,
   "total_pages": 5,
-  "total_items": 100,
+  "total_items": 99,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
@@ -187,16 +187,6 @@
       "height": 1308
     },
     {
-      "id": "29ecf8b0-b0ad-4d8d-b66b-b8fc652643bc",
-      "title": "Introvert Me Vs Others",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/introvert_me_vs_others.jpg",
-      "size": 106367,
-      "updated_at": "2024-08-25T21:00:00Z",
-      "width": 1080,
-      "height": 1129
-    },
-    {
       "id": "166640e5-5a5e-4ed6-abbd-95071cea98e6",
       "title": "Lost In Right Direction",
       "category": "Quotes",
@@ -204,6 +194,16 @@
       "size": 59925,
       "updated_at": "2026-09-30T13:10:00Z",
       "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "019c2949-b2bc-4c3d-a772-586ecbb354ba",
+      "title": "Qarib Mujib Space Quote",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/qarib_mujib_space_quote.jpg",
+      "size": 56649,
+      "updated_at": "2024-11-08T21:00:00Z",
+      "width": 960,
       "height": 1920
     }
   ]
