@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "total_pages": 5,
-  "total_items": 99,
+  "total_pages": 8,
+  "total_items": 142,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -17,6 +17,16 @@
       "height": 2160
     },
     {
+      "id": "7a427019-9968-4ca5-bdb7-e08ecfac1584",
+      "title": "Black White Geometric Stripes",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_geometric_stripes.jpg",
+      "size": 64923,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
       "id": "c9930501-b9b8-4a0d-88a4-318b1da7df83",
       "title": "Blue Heartbeat Heart",
       "category": "Abstract",
@@ -27,6 +37,66 @@
       "height": 1279
     },
     {
+      "id": "4c9ff57d-1ad0-45bd-8fa6-57880b72fc09",
+      "title": "Blue Red Luminous Grid",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_red_luminous_grid.jpg",
+      "size": 40786,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 619,
+      "height": 1200
+    },
+    {
+      "id": "d946c736-24c0-4b7d-b4ec-665a30b37200",
+      "title": "Colored Light Ribbons",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colored_light_ribbons.jpg",
+      "size": 23712,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 720,
+      "height": 1560
+    },
+    {
+      "id": "e9050733-849a-48f9-b58e-2fd975c69a50",
+      "title": "Colorful Horizontal Bars",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_horizontal_bars.jpg",
+      "size": 23115,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "4258f849-ba79-4c7f-947c-212af0f22441",
+      "title": "Crimson Black Petals",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/crimson_black_petals.jpg",
+      "size": 37106,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "33b8d68c-ac44-4586-8bf7-ed93e5d17087",
+      "title": "Crimson Black Rift",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/crimson_black_rift.jpg",
+      "size": 43272,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 1080,
+      "height": 2334
+    },
+    {
+      "id": "e2fa7ac6-15be-4cf6-869c-2bc58a592c3e",
+      "title": "Dark Sand Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_sand_texture.jpg",
+      "size": 743010,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1969
+    },
+    {
       "id": "31ad42e6-e44d-425b-9973-50d82b794d67",
       "title": "Green Heartbeat Icon",
       "category": "Abstract",
@@ -35,6 +105,26 @@
       "updated_at": "2026-10-08T12:24:00Z",
       "width": 736,
       "height": 1308
+    },
+    {
+      "id": "95a47e56-3899-4f1c-9a3c-437ec87bb880",
+      "title": "Green Particle Waves",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_particle_waves.jpg",
+      "size": 80080,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "99975cba-b95b-4967-a7e4-a411a81f0588",
+      "title": "Green Rain Cloud Icon",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_rain_cloud_icon.jpg",
+      "size": 31449,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
     },
     {
       "id": "6768488c-0edb-439c-8ba2-5c4e55b54665",
@@ -87,6 +177,26 @@
       "height": 1920
     },
     {
+      "id": "c87c5d7d-c3bb-4cab-9961-aac32afed89e",
+      "title": "Multicolor Glowing Blocks",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/multicolor_glowing_blocks.jpg",
+      "size": 25433,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "id": "c9ebea2c-6013-415b-aa4c-85b26eac88e0",
+      "title": "Neon Orbit Arcs",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_orbit_arcs.jpg",
+      "size": 25734,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
       "id": "9a694649-525d-4745-a98e-21c0d35ef40a",
       "title": "Pink Smoke Fluid",
       "category": "Abstract",
@@ -95,116 +205,6 @@
       "updated_at": "2024-06-27T21:00:00Z",
       "width": 993,
       "height": 2160
-    },
-    {
-      "id": "a0526f17-439c-4fbd-9519-f43672f2b0ff",
-      "title": "Purple Energy Figure",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_energy_figure.jpg",
-      "size": 102441,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 735,
-      "height": 763
-    },
-    {
-      "id": "4e5d68e9-f39b-4dff-b724-00f449232db1",
-      "title": "Red Fluid Energy",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_fluid_energy.jpg",
-      "size": 205818,
-      "updated_at": "2026-09-30T10:49:00Z",
-      "width": 736,
-      "height": 1594
-    },
-    {
-      "id": "644e6d80-adcf-4597-8546-b0b1637ae380",
-      "title": "Red Green Crescent Smoke",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_green_crescent_smoke.jpg",
-      "size": 123180,
-      "updated_at": "2026-09-30T10:49:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "5f977b54-a77e-4d49-81a3-d6da5c647b6a",
-      "title": "Red Teal Feather Flow",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_teal_feather_flow.jpg",
-      "size": 130373,
-      "updated_at": "2026-09-30T10:49:00Z",
-      "width": 724,
-      "height": 1600
-    },
-    {
-      "id": "aa08d128-3661-46e9-ae79-339a594553c5",
-      "title": "Rising Sparkles",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rising_sparkles.jpg",
-      "size": 16997,
-      "updated_at": "2026-10-08T20:57:00Z",
-      "width": 736,
-      "height": 1349
-    },
-    {
-      "id": "1bc9e4ca-886f-4e26-9de9-e8aaac754381",
-      "title": "Teal Clock Lines",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/teal_clock_lines.jpg",
-      "size": 20577,
-      "updated_at": "2026-10-07T21:19:00Z",
-      "width": 564,
-      "height": 1001
-    },
-    {
-      "id": "c112bae5-483b-4953-bed6-79c7f5081859",
-      "title": "Three Mood Faces",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/three_mood_faces.jpg",
-      "size": 14921,
-      "updated_at": "2026-10-08T12:24:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "5c8c06e3-924d-470a-a508-1773c854505f",
-      "title": "Yellow Mood Faces",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/yellow_mood_faces.jpg",
-      "size": 11015,
-      "updated_at": "2026-10-08T12:24:00Z",
-      "width": 736,
-      "height": 1041
-    },
-    {
-      "id": "ee970b76-6c88-4482-97bd-e5717bdccc13",
-      "title": "Cat On Vintage Motorcycle",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_on_vintage_motorcycle.jpg",
-      "size": 139873,
-      "updated_at": "2026-09-29T10:42:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "8e582799-01a8-4aea-a8e3-b9432d57f53e",
-      "title": "Cat With Sunglasses",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_with_sunglasses.jpg",
-      "size": 191965,
-      "updated_at": "2026-09-29T10:43:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "a2288797-5d6e-4089-8bb8-807eee0a2095",
-      "title": "Curious Kitten Portrait",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/curious_kitten_portrait.jpg",
-      "size": 190440,
-      "updated_at": "2026-09-29T10:43:00Z",
-      "width": 1080,
-      "height": 1920
     }
   ]
 }

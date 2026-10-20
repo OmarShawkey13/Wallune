@@ -2,7 +2,7 @@
 
 ## Scope
 
-This review hardened the GitHub Raw static backend for the Wallune Flutter wallpaper application. The working tree contained 100 supported production images, so the generated API was synchronized with that full catalog. The earlier 17-image sample was treated as sample material and was never used to overwrite the production catalog.
+This review hardened the GitHub Raw static backend for the Wallune Flutter wallpaper application. The working tree now contains 110 supported production images, including the latest batch of 11 reviewed images, so the generated API was synchronized with that full catalog. The earlier 17-image sample was treated as sample material and was never used to overwrite the production catalog.
 
 The backend remains static: GitHub serves committed images and JSON files. There is no server process, database, authentication layer, upload endpoint, or deployment step in this change.
 
@@ -10,17 +10,17 @@ The backend remains static: GitHub serves committed images and JSON files. There
 
 | Check | Result |
 | --- | ---: |
-| Supported images | 100 |
+| Supported images | 110 |
 | Categories | 17 |
-| API wallpaper records | 100 |
-| Page files | `page_1.json` through `page_5.json` |
+| API wallpaper records | 110 |
+| Page files | `page_1.json` through `page_6.json` |
 | Items per page | 20 |
-| Final page size | 20 |
-| Image bytes | 14,619,642 (about 13.9 MiB) |
-| Generated `api/v1` bytes | 292,837 |
-| Identity metadata records | 726 |
-| Active identities | 100 |
-| Retired tombstones | 626 |
+| Final page size | 10 |
+| Image bytes | 15,005,108 (about 14.3 MiB) |
+| Generated `api/v1` bytes | 302,815 |
+| Identity metadata records | 737 |
+| Active identities | 110 |
+| Retired tombstones | 627 |
 | Duplicate image bytes | 0 |
 | Duplicate public IDs | 0 |
 | Missing local image mappings | 0 |
@@ -32,17 +32,17 @@ The current config is:
 {
   "api_version": 1,
   "content_version": 8,
-  "total_items": 100,
-  "total_pages": 5,
+  "total_items": 110,
+  "total_pages": 6,
   "items_per_page": 20,
-  "generated_at": "2026-10-12T11:39:33Z",
-  "catalog_hash": "2af03ac45d1b799b6b21e8a4f23ae935028bbce04f50a04be4db86d98f2900cf"
+  "generated_at": "2026-10-20T17:42:03Z",
+  "catalog_hash": "e0d26e7a0e450c7c41b72eff8f9b6274db91ca5e48ae72c68f4e916c9fea6908"
 }
 ```
 
 ## Content review
 
-All 100 current images were reviewed in contact sheets, with suspicious silhouettes checked at full resolution. No retained image shows tobacco, alcohol, drugs, nudity, explicit sexual content, or graphic violence. Weapon and superhero artwork is decorative and non-graphic. The generator also performed a SHA-256 byte comparison and found no duplicate image bytes.
+All 110 current images were reviewed in contact sheets, with suspicious silhouettes checked at full resolution. No retained image shows tobacco, alcohol, drugs, nudity, explicit sexual content, or graphic violence. Weapon and superhero artwork is decorative and non-graphic. The generator also performed a SHA-256 byte comparison and found no duplicate image bytes.
 
 ## Generator changes
 
@@ -125,7 +125,7 @@ python generate_api.py --validate-only
 git diff --check
 ```
 
-Result: 26 tests passed, production generation passed for 100 images, validation passed, and `git diff --check` reported no whitespace errors.
+Result: 26 tests passed, production generation passed for 110 images, validation passed, and `git diff --check` reported no whitespace errors.
 
 ## Flutter API contract
 
@@ -154,7 +154,7 @@ The Flutter client can cache `config.json`, `search_index.json`, and page respon
 - `api/v1/search_index.json`
 - `api/v1/wallpaper_ids.json`
 - `api/v1/models.dart`
-- `api/v1/wallpapers/page_1.json` through `page_5.json`
+- `api/v1/wallpapers/page_1.json` through `page_6.json`
 - `generate_api.py`
 - `tests/`
 - `README.md`

@@ -1,0 +1,30 @@
+{
+  "page": 8,
+  "total_pages": 8,
+  "total_items": 142,
+  "items_per_page": 20,
+  "has_next": false,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "0e325d42-5432-4278-bfed-9692ff734c40",
+      "title": "Two Hours Later Typography",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/two_hours_later_typography.jpg",
+      "size": 508696,
+      "updated_at": "2024-07-10T21:00:00Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "0b8aadee-456b-4cd0-ac90-68ab633aa0ff",
+      "title": "Zoom Out Keys",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/zoom_out_keys.jpg",
+      "size": 59504,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}

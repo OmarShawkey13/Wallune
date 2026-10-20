@@ -29,6 +29,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "ef63826e-f38d-4bec-b1fa-5832ea2e9434",
+      "content_hash": "0186a354ff4de1a56e38548aef6df976b3ded0d1105d5a67ab72c2669c6495ab",
+      "aliases": [
+        "images/Nature/birds_gold_sky.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "ba36037b-09b5-4267-ac9a-c86ede62be81",
       "content_hash": "01c98a9f8b26f80c95abf35e902541e174d85a678b220868ac984c0453109ff4",
       "aliases": [
@@ -110,6 +119,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "22befa84-7f0e-49b7-b142-1ff7cdd86355",
+      "content_hash": "04f4f64e4d0a8c656c1d599d6ba9b8a08c8d4e5319e63a9503574f7f078064aa",
+      "aliases": [
+        "images/People/rain_cloud_car_scene.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "56aa810b-d631-4749-a23a-3f0502b6416e",
@@ -228,6 +246,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "798d339f-6eef-4c3a-bf1a-c1422d4a6195",
+      "content_hash": "07d131ba18e853bad53373d13380a905c6faa697ec21dac26440aae911c89fcd",
+      "aliases": [
+        "images/Nature/birds_over_sunset_sea.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
     },
     {
       "id": "ea5d8e40-181e-4f4d-ac13-4595a04aaa90",
@@ -354,6 +381,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "c9ebea2c-6013-415b-aa4c-85b26eac88e0",
+      "content_hash": "0b52539974cd657ea6a15c452292b24114685b9c71be6b82c51bd4a62e596c62",
+      "aliases": [
+        "images/Abstract/neon_orbit_arcs.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
     },
     {
       "id": "c1957a52-4f84-4713-94a9-69d55c090db6",
@@ -484,6 +520,15 @@
       "updated_at": "2024-12-19T21:00:00Z"
     },
     {
+      "id": "df90a2aa-d89e-4e8f-9ad1-cf7ce43370c9",
+      "content_hash": "10e9cc17e2c8f9e5438ee4f1d296dd194d5abe6e6b45b1da25b2c1ef9e1bb80e",
+      "aliases": [
+        "images/Art/samurai_orange_moon.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "ba4509b0-2334-412a-8f60-1b6ba919c8e0",
       "content_hash": "1122b5338d90f58af7e5ae4b2aaf51f9f0b56a15332af2e9433266f14b907081",
       "aliases": [
@@ -500,6 +545,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "d946c736-24c0-4b7d-b4ec-665a30b37200",
+      "content_hash": "118f051a2442ba407284f0c181cf7129b6af700e58e47b4daac9901598cd4abc",
+      "aliases": [
+        "images/Abstract/colored_light_ribbons.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
     },
     {
       "id": "078f8fb7-eb57-46d8-86eb-df03d49dbde6",
@@ -591,6 +645,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "69234dce-6f45-463c-a985-06623569421b",
+      "content_hash": "13e5a7aefca2af78f5487c0eacc88bf329a5a9f3063ecc14c5c85ff00d0a20b9",
+      "aliases": [
+        "images/Fantasy/moonlit_temple_guardian.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "71a7998b-5df9-4ea7-9bce-990f854022ea",
@@ -729,6 +792,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "f5b179e6-12ea-4aa7-af2b-de41ed526c57",
+      "content_hash": "1b76f3b58c50ffc785f7c935d51ba6150d538653daa41ad3f2f733e76f6677d9",
+      "aliases": [
+        "images/Nature/golden_tree_minimal.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "ba20ba6c-db69-4035-ac68-068865ddf5ca",
       "content_hash": "1bf61c4c67b4a27c012728018674aeb06576ec2f57da06e8f6bb31fd10410680",
       "aliases": [
@@ -754,6 +826,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "9abf0e47-7826-4b1a-a822-6d7bb231e92d",
+      "content_hash": "1cf7e8ccee5b6b4e5b34bad27f56a3f1549b973c6e7e1057fed1d0e88ec5eca6",
+      "aliases": [
+        "images/Typography/just_do_it_red_black.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "96edf851-04ad-49c0-b93a-3fcb09eb912a",
@@ -791,6 +872,15 @@
       ],
       "retired": false,
       "updated_at": "2025-01-07T21:00:00Z"
+    },
+    {
+      "id": "c69caeba-ac61-4987-9b1d-b935958ad14a",
+      "content_hash": "1e0d1915414e6067134e5781b9433a7fb4fae1a87c94ae4121c714f190698d65",
+      "aliases": [
+        "images/Art/samurai_dual_sword_silhouette.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "bfa6637c-aaa1-4ccc-b049-3198cde58f47",
@@ -847,6 +937,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "7be50abe-f67c-4ba1-844e-3ceec82b1dd7",
+      "content_hash": "1ef234b32c88f298c46c617c702945ba190a0bd1352671e25cc773cbc98e94d8",
+      "aliases": [
+        "images/Nature/dove_crow_silhouettes.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "b4a9a901-c9ce-4d84-b9bb-a42f8fa17954",
       "content_hash": "1f5fe9bf3d8fc915a1f68a673d24a356e96843c114b48f53377cc15e1da0f45b",
       "aliases": [
@@ -900,6 +999,15 @@
       ],
       "retired": false,
       "updated_at": "2026-09-29T15:57:00Z"
+    },
+    {
+      "id": "e15e89cf-69d2-44a1-bc84-a09b358e3703",
+      "content_hash": "20911d4feefef933bcde4741404e3677adf86d1c0afc6546e0901753934a75a3",
+      "aliases": [
+        "images/Quotes/eagle_stay_focused_quote.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "ebf9e885-5ad0-4374-9e6b-19d6ee5b9538",
@@ -1053,6 +1161,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "3be1ecb5-b47f-426a-abd7-d142e48f0b8c",
+      "content_hash": "25fc1f761323b2b179168c474ddde2e7e79f7383dc3396ea3f72621872f1dc78",
+      "aliases": [
+        "images/Abstract/red_silver_star_pattern.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
     },
     {
       "id": "e056278a-4a93-4dde-8b63-78ec7b13ff52",
@@ -1297,6 +1414,24 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "e9050733-849a-48f9-b58e-2fd975c69a50",
+      "content_hash": "2ff35486799d89329e5a4e6a150e17cfdfd1705582914c9190a2810e111dc026",
+      "aliases": [
+        "images/Abstract/colorful_horizontal_bars.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
+      "id": "33b8d68c-ac44-4586-8bf7-ed93e5d17087",
+      "content_hash": "30077157968b13a7ac43282e3f3b67ba16eccc0ef2848d642ea77d576293152c",
+      "aliases": [
+        "images/Abstract/crimson_black_rift.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
     },
     {
       "id": "0d1aabfd-ef06-49b6-bdbd-42e18b98d863",
@@ -1632,6 +1767,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "42e1c2f4-1fa0-4ce6-a0ec-c4cdfdb97fa7",
+      "content_hash": "3b210bc7fa7ff9794e01f0086aab6335265ce790f64e491dccadc820ec59380f",
+      "aliases": [
+        "images/Technology/google_bokeh_letters.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "b65c511c-0574-4711-b94b-cf5b99e67fb9",
@@ -2866,6 +3010,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "16a7627b-b172-4504-aa18-c9dbcdaf25fb",
+      "content_hash": "67f7d1f11b2a53198f0570a0caceab3a0e205a32abe6a7d8431cd41ef14d2aa9",
+      "aliases": [
+        "images/Nature/moody_grayscale_lake.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "60d99568-6139-4d00-872b-f947ba421225",
       "content_hash": "68019d1d3ba3cd86c84cd0bef4297346f0ca4ca888cbf64025a9216e946afce5",
       "aliases": [
@@ -3009,6 +3162,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "1a7ed070-3c8e-4a33-b2b4-78ff99ed8fa4",
+      "content_hash": "6bad8ec2724eac293bda997debf336837c0b8eb660592ae8c3b61d24ad5c2f00",
+      "aliases": [
+        "images/Quotes/do_more_yellow_typography.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "b77c83aa-6d81-4480-9fb6-2964cb57c050",
@@ -3257,6 +3419,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "2e5f5084-70b6-4149-9d6e-ddb9d9ad2f7f",
+      "content_hash": "75534ed18f1fd519372a4c76eca9c22f795dd725399345ec2731a9aabc85b0de",
+      "aliases": [
+        "images/Nature/birds_spiral_sunset.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "d8ec9416-aef8-48bd-9d21-df5185fe861a",
       "content_hash": "75897c6e30713518c01c66f14dde22aa1c89cb85572efad02f6beb8a61a13880",
       "aliases": [
@@ -3273,6 +3444,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "006540d0-8d8c-4802-87b3-c16664e7d12d",
+      "content_hash": "76004f79d1590e12e90a1a4361c65e5dcaeddf4ac6f2a1b72175b11bece4699e",
+      "aliases": [
+        "images/Abstract/red_teal_glowing_capsule.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "20353143-976e-479b-8e63-977df0c76cd4",
@@ -3427,6 +3607,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "4dd47e7b-4ee4-48e8-a060-5d0721904ade",
+      "content_hash": "7acae73217a96879ad5bacff2741d9bd3727c067a4451d32b4260777a90ed302",
+      "aliases": [
+        "images/Art/samurai_torii_orange_moon.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "e4480585-f914-4e99-998a-e658568af6d8",
@@ -3900,6 +4089,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "9fff81a5-14fa-4a28-a76a-bde2b3b0a383",
+      "content_hash": "8e39cf47f68aeaa9c26d3ca6ad23b05d5be0a8652d2c3fb5f041ccac8f8489f8",
+      "aliases": [
+        "images/Typography/colorful_alphabet_threads.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "9ef3fd0e-6c8c-4479-be17-874f60cc3332",
       "content_hash": "8e5edecb99a53a3da8282ff55fe7ea6f56ac4f138d3d20e5f17e24d33d26157f",
       "aliases": [
@@ -3971,6 +4169,24 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "bfb8f7e5-f051-4fea-8257-c6fc1ed504a4",
+      "content_hash": "9280cac2bbd2b1f433e39f70eee5286361c710333f6a12596c5e69af5e9abf1b",
+      "aliases": [
+        "images/Art/warrior_waterfalls_orange_moon.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
+      "id": "466f3c27-cc32-4077-a562-e8efaea5f2f0",
+      "content_hash": "9283155da7593bf58fdc67ab9fb808766f986b26b7eee5f6246cf93de3847160",
+      "aliases": [
+        "images/Nature/flock_over_sunset.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "1fe21476-a2eb-4e98-8a7c-4a67aaaf74b1",
@@ -4365,6 +4581,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "c87c5d7d-c3bb-4cab-9961-aac32afed89e",
+      "content_hash": "a0c77be92f1404c55dec23ae339b8b9eb36edf07eac351b69216015cbe694148",
+      "aliases": [
+        "images/Abstract/multicolor_glowing_blocks.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
+    },
+    {
       "id": "cd926764-1206-4a3f-b3b3-f69c34f66c7f",
       "content_hash": "a1288d9e48bfb20f1c0744d132ca23b58d8972265e46dc22e6c3f78f748dc820",
       "aliases": [
@@ -4381,6 +4606,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "4258f849-ba79-4c7f-947c-212af0f22441",
+      "content_hash": "a1491728f261117bac0339111796c2468b625682990e8ab979b3371c48579bd5",
+      "aliases": [
+        "images/Abstract/crimson_black_petals.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
     },
     {
       "id": "d6f99a19-ed57-4919-911d-ef7c28fd3877",
@@ -4462,6 +4696,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "fc9ac767-c59a-4677-877f-de8342f1bbbd",
+      "content_hash": "a54aada7b670a1cb11d2530382205e0e16ad0f9e8b1cecc5f74c258816a495d8",
+      "aliases": [
+        "images/Typography/no_internet_nature.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "92d89f37-4dca-41a3-8393-af52c7e4edfa",
@@ -4589,6 +4832,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "7a427019-9968-4ca5-bdb7-e08ecfac1584",
+      "content_hash": "aa592c4325bb90e6152eaaa982a2a0f4caafc27d66906b216da97557f1fbfe26",
+      "aliases": [
+        "images/Abstract/black_white_geometric_stripes.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "5412c1d3-200d-4302-b5d9-514d1d75a6a9",
@@ -4908,6 +5160,24 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "99975cba-b95b-4967-a7e4-a411a81f0588",
+      "content_hash": "b895f9062247b4820e6b6050730c9b09c52786d97f4dbd27985d5170fa66b049",
+      "aliases": [
+        "images/Abstract/green_rain_cloud_icon.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
+      "id": "2a933b64-6d26-445f-b1c2-0403d252e3ab",
+      "content_hash": "b8bb7b67dbe16d1d0eefabdfe9e74fbed644a2b7faa3f65c06d4874eaa647184",
+      "aliases": [
+        "images/Abstract/radial_orange_blue_emblem.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "061d1ce3-c1a6-4ce2-8302-71e005398187",
       "content_hash": "b8cff4566b8dfda898235d6a5d77b62c981f83be427db45cc7fd9db242121136",
       "aliases": [
@@ -5080,6 +5350,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "7223c1f0-163b-408d-8c9f-dcbbdc4690c6",
+      "content_hash": "bfd4fb676103ad3c974f68e592839e966c22fbb42f1ce0e8564201fcadec6acd",
+      "aliases": [
+        "images/Art/mounted_archer_orange_moon.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "00828ce9-3240-4cef-8d95-dffd843404fa",
       "content_hash": "bfebd09c9b2808bb631aea5cc4b47e9722b48337428adeb06b26de1d9057db9b",
       "aliases": [
@@ -5106,6 +5385,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "4c9ff57d-1ad0-45bd-8fa6-57880b72fc09",
+      "content_hash": "c0dbdca93f8a700f640c6753b8378ca9012fab1b33a3fe6bf74f3598627571d0",
+      "aliases": [
+        "images/Abstract/blue_red_luminous_grid.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
     },
     {
       "id": "952aa8f1-4d8c-4ab6-812c-c7496d5b7862",
@@ -5252,6 +5540,15 @@
       "updated_at": "2026-10-07T08:58:00Z"
     },
     {
+      "id": "e2fa7ac6-15be-4cf6-869c-2bc58a592c3e",
+      "content_hash": "c68f8ec42c5b185552c8c79ac9e01bd8c18620d1849538b092e7237f3e0fd535",
+      "aliases": [
+        "images/Abstract/dark_sand_texture.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "17d0c9ca-4d21-48ad-a93b-dc470b982d13",
       "content_hash": "c7e3226e0fc1876ae4cd30a3eddbb1035ea8096c4bf562c832c4d45c61ca80fa",
       "aliases": [
@@ -5386,6 +5683,15 @@
       ],
       "retired": true,
       "updated_at": "2026-09-29T15:57:00Z"
+    },
+    {
+      "id": "601758a4-eea9-4d4d-a0b6-7c8681e62b19",
+      "content_hash": "cd12eb3b882b8a1555fe5d56243b71391657499a8b40b3ba52fc8b6c5642f9b7",
+      "aliases": [
+        "images/Technology/google_geometric_keyboard.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "f98bcfba-c34e-4609-bdff-8d8fd76d14cb",
@@ -5540,6 +5846,15 @@
       ],
       "retired": false,
       "updated_at": "2024-12-19T21:00:00Z"
+    },
+    {
+      "id": "0b8aadee-456b-4cd0-ac90-68ab633aa0ff",
+      "content_hash": "d4ca7197fd27dda03f518da670a6acabc287fb8a7f241304ee9630d120fb165a",
+      "aliases": [
+        "images/Typography/zoom_out_keys.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "29cb76a8-e42b-4305-9b8f-20b2bb46dcfb",
@@ -5750,6 +6065,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "af89572c-6386-4faa-8297-9a2b5fd751b5",
+      "content_hash": "db224d324ee6da03d791f7fff19318246d8f9b5d6f96e7dff1db3728c43e1758",
+      "aliases": [
+        "images/Nature/birds_sunset_clouds.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
+    },
+    {
       "id": "74e12ee3-afe4-43ce-94c7-943f5babbc5f",
       "content_hash": "db4090aef8e5fb035ba40ae1dced744f4040155ade156de9805f5a061790c92b",
       "aliases": [
@@ -5766,6 +6090,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "9878247a-5a94-4798-a059-b0b05b91b9da",
+      "content_hash": "dc8a9c3be8032d684c856490ccbde361b3566371d6c836b9a9668c63dd697c1e",
+      "aliases": [
+        "images/Art/compass_world_line_art.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "ffe6d942-17a0-4683-a0f6-16893016be1a",
@@ -5842,6 +6175,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "b42d25a8-f580-41e7-89e2-33097494dc89",
+      "content_hash": "dfb646558df58b3d8e6db1a6566e634a19a3a66226ac11991fbfe9e33984c906",
+      "aliases": [
+        "images/Quotes/success_moon_lake.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "1ccd7044-52e6-4663-97d5-9acfdb20eaaa",
       "content_hash": "dfdaff29537b549794a0c387e76e5de974ef19f8f6437945d897365b4c3aed5c",
       "aliases": [
@@ -5914,6 +6256,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "14d27f1b-14ed-4fce-b242-0bfa41624405",
+      "content_hash": "e2e2f458809f8cb4478ffebee3333b043151b2420fd09e6b31658f2c34a4ca3b",
+      "aliases": [
+        "images/Quotes/eagle_vision_quote.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
+    },
+    {
       "id": "6421107e-65d2-4af3-ba6b-d6773a49fd44",
       "content_hash": "e314791b7421baa1fa1f878b548015c002c6ac3009d33daeaf3590ee0ee0b700",
       "aliases": [
@@ -5921,6 +6272,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "d1a60b51-e68a-4d1b-927a-9e11eb1e85f6",
+      "content_hash": "e37f3a61ca3a34197f7769132c7d96951c08944c0abc5072dedcc0a885fa466d",
+      "aliases": [
+        "images/Cartoons/motorbike_adventure.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "e4df339c-1c96-42c5-a12e-93e4df3f7e9f",
@@ -6123,6 +6483,15 @@
       "updated_at": "2000-01-01T00:00:00Z"
     },
     {
+      "id": "95a47e56-3899-4f1c-9a3c-437ec87bb880",
+      "content_hash": "e9c9061c65705038350a390ff47cd069d77bc13bd32065a26feb69d8d5209814",
+      "aliases": [
+        "images/Abstract/green_particle_waves.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
+    },
+    {
       "id": "a20b501d-dfad-40f5-b584-77ab9fcea498",
       "content_hash": "ea045eac21803cd3e8a87364207414d8b9390febb451f17b8101015623aa6c59",
       "aliases": [
@@ -6130,6 +6499,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "f4246a00-002f-4693-91a3-3e09f1e728a6",
+      "content_hash": "eaf957242c504e75d7d0f4006a1d7378febfb6feb44d3bd50861a65ae15010bd",
+      "aliases": [
+        "images/Anime/robot_wave_splash.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:49:40Z"
     },
     {
       "id": "878055bb-a0f5-46e3-b109-8f35e54634c7",
@@ -6511,6 +6889,15 @@
       ],
       "retired": true,
       "updated_at": "2000-01-01T00:00:00Z"
+    },
+    {
+      "id": "ca9135f9-bda0-4d72-8903-c98a9c886dd8",
+      "content_hash": "fd8aced310f2f4b627a3a1e76a224836aee86db0b67850f23bc80321ed059373",
+      "aliases": [
+        "images/Abstract/red_rounded_blocks.jpg"
+      ],
+      "retired": false,
+      "updated_at": "2026-10-20T17:42:03Z"
     },
     {
       "id": "ffa6fceb-05c8-471a-bd6d-872a13c58ced",

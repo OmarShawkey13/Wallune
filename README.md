@@ -70,8 +70,8 @@ A page has this shape:
 ~~~json
 {
   "page": 1,
-  "total_pages": 5,
-  "total_items": 100,
+  "total_pages": 6,
+  "total_items": 110,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -90,12 +90,12 @@ config.json contains:
 ~~~json
 {
   "api_version": 1,
-  "content_version": 8,
-  "total_items": 100,
-  "total_pages": 5,
+  "content_version": 10,
+  "total_items": 110,
+  "total_pages": 6,
   "items_per_page": 20,
-  "generated_at": "2026-10-12T11:39:33Z",
-  "catalog_hash": "2af03ac45d1b799b6b21e8a4f23ae935028bbce04f50a04be4db86d98f2900cf"
+  "generated_at": "2026-10-20T17:42:03Z",
+  "catalog_hash": "e0d26e7a0e450c7c41b72eff8f9b6274db91ca5e48ae72c68f4e916c9fea6908"
 }
 ~~~
 
@@ -189,9 +189,9 @@ Do not add a monolithic wallpapers.json file. Do not add Firebase, Supabase, AWS
 
 ## Current catalog snapshot
 
-The current catalog contains 100 supported images in 17 categories, generated into 5 pages with 20 items per page. The image binaries are 14,619,642 bytes (about 13.9 MiB). These are generated values, not hardcoded limits.
+The current catalog contains 110 supported images in 17 categories, generated into 6 pages with 20 items per page (10 on the final page). The image binaries are 15,005,108 bytes (about 14.3 MiB). These are generated values, not hardcoded limits.
 
-The current 100-image catalog was reviewed in contact sheets and at full resolution for policy-sensitive content. No image showing tobacco, alcohol, drugs, nudity, explicit sexual content, or graphic violence was retained. The accepted set has no duplicate SHA-256 image bytes; decorative fantasy and superhero weapon artwork is non-graphic.
+The current 110-image catalog was reviewed in contact sheets and at full resolution for policy-sensitive content. No image showing tobacco, alcohol, drugs, nudity, explicit sexual content, or graphic violence was retained. The accepted set has no duplicate SHA-256 image bytes; decorative fantasy and superhero weapon artwork is non-graphic.
 
 ## Operational limitations
 

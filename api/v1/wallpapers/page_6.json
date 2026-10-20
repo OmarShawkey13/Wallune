@@ -1,0 +1,210 @@
+{
+  "page": 6,
+  "total_pages": 8,
+  "total_items": 142,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "49f65d8c-0124-4f46-b73d-51555e299735",
+      "title": "Purple Moon Blossoms",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/purple_moon_blossoms.jpg",
+      "size": 100309,
+      "updated_at": "2026-09-29T15:57:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e4ecf814-8d45-426d-860c-639b9eb1a1b3",
+      "title": "Red Moon Mountain Landscape",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_moon_mountain_landscape.jpg",
+      "size": 94676,
+      "updated_at": "2026-09-30T10:49:00Z",
+      "width": 736,
+      "height": 1525
+    },
+    {
+      "id": "390e6a9a-7bdd-43e6-960f-088eccec49b0",
+      "title": "Red Tree Canopy",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_tree_canopy.jpg",
+      "size": 307219,
+      "updated_at": "2026-09-29T15:57:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "79c0b81b-bc39-4b31-9c86-94574425afed",
+      "title": "Small Flower In Dark Soil",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/small_flower_in_dark_soil.jpg",
+      "size": 59000,
+      "updated_at": "2026-09-29T15:57:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6f40a197-0450-4815-bfcc-fa24da3b34d3",
+      "title": "Starry Blue Flower Field",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_blue_flower_field.jpg",
+      "size": 161942,
+      "updated_at": "2026-10-07T08:58:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "b65c511c-0574-4711-b94b-cf5b99e67fb9",
+      "title": "Starry Night Tree Canopy",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_night_tree_canopy.jpg",
+      "size": 216851,
+      "updated_at": "2024-11-22T21:00:00Z",
+      "width": 997,
+      "height": 2160
+    },
+    {
+      "id": "f99c50de-da8b-40c0-abe1-47d964730850",
+      "title": "Starry Road Milky Way",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_road_milky_way.jpg",
+      "size": 155471,
+      "updated_at": "2025-01-02T21:00:00Z",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "id": "d49275a6-ea4f-40a0-a919-51d7d8c8dc25",
+      "title": "Holding Hands By The Sea",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/holding_hands_by_the_sea.jpg",
+      "size": 86674,
+      "updated_at": "2023-07-05T21:00:00Z",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "id": "86d1c560-28a0-4956-a67a-6a87c69e55cf",
+      "title": "Moonlit Road Walker",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/moonlit_road_walker.jpg",
+      "size": 64334,
+      "updated_at": "2026-09-30T22:31:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "aede82e2-8c6e-4501-b10f-d698f3bd8d83",
+      "title": "Night Cyclist Silhouette",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/night_cyclist_silhouette.jpg",
+      "size": 14340,
+      "updated_at": "2026-10-07T13:59:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "22befa84-7f0e-49b7-b142-1ff7cdd86355",
+      "title": "Rain Cloud Car Scene",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/rain_cloud_car_scene.jpg",
+      "size": 53002,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "1a7ed070-3c8e-4a33-b2b4-78ff99ed8fa4",
+      "title": "Do More Yellow Typography",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/do_more_yellow_typography.jpg",
+      "size": 756411,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e15e89cf-69d2-44a1-bc84-a09b358e3703",
+      "title": "Eagle Stay Focused Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/eagle_stay_focused_quote.jpg",
+      "size": 186132,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "14d27f1b-14ed-4fce-b242-0bfa41624405",
+      "title": "Eagle Vision Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/eagle_vision_quote.jpg",
+      "size": 112293,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "166640e5-5a5e-4ed6-abbd-95071cea98e6",
+      "title": "Lost In Right Direction",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/lost_in_right_direction.jpg",
+      "size": 59925,
+      "updated_at": "2026-09-30T13:10:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b42d25a8-f580-41e7-89e2-33097494dc89",
+      "title": "Success Moon Lake",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/success_moon_lake.jpg",
+      "size": 140411,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "019c2949-b2bc-4c3d-a772-586ecbb354ba",
+      "title": "Qarib Mujib Space Quote",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/qarib_mujib_space_quote.jpg",
+      "size": 56649,
+      "updated_at": "2024-11-08T21:00:00Z",
+      "width": 960,
+      "height": 1920
+    },
+    {
+      "id": "7be5240a-61eb-4ac6-a0a5-d9a6a3be5e3c",
+      "title": "Blue Moon Butterfly",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/blue_moon_butterfly.jpg",
+      "size": 62864,
+      "updated_at": "2026-10-07T08:58:00Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "1c112ce3-745b-40a5-b367-418125b34e9e",
+      "title": "Cosmic Eclipse Clouds",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/cosmic_eclipse_clouds.jpg",
+      "size": 278690,
+      "updated_at": "2024-04-04T21:00:00Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "7ce3b290-8863-47a7-8b43-e40a98379581",
+      "title": "Crescent Moon Butterflies",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/crescent_moon_butterflies.jpg",
+      "size": 56578,
+      "updated_at": "2026-10-07T08:58:00Z",
+      "width": 736,
+      "height": 1308
+    }
+  ]
+}
