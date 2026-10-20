@@ -108,6 +108,11 @@ class StaticGeneratorTests(GeneratorFixture):
         self.assertFalse(page["has_next"])
         self.assertFalse(page["has_prev"])
 
+    def test_generation_does_not_emit_dart_models(self):
+        write_png(Path("images/Nature/one.jpg"))
+        self.generate()
+        self.assertFalse(Path("api/v1/models.dart").exists())
+
     def test_exactly_twenty_images(self):
         for index in range(20):
             write_png(Path("images/Nature") / f"image_{index}.jpg", marker=bytes([index]))

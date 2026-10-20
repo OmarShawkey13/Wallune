@@ -1,5 +1,21 @@
+# Python caches and local environments
 __pycache__/
 *.py[cod]
 .pytest_cache/
 .mypy_cache/
+.venv/
+venv/
+
+# Temporary test and generator output
 tests/tmp*/
+api/.v1.staging-*/
+api/.v1.backup-*/
+
+# Incoming images are reviewed before they enter the production catalog.
+new_wall/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

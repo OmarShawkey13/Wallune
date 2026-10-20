@@ -1,0 +1,11 @@
+* text=auto
+
+*.json text eol=lf
+*.py text eol=lf
+*.dart text eol=lf
+*.md text eol=lf
+
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
