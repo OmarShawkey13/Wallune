@@ -1,0 +1,210 @@
+{
+  "page": 9,
+  "total_pages": 23,
+  "total_items": 453,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "34e0a947-383b-49ff-bba8-96412c30a0c7",
+      "title": "Smoke Face Portrait",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/smoke_face_portrait.jpg",
+      "size": 55922,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "69a7daa5-5773-420c-958c-bd147bc8af55",
+      "title": "Smoke Samurai Portrait",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/smoke_samurai_portrait.jpg",
+      "size": 153643,
+      "updated_at": "2024-12-19T21:00:00Z",
+      "width": 1080,
+      "height": 2400
+    },
+    {
+      "id": "71ff489d-b561-4b81-94c2-d1f39f5eb111",
+      "title": "Stacked Books",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/stacked_books.jpg",
+      "size": 101811,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "88b52a63-a01f-4f2b-920a-d6a94b66f52e",
+      "title": "Stone Corridor Ruins",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/stone_corridor_ruins.jpg",
+      "size": 482430,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1969
+    },
+    {
+      "id": "313df97f-cdd3-4b2e-a469-e9fe846dc42c",
+      "title": "Traditional Japanese Wave Art",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/traditional_japanese_wave_art.jpg",
+      "size": 505907,
+      "updated_at": "2024-10-19T21:00:00Z",
+      "width": 993,
+      "height": 2160
+    },
+    {
+      "id": "bfb8f7e5-f051-4fea-8257-c6fc1ed504a4",
+      "title": "Warrior Waterfalls Orange Moon",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/warrior_waterfalls_orange_moon.jpg",
+      "size": 203582,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "00157ece-1a38-4f26-9771-257782ae86df",
+      "title": "Black Bmw Front",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_bmw_front.jpg",
+      "size": 87793,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a34a4092-5a6e-4059-bcf6-6ccdf195f8cf",
+      "title": "Blue Race Car Night",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/blue_race_car_night.jpg",
+      "size": 16185,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "03390484-8733-4166-ab35-60c20049b533",
+      "title": "Bmw Performance City",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_performance_city.jpg",
+      "size": 172336,
+      "updated_at": "2024-06-24T21:00:00Z",
+      "width": 1080,
+      "height": 1351
+    },
+    {
+      "id": "2ae603a1-e2f0-4125-8a5e-4f423efe29bd",
+      "title": "Classic Black Car Reflection",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/classic_black_car_reflection.jpg",
+      "size": 124237,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "43b71572-2efa-4a46-ad01-d06c01cbf5bf",
+      "title": "Mclaren Dashboard",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/mclaren_dashboard.jpg",
+      "size": 52610,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "cea80bc6-71c3-45f4-9c42-ed3b4e3d0643",
+      "title": "Mountain Bike Flatlay",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/mountain_bike_flatlay.jpg",
+      "size": 138079,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "c54aad0b-2ba8-4e1e-9e50-0212b175ac21",
+      "title": "One Percent Better Car",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/one_percent_better_car.jpg",
+      "size": 209611,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "60603959-ed32-487a-b453-346f749a89f4",
+      "title": "Red Neon Sports Car",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/red_neon_sports_car.jpg",
+      "size": 78565,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1594
+    },
+    {
+      "id": "948782d3-cad9-4d52-aed5-fbdfdcc44cb2",
+      "title": "Red Sports Car Night",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/red_sports_car_night.jpg",
+      "size": 9234,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 720,
+      "height": 1235
+    },
+    {
+      "id": "3a5ff3dc-812f-427f-b4f7-e7a5fdf8653e",
+      "title": "Red Supra Dragon Art",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/red_supra_dragon_art.jpg",
+      "size": 405575,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "5359c144-1675-4f8d-8d82-54aeb922b9ce",
+      "title": "Black Eyes Cartoon",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/black_eyes_cartoon.jpg",
+      "size": 39144,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e93c7f44-9a6a-4313-91a3-488a97ff3bf1",
+      "title": "Blue Grin Cartoon",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/blue_grin_cartoon.jpg",
+      "size": 227706,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "416f274f-2bb6-458b-9472-6387b540e2e2",
+      "title": "Dark Rabbit Red Eyes",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/dark_rabbit_red_eyes.jpg",
+      "size": 45112,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "997bb9a3-3a6a-4375-aba9-27a37846c93d",
+      "title": "Green Comic Character",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/green_comic_character.jpg",
+      "size": 299264,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}

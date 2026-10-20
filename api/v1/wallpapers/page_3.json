@@ -1,210 +1,210 @@
 {
   "page": 3,
-  "total_pages": 8,
-  "total_items": 142,
+  "total_pages": 23,
+  "total_items": 453,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "837034da-abd3-417e-a75a-7ca8038eec1a",
-      "title": "Frieza Dark Form Portrait",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/frieza_dark_form_portrait.jpg",
-      "size": 742138,
-      "updated_at": "2026-07-25T11:58:00Z",
-      "width": 1920,
-      "height": 3412
-    },
-    {
-      "id": "e51181c7-8c22-44a3-b1ff-d2b38918033b",
-      "title": "Luffy Smiling Portrait",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/luffy_smiling_portrait.jpg",
-      "size": 146991,
-      "updated_at": "2024-10-01T21:00:00Z",
-      "width": 1152,
-      "height": 2048
-    },
-    {
-      "id": "f4246a00-002f-4693-91a3-3e09f1e728a6",
-      "title": "Robot Wave Splash",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/robot_wave_splash.jpg",
-      "size": 62538,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 700,
-      "height": 1200
-    },
-    {
-      "id": "7806ecf0-e47e-42e6-9b08-92ba40e1cec4",
-      "title": "Butterfly Silhouette Portrait",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/butterfly_silhouette_portrait.jpg",
-      "size": 38221,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 736,
-      "height": 736
-    },
-    {
-      "id": "9878247a-5a94-4798-a059-b0b05b91b9da",
-      "title": "Compass World Line Art",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/compass_world_line_art.jpg",
-      "size": 200412,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "8a22d18a-9b42-4bc5-95c6-c8cbc4908231",
-      "title": "Delicate Heart Line",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/delicate_heart_line.jpg",
-      "size": 14835,
-      "updated_at": "2026-10-08T20:57:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "11b4c0f7-64d7-4c28-ab3a-fdea85c52893",
-      "title": "Floating Silhouette Pink Light",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/floating_silhouette_pink_light.jpg",
-      "size": 39348,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 640,
-      "height": 800
-    },
-    {
-      "id": "c7fb05eb-2123-48e9-863b-f1b8b4e6f709",
-      "title": "Golden Butterfly Ribbon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/golden_butterfly_ribbon.jpg",
-      "size": 111227,
-      "updated_at": "2026-10-08T20:57:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "b4a9a901-c9ce-4d84-b9bb-a42f8fa17954",
-      "title": "Illustrated Flower Market",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/illustrated_flower_market.jpg",
-      "size": 252064,
-      "updated_at": "2024-04-28T21:00:00Z",
-      "width": 736,
-      "height": 1228
-    },
-    {
-      "id": "1ed09fb5-0fb0-4bae-ace7-a1d89ead0ab8",
-      "title": "Light Figure Among Shadows",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/light_figure_among_shadows.jpg",
-      "size": 20243,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 596,
-      "height": 601
-    },
-    {
-      "id": "106708fa-1db0-493d-a5d8-ea20d627134b",
-      "title": "Moonlit Dual Sword Samurai",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/moonlit_dual_sword_samurai.jpg",
-      "size": 153331,
-      "updated_at": "2025-01-07T21:00:00Z",
-      "width": 926,
-      "height": 2160
-    },
-    {
-      "id": "7223c1f0-163b-408d-8c9f-dcbbdc4690c6",
-      "title": "Mounted Archer Orange Moon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/mounted_archer_orange_moon.jpg",
-      "size": 222089,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e81343a0-7ef4-40d3-ac0d-80280004464b",
-      "title": "Red Moon Samurai Portrait",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/red_moon_samurai_portrait.jpg",
-      "size": 326327,
-      "updated_at": "2024-12-19T21:00:00Z",
-      "width": 1179,
-      "height": 2556
-    },
-    {
-      "id": "bafbf9b0-7db6-414d-bca8-d20b09f68c6b",
-      "title": "Red Moon Samurai Silhouette",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/red_moon_samurai_silhouette.jpg",
-      "size": 271789,
-      "updated_at": "2024-12-19T21:00:00Z",
-      "width": 1080,
-      "height": 2340
-    },
-    {
-      "id": "e5d26f4b-9846-4c3f-af47-002e4cbb4f14",
-      "title": "Rose And Heart Line",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/rose_and_heart_line.jpg",
-      "size": 40665,
+      "id": "6768488c-0edb-439c-8ba2-5c4e55b54665",
+      "title": "Heart Hourglass",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/heart_hourglass.jpg",
+      "size": 30178,
       "updated_at": "2026-10-07T12:20:00Z",
       "width": 1080,
       "height": 1920
     },
     {
-      "id": "c69caeba-ac61-4987-9b1d-b935958ad14a",
-      "title": "Samurai Dual Sword Silhouette",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_dual_sword_silhouette.jpg",
-      "size": 100544,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1919
+      "id": "601decc5-720a-4490-837d-31dc13433173",
+      "title": "Jagged Crack Line",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/jagged_crack_line.jpg",
+      "size": 12142,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
     },
     {
-      "id": "df90a2aa-d89e-4e8f-9ad1-cf7ce43370c9",
-      "title": "Samurai Orange Moon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_orange_moon.jpg",
-      "size": 269549,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "5d7c7cbe-4242-4591-9c2f-5872e6279e98",
-      "title": "Samurai Red Grass",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_red_grass.jpg",
-      "size": 396825,
-      "updated_at": "2024-12-19T21:00:00Z",
-      "width": 1185,
-      "height": 2567
-    },
-    {
-      "id": "4dd47e7b-4ee4-48e8-a060-5d0721904ade",
-      "title": "Samurai Torii Orange Moon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/samurai_torii_orange_moon.jpg",
-      "size": 190029,
-      "updated_at": "2026-10-20T17:49:40Z",
+      "id": "85e0143e-7a55-4397-b19f-a5de9847b42c",
+      "title": "Love Route Pins",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/love_route_pins.jpg",
+      "size": 29225,
+      "updated_at": "2026-10-07T12:20:00Z",
       "width": 1080,
       "height": 1920
     },
     {
-      "id": "69a7daa5-5773-420c-958c-bd147bc8af55",
-      "title": "Smoke Samurai Portrait",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/smoke_samurai_portrait.jpg",
-      "size": 153643,
-      "updated_at": "2024-12-19T21:00:00Z",
+      "id": "d917c6d6-35b9-4acb-a3ad-5d0aa9c51e01",
+      "title": "Minimal Blue Clock Lines",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_blue_clock_lines.jpg",
+      "size": 28401,
+      "updated_at": "2026-10-07T21:19:00Z",
+      "width": 735,
+      "height": 1307
+    },
+    {
+      "id": "70db9440-1b75-4e34-b7d0-4dcd1b6afaf7",
+      "title": "Minimal Clock Dark",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_clock_dark.jpg",
+      "size": 7606,
+      "updated_at": "2026-10-07T21:19:00Z",
+      "width": 612,
+      "height": 1088
+    },
+    {
+      "id": "cc13a6ef-5e15-4d3e-a9b8-c879adff21e1",
+      "title": "Minimal Gray Bars",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_gray_bars.jpg",
+      "size": 9511,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "id": "216fca4f-6af8-42f6-a77a-ad41d296d05b",
+      "title": "Minimal Heartbeat Line",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_heartbeat_line.jpg",
+      "size": 7850,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "d9db2a30-cc69-44e5-9daf-81a6880a2ebb",
+      "title": "Moonlight Black Tunnel",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/moonlight_black_tunnel.jpg",
+      "size": 319652,
+      "updated_at": "2026-09-30T13:10:00Z",
       "width": 1080,
-      "height": 2400
+      "height": 1920
+    },
+    {
+      "id": "c87c5d7d-c3bb-4cab-9961-aac32afed89e",
+      "title": "Multicolor Glowing Blocks",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/multicolor_glowing_blocks.jpg",
+      "size": 25433,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "id": "0ba5f724-bdb4-4577-ad44-d464d3501fa4",
+      "title": "Neon Bubble Spheres",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_bubble_spheres.jpg",
+      "size": 145120,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "c9ebea2c-6013-415b-aa4c-85b26eac88e0",
+      "title": "Neon Orbit Arcs",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_orbit_arcs.jpg",
+      "size": 25734,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "f9e1932e-d362-424e-ae19-e7b2a5979949",
+      "title": "Orange Black Ribbon",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/orange_black_ribbon.jpg",
+      "size": 96474,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "7a8ba96b-5f55-464f-ae41-455040170082",
+      "title": "Orange Honeycomb Pattern",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/orange_honeycomb_pattern.jpg",
+      "size": 42289,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1599
+    },
+    {
+      "id": "9a694649-525d-4745-a98e-21c0d35ef40a",
+      "title": "Pink Smoke Fluid",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/pink_smoke_fluid.jpg",
+      "size": 166884,
+      "updated_at": "2024-06-27T21:00:00Z",
+      "width": 993,
+      "height": 2160
+    },
+    {
+      "id": "a0526f17-439c-4fbd-9519-f43672f2b0ff",
+      "title": "Purple Energy Figure",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_energy_figure.jpg",
+      "size": 102441,
+      "updated_at": "2025-01-05T21:00:00Z",
+      "width": 735,
+      "height": 763
+    },
+    {
+      "id": "83c76a83-5871-428f-88a1-a29b1321cd84",
+      "title": "Purple Glitch Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_glitch_texture.jpg",
+      "size": 101064,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "445448b0-3c51-45b6-b7d3-288ae98a348d",
+      "title": "Purple Liquid Curves",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_liquid_curves.jpg",
+      "size": 121683,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "22ed774f-a2d4-447a-bad5-a8c9fca94e1c",
+      "title": "Purple Smoke Thread",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_smoke_thread.jpg",
+      "size": 76381,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 561,
+      "height": 997
+    },
+    {
+      "id": "2a933b64-6d26-445f-b1c2-0403d252e3ab",
+      "title": "Radial Orange Blue Emblem",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/radial_orange_blue_emblem.jpg",
+      "size": 54722,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1595
+    },
+    {
+      "id": "0fe59330-0fd8-4d45-9ef2-57eb7d84b169",
+      "title": "Rainbow Smoke Thread",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rainbow_smoke_thread.jpg",
+      "size": 172130,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 720,
+      "height": 1280
     }
   ]
 }

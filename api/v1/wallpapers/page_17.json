@@ -1,0 +1,210 @@
+{
+  "page": 17,
+  "total_pages": 23,
+  "total_items": 453,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "235d26cd-5433-4f67-805e-3eb643699b5e",
+      "title": "Ag Heart Letters",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ag_heart_letters.jpg",
+      "size": 203011,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1104
+    },
+    {
+      "id": "3931546d-3493-44d2-bbea-4b4f94860ae8",
+      "title": "Am Heart Letters",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/am_heart_letters.jpg",
+      "size": 15966,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "1a7ed070-3c8e-4a33-b2b4-78ff99ed8fa4",
+      "title": "Do More Yellow Typography",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/do_more_yellow_typography.jpg",
+      "size": 756411,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e15e89cf-69d2-44a1-bc84-a09b358e3703",
+      "title": "Eagle Stay Focused Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/eagle_stay_focused_quote.jpg",
+      "size": 186132,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "14d27f1b-14ed-4fce-b242-0bfa41624405",
+      "title": "Eagle Vision Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/eagle_vision_quote.jpg",
+      "size": 112293,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "953c6808-774c-42ec-8788-b5aaaf0297ea",
+      "title": "Ef Flower Letters",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ef_flower_letters.jpg",
+      "size": 31470,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "5bef0cba-30a0-40a4-94d0-dddc1401bce1",
+      "title": "Future In Progress",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/future_in_progress.jpg",
+      "size": 104309,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "5b783b8a-b601-4829-b484-5f91bfd554db",
+      "title": "Have Another Life Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/have_another_life_quote.jpg",
+      "size": 119410,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "699158d3-8075-485d-9d50-641a8508bd73",
+      "title": "Home With You Rose Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/home_with_you_rose_quote.jpg",
+      "size": 33135,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "87406b43-20c9-4da3-8ba1-240a897c4182",
+      "title": "Hope Paper Letters",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/hope_paper_letters.jpg",
+      "size": 111561,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 554,
+      "height": 985
+    },
+    {
+      "id": "872c97a8-643a-48d5-bb77-c4f5aac192cf",
+      "title": "Life Minimal Black",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/life_minimal_black.jpg",
+      "size": 17447,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "40a05205-3886-4ce2-8909-5c04e667fe48",
+      "title": "Live Your Life Airplane",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/live_your_life_airplane.jpg",
+      "size": 177843,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6b25011d-6c14-4dbc-8734-7d7927ba0e76",
+      "title": "Lone Lamp Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/lone_lamp_quote.jpg",
+      "size": 20550,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "166640e5-5a5e-4ed6-abbd-95071cea98e6",
+      "title": "Lost In Right Direction",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/lost_in_right_direction.jpg",
+      "size": 59925,
+      "updated_at": "2026-09-30T13:10:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "c7389a7d-6274-4f9e-97f3-d0986aac256a",
+      "title": "Love Brick Wall",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/love_brick_wall.jpg",
+      "size": 396924,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "3efcec5a-f9f4-40a1-a972-fd8d8db9b6bf",
+      "title": "Mg Heart Letters",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/mg_heart_letters.jpg",
+      "size": 27222,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "9a4251c1-677a-4252-abf5-d8a17b8be434",
+      "title": "Moon Ring Love Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/moon_ring_love_quote.jpg",
+      "size": 59007,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "f5a20b14-290c-4f73-9d45-432d0403cbf8",
+      "title": "Never Quit Typography",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/never_quit_typography.jpg",
+      "size": 135040,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1635
+    },
+    {
+      "id": "48bbfae3-f4fc-4050-9e73-3b46c253e00a",
+      "title": "No Risk No Story",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/no_risk_no_story.jpg",
+      "size": 118738,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "35130a74-d909-4d70-847b-68567148ae95",
+      "title": "Ocean Motivational Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ocean_motivational_quote.jpg",
+      "size": 98433,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 735,
+      "height": 1129
+    }
+  ]
+}

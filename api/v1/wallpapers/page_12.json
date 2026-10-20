@@ -1,0 +1,210 @@
+{
+  "page": 12,
+  "total_pages": 23,
+  "total_items": 453,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "ddd3c85d-8f35-402b-a87d-4d4f09bb0462",
+      "title": "Fiery Clockwork Ring",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fiery_clockwork_ring.jpg",
+      "size": 83604,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 512,
+      "height": 768
+    },
+    {
+      "id": "2906c9da-d510-4359-b235-2e28022c5297",
+      "title": "Fiery Ornate Portal",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fiery_ornate_portal.jpg",
+      "size": 142295,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1313
+    },
+    {
+      "id": "0167ed96-387b-48df-adfa-d9d97ed1afde",
+      "title": "Fire Phoenix Sky",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fire_phoenix_sky.jpg",
+      "size": 121599,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 981
+    },
+    {
+      "id": "97d28386-d181-4c5a-ba81-3899532db3e2",
+      "title": "Ghost Hand Shadow",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/ghost_hand_shadow.jpg",
+      "size": 20274,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "3398d906-738c-4f4b-b4a7-90b46c8f1c66",
+      "title": "Green Slime Dice",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/green_slime_dice.jpg",
+      "size": 183860,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "8808c2b0-accd-431b-9c14-6dc447b3e514",
+      "title": "Haunted Clock Tower",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/haunted_clock_tower.jpg",
+      "size": 113077,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "3415e470-ead6-4442-a7d6-00ca9af01984",
+      "title": "Hooded Wind Spirit",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/hooded_wind_spirit.jpg",
+      "size": 23480,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 480,
+      "height": 852
+    },
+    {
+      "id": "69234dce-6f45-463c-a985-06623569421b",
+      "title": "Moonlit Temple Guardian",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/moonlit_temple_guardian.jpg",
+      "size": 183145,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f2620ef0-d32d-4ad6-b0f1-4060d440a5d1",
+      "title": "Phoenix Fireworks Water",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/phoenix_fireworks_water.jpg",
+      "size": 95686,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 540,
+      "height": 960
+    },
+    {
+      "id": "cc33319e-53b7-4ad0-b435-4ddcc8191ab8",
+      "title": "Purple Lightning Sword",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/purple_lightning_sword.jpg",
+      "size": 268995,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "9f3ba908-7f87-432e-8204-1d9de5c85af9",
+      "title": "Purple Phoenix Wings",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/purple_phoenix_wings.jpg",
+      "size": 173618,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 735,
+      "height": 1103
+    },
+    {
+      "id": "82aec24e-83f0-41c6-888a-c9a055ca58c8",
+      "title": "Sakura Black Sword",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/sakura_black_sword.jpg",
+      "size": 131546,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "88887667-1b24-426e-ae1c-fd29478f914e",
+      "title": "Shadow Claw Silhouette",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/shadow_claw_silhouette.jpg",
+      "size": 54189,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1307
+    },
+    {
+      "id": "ef63826e-f38d-4bec-b1fa-5832ea2e9434",
+      "title": "Birds Gold Sky",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_gold_sky.jpg",
+      "size": 23366,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "fafb7f42-6d62-4ee4-953c-81be16bf1c36",
+      "title": "Birds On Red Sky",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_on_red_sky.jpg",
+      "size": 48059,
+      "updated_at": "2026-09-30T13:11:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "798d339f-6eef-4c3a-bf1a-c1422d4a6195",
+      "title": "Birds Over Sunset Sea",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_over_sunset_sea.jpg",
+      "size": 93400,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 736,
+      "height": 1102
+    },
+    {
+      "id": "2e5f5084-70b6-4149-9d6e-ddb9d9ad2f7f",
+      "title": "Birds Spiral Sunset",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_spiral_sunset.jpg",
+      "size": 45569,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1104
+    },
+    {
+      "id": "af89572c-6386-4faa-8297-9a2b5fd751b5",
+      "title": "Birds Sunset Clouds",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_sunset_clouds.jpg",
+      "size": 52819,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 600,
+      "height": 1066
+    },
+    {
+      "id": "42f2bd53-c1c3-4ad1-9cb8-cf421b503667",
+      "title": "Black Mountain Peak",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_mountain_peak.jpg",
+      "size": 45849,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f405452e-5dd2-40b0-8910-b4884b137411",
+      "title": "Black Petal Flower",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_petal_flower.jpg",
+      "size": 73902,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1472
+    }
+  ]
+}

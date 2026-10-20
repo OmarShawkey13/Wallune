@@ -1,0 +1,210 @@
+{
+  "page": 10,
+  "total_pages": 23,
+  "total_items": 453,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "18fd5b7c-e386-4415-a237-4fd0d8043d5f",
+      "title": "Homer Simpson",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/homer_simpson.jpg",
+      "size": 294008,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1e86bd79-0a4a-4d23-824a-ea412d419893",
+      "title": "Mario Dust Motorbike",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/mario_dust_motorbike.jpg",
+      "size": 76975,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1310
+    },
+    {
+      "id": "fa059c5a-7104-45b8-a4ab-e41f5c4419aa",
+      "title": "Mario Hoverboard",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/mario_hoverboard.jpg",
+      "size": 60852,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1635
+    },
+    {
+      "id": "05e1c9d5-5376-4091-942b-4b0f016f03c5",
+      "title": "Mario Red Racing Car",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/mario_red_racing_car.jpg",
+      "size": 32703,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 554,
+      "height": 1200
+    },
+    {
+      "id": "9e239864-f42a-45bd-abfe-986709f379ff",
+      "title": "Minimal Black White Cat",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/minimal_black_white_cat.jpg",
+      "size": 41917,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "d1a60b51-e68a-4d1b-927a-9e11eb1e85f6",
+      "title": "Motorbike Adventure",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/motorbike_adventure.jpg",
+      "size": 53503,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1494
+    },
+    {
+      "id": "d5b28fe5-92d2-47d3-a99e-09b09433a478",
+      "title": "Mouse With Bubble Tea",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/mouse_with_bubble_tea.jpg",
+      "size": 117185,
+      "updated_at": "2024-07-11T21:00:00Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "3c96e53d-0409-49c9-ae4e-c8be6bdf9827",
+      "title": "Rabbit Sneaker Store",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/rabbit_sneaker_store.jpg",
+      "size": 107211,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "ff97a22c-7a26-4924-8460-fff3cbeb5638",
+      "title": "Spongebob Streetwear",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/spongebob_streetwear.jpg",
+      "size": 366927,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "586eabb8-4310-47f6-8e8f-bdc2f324d5db",
+      "title": "Tom Jerry Movie Night",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/tom_jerry_movie_night.jpg",
+      "size": 129636,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1317
+    },
+    {
+      "id": "989262f3-d7da-4ff1-a972-68b640d9b607",
+      "title": "Tom Jerry Park Scene",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/tom_jerry_park_scene.jpg",
+      "size": 92848,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 720,
+      "height": 1214
+    },
+    {
+      "id": "0cd52e87-7509-4aa3-a90c-8a01092338a0",
+      "title": "Tom Jerry Sneaker Store",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/tom_jerry_sneaker_store.jpg",
+      "size": 140442,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1307
+    },
+    {
+      "id": "53bfed14-324b-4844-95a3-756ecb27c7a3",
+      "title": "Big Ben Moonlit City",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/big_ben_moonlit_city.jpg",
+      "size": 243668,
+      "updated_at": "2024-10-09T21:00:00Z",
+      "width": 997,
+      "height": 2160
+    },
+    {
+      "id": "c4ca0fae-fc22-426c-a761-dc6a84aa73bd",
+      "title": "Bridge Night Silhouette",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/bridge_night_silhouette.jpg",
+      "size": 28348,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "8fbbb7a7-d313-4efc-8163-079c3a9caae1",
+      "title": "Burj Khalifa Night",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/burj_khalifa_night.jpg",
+      "size": 35721,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1357
+    },
+    {
+      "id": "b6f6d1cc-e699-4f4e-ab30-223db50214c5",
+      "title": "City Sunlit Towers",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/city_sunlit_towers.jpg",
+      "size": 258375,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "b3a1e901-d137-46c9-b485-886bd57bacc6",
+      "title": "Dark Skyline Silhouette",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/dark_skyline_silhouette.jpg",
+      "size": 78138,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1512
+    },
+    {
+      "id": "9d9d1f11-3555-4832-ba60-9d5e9d361c27",
+      "title": "Ferris Wheel Sunset",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/ferris_wheel_sunset.jpg",
+      "size": 100170,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1512
+    },
+    {
+      "id": "b13639cf-a2b9-4971-a585-6c1a049a746f",
+      "title": "Foggy Bridge City",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/foggy_bridge_city.jpg",
+      "size": 24042,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1512
+    },
+    {
+      "id": "a329b32f-cd1a-4765-9470-a81d53f8258b",
+      "title": "Green Storm Highway",
+      "category": "Cityscape",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/green_storm_highway.jpg",
+      "size": 155106,
+      "updated_at": "2026-09-30T13:11:00Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}
