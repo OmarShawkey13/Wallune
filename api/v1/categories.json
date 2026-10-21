@@ -2,61 +2,61 @@
   {
     "id": "14f2dd7d-5373-58d5-bb6b-e50264b69b48",
     "name": "Abstract",
-    "count": 92,
+    "count": 93,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/armored_heart.jpg"
   },
   {
     "id": "5b2383ca-2525-5cdd-be57-09dd7a3f3462",
     "name": "Animals",
-    "count": 11,
-    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_hat_sunglasses.jpg"
+    "count": 16,
+    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_spider_minimal.jpg"
   },
   {
     "id": "c84e22c0-d901-5675-9656-b860fbf26559",
     "name": "Animation",
-    "count": 4,
-    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/neon_cartoon_dance_blue.jpg"
+    "count": 48,
+    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_and_stitch_pink.jpg"
   },
   {
     "id": "9f352953-ffca-591a-9f72-4874c03568f6",
     "name": "Anime",
-    "count": 11,
+    "count": 23,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_fire_profile.jpg"
   },
   {
     "id": "0470e18e-b988-5e98-aa24-98d896f9fef6",
     "name": "Art",
-    "count": 48,
-    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/anchor_blue.jpg"
+    "count": 49,
+    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/abstract_city_collage.jpg"
   },
   {
     "id": "0da0dc9b-a29d-5ee0-a4a8-96bff80e15b6",
     "name": "Cars",
-    "count": 10,
+    "count": 51,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_bmw_front.jpg"
   },
   {
     "id": "282ad7f9-9347-567d-bd76-b5433665ac33",
     "name": "Cartoons",
-    "count": 16,
+    "count": 34,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/black_eyes_cartoon.jpg"
   },
   {
     "id": "14ac729c-bdaa-5a18-8e4c-e68d1745f230",
     "name": "Cityscape",
-    "count": 20,
+    "count": 25,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/big_ben_moonlit_city.jpg"
   },
   {
     "id": "28e0e7c3-b5e3-510f-ac9f-3a0160965cbc",
     "name": "Fantasy",
-    "count": 21,
+    "count": 27,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/angel_in_golden_clouds.jpg"
   },
   {
     "id": "19381e2b-0853-5b1d-bfb2-cc339b8b9f36",
     "name": "Nature",
-    "count": 74,
+    "count": 93,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_gold_sky.jpg"
   },
   {
@@ -80,13 +80,13 @@
   {
     "id": "d951a00f-3282-530b-99a3-59d9be86ea4b",
     "name": "Space",
-    "count": 28,
+    "count": 42,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/airplane_line_dark.jpg"
   },
   {
     "id": "b483716d-fd66-5b37-98d4-186398fc96b5",
     "name": "Superheroes",
-    "count": 13,
+    "count": 19,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_color.jpg"
   },
   {
@@ -98,7 +98,7 @@
   {
     "id": "a624baa1-b705-5c39-bcf2-cea074fe4bae",
     "name": "Typography",
-    "count": 38,
+    "count": 39,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/add_more_fitness.jpg"
   }
 ]

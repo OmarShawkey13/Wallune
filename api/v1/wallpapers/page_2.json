@@ -1,11 +1,21 @@
 {
   "page": 2,
-  "total_pages": 23,
-  "total_items": 453,
+  "total_pages": 32,
+  "total_items": 626,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "d946c736-24c0-4b7d-b4ec-665a30b37200",
+      "title": "Colored Light Ribbons",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colored_light_ribbons.jpg",
+      "size": 23712,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 720,
+      "height": 1560
+    },
     {
       "id": "6bce9229-283f-4f58-9b43-56aa2c40ae86",
       "title": "Colorful Crystal Texture",
@@ -195,16 +205,6 @@
       "updated_at": "2026-10-20T17:42:03Z",
       "width": 736,
       "height": 1472
-    },
-    {
-      "id": "99975cba-b95b-4967-a7e4-a411a81f0588",
-      "title": "Green Rain Cloud Icon",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_rain_cloud_icon.jpg",
-      "size": 31449,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
     }
   ]
 }

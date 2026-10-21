@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "total_pages": 23,
-  "total_items": 453,
+  "total_pages": 32,
+  "total_items": 626,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -197,14 +197,14 @@
       "height": 997
     },
     {
-      "id": "d946c736-24c0-4b7d-b4ec-665a30b37200",
-      "title": "Colored Light Ribbons",
+      "id": "8da9bdfd-b0ad-4ebf-b3bc-1381fd710e8f",
+      "title": "Color Geometry Vertical",
       "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colored_light_ribbons.jpg",
-      "size": 23712,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 720,
-      "height": 1560
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/color_geometry_vertical.jpg",
+      "size": 496973,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2340
     }
   ]
 }

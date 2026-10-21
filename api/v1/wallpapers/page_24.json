@@ -1,0 +1,210 @@
+{
+  "page": 24,
+  "total_pages": 32,
+  "total_items": 626,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "c85cb145-2dc1-4197-9fd3-d7e3c119bbd3",
+      "title": "Foggy Figures Path",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/foggy_figures_path.jpg",
+      "size": 39567,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "d49275a6-ea4f-40a0-a919-51d7d8c8dc25",
+      "title": "Holding Hands By The Sea",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/holding_hands_by_the_sea.jpg",
+      "size": 86674,
+      "updated_at": "2023-07-05T21:00:00Z",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "id": "75e61d0f-a075-496a-bdf7-a9015fb0866f",
+      "title": "Long Road Walker",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/long_road_walker.jpg",
+      "size": 38335,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "ef92f858-60cb-40f4-a8c2-a9c797115475",
+      "title": "Moon Cliff Silhouette Close",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/moon_cliff_silhouette_close.jpg",
+      "size": 27737,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "7e2d13f5-f84c-4dea-8c8e-94d33412009b",
+      "title": "Moon Cliff Silhouette Wide",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/moon_cliff_silhouette_wide.jpg",
+      "size": 27213,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "fac9b0d5-d5d1-4e69-b45c-d19a541d5b79",
+      "title": "Moonlit Cliff Silhouette",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/moonlit_cliff_silhouette.jpg",
+      "size": 28277,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 423,
+      "height": 648
+    },
+    {
+      "id": "86d1c560-28a0-4956-a67a-6a87c69e55cf",
+      "title": "Moonlit Road Walker",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/moonlit_road_walker.jpg",
+      "size": 64334,
+      "updated_at": "2026-09-30T22:31:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "aede82e2-8c6e-4501-b10f-d698f3bd8d83",
+      "title": "Night Cyclist Silhouette",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/night_cyclist_silhouette.jpg",
+      "size": 14340,
+      "updated_at": "2026-10-07T13:59:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "2c481141-68dc-4b27-9951-cd0c4b91a7e7",
+      "title": "Person By Mangrove Sunset",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/person_by_mangrove_sunset.jpg",
+      "size": 64586,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1312
+    },
+    {
+      "id": "685e3ac4-6159-4136-af5f-9e68d93358c2",
+      "title": "Pushup Athlete Shadow",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/pushup_athlete_shadow.jpg",
+      "size": 16852,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 720,
+      "height": 1201
+    },
+    {
+      "id": "22befa84-7f0e-49b7-b142-1ff7cdd86355",
+      "title": "Rain Cloud Car Scene",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/rain_cloud_car_scene.jpg",
+      "size": 53002,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "e22e1be0-782d-421a-bc21-e51b1c014aec",
+      "title": "Spotlight Shadow Person",
+      "category": "People",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/spotlight_shadow_person.jpg",
+      "size": 8943,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "id": "235d26cd-5433-4f67-805e-3eb643699b5e",
+      "title": "Ag Heart Letters",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ag_heart_letters.jpg",
+      "size": 203011,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1104
+    },
+    {
+      "id": "3931546d-3493-44d2-bbea-4b4f94860ae8",
+      "title": "Am Heart Letters",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/am_heart_letters.jpg",
+      "size": 15966,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "1a7ed070-3c8e-4a33-b2b4-78ff99ed8fa4",
+      "title": "Do More Yellow Typography",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/do_more_yellow_typography.jpg",
+      "size": 756411,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e15e89cf-69d2-44a1-bc84-a09b358e3703",
+      "title": "Eagle Stay Focused Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/eagle_stay_focused_quote.jpg",
+      "size": 186132,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "14d27f1b-14ed-4fce-b242-0bfa41624405",
+      "title": "Eagle Vision Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/eagle_vision_quote.jpg",
+      "size": 112293,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "953c6808-774c-42ec-8788-b5aaaf0297ea",
+      "title": "Ef Flower Letters",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ef_flower_letters.jpg",
+      "size": 31470,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "5bef0cba-30a0-40a4-94d0-dddc1401bce1",
+      "title": "Future In Progress",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/future_in_progress.jpg",
+      "size": 104309,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "5b783b8a-b601-4829-b484-5f91bfd554db",
+      "title": "Have Another Life Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/have_another_life_quote.jpg",
+      "size": 119410,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}

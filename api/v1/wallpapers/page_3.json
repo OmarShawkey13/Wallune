@@ -1,11 +1,21 @@
 {
   "page": 3,
-  "total_pages": 23,
-  "total_items": 453,
+  "total_pages": 32,
+  "total_items": 626,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "99975cba-b95b-4967-a7e4-a411a81f0588",
+      "title": "Green Rain Cloud Icon",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_rain_cloud_icon.jpg",
+      "size": 31449,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "6768488c-0edb-439c-8ba2-5c4e55b54665",
       "title": "Heart Hourglass",
@@ -195,16 +205,6 @@
       "updated_at": "2026-10-20T17:49:40Z",
       "width": 736,
       "height": 1595
-    },
-    {
-      "id": "0fe59330-0fd8-4d45-9ef2-57eb7d84b169",
-      "title": "Rainbow Smoke Thread",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rainbow_smoke_thread.jpg",
-      "size": 172130,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 720,
-      "height": 1280
     }
   ]
 }

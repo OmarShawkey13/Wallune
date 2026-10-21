@@ -1,11 +1,21 @@
 {
   "page": 4,
-  "total_pages": 23,
-  "total_items": 453,
+  "total_pages": 32,
+  "total_items": 626,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "0fe59330-0fd8-4d45-9ef2-57eb7d84b169",
+      "title": "Rainbow Smoke Thread",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rainbow_smoke_thread.jpg",
+      "size": 172130,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 720,
+      "height": 1280
+    },
     {
       "id": "f8938530-1ee2-443a-bce8-f8fc51a840df",
       "title": "Red Black Brush Texture",
@@ -195,16 +205,6 @@
       "updated_at": "2026-10-20T17:42:03Z",
       "width": 736,
       "height": 1311
-    },
-    {
-      "id": "5f977b54-a77e-4d49-81a3-d6da5c647b6a",
-      "title": "Red Teal Feather Flow",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_teal_feather_flow.jpg",
-      "size": 130373,
-      "updated_at": "2026-09-30T10:49:00Z",
-      "width": 724,
-      "height": 1600
     }
   ]
 }

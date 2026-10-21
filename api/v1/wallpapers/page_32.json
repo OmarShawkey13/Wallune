@@ -1,0 +1,70 @@
+{
+  "page": 32,
+  "total_pages": 32,
+  "total_items": 626,
+  "items_per_page": 20,
+  "has_next": false,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "0e325d42-5432-4278-bfed-9692ff734c40",
+      "title": "Two Hours Later Typography",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/two_hours_later_typography.jpg",
+      "size": 508696,
+      "updated_at": "2024-07-10T21:00:00Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "10b081a0-ee3a-4f85-bdef-e17e8943b364",
+      "title": "Warning Tape",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/warning_tape.jpg",
+      "size": 210976,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "c1bd22e5-cb3f-4579-8b81-420084d998a4",
+      "title": "Words On Blue Texture",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/words_on_blue_texture.jpg",
+      "size": 294875,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "571c9308-fb24-4c8c-9c4f-a4864b591d4d",
+      "title": "Zap Lightning Poster",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/zap_lightning_poster.jpg",
+      "size": 265768,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "e41f253d-670d-4193-b4c4-f9b57e3bf4ba",
+      "title": "Zero Percent Gold",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/zero_percent_gold.jpg",
+      "size": 54249,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "0b8aadee-456b-4cd0-ac90-68ab633aa0ff",
+      "title": "Zoom Out Keys",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/zoom_out_keys.jpg",
+      "size": 59504,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}
