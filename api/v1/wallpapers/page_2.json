@@ -1,11 +1,31 @@
 {
   "page": 2,
-  "total_pages": 41,
-  "total_items": 809,
+  "total_pages": 59,
+  "total_items": 1168,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "a625874a-c9eb-468a-b870-354784700da8",
+      "title": "Black White Bubbles",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_bubbles.jpg",
+      "size": 271524,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "aff4988b-b366-4f90-a19d-ac58edab1d52",
+      "title": "Black White Doodle Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_doodle_texture.jpg",
+      "size": 236373,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "7a427019-9968-4ca5-bdb7-e08ecfac1584",
       "title": "Black White Geometric Stripes",
@@ -57,6 +77,16 @@
       "height": 1736
     },
     {
+      "id": "9ade1c50-b37c-4a89-beb5-e2da14d35c90",
+      "title": "Black White Wave Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_wave_texture.jpg",
+      "size": 191055,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 947,
+      "height": 2048
+    },
+    {
       "id": "c9812f27-3cd4-4736-9325-4680f3429dcb",
       "title": "Blue Black Gradient",
       "category": "Abstract",
@@ -95,6 +125,16 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "6bef1b4d-d20d-4f4b-aeab-9c1a798bc067",
+      "title": "Blue Dune Minimal",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_dune_minimal.jpg",
+      "size": 78002,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1028,
+      "height": 2400
     },
     {
       "id": "9fe601d9-bdef-4f21-bf42-efbf05a48fb8",
@@ -165,46 +205,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "fb1aa1e4-5ad8-447c-b70e-e5eb140efc02",
-      "title": "Blue Red Abstract Stack",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_red_abstract_stack.jpg",
-      "size": 57109,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "4f40b752-3ee5-4ef1-b45d-ed157a10b279",
-      "title": "Blue Red Graphic Stripes",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_red_graphic_stripes.jpg",
-      "size": 77132,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 720,
-      "height": 1480
-    },
-    {
-      "id": "4c9ff57d-1ad0-45bd-8fa6-57880b72fc09",
-      "title": "Blue Red Luminous Grid",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_red_luminous_grid.jpg",
-      "size": 40786,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 619,
-      "height": 1200
-    },
-    {
-      "id": "23ee356a-70c7-4854-864f-74ab3aa5b25e",
-      "title": "Blue Ribbon Curve",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_ribbon_curve.jpg",
-      "size": 36394,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1592
     }
   ]
 }

@@ -1,210 +1,210 @@
 {
   "page": 32,
-  "total_pages": 41,
-  "total_items": 809,
+  "total_pages": 59,
+  "total_items": 1168,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "87406b43-20c9-4da3-8ba1-240a897c4182",
-      "title": "Hope Paper Letters",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/hope_paper_letters.jpg",
-      "size": 111561,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 554,
-      "height": 985
-    },
-    {
-      "id": "872c97a8-643a-48d5-bb77-c4f5aac192cf",
-      "title": "Life Minimal Black",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/life_minimal_black.jpg",
-      "size": 17447,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "40a05205-3886-4ce2-8909-5c04e667fe48",
-      "title": "Live Your Life Airplane",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/live_your_life_airplane.jpg",
-      "size": 177843,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "6b25011d-6c14-4dbc-8734-7d7927ba0e76",
-      "title": "Lone Lamp Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/lone_lamp_quote.jpg",
-      "size": 20550,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "166640e5-5a5e-4ed6-abbd-95071cea98e6",
-      "title": "Lost In Right Direction",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/lost_in_right_direction.jpg",
-      "size": 59925,
-      "updated_at": "2026-09-30T13:10:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c7389a7d-6274-4f9e-97f3-d0986aac256a",
-      "title": "Love Brick Wall",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/love_brick_wall.jpg",
-      "size": 396924,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "3efcec5a-f9f4-40a1-a972-fd8d8db9b6bf",
-      "title": "Mg Heart Letters",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/mg_heart_letters.jpg",
-      "size": 27222,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "9a4251c1-677a-4252-abf5-d8a17b8be434",
-      "title": "Moon Ring Love Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/moon_ring_love_quote.jpg",
-      "size": 59007,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "f5a20b14-290c-4f73-9d45-432d0403cbf8",
-      "title": "Never Quit Typography",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/never_quit_typography.jpg",
-      "size": 135040,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1635
-    },
-    {
-      "id": "48bbfae3-f4fc-4050-9e73-3b46c253e00a",
-      "title": "No Risk No Story",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/no_risk_no_story.jpg",
-      "size": 118738,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "35130a74-d909-4d70-847b-68567148ae95",
-      "title": "Ocean Motivational Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ocean_motivational_quote.jpg",
-      "size": 98433,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 735,
-      "height": 1129
-    },
-    {
-      "id": "7191e7d7-f369-47db-aec4-93b58f586e68",
-      "title": "One Life Chance Story",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/one_life_chance_story.jpg",
-      "size": 204011,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "da820b3e-64bc-4d24-a106-e314d2271fbe",
-      "title": "Only For You Typography",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/only_for_you_typography.jpg",
-      "size": 172150,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "fa5e74d1-4a5f-42d7-9c0e-c8773766c133",
-      "title": "Only You Can Change",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/only_you_can_change.jpg",
-      "size": 39831,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "9c980386-1227-45a6-8c94-5cfba0c7fa94",
-      "title": "Silence Is Power",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/silence_is_power.jpg",
-      "size": 89024,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "b42d25a8-f580-41e7-89e2-33097494dc89",
-      "title": "Success Moon Lake",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/success_moon_lake.jpg",
-      "size": 140411,
+      "id": "69234dce-6f45-463c-a985-06623569421b",
+      "title": "Moonlit Temple Guardian",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/moonlit_temple_guardian.jpg",
+      "size": 183145,
       "updated_at": "2026-10-20T17:49:40Z",
       "width": 1080,
       "height": 1920
     },
     {
-      "id": "7b8da08e-a27e-4018-b109-e86d3b1d22ea",
-      "title": "Together Heart",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/together_heart.jpg",
-      "size": 119246,
+      "id": "f2620ef0-d32d-4ad6-b0f1-4060d440a5d1",
+      "title": "Phoenix Fireworks Water",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/phoenix_fireworks_water.jpg",
+      "size": 95686,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 540,
+      "height": 960
+    },
+    {
+      "id": "93f7250e-f010-45bc-9783-760e5d9de85d",
+      "title": "Phoenix Wing Illustration",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/phoenix_wing_illustration.jpg",
+      "size": 158738,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "ea3e50ce-0b09-4c61-96db-e59d1f94d178",
+      "title": "Pirate Ship Illustration",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/pirate_ship_illustration.jpg",
+      "size": 79164,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 736,
+      "height": 1104
+    },
+    {
+      "id": "dfdd49ea-5c8a-40fc-8c3f-daa01691628d",
+      "title": "Purple Cat Cosmos",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/purple_cat_cosmos.jpg",
+      "size": 182221,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1820
+    },
+    {
+      "id": "cc33319e-53b7-4ad0-b435-4ddcc8191ab8",
+      "title": "Purple Lightning Sword",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/purple_lightning_sword.jpg",
+      "size": 268995,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "592e33c6-5382-4570-bd92-7fe72579d4ab",
+      "title": "Purple Moon Tree",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/purple_moon_tree.jpg",
+      "size": 118108,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "9f3ba908-7f87-432e-8204-1d9de5c85af9",
+      "title": "Purple Phoenix Wings",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/purple_phoenix_wings.jpg",
+      "size": 173618,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 735,
+      "height": 1103
+    },
+    {
+      "id": "2acc475b-67df-492e-8e67-72bd9cb65a24",
+      "title": "Red Black Dragon",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_black_dragon.jpg",
+      "size": 60914,
       "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1125,
-      "height": 2436
+      "width": 736,
+      "height": 1476
     },
     {
-      "id": "946be4e2-2ab7-4524-8e67-bf789ba760f3",
-      "title": "You Always Rose Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_always_rose_quote.jpg",
-      "size": 29338,
+      "id": "ae89d407-f4e8-4058-adba-9ae6f5b4d6f0",
+      "title": "Red Forest Dragon",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_forest_dragon.jpg",
+      "size": 150171,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1310
+    },
+    {
+      "id": "0fe953c7-781d-40c8-aed2-08a5a2d9440e",
+      "title": "Red Glow Anime Warrior",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_glow_anime_warrior.jpg",
+      "size": 76992,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2368
+    },
+    {
+      "id": "113cb1fe-83e1-4f93-b479-b72db8b44ad2",
+      "title": "Red Sword Snow",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_sword_snow.jpg",
+      "size": 152984,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "82aec24e-83f0-41c6-888a-c9a055ca58c8",
+      "title": "Sakura Black Sword",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/sakura_black_sword.jpg",
+      "size": 131546,
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
     },
     {
-      "id": "61650f04-c0ef-45f4-a1be-bde48a47788c",
-      "title": "You And Me Blue",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_and_me_blue.jpg",
-      "size": 37478,
+      "id": "88887667-1b24-426e-ae1c-fd29478f914e",
+      "title": "Shadow Claw Silhouette",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/shadow_claw_silhouette.jpg",
+      "size": 54189,
       "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
+      "width": 736,
+      "height": 1307
     },
     {
-      "id": "00921315-e4f3-4c17-83f3-2aaf659e3538",
-      "title": "You Can Do It Gold",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_can_do_it_gold.jpg",
-      "size": 56087,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
+      "id": "22b669ef-0f69-4353-80a4-459696a0681c",
+      "title": "Smoke Figure Clouds",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/smoke_figure_clouds.jpg",
+      "size": 58625,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 942,
+      "height": 2048
+    },
+    {
+      "id": "4aa9fb62-9383-454b-ad2d-7282cdc6ec32",
+      "title": "Solitary Dark Knight",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/solitary_dark_knight.jpg",
+      "size": 95367,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1294
+    },
+    {
+      "id": "5ee4518f-9724-4674-aa38-83e67af308b7",
+      "title": "Storm Lake Creature",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/storm_lake_creature.jpg",
+      "size": 149232,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1535
+    },
+    {
+      "id": "8caf9e07-9141-46aa-b625-1ad995a40b0c",
+      "title": "Sword Rock Closeup",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/sword_rock_closeup.jpg",
+      "size": 203115,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1535
+    },
+    {
+      "id": "c7511020-b83d-4b0c-ae66-e758827cd410",
+      "title": "Trident Mindset",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/trident_mindset.jpg",
+      "size": 15434,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1152
+    },
+    {
+      "id": "f7c8e8c7-0e89-40c2-9599-3195acc44253",
+      "title": "Wrapped Butterfly Figure",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/wrapped_butterfly_figure.jpg",
+      "size": 57185,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1152
     }
   ]
 }

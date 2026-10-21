@@ -1,0 +1,210 @@
+{
+  "page": 55,
+  "total_pages": 59,
+  "total_items": 1168,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "16071ead-508e-46a5-97d4-a05aea3d5119",
+      "title": "Spiderweb Red Background",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderweb_red_background.jpg",
+      "size": 78707,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "68638bb9-e0da-440c-a7b9-4050805f9ad4",
+      "title": "Superman Red Portrait",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/superman_red_portrait.jpg",
+      "size": 170487,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 1928
+    },
+    {
+      "id": "cc64edec-2586-4f24-af78-570e7b64b457",
+      "title": "Thor Glass Frame",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/thor_glass_frame.jpg",
+      "size": 84925,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "6210858a-3f18-486e-81fd-f921bce8acdf",
+      "title": "Venom Ink Art",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/venom_ink_art.jpg",
+      "size": 201903,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "975c46b3-87f4-4cfa-9d30-ebbc8dcfc744",
+      "title": "App Icon Collage",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/app_icon_collage.jpg",
+      "size": 293751,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "9fe47a9c-9021-4422-8f97-c56749998ab5",
+      "title": "Apple Swirl Logo",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/apple_swirl_logo.jpg",
+      "size": 64427,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "e3ab759d-edb7-4107-ac37-ea02926af308",
+      "title": "Bitcoin Circuit",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/bitcoin_circuit.jpg",
+      "size": 142294,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "057fb102-8368-44f8-9529-a3bb2304ef69",
+      "title": "Black Blue Tech Panel",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/black_blue_tech_panel.jpg",
+      "size": 187432,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 720,
+      "height": 1444
+    },
+    {
+      "id": "3fb3eea4-6551-48d6-b5f6-3393e0024194",
+      "title": "Black Circuit Card",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/black_circuit_card.jpg",
+      "size": 54469,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1476
+    },
+    {
+      "id": "52b76f7f-1a5f-42e2-bd92-939cdb278c6c",
+      "title": "Blue Claw Logo",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/blue_claw_logo.jpg",
+      "size": 42979,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "da933bbd-738f-4fdc-ae2c-d9321dce8089",
+      "title": "Blue Soccer Symbol",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/blue_soccer_symbol.jpg",
+      "size": 13218,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1274
+    },
+    {
+      "id": "e44e6e62-6728-4d88-bf06-4028fb6ec380",
+      "title": "Blue Wire Figure",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/blue_wire_figure.jpg",
+      "size": 142043,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1471
+    },
+    {
+      "id": "e02ae0d0-fd8c-41fa-8a6e-d5323fe5f0e3",
+      "title": "Bullet Gauge",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/bullet_gauge.jpg",
+      "size": 42630,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b14cf1df-075f-45bf-9288-07a9655d5cef",
+      "title": "Coin Mechanical Detail",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/coin_mechanical_detail.jpg",
+      "size": 131451,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "955222fc-3d4b-4410-8351-b24671c82571",
+      "title": "Cryptocurrency Coins",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/cryptocurrency_coins.jpg",
+      "size": 573628,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e51986f7-7ff6-4106-9cf7-ab8092e9a372",
+      "title": "Digital Portal Ring",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/digital_portal_ring.jpg",
+      "size": 430268,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e86cb423-0238-4800-ae6e-051e228106fc",
+      "title": "Electric Bitcoin",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/electric_bitcoin.jpg",
+      "size": 246977,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "fa051705-05d5-42ca-a809-eeb14de08760",
+      "title": "Error 404 Black",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/error_404_black.jpg",
+      "size": 86255,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "42e1c2f4-1fa0-4ce6-a0ec-c4cdfdb97fa7",
+      "title": "Google Bokeh Letters",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/google_bokeh_letters.jpg",
+      "size": 47838,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1593
+    },
+    {
+      "id": "601758a4-eea9-4d4d-a0b6-7c8681e62b19",
+      "title": "Google Geometric Keyboard",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/google_geometric_keyboard.jpg",
+      "size": 41185,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1592
+    }
+  ]
+}

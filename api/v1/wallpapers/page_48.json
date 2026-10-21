@@ -1,0 +1,210 @@
+{
+  "page": 48,
+  "total_pages": 59,
+  "total_items": 1168,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "9c980386-1227-45a6-8c94-5cfba0c7fa94",
+      "title": "Silence Is Power",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/silence_is_power.jpg",
+      "size": 89024,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b42d25a8-f580-41e7-89e2-33097494dc89",
+      "title": "Success Moon Lake",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/success_moon_lake.jpg",
+      "size": 140411,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "7b8da08e-a27e-4018-b109-e86d3b1d22ea",
+      "title": "Together Heart",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/together_heart.jpg",
+      "size": 119246,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1125,
+      "height": 2436
+    },
+    {
+      "id": "946be4e2-2ab7-4524-8e67-bf789ba760f3",
+      "title": "You Always Rose Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_always_rose_quote.jpg",
+      "size": 29338,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "61650f04-c0ef-45f4-a1be-bde48a47788c",
+      "title": "You And Me Blue",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_and_me_blue.jpg",
+      "size": 37478,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "00921315-e4f3-4c17-83f3-2aaf659e3538",
+      "title": "You Can Do It Gold",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_can_do_it_gold.jpg",
+      "size": 56087,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "10eda176-76b9-4a63-9fe0-9718980defb8",
+      "title": "You May Rest Quote",
+      "category": "Quotes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_may_rest_quote.jpg",
+      "size": 111783,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
+      "id": "30d021f8-131f-40c7-bf9e-eb59757f860b",
+      "title": "Its Never Luck God",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/its_never_luck_god.jpg",
+      "size": 277615,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "418a8b84-ac94-4f9e-be11-85c3a84cd9a5",
+      "title": "Lantern Mosque Arch",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/lantern_mosque_arch.jpg",
+      "size": 124290,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "9db7612b-fe59-40b3-90a5-6c63cb634eb8",
+      "title": "Ornate Mosque Door",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/ornate_mosque_door.jpg",
+      "size": 58745,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "019c2949-b2bc-4c3d-a772-586ecbb354ba",
+      "title": "Qarib Mujib Space Quote",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/qarib_mujib_space_quote.jpg",
+      "size": 56649,
+      "updated_at": "2024-11-08T21:00:00Z",
+      "width": 960,
+      "height": 1920
+    },
+    {
+      "id": "b3eb0166-80d5-46e6-a27e-dd9c2a4ea2e9",
+      "title": "Ramadan Lantern Frame",
+      "category": "Religion",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/ramadan_lantern_frame.jpg",
+      "size": 95951,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "91addb75-bbe7-403e-bca8-1a475a132412",
+      "title": "Airplane Line Dark",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/airplane_line_dark.jpg",
+      "size": 29398,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "91749689-324f-4624-8e50-17491aabcbe3",
+      "title": "Airplane Line Minimal",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/airplane_line_minimal.jpg",
+      "size": 59714,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "8d947dc9-a4e1-47f4-ad3f-11f6a0763cd8",
+      "title": "Airplane Starfield",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/airplane_starfield.jpg",
+      "size": 191930,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1820
+    },
+    {
+      "id": "b8c01bb7-d4c3-4aad-932c-c3b58144341e",
+      "title": "Airplane Starfield Alt",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/airplane_starfield_alt.jpg",
+      "size": 231481,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "94ecf367-e421-4642-a182-66e965f28dd1",
+      "title": "Airplane Sun Clouds",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/airplane_sun_clouds.jpg",
+      "size": 61786,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1820
+    },
+    {
+      "id": "464bdadf-c7c3-4e8b-9300-d73f77753085",
+      "title": "Airplane Sun Clouds Alt",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/airplane_sun_clouds_alt.jpg",
+      "size": 190579,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
+      "id": "4c19883e-7348-494c-8694-959355bc17a2",
+      "title": "Black Starfield Ring",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/black_starfield_ring.jpg",
+      "size": 175248,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 720,
+      "height": 1440
+    },
+    {
+      "id": "399b9e01-293c-4125-94fb-917f09275050",
+      "title": "Blue Earth Orbit",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/blue_earth_orbit.jpg",
+      "size": 57693,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 736,
+      "height": 1308
+    }
+  ]
+}

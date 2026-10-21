@@ -1,0 +1,210 @@
+{
+  "page": 42,
+  "total_pages": 59,
+  "total_items": 1168,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "734848af-0f7f-49bc-8e06-572da590e317",
+      "title": "Red Sky Mountain",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_sky_mountain.jpg",
+      "size": 135407,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1635
+    },
+    {
+      "id": "4805c065-86ec-4901-aab0-77025861f222",
+      "title": "Red Sunset Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_sunset_lake.jpg",
+      "size": 177684,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 736,
+      "height": 1314
+    },
+    {
+      "id": "390e6a9a-7bdd-43e6-960f-088eccec49b0",
+      "title": "Red Tree Canopy",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_tree_canopy.jpg",
+      "size": 307219,
+      "updated_at": "2026-09-29T15:57:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "0153374b-19f3-4d6b-a74c-23b8ff9a2b6f",
+      "title": "Red Tree Mountain",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_tree_mountain.jpg",
+      "size": 272882,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "id": "4933ce32-8b10-490e-988d-135af5261138",
+      "title": "Resilient Tree On Rock",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/resilient_tree_on_rock.jpg",
+      "size": 251994,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 2394
+    },
+    {
+      "id": "db999361-a543-4717-809a-e61b897ac887",
+      "title": "Rock Face Texture",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/rock_face_texture.jpg",
+      "size": 295975,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1170,
+      "height": 2543
+    },
+    {
+      "id": "f9e4194b-ed84-42f0-9a32-add9ceb68d53",
+      "title": "Rock Plant Detail",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/rock_plant_detail.jpg",
+      "size": 161709,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "bcf2d0b9-e6d1-4b8e-8c69-36b225032925",
+      "title": "Rocky Ocean Sunset",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/rocky_ocean_sunset.jpg",
+      "size": 245026,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a7381a8d-7740-45f0-aa52-51b657e98485",
+      "title": "Sailboat Clouds",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sailboat_clouds.jpg",
+      "size": 183102,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 736,
+      "height": 1600
+    },
+    {
+      "id": "b2925c43-0bcb-4d9a-b271-44f0db5446b6",
+      "title": "Sailboat Storm Sunset",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sailboat_storm_sunset.jpg",
+      "size": 161036,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "377c630b-b81c-4015-b15a-98fb796666dc",
+      "title": "Sailboat Turquoise",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sailboat_turquoise.jpg",
+      "size": 284734,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 2436
+    },
+    {
+      "id": "34983a15-fabf-4cb3-8e16-4ff584e106ea",
+      "title": "Sakura Lamp Path",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sakura_lamp_path.jpg",
+      "size": 244532,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1871
+    },
+    {
+      "id": "0c095162-1184-4816-931f-116591850d70",
+      "title": "Ship Cave Sea",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/ship_cave_sea.jpg",
+      "size": 289991,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "21ec6a17-9dd8-4004-b422-53663a8b747e",
+      "title": "Ship Ocean Storm",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/ship_ocean_storm.jpg",
+      "size": 151597,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "48312c85-b90c-45a5-ad12-ee57efde07ca",
+      "title": "Shipwreck Ocean",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/shipwreck_ocean.jpg",
+      "size": 222901,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
+      "id": "809faff5-28a4-446f-b413-49a7937e2748",
+      "title": "Sky Mirror Reflection",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sky_mirror_reflection.jpg",
+      "size": 120016,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "79c0b81b-bc39-4b31-9c86-94574425afed",
+      "title": "Small Flower In Dark Soil",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/small_flower_in_dark_soil.jpg",
+      "size": 59000,
+      "updated_at": "2026-09-29T15:57:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "400497ad-4bd0-47c3-9677-4b77449f9309",
+      "title": "Small White Flower Dark",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/small_white_flower_dark.jpg",
+      "size": 63434,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "79d41cf4-eaf9-4a05-96f4-930eafa2565d",
+      "title": "Snowy Mountain Hiker",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_hiker.jpg",
+      "size": 223540,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "c228e58c-a7e6-493b-a14c-2be994654c67",
+      "title": "Snowy Mountain Pines",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_pines.jpg",
+      "size": 83370,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 564,
+      "height": 1001
+    }
+  ]
+}

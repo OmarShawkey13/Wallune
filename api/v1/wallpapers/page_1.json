@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "total_pages": 41,
-  "total_items": 809,
+  "total_pages": 59,
+  "total_items": 1168,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -25,6 +25,16 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1500
+    },
+    {
+      "id": "d1ba4e0b-343f-431d-87f8-2670bc50c2c9",
+      "title": "Black Butterfly Smoke",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_butterfly_smoke.jpg",
+      "size": 19927,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 561,
+      "height": 1000
     },
     {
       "id": "5b99c590-faef-4f89-a01c-21e1f4f67c34",
@@ -55,6 +65,16 @@
       "updated_at": "2026-10-21T12:16:05Z",
       "width": 420,
       "height": 732
+    },
+    {
+      "id": "94188a22-8b8a-4ef2-a760-ade577bd1cfe",
+      "title": "Black Geometric Pattern",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_geometric_pattern.jpg",
+      "size": 137134,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1871
     },
     {
       "id": "e015cf14-5898-476e-8f31-e1faf2c322ec",
@@ -185,26 +205,6 @@
       "updated_at": "2026-10-21T12:16:05Z",
       "width": 998,
       "height": 2160
-    },
-    {
-      "id": "a625874a-c9eb-468a-b870-354784700da8",
-      "title": "Black White Bubbles",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_bubbles.jpg",
-      "size": 271524,
-      "updated_at": "2026-10-21T12:16:05Z",
-      "width": 998,
-      "height": 2160
-    },
-    {
-      "id": "aff4988b-b366-4f90-a19d-ac58edab1d52",
-      "title": "Black White Doodle Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_doodle_texture.jpg",
-      "size": 236373,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
     }
   ]
 }

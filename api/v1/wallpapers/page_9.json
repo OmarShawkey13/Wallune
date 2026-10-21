@@ -1,210 +1,210 @@
 {
   "page": 9,
-  "total_pages": 41,
-  "total_items": 809,
+  "total_pages": 59,
+  "total_items": 1168,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "9b09e168-868a-4812-ae88-1c41f1d114ee",
-      "title": "Angel Upside Down",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_upside_down.jpg",
-      "size": 36955,
+      "id": "cb345972-da50-46cf-a41d-2702dc324a75",
+      "title": "Black Cat Green Swirl",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_cat_green_swirl.jpg",
+      "size": 108613,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
+      "id": "31e07377-7c54-441c-a13c-b377adbba229",
+      "title": "Black Cat Ice",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_cat_ice.jpg",
+      "size": 209826,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1914
+    },
+    {
+      "id": "75d62dfc-78aa-4b47-8c74-9d942b0b1395",
+      "title": "Black Cat Lily Pond",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_cat_lily_pond.jpg",
+      "size": 123960,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1865
+    },
+    {
+      "id": "db6ffcc5-13c6-4fdd-83c1-2e0d22aa8a56",
+      "title": "Black Spider Minimal",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_spider_minimal.jpg",
+      "size": 23716,
       "updated_at": "2026-10-21T11:59:15Z",
+      "width": 720,
+      "height": 758
+    },
+    {
+      "id": "833bec45-968a-4077-b1a6-df1900a6e03f",
+      "title": "Blue Eyes Dark Cat",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/blue_eyes_dark_cat.jpg",
+      "size": 16525,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1238
+    },
+    {
+      "id": "fc7e7f80-c6c2-420b-ac80-26601ae2d42e",
+      "title": "Blue Wolf Illustration",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/blue_wolf_illustration.jpg",
+      "size": 167646,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "b673da08-6a58-497c-86d2-d61b51a0dde6",
+      "title": "Cat Hat Sunglasses",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_hat_sunglasses.jpg",
+      "size": 73753,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a81d1e8b-33cb-4d2a-aa32-ee9be2fc232b",
+      "title": "Cat Headphones",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_headphones.jpg",
+      "size": 173236,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "ee970b76-6c88-4482-97bd-e5717bdccc13",
+      "title": "Cat On Vintage Motorcycle",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_on_vintage_motorcycle.jpg",
+      "size": 139873,
+      "updated_at": "2026-09-29T10:42:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1c6f504c-af14-424b-92eb-430b8198c5f2",
+      "title": "Cat On White Wall",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_on_white_wall.jpg",
+      "size": 116088,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2341
+    },
+    {
+      "id": "6c4cb842-ba16-45b2-bd45-8c84b25d1f6b",
+      "title": "Cat Rose Painting",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_rose_painting.jpg",
+      "size": 243066,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "ee44e63b-1f73-4db7-bcf3-f56abd473ea4",
+      "title": "Cat Weightlifting",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_weightlifting.jpg",
+      "size": 297616,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 2348
+    },
+    {
+      "id": "8e582799-01a8-4aea-a8e3-b9432d57f53e",
+      "title": "Cat With Sunglasses",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_with_sunglasses.jpg",
+      "size": 191965,
+      "updated_at": "2026-09-29T10:43:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a2288797-5d6e-4089-8bb8-807eee0a2095",
+      "title": "Curious Kitten Portrait",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/curious_kitten_portrait.jpg",
+      "size": 190440,
+      "updated_at": "2026-09-29T10:43:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "41c8b280-7f78-49d0-9cae-9418da2e44b8",
+      "title": "Cute Green Frog Closeup",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cute_green_frog_closeup.jpg",
+      "size": 135727,
+      "updated_at": "2024-06-23T21:00:00Z",
+      "width": 922,
+      "height": 2048
+    },
+    {
+      "id": "9430e13c-4559-433f-aea9-2044f9d1c2b6",
+      "title": "Eagle Dark Art",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/eagle_dark_art.jpg",
+      "size": 112607,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1653
+    },
+    {
+      "id": "20cf9a36-74e4-45b9-aba9-fec40e2d0842",
+      "title": "Fox Moon Rooftop",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/fox_moon_rooftop.jpg",
+      "size": 38024,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1318
+    },
+    {
+      "id": "6088802b-4446-4883-a61f-05eebaaa42ad",
+      "title": "Green Snake Texture",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/green_snake_texture.jpg",
+      "size": 177719,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e0fbd9f1-17c6-4fff-98fc-30cf0bee0ed3",
+      "title": "Kitten In Lavender Field",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/kitten_in_lavender_field.jpg",
+      "size": 58263,
+      "updated_at": "2025-01-05T21:00:00Z",
       "width": 736,
       "height": 1308
     },
     {
-      "id": "2ac582db-92fa-4ab5-8052-43e155029b5f",
-      "title": "Courage Blue Lightning",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_blue_lightning.jpg",
-      "size": 508553,
-      "updated_at": "2026-10-21T11:59:15Z",
+      "id": "f7ce7a94-42c3-462f-abb6-36dd87e3e6a6",
+      "title": "Kitten Stack",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/kitten_stack.jpg",
+      "size": 111997,
+      "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "6c4a963b-1585-4ccb-bbd4-7ab49f9d515c",
-      "title": "Courage Heart Room",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_heart_room.jpg",
-      "size": 205741,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "95c6551f-d746-4019-8423-9011c78a87d4",
-      "title": "Courage Orange Swirl",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_orange_swirl.jpg",
-      "size": 496026,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "0d11672a-9052-4f31-9ae7-0649adca66fb",
-      "title": "Courage Purple Night",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_purple_night.jpg",
-      "size": 381834,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "ee036eaf-310e-42f8-a43c-a5b0c12fe384",
-      "title": "Courage Red Landscape",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_red_landscape.jpg",
-      "size": 376533,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "dc5120de-9fee-4d1d-9231-bd3a1fb11255",
-      "title": "Courage Red Storm",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_red_storm.jpg",
-      "size": 288918,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "31145b6b-ee39-4b7f-94fd-25bcd3f41a20",
-      "title": "Courage Red Windmill",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_red_windmill.jpg",
-      "size": 391145,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "4d319186-f4f3-416d-b74f-8650dda3da76",
-      "title": "Courage Starfield",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_starfield.jpg",
-      "size": 410342,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "46f59c53-2c54-4739-9540-b8ae65a44860",
-      "title": "Courage Sunset Landscape",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_sunset_landscape.jpg",
-      "size": 247785,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "1e8ba833-b0a9-4738-80ef-caaff6241084",
-      "title": "Eve Moon",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/eve_moon.jpg",
-      "size": 127451,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 864,
-      "height": 1536
-    },
-    {
-      "id": "ddc3cf9b-3744-4081-ae13-394316304084",
-      "title": "Lava Eye Cartoon",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/lava_eye_cartoon.jpg",
-      "size": 100379,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1936
-    },
-    {
-      "id": "342df746-178c-4919-ba50-429af1ff49de",
-      "title": "Monster Bedtime One",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_bedtime_one.jpg",
-      "size": 178886,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "e7f92871-9159-4593-a552-d1cdf54fa800",
-      "title": "Monster Bedtime Two",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_bedtime_two.jpg",
-      "size": 220647,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "007c356d-7c5c-4ae3-bbc2-3ea047a79e89",
-      "title": "Monster Boy Friend",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_boy_friend.jpg",
-      "size": 259394,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "7661dbc0-b241-482f-929e-f7a02bef704a",
-      "title": "Monster Friends One",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_friends_one.jpg",
-      "size": 238843,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "835e289d-ba72-4615-8ceb-daf25542789d",
-      "title": "Monster Friends Two",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_friends_two.jpg",
-      "size": 301920,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "c843d1c3-30df-44e9-89e1-6eefee466cef",
-      "title": "Monster Girl Blanket",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_girl_blanket.jpg",
-      "size": 207934,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "93625103-5901-444c-9a9a-b71eec9d6a72",
-      "title": "Monster Girl Pajamas",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_girl_pajamas.jpg",
-      "size": 175959,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "3783f989-0519-4a08-8e82-531ef1f2814b",
-      "title": "Monster Girl Portrait",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_girl_portrait.jpg",
-      "size": 241737,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
+      "height": 1920
     }
   ]
 }

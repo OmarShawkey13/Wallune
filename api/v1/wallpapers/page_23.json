@@ -1,210 +1,210 @@
 {
   "page": 23,
-  "total_pages": 41,
-  "total_items": 809,
+  "total_pages": 59,
+  "total_items": 1168,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "4177a123-604c-4ba7-8951-9928442ee01a",
-      "title": "Angel Wings Split",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/angel_wings_split.jpg",
-      "size": 94354,
+      "id": "88c1d7b6-6c4d-47af-8e09-96c9a1e3f738",
+      "title": "Blue Flower Cartoon",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/blue_flower_cartoon.jpg",
+      "size": 286848,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1878
+    },
+    {
+      "id": "e93c7f44-9a6a-4313-91a3-488a97ff3bf1",
+      "title": "Blue Grin Cartoon",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/blue_grin_cartoon.jpg",
+      "size": 227706,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "cff8663a-f069-4dee-a7e5-e3d132d8ca9d",
+      "title": "Blue Pajama Character",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/blue_pajama_character.jpg",
+      "size": 56101,
       "updated_at": "2026-10-21T12:16:06Z",
-      "width": 998,
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "a3413286-450e-437b-8759-47c11f0a6f32",
+      "title": "Bugs Bunny Sunglasses",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/bugs_bunny_sunglasses.jpg",
+      "size": 90029,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 945,
+      "height": 2048
+    },
+    {
+      "id": "2bfcd31b-479c-4638-bcbc-884de48cfd23",
+      "title": "Bunny Closeup",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/bunny_closeup.jpg",
+      "size": 122465,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e3f15bc6-8f87-4721-9bdb-9d0183843d3e",
+      "title": "Bunny Cute Black",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/bunny_cute_black.jpg",
+      "size": 44455,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "747c7135-ec50-4d17-825e-46636a0c4d94",
+      "title": "Bunny Orange Hoodie",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/bunny_orange_hoodie.jpg",
+      "size": 223064,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1fa051d9-2d18-4405-8da9-7386198ee491",
+      "title": "Bunny Police",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/bunny_police.jpg",
+      "size": 116018,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "318cb8f4-2a57-44dd-b6dd-e68ae3a55a26",
+      "title": "Bunny Portrait",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/bunny_portrait.jpg",
+      "size": 126523,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "737f1ff5-aa05-471f-b42f-53f2d16fc050",
+      "title": "Bunny White Shirt",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/bunny_white_shirt.jpg",
+      "size": 142059,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a258d3ae-0414-4712-93f1-b28574343054",
+      "title": "Cartoon Bedroom Night",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/cartoon_bedroom_night.jpg",
+      "size": 184009,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1820
+    },
+    {
+      "id": "0d5c6cf5-3883-4b7f-b1e0-43aa40af50b6",
+      "title": "Cartoon City Doodle",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/cartoon_city_doodle.jpg",
+      "size": 198888,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1820
+    },
+    {
+      "id": "7bef00ed-6064-436d-9bfd-98cc32e54a1f",
+      "title": "Colorful Cats Frame",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/colorful_cats_frame.jpg",
+      "size": 79902,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1593
+    },
+    {
+      "id": "8c1d7190-a1aa-4768-ba49-e5998d79ed14",
+      "title": "Cosmic Cats Stars",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/cosmic_cats_stars.jpg",
+      "size": 268685,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 863,
+      "height": 1822
+    },
+    {
+      "id": "416f274f-2bb6-458b-9472-6387b540e2e2",
+      "title": "Dark Rabbit Red Eyes",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/dark_rabbit_red_eyes.jpg",
+      "size": 45112,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "20b893e5-5fa8-4f9c-9e3a-92246589a5f0",
+      "title": "Fox And Rabbit Love",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/fox_and_rabbit_love.jpg",
+      "size": 171545,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 996,
       "height": 2160
     },
     {
-      "id": "cef0df22-d9db-45b6-9399-bf1e26368aae",
-      "title": "Black White Wings",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/black_white_wings.jpg",
-      "size": 337749,
+      "id": "51253b38-4f5f-4c26-a78a-d0446d3e00cc",
+      "title": "Green Characters Door",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/green_characters_door.jpg",
+      "size": 228158,
       "updated_at": "2026-10-21T12:16:06Z",
-      "width": 998,
-      "height": 2160
+      "width": 1179,
+      "height": 2556
     },
     {
-      "id": "33db138f-7139-4202-a43e-6666f064ebf8",
-      "title": "Blue Clockwork Gate",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/blue_clockwork_gate.jpg",
-      "size": 168031,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 720,
-      "height": 1280
-    },
-    {
-      "id": "25758b58-3a83-4603-a448-7eeee8779ffe",
-      "title": "Blue Dragon Dark Art",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/blue_dragon_dark_art.jpg",
-      "size": 179859,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "71fb00e8-5a6d-4ad9-b624-7663109b3506",
-      "title": "Blue Phoenix Rise",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/blue_phoenix_rise.jpg",
-      "size": 92886,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 735,
-      "height": 1104
-    },
-    {
-      "id": "930c44ed-3517-461c-b2e7-c4aa2daeb835",
-      "title": "Castle Silhouette Profile",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/castle_silhouette_profile.jpg",
-      "size": 64894,
-      "updated_at": "2024-11-17T21:00:00Z",
-      "width": 740,
-      "height": 1600
-    },
-    {
-      "id": "c5c6b492-cbb6-4117-80f6-2df7ec393e85",
-      "title": "Clockwork Forest Path",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/clockwork_forest_path.jpg",
-      "size": 225816,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 720,
-      "height": 1280
-    },
-    {
-      "id": "b17f33d4-c516-4804-b396-96dad3db9f60",
-      "title": "Dark Sword Light",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/dark_sword_light.jpg",
-      "size": 73156,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "f662f9ba-b638-41c9-8496-a3cf29438200",
-      "title": "Desert Moon Warrior",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/desert_moon_warrior.jpg",
-      "size": 158537,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2561
-    },
-    {
-      "id": "a36851a6-7c3c-4421-9301-edf8dc63bf38",
-      "title": "Desert Stars Camp",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/desert_stars_camp.jpg",
-      "size": 66759,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "88830071-f4c6-4c45-b011-d944f535ffe3",
-      "title": "Dragons Under Moonlight",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/dragons_under_moonlight.jpg",
-      "size": 132688,
-      "updated_at": "2024-11-22T21:00:00Z",
-      "width": 1080,
-      "height": 1927
-    },
-    {
-      "id": "44ad1697-5924-41db-a540-0e35626e62cd",
-      "title": "Energy City Figure",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/energy_city_figure.jpg",
-      "size": 439605,
+      "id": "997bb9a3-3a6a-4375-aba9-27a37846c93d",
+      "title": "Green Comic Character",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/green_comic_character.jpg",
+      "size": 299264,
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
     },
     {
-      "id": "ddd3c85d-8f35-402b-a87d-4d4f09bb0462",
-      "title": "Fiery Clockwork Ring",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fiery_clockwork_ring.jpg",
-      "size": 83604,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 512,
-      "height": 768
+      "id": "baa79ab5-9088-4354-84b6-b89ca7abb95f",
+      "title": "Gumball Rain Car",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/gumball_rain_car.jpg",
+      "size": 159448,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1820
     },
     {
-      "id": "2906c9da-d510-4359-b235-2e28022c5297",
-      "title": "Fiery Ornate Portal",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fiery_ornate_portal.jpg",
-      "size": 142295,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1313
-    },
-    {
-      "id": "0167ed96-387b-48df-adfa-d9d97ed1afde",
-      "title": "Fire Phoenix Sky",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/fire_phoenix_sky.jpg",
-      "size": 121599,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 981
-    },
-    {
-      "id": "792be21e-2485-42fd-afa2-6e594b812888",
-      "title": "Floating City Sunset",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/floating_city_sunset.jpg",
-      "size": 222978,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2138
-    },
-    {
-      "id": "e48fd9f1-4612-4a9b-b88b-b3a22b931b39",
-      "title": "Floating Warrior Sky",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/floating_warrior_sky.jpg",
-      "size": 38342,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 591,
-      "height": 1280
-    },
-    {
-      "id": "97d28386-d181-4c5a-ba81-3899532db3e2",
-      "title": "Ghost Hand Shadow",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/ghost_hand_shadow.jpg",
-      "size": 20274,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "3398d906-738c-4f4b-b4a7-90b46c8f1c66",
-      "title": "Green Slime Dice",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/green_slime_dice.jpg",
-      "size": 183860,
+      "id": "18fd5b7c-e386-4415-a237-4fd0d8043d5f",
+      "title": "Homer Simpson",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/homer_simpson.jpg",
+      "size": 294008,
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "8808c2b0-accd-431b-9c14-6dc447b3e514",
-      "title": "Haunted Clock Tower",
-      "category": "Fantasy",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/haunted_clock_tower.jpg",
-      "size": 113077,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 736,
-      "height": 1308
     }
   ]
 }

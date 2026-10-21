@@ -1,210 +1,210 @@
 {
   "page": 13,
-  "total_pages": 41,
-  "total_items": 809,
+  "total_pages": 59,
+  "total_items": 1168,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "668ac860-6d32-4de9-a9b2-22782dcbc8a2",
-      "title": "Colorful Cupcake Pattern",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/colorful_cupcake_pattern.jpg",
-      "size": 290300,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "5f4d221a-dd72-4d61-b57e-36b86557066e",
-      "title": "Colorful Ribbon Sketch",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/colorful_ribbon_sketch.jpg",
-      "size": 119544,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 576,
-      "height": 1024
-    },
-    {
-      "id": "90f016aa-e26d-4fbd-9643-e8cfcd19099b",
-      "title": "Compass Dark",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/compass_dark.jpg",
-      "size": 68741,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "8193f57b-6906-44f8-80c4-f007a0612e47",
-      "title": "Compass Sea",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/compass_sea.jpg",
-      "size": 62201,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "9878247a-5a94-4798-a059-b0b05b91b9da",
-      "title": "Compass World Line Art",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/compass_world_line_art.jpg",
-      "size": 200412,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "57b6f891-75e6-4ca3-b5c2-59466b0c3594",
-      "title": "Compass World Map",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/compass_world_map.jpg",
-      "size": 137292,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "0063eccc-2a4e-43b0-b59b-effe021e75b4",
-      "title": "Dark Room Red Light",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/dark_room_red_light.jpg",
-      "size": 185403,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "8a22d18a-9b42-4bc5-95c6-c8cbc4908231",
-      "title": "Delicate Heart Line",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/delicate_heart_line.jpg",
-      "size": 14835,
-      "updated_at": "2026-10-08T20:57:00Z",
+      "id": "3eab5c20-cea1-4d77-8309-ac6e3dcccc94",
+      "title": "Stitch Sleeping",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_sleeping.jpg",
+      "size": 17626,
+      "updated_at": "2026-10-21T11:59:15Z",
       "width": 736,
       "height": 1308
     },
     {
-      "id": "58032efe-142c-4bab-9da6-724279e3bba8",
-      "title": "Europe Africa Map",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/europe_africa_map.jpg",
-      "size": 95859,
+      "id": "34b9ea5d-ce9c-4619-9ee5-a24c8f967e4b",
+      "title": "Wall E Moon",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/wall_e_moon.jpg",
+      "size": 123525,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "b254dcd0-9e16-4cda-9890-bf4acfcc3626",
+      "title": "Anime Equations",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_equations.jpg",
+      "size": 157286,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1728
+    },
+    {
+      "id": "b2873c5a-6eae-4979-8850-0c2b860a9762",
+      "title": "Anime Fire Profile",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_fire_profile.jpg",
+      "size": 25509,
+      "updated_at": "2024-11-08T21:00:00Z",
+      "width": 736,
+      "height": 1167
+    },
+    {
+      "id": "f35dbea4-a107-45d9-a90f-6535c3e9333e",
+      "title": "Anime Garden Rest",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_garden_rest.jpg",
+      "size": 127146,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 736,
+      "height": 1347
+    },
+    {
+      "id": "fd982d12-722c-43bf-b136-f87aa9456ed2",
+      "title": "Anime Laughing Poster",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_laughing_poster.jpg",
+      "size": 324736,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 1936
+    },
+    {
+      "id": "bc6a9150-097a-4f29-85ed-47918a8cc9a5",
+      "title": "Anime Red Energy Hero",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_red_energy_hero.jpg",
+      "size": 179748,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 954,
+      "height": 2160
+    },
+    {
+      "id": "a0b36fa4-2464-4d63-98a1-21cc4a2f5b66",
+      "title": "Anime Shadow Eyes",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_shadow_eyes.jpg",
+      "size": 16540,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "52753dd2-9301-4e0f-b917-0cd43e22cdaf",
+      "title": "Anime Shadow Portrait",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_shadow_portrait.jpg",
+      "size": 84995,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 1936
+    },
+    {
+      "id": "2bf79e60-35e6-4925-84cc-2c84d68d0155",
+      "title": "Anime Sword Warrior",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_sword_warrior.jpg",
+      "size": 94148,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1297
+    },
+    {
+      "id": "070fbc7d-afd2-4db6-99a8-d2d5abcc3776",
+      "title": "Anime Underwater Temple",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_underwater_temple.jpg",
+      "size": 131228,
+      "updated_at": "2024-10-20T21:00:00Z",
+      "width": 736,
+      "height": 1288
+    },
+    {
+      "id": "cb252f2c-2e17-4693-b859-1a2ee45917b7",
+      "title": "Anime Warrior Poster",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_warrior_poster.jpg",
+      "size": 298610,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 1936
+    },
+    {
+      "id": "d5f5a3ca-a000-43a7-9dfd-2bb2e3e9ed51",
+      "title": "Blue Energy Warrior",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/blue_energy_warrior.jpg",
+      "size": 333705,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 1936
+    },
+    {
+      "id": "2e1572d0-9d00-4568-ade7-d8e600336130",
+      "title": "Child And Dog Meditation",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/child_and_dog_meditation.jpg",
+      "size": 121322,
       "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "7c0b3b4a-eef9-4cd6-a0fb-6bc736c9e822",
+      "title": "Flame Anime Smile",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/flame_anime_smile.jpg",
+      "size": 118701,
+      "updated_at": "2026-10-21T12:16:06Z",
       "width": 736,
       "height": 1472
     },
     {
-      "id": "11b4c0f7-64d7-4c28-ab3a-fdea85c52893",
-      "title": "Floating Silhouette Pink Light",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/floating_silhouette_pink_light.jpg",
-      "size": 39348,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 640,
-      "height": 800
+      "id": "837034da-abd3-417e-a75a-7ca8038eec1a",
+      "title": "Frieza Dark Form Portrait",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/frieza_dark_form_portrait.jpg",
+      "size": 742138,
+      "updated_at": "2026-07-25T11:58:00Z",
+      "width": 1920,
+      "height": 3412
     },
     {
-      "id": "c7fb05eb-2123-48e9-863b-f1b8b4e6f709",
-      "title": "Golden Butterfly Ribbon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/golden_butterfly_ribbon.jpg",
-      "size": 111227,
-      "updated_at": "2026-10-08T20:57:00Z",
+      "id": "e10a9f5f-e30b-4dc9-b8b2-37673baff28f",
+      "title": "Gengar Night Art",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gengar_night_art.jpg",
+      "size": 275602,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "1f6144c3-2bae-4504-b4ca-763621800d9a",
+      "title": "Gengar Purple Sky",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gengar_purple_sky.jpg",
+      "size": 140372,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1586
+    },
+    {
+      "id": "c357cdd6-e466-47d1-ab62-b34392beaaad",
+      "title": "Goku Neon Outline",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_neon_outline.jpg",
+      "size": 254529,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2695
+    },
+    {
+      "id": "3890bd4f-959a-472f-bc97-4b0405354dc1",
+      "title": "Goku Red Background",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_red_background.jpg",
+      "size": 68744,
+      "updated_at": "2026-10-21T11:59:15Z",
       "width": 736,
       "height": 1308
-    },
-    {
-      "id": "98079970-ef35-4259-a260-5fd28e6391a8",
-      "title": "Green Graffiti Character",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/green_graffiti_character.jpg",
-      "size": 209607,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "6e314cae-bd80-42a9-b0eb-979e15c7ae85",
-      "title": "Hand And Shadow",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/hand_and_shadow.jpg",
-      "size": 72370,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "b4a9a901-c9ce-4d84-b9bb-a42f8fa17954",
-      "title": "Illustrated Flower Market",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/illustrated_flower_market.jpg",
-      "size": 252064,
-      "updated_at": "2024-04-28T21:00:00Z",
-      "width": 736,
-      "height": 1228
-    },
-    {
-      "id": "32719c92-d8ea-4f6e-a0c3-95dae2635973",
-      "title": "King Card Sparks",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/king_card_sparks.jpg",
-      "size": 159043,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e0714da1-cde2-463f-9bde-980a5a10b696",
-      "title": "King Playing Card",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/king_playing_card.jpg",
-      "size": 219189,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "1ed09fb5-0fb0-4bae-ace7-a1d89ead0ab8",
-      "title": "Light Figure Among Shadows",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/light_figure_among_shadows.jpg",
-      "size": 20243,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 596,
-      "height": 601
-    },
-    {
-      "id": "b206e744-77b1-4465-8184-545ef16d4782",
-      "title": "Meditation Reader Light",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/meditation_reader_light.jpg",
-      "size": 11105,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "106708fa-1db0-493d-a5d8-ea20d627134b",
-      "title": "Moonlit Dual Sword Samurai",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/moonlit_dual_sword_samurai.jpg",
-      "size": 153331,
-      "updated_at": "2025-01-07T21:00:00Z",
-      "width": 926,
-      "height": 2160
-    },
-    {
-      "id": "7223c1f0-163b-408d-8c9f-dcbbdc4690c6",
-      "title": "Mounted Archer Orange Moon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/mounted_archer_orange_moon.jpg",
-      "size": 222089,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
     }
   ]
 }

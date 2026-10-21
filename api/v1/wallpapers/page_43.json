@@ -1,0 +1,210 @@
+{
+  "page": 43,
+  "total_pages": 59,
+  "total_items": 1168,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "5ddd3e28-227f-4731-b178-a020f7cfeb4e",
+      "title": "Split Season Tree",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/split_season_tree.jpg",
+      "size": 184412,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1535
+    },
+    {
+      "id": "d062d242-0c74-4a6e-ac38-995608ab2f86",
+      "title": "Starlit Car Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starlit_car_lake.jpg",
+      "size": 117871,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6f40a197-0450-4815-bfcc-fa24da3b34d3",
+      "title": "Starry Blue Flower Field",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_blue_flower_field.jpg",
+      "size": 161942,
+      "updated_at": "2026-10-07T08:58:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "78803636-9807-48eb-b25b-80083a277204",
+      "title": "Starry Flower Field",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_flower_field.jpg",
+      "size": 160366,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b65c511c-0574-4711-b94b-cf5b99e67fb9",
+      "title": "Starry Night Tree Canopy",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_night_tree_canopy.jpg",
+      "size": 216851,
+      "updated_at": "2024-11-22T21:00:00Z",
+      "width": 997,
+      "height": 2160
+    },
+    {
+      "id": "45d8f949-2ddc-43e6-a7b6-68f3d21a5495",
+      "title": "Starry Red Mountain",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_red_mountain.jpg",
+      "size": 284980,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 2395
+    },
+    {
+      "id": "f99c50de-da8b-40c0-abe1-47d964730850",
+      "title": "Starry Road Milky Way",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/starry_road_milky_way.jpg",
+      "size": 155471,
+      "updated_at": "2025-01-02T21:00:00Z",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "id": "da75b51f-90e7-4e1d-a2fa-3c186a77fa1e",
+      "title": "Storm Cloud Glow",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/storm_cloud_glow.jpg",
+      "size": 64051,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1440
+    },
+    {
+      "id": "0a7ed43f-d4d7-47a7-b3f1-67837a44a356",
+      "title": "Storm Clouds Dark",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/storm_clouds_dark.jpg",
+      "size": 36194,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 564,
+      "height": 1002
+    },
+    {
+      "id": "7e82cc4d-f7f1-41b8-b3e9-6903a868d3e8",
+      "title": "Storm Clouds Vertical",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/storm_clouds_vertical.jpg",
+      "size": 107112,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 945,
+      "height": 2048
+    },
+    {
+      "id": "c92fefae-4895-4ead-9101-9ec0c18adc35",
+      "title": "Storm Highway",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/storm_highway.jpg",
+      "size": 112158,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "cb3002a3-7c6b-49b4-acb7-100714274bcf",
+      "title": "Sunflower Closeup",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunflower_closeup.jpg",
+      "size": 158844,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "id": "09d1efd1-2810-453b-8bea-64ddeb29bff3",
+      "title": "Sunflower Field Mountain",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunflower_field_mountain.jpg",
+      "size": 82938,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 736,
+      "height": 1595
+    },
+    {
+      "id": "5eb413da-a62a-46bc-bb34-b35be176f972",
+      "title": "Sunflowers Sky",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunflowers_sky.jpg",
+      "size": 228360,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1871
+    },
+    {
+      "id": "2524108c-05ea-41c7-8431-c55718e8cf77",
+      "title": "Sunlit Forest",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunlit_forest.jpg",
+      "size": 214378,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "394d1bc0-8d2f-4ca0-a3ec-22607c914725",
+      "title": "Sunlit Plant Leaf",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunlit_plant_leaf.jpg",
+      "size": 179779,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "66516b90-e060-45cc-9a1d-bf39e35bea36",
+      "title": "Sunlit Snow Forest",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunlit_snow_forest.jpg",
+      "size": 115469,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 564,
+      "height": 1001
+    },
+    {
+      "id": "281a3852-ce55-4fa7-bb85-5d5a19484b9f",
+      "title": "Sunlit Tree Roots",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunlit_tree_roots.jpg",
+      "size": 260855,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 736,
+      "height": 1312
+    },
+    {
+      "id": "2a0f0279-2d04-49d7-bda6-f3b2a4ed5eb6",
+      "title": "Sunlit Wheat Field",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunlit_wheat_field.jpg",
+      "size": 173717,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 674,
+      "height": 1198
+    },
+    {
+      "id": "b2b4988a-2f9d-4024-b3a2-9b8b68d0e9d8",
+      "title": "Sunlit Window Plants",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sunlit_window_plants.jpg",
+      "size": 115491,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1541
+    }
+  ]
+}
