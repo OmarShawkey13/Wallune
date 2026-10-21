@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "total_pages": 32,
-  "total_items": 626,
+  "total_pages": 41,
+  "total_items": 809,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -35,6 +35,26 @@
       "updated_at": "2026-10-20T20:04:12Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "d26645bb-7191-4082-a009-1b9723868789",
+      "title": "Black Drip Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_drip_texture.jpg",
+      "size": 467244,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "69bdc06d-f20f-4a3b-9946-307d1209b468",
+      "title": "Black Feather",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_feather.jpg",
+      "size": 29684,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 420,
+      "height": 732
     },
     {
       "id": "e015cf14-5898-476e-8f31-e1faf2c322ec",
@@ -107,6 +127,76 @@
       "height": 2160
     },
     {
+      "id": "e713a36e-0821-441a-a3e5-a9ac0056d1af",
+      "title": "Black To White Gradient",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_to_white_gradient.jpg",
+      "size": 29458,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "71ee3f50-efc4-4e07-9cac-46200e5b1ef4",
+      "title": "Black White Brush Bottom",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_bottom.jpg",
+      "size": 473565,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "9e2ef09c-4242-42f6-8f89-7e19d5a9241b",
+      "title": "Black White Brush Diagonal",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_diagonal.jpg",
+      "size": 111342,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "9a2f6779-c028-4ae8-a7b7-a63e85eae70a",
+      "title": "Black White Brush Edge",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_edge.jpg",
+      "size": 389346,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "ff6cccf3-c3d7-4b66-a579-4775237232a6",
+      "title": "Black White Brush Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_texture.jpg",
+      "size": 442502,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "e312d497-6a8c-44cf-9034-706ae83e86f3",
+      "title": "Black White Bubble Field",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_bubble_field.jpg",
+      "size": 175939,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "a625874a-c9eb-468a-b870-354784700da8",
+      "title": "Black White Bubbles",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_bubbles.jpg",
+      "size": 271524,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
       "id": "aff4988b-b366-4f90-a19d-ac58edab1d52",
       "title": "Black White Doodle Texture",
       "category": "Abstract",
@@ -115,96 +205,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "7a427019-9968-4ca5-bdb7-e08ecfac1584",
-      "title": "Black White Geometric Stripes",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_geometric_stripes.jpg",
-      "size": 64923,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "f0301d18-50da-4e3e-a559-61bedcc85282",
-      "title": "Blue Doodle Pattern",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_doodle_pattern.jpg",
-      "size": 219831,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c9930501-b9b8-4a0d-88a4-318b1da7df83",
-      "title": "Blue Heartbeat Heart",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_heartbeat_heart.jpg",
-      "size": 9540,
-      "updated_at": "2026-10-08T12:24:00Z",
-      "width": 736,
-      "height": 1279
-    },
-    {
-      "id": "bc5bd0d5-6d4d-445f-9375-11de435da377",
-      "title": "Blue Icon Doodle",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_icon_doodle.jpg",
-      "size": 157379,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "ccd74077-756e-4c6f-8218-1eeecd52298e",
-      "title": "Blue Orange Geometric Mark",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_orange_geometric_mark.jpg",
-      "size": 176154,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "4f40b752-3ee5-4ef1-b45d-ed157a10b279",
-      "title": "Blue Red Graphic Stripes",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_red_graphic_stripes.jpg",
-      "size": 77132,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 720,
-      "height": 1480
-    },
-    {
-      "id": "4c9ff57d-1ad0-45bd-8fa6-57880b72fc09",
-      "title": "Blue Red Luminous Grid",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_red_luminous_grid.jpg",
-      "size": 40786,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 619,
-      "height": 1200
-    },
-    {
-      "id": "829a894f-7e1b-4fa6-bcbe-880147f7b211",
-      "title": "Blue Smoke Thread",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_smoke_thread.jpg",
-      "size": 69201,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 561,
-      "height": 997
-    },
-    {
-      "id": "8da9bdfd-b0ad-4ebf-b3bc-1381fd710e8f",
-      "title": "Color Geometry Vertical",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/color_geometry_vertical.jpg",
-      "size": 496973,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2340
     }
   ]
 }

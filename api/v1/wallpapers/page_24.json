@@ -1,210 +1,210 @@
 {
   "page": 24,
-  "total_pages": 32,
-  "total_items": 626,
+  "total_pages": 41,
+  "total_items": 809,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "c85cb145-2dc1-4197-9fd3-d7e3c119bbd3",
-      "title": "Foggy Figures Path",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/foggy_figures_path.jpg",
-      "size": 39567,
+      "id": "3415e470-ead6-4442-a7d6-00ca9af01984",
+      "title": "Hooded Wind Spirit",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/hooded_wind_spirit.jpg",
+      "size": 23480,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 480,
+      "height": 852
+    },
+    {
+      "id": "b5355ecf-fa09-438e-83ae-5b363da6e264",
+      "title": "Masked Yellow Warrior",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/masked_yellow_warrior.jpg",
+      "size": 193127,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "088d9f9a-539f-455c-be40-fbe943e2e62e",
+      "title": "Moon Crescent Hooded Figure",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/moon_crescent_hooded_figure.jpg",
+      "size": 57661,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "aea97dad-23f4-4785-82d7-b113223f471a",
+      "title": "Moonlit Pink Forest",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/moonlit_pink_forest.jpg",
+      "size": 148809,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "3b987454-768f-4606-94f1-7639401b9829",
+      "title": "Moonlit Pink Tree",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/moonlit_pink_tree.jpg",
+      "size": 225925,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1310
+    },
+    {
+      "id": "69234dce-6f45-463c-a985-06623569421b",
+      "title": "Moonlit Temple Guardian",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/moonlit_temple_guardian.jpg",
+      "size": 183145,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f2620ef0-d32d-4ad6-b0f1-4060d440a5d1",
+      "title": "Phoenix Fireworks Water",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/phoenix_fireworks_water.jpg",
+      "size": 95686,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 540,
+      "height": 960
+    },
+    {
+      "id": "cc33319e-53b7-4ad0-b435-4ddcc8191ab8",
+      "title": "Purple Lightning Sword",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/purple_lightning_sword.jpg",
+      "size": 268995,
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
     },
     {
-      "id": "d49275a6-ea4f-40a0-a919-51d7d8c8dc25",
-      "title": "Holding Hands By The Sea",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/holding_hands_by_the_sea.jpg",
-      "size": 86674,
-      "updated_at": "2023-07-05T21:00:00Z",
-      "width": 640,
-      "height": 640
-    },
-    {
-      "id": "75e61d0f-a075-496a-bdf7-a9015fb0866f",
-      "title": "Long Road Walker",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/long_road_walker.jpg",
-      "size": 38335,
+      "id": "9f3ba908-7f87-432e-8204-1d9de5c85af9",
+      "title": "Purple Phoenix Wings",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/purple_phoenix_wings.jpg",
+      "size": 173618,
       "updated_at": "2026-10-20T20:02:09Z",
-      "width": 675,
-      "height": 1200
+      "width": 735,
+      "height": 1103
     },
     {
-      "id": "ef92f858-60cb-40f4-a8c2-a9c797115475",
-      "title": "Moon Cliff Silhouette Close",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/moon_cliff_silhouette_close.jpg",
-      "size": 27737,
+      "id": "2acc475b-67df-492e-8e67-72bd9cb65a24",
+      "title": "Red Black Dragon",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_black_dragon.jpg",
+      "size": 60914,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1476
+    },
+    {
+      "id": "ae89d407-f4e8-4058-adba-9ae6f5b4d6f0",
+      "title": "Red Forest Dragon",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_forest_dragon.jpg",
+      "size": 150171,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1310
+    },
+    {
+      "id": "0fe953c7-781d-40c8-aed2-08a5a2d9440e",
+      "title": "Red Glow Anime Warrior",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/red_glow_anime_warrior.jpg",
+      "size": 76992,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2368
+    },
+    {
+      "id": "82aec24e-83f0-41c6-888a-c9a055ca58c8",
+      "title": "Sakura Black Sword",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/sakura_black_sword.jpg",
+      "size": 131546,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "88887667-1b24-426e-ae1c-fd29478f914e",
+      "title": "Shadow Claw Silhouette",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/shadow_claw_silhouette.jpg",
+      "size": 54189,
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 736,
-      "height": 1308
+      "height": 1307
     },
     {
-      "id": "7e2d13f5-f84c-4dea-8c8e-94d33412009b",
-      "title": "Moon Cliff Silhouette Wide",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/moon_cliff_silhouette_wide.jpg",
-      "size": 27213,
-      "updated_at": "2026-10-20T20:02:09Z",
+      "id": "4aa9fb62-9383-454b-ad2d-7282cdc6ec32",
+      "title": "Solitary Dark Knight",
+      "category": "Fantasy",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/solitary_dark_knight.jpg",
+      "size": 95367,
+      "updated_at": "2026-10-21T11:59:15Z",
       "width": 736,
-      "height": 1308
+      "height": 1294
     },
     {
-      "id": "fac9b0d5-d5d1-4e69-b45c-d19a541d5b79",
-      "title": "Moonlit Cliff Silhouette",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/moonlit_cliff_silhouette.jpg",
-      "size": 28277,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 423,
-      "height": 648
-    },
-    {
-      "id": "86d1c560-28a0-4956-a67a-6a87c69e55cf",
-      "title": "Moonlit Road Walker",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/moonlit_road_walker.jpg",
-      "size": 64334,
-      "updated_at": "2026-09-30T22:31:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "aede82e2-8c6e-4501-b10f-d698f3bd8d83",
-      "title": "Night Cyclist Silhouette",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/night_cyclist_silhouette.jpg",
-      "size": 14340,
-      "updated_at": "2026-10-07T13:59:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "2c481141-68dc-4b27-9951-cd0c4b91a7e7",
-      "title": "Person By Mangrove Sunset",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/person_by_mangrove_sunset.jpg",
-      "size": 64586,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1312
-    },
-    {
-      "id": "685e3ac4-6159-4136-af5f-9e68d93358c2",
-      "title": "Pushup Athlete Shadow",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/pushup_athlete_shadow.jpg",
-      "size": 16852,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 720,
-      "height": 1201
-    },
-    {
-      "id": "22befa84-7f0e-49b7-b142-1ff7cdd86355",
-      "title": "Rain Cloud Car Scene",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/rain_cloud_car_scene.jpg",
-      "size": 53002,
+      "id": "ef63826e-f38d-4bec-b1fa-5832ea2e9434",
+      "title": "Birds Gold Sky",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_gold_sky.jpg",
+      "size": 23366,
       "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "fafb7f42-6d62-4ee4-953c-81be16bf1c36",
+      "title": "Birds On Red Sky",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_on_red_sky.jpg",
+      "size": 48059,
+      "updated_at": "2026-09-30T13:11:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "798d339f-6eef-4c3a-bf1a-c1422d4a6195",
+      "title": "Birds Over Sunset Sea",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_over_sunset_sea.jpg",
+      "size": 93400,
+      "updated_at": "2026-10-20T17:42:03Z",
       "width": 736,
-      "height": 1308
+      "height": 1102
     },
     {
-      "id": "e22e1be0-782d-421a-bc21-e51b1c014aec",
-      "title": "Spotlight Shadow Person",
-      "category": "People",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/spotlight_shadow_person.jpg",
-      "size": 8943,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 720,
-      "height": 1280
-    },
-    {
-      "id": "235d26cd-5433-4f67-805e-3eb643699b5e",
-      "title": "Ag Heart Letters",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ag_heart_letters.jpg",
-      "size": 203011,
-      "updated_at": "2026-10-20T20:02:09Z",
+      "id": "2e5f5084-70b6-4149-9d6e-ddb9d9ad2f7f",
+      "title": "Birds Spiral Sunset",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_spiral_sunset.jpg",
+      "size": 45569,
+      "updated_at": "2026-10-20T17:49:40Z",
       "width": 736,
       "height": 1104
     },
     {
-      "id": "3931546d-3493-44d2-bbea-4b4f94860ae8",
-      "title": "Am Heart Letters",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/am_heart_letters.jpg",
-      "size": 15966,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "1a7ed070-3c8e-4a33-b2b4-78ff99ed8fa4",
-      "title": "Do More Yellow Typography",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/do_more_yellow_typography.jpg",
-      "size": 756411,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e15e89cf-69d2-44a1-bc84-a09b358e3703",
-      "title": "Eagle Stay Focused Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/eagle_stay_focused_quote.jpg",
-      "size": 186132,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "14d27f1b-14ed-4fce-b242-0bfa41624405",
-      "title": "Eagle Vision Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/eagle_vision_quote.jpg",
-      "size": 112293,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "953c6808-774c-42ec-8788-b5aaaf0297ea",
-      "title": "Ef Flower Letters",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ef_flower_letters.jpg",
-      "size": 31470,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "5bef0cba-30a0-40a4-94d0-dddc1401bce1",
-      "title": "Future In Progress",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/future_in_progress.jpg",
-      "size": 104309,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "5b783b8a-b601-4829-b484-5f91bfd554db",
-      "title": "Have Another Life Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/have_another_life_quote.jpg",
-      "size": 119410,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
+      "id": "af89572c-6386-4faa-8297-9a2b5fd751b5",
+      "title": "Birds Sunset Clouds",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/birds_sunset_clouds.jpg",
+      "size": 52819,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 600,
+      "height": 1066
     }
   ]
 }

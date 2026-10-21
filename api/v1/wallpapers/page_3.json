@@ -1,210 +1,210 @@
 {
   "page": 3,
-  "total_pages": 32,
-  "total_items": 626,
+  "total_pages": 41,
+  "total_items": 809,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "99975cba-b95b-4967-a7e4-a411a81f0588",
-      "title": "Green Rain Cloud Icon",
+      "id": "829a894f-7e1b-4fa6-bcbe-880147f7b211",
+      "title": "Blue Smoke Thread",
       "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_rain_cloud_icon.jpg",
-      "size": 31449,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "6768488c-0edb-439c-8ba2-5c4e55b54665",
-      "title": "Heart Hourglass",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/heart_hourglass.jpg",
-      "size": 30178,
-      "updated_at": "2026-10-07T12:20:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "601decc5-720a-4490-837d-31dc13433173",
-      "title": "Jagged Crack Line",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/jagged_crack_line.jpg",
-      "size": 12142,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "85e0143e-7a55-4397-b19f-a5de9847b42c",
-      "title": "Love Route Pins",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/love_route_pins.jpg",
-      "size": 29225,
-      "updated_at": "2026-10-07T12:20:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "d917c6d6-35b9-4acb-a3ad-5d0aa9c51e01",
-      "title": "Minimal Blue Clock Lines",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_blue_clock_lines.jpg",
-      "size": 28401,
-      "updated_at": "2026-10-07T21:19:00Z",
-      "width": 735,
-      "height": 1307
-    },
-    {
-      "id": "70db9440-1b75-4e34-b7d0-4dcd1b6afaf7",
-      "title": "Minimal Clock Dark",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_clock_dark.jpg",
-      "size": 7606,
-      "updated_at": "2026-10-07T21:19:00Z",
-      "width": 612,
-      "height": 1088
-    },
-    {
-      "id": "cc13a6ef-5e15-4d3e-a9b8-c879adff21e1",
-      "title": "Minimal Gray Bars",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_gray_bars.jpg",
-      "size": 9511,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 720,
-      "height": 1280
-    },
-    {
-      "id": "216fca4f-6af8-42f6-a77a-ad41d296d05b",
-      "title": "Minimal Heartbeat Line",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_heartbeat_line.jpg",
-      "size": 7850,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "d9db2a30-cc69-44e5-9daf-81a6880a2ebb",
-      "title": "Moonlight Black Tunnel",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/moonlight_black_tunnel.jpg",
-      "size": 319652,
-      "updated_at": "2026-09-30T13:10:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c87c5d7d-c3bb-4cab-9961-aac32afed89e",
-      "title": "Multicolor Glowing Blocks",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/multicolor_glowing_blocks.jpg",
-      "size": 25433,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 720,
-      "height": 1280
-    },
-    {
-      "id": "0ba5f724-bdb4-4577-ad44-d464d3501fa4",
-      "title": "Neon Bubble Spheres",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_bubble_spheres.jpg",
-      "size": 145120,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c9ebea2c-6013-415b-aa4c-85b26eac88e0",
-      "title": "Neon Orbit Arcs",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_orbit_arcs.jpg",
-      "size": 25734,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "f9e1932e-d362-424e-ae19-e7b2a5979949",
-      "title": "Orange Black Ribbon",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/orange_black_ribbon.jpg",
-      "size": 96474,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "7a8ba96b-5f55-464f-ae41-455040170082",
-      "title": "Orange Honeycomb Pattern",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/orange_honeycomb_pattern.jpg",
-      "size": 42289,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1599
-    },
-    {
-      "id": "9a694649-525d-4745-a98e-21c0d35ef40a",
-      "title": "Pink Smoke Fluid",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/pink_smoke_fluid.jpg",
-      "size": 166884,
-      "updated_at": "2024-06-27T21:00:00Z",
-      "width": 993,
-      "height": 2160
-    },
-    {
-      "id": "a0526f17-439c-4fbd-9519-f43672f2b0ff",
-      "title": "Purple Energy Figure",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_energy_figure.jpg",
-      "size": 102441,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 735,
-      "height": 763
-    },
-    {
-      "id": "83c76a83-5871-428f-88a1-a29b1321cd84",
-      "title": "Purple Glitch Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_glitch_texture.jpg",
-      "size": 101064,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "445448b0-3c51-45b6-b7d3-288ae98a348d",
-      "title": "Purple Liquid Curves",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_liquid_curves.jpg",
-      "size": 121683,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "22ed774f-a2d4-447a-bad5-a8c9fca94e1c",
-      "title": "Purple Smoke Thread",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_smoke_thread.jpg",
-      "size": 76381,
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_smoke_thread.jpg",
+      "size": 69201,
       "updated_at": "2026-10-20T20:04:12Z",
       "width": 561,
       "height": 997
     },
     {
-      "id": "2a933b64-6d26-445f-b1c2-0403d252e3ab",
-      "title": "Radial Orange Blue Emblem",
+      "id": "690f412a-ba93-464c-9f97-51a28f5d626b",
+      "title": "Blue White Wave",
       "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/radial_orange_blue_emblem.jpg",
-      "size": 54722,
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_white_wave.jpg",
+      "size": 91380,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1179,
+      "height": 2556
+    },
+    {
+      "id": "47aefcba-d43d-4b31-8d24-40c9ba709d72",
+      "title": "Burgundy Paper Fold",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/burgundy_paper_fold.jpg",
+      "size": 355546,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "8da9bdfd-b0ad-4ebf-b3bc-1381fd710e8f",
+      "title": "Color Geometry Vertical",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/color_geometry_vertical.jpg",
+      "size": 496973,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "d946c736-24c0-4b7d-b4ec-665a30b37200",
+      "title": "Colored Light Ribbons",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colored_light_ribbons.jpg",
+      "size": 23712,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 720,
+      "height": 1560
+    },
+    {
+      "id": "99c6ef07-b070-410a-9189-70848314e093",
+      "title": "Colorful Abstract Shapes",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_abstract_shapes.jpg",
+      "size": 111944,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6bce9229-283f-4f58-9b43-56aa2c40ae86",
+      "title": "Colorful Crystal Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_crystal_texture.jpg",
+      "size": 241833,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1c1ad2b7-ca16-4d5b-a1b4-2ced405dc588",
+      "title": "Colorful Glass Bubbles",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_glass_bubbles.jpg",
+      "size": 83157,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "cca00a2c-85f1-4995-affb-1be236cd34df",
+      "title": "Colorful Glass Orbs",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_glass_orbs.jpg",
+      "size": 74513,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e9050733-849a-48f9-b58e-2fd975c69a50",
+      "title": "Colorful Horizontal Bars",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_horizontal_bars.jpg",
+      "size": 23115,
       "updated_at": "2026-10-20T17:49:40Z",
       "width": 736,
-      "height": 1595
+      "height": 1308
+    },
+    {
+      "id": "38898b1f-e841-4fae-a90d-1126c4e23c30",
+      "title": "Colorful Letter Shapes",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_letter_shapes.jpg",
+      "size": 184027,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "32b38f9b-603e-4741-9647-a9a77ff55064",
+      "title": "Colorful Paint Glass",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_paint_glass.jpg",
+      "size": 176853,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "fe4917cf-0645-4dda-ba7d-47f25dbc1114",
+      "title": "Colorful Stone Tiles",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_stone_tiles.jpg",
+      "size": 368386,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 980,
+      "height": 1740
+    },
+    {
+      "id": "83d6fe45-52f3-4343-8075-0ec21bc78f9f",
+      "title": "Colorful Wave Ribbons",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_wave_ribbons.jpg",
+      "size": 509351,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 974,
+      "height": 2160
+    },
+    {
+      "id": "4258f849-ba79-4c7f-947c-212af0f22441",
+      "title": "Crimson Black Petals",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/crimson_black_petals.jpg",
+      "size": 37106,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "33b8d68c-ac44-4586-8bf7-ed93e5d17087",
+      "title": "Crimson Black Rift",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/crimson_black_rift.jpg",
+      "size": 43272,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 1080,
+      "height": 2334
+    },
+    {
+      "id": "03bb1a0c-1731-4736-836e-eebc89ddaab2",
+      "title": "Cyan Smoke Thread",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cyan_smoke_thread.jpg",
+      "size": 222947,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 720,
+      "height": 1600
+    },
+    {
+      "id": "e2fa7ac6-15be-4cf6-869c-2bc58a592c3e",
+      "title": "Dark Sand Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_sand_texture.jpg",
+      "size": 743010,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1969
+    },
+    {
+      "id": "30af6851-a751-46fc-adb8-37853fcd169d",
+      "title": "Dark Smiley Bubbles",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_smiley_bubbles.jpg",
+      "size": 108512,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "8d5416d0-3c75-4420-88c6-58dd900026cf",
+      "title": "Dark Symbol Pattern",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_symbol_pattern.jpg",
+      "size": 274934,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
     }
   ]
 }

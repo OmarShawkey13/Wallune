@@ -1,210 +1,210 @@
 {
   "page": 29,
-  "total_pages": 32,
-  "total_items": 626,
+  "total_pages": 41,
+  "total_items": 809,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "a9820b32-4eac-4d2c-af01-3ccad2ee581f",
-      "title": "Spiderman Hammock",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_hammock.jpg",
-      "size": 343362,
-      "updated_at": "2026-10-21T11:59:16Z",
-      "width": 736,
-      "height": 1466
+      "id": "ef7401af-a183-438f-875f-446ddaf84d53",
+      "title": "Red Birds Texture",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_birds_texture.jpg",
+      "size": 165409,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1170,
+      "height": 2464
     },
     {
-      "id": "4d1f1ad6-3dc5-4a9f-9348-8b2260d49a42",
-      "title": "Spiderman Starry Art",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_starry_art.jpg",
-      "size": 338078,
-      "updated_at": "2026-10-21T11:59:16Z",
+      "id": "ab79e796-f102-4848-8db2-f3e8846c10d2",
+      "title": "Red Cloud Field",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_cloud_field.jpg",
+      "size": 213021,
+      "updated_at": "2026-10-21T12:16:06Z",
       "width": 736,
       "height": 1472
     },
     {
-      "id": "a21b3be3-ada2-4562-8685-123fce857b37",
-      "title": "Spiderman Torn Suit",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_torn_suit.jpg",
-      "size": 136675,
-      "updated_at": "2024-12-25T21:00:00Z",
-      "width": 554,
-      "height": 1200
+      "id": "07937dd8-ea23-4df5-8b83-b42c829e37cc",
+      "title": "Red Cloud Ocean",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_cloud_ocean.jpg",
+      "size": 144078,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
     },
     {
-      "id": "16071ead-508e-46a5-97d4-a05aea3d5119",
-      "title": "Spiderweb Red Background",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderweb_red_background.jpg",
-      "size": 78707,
-      "updated_at": "2026-10-20T20:02:09Z",
+      "id": "c02bb2d4-ea01-4495-add5-129a1c47ac68",
+      "title": "Red Clouds Moon",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_clouds_moon.jpg",
+      "size": 133574,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "7f78d93d-b3fe-44e3-b4b3-e894a2dcb5c6",
+      "title": "Red Desert Dunes",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_desert_dunes.jpg",
+      "size": 120854,
+      "updated_at": "2026-10-21T12:16:06Z",
       "width": 1080,
       "height": 2160
     },
     {
-      "id": "68638bb9-e0da-440c-a7b9-4050805f9ad4",
-      "title": "Superman Red Portrait",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/superman_red_portrait.jpg",
-      "size": 170487,
+      "id": "7f0468af-51dc-4ef2-8376-05e470630f13",
+      "title": "Red Forest Stairs",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_forest_stairs.jpg",
+      "size": 155903,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "89a00be4-573a-484a-956a-636cc8bceb62",
+      "title": "Red Light Umbrella Rain",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_light_umbrella_rain.jpg",
+      "size": 190435,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e4ecf814-8d45-426d-860c-639b9eb1a1b3",
+      "title": "Red Moon Mountain Landscape",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_moon_mountain_landscape.jpg",
+      "size": 94676,
+      "updated_at": "2026-09-30T10:49:00Z",
+      "width": 736,
+      "height": 1525
+    },
+    {
+      "id": "4f2ccce1-9d0b-48e5-864d-85b9953ff23b",
+      "title": "Red Moon Ocean",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_moon_ocean.jpg",
+      "size": 210035,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1594
+    },
+    {
+      "id": "c089cacc-e399-494e-bdeb-8191e1ce2d3e",
+      "title": "Red Mountain Reflection",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_mountain_reflection.jpg",
+      "size": 40169,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 720,
+      "height": 1500
+    },
+    {
+      "id": "734848af-0f7f-49bc-8e06-572da590e317",
+      "title": "Red Sky Mountain",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_sky_mountain.jpg",
+      "size": 135407,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1635
+    },
+    {
+      "id": "390e6a9a-7bdd-43e6-960f-088eccec49b0",
+      "title": "Red Tree Canopy",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_tree_canopy.jpg",
+      "size": 307219,
+      "updated_at": "2026-09-29T15:57:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "0153374b-19f3-4d6b-a74c-23b8ff9a2b6f",
+      "title": "Red Tree Mountain",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/red_tree_mountain.jpg",
+      "size": 272882,
       "updated_at": "2026-10-21T11:59:16Z",
       "width": 1080,
-      "height": 1928
+      "height": 1350
     },
     {
-      "id": "6210858a-3f18-486e-81fd-f921bce8acdf",
-      "title": "Venom Ink Art",
-      "category": "Superheroes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/venom_ink_art.jpg",
-      "size": 201903,
+      "id": "4933ce32-8b10-490e-988d-135af5261138",
+      "title": "Resilient Tree On Rock",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/resilient_tree_on_rock.jpg",
+      "size": 251994,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 2394
+    },
+    {
+      "id": "0c095162-1184-4816-931f-116591850d70",
+      "title": "Ship Cave Sea",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/ship_cave_sea.jpg",
+      "size": 289991,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "809faff5-28a4-446f-b413-49a7937e2748",
+      "title": "Sky Mirror Reflection",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/sky_mirror_reflection.jpg",
+      "size": 120016,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "79c0b81b-bc39-4b31-9c86-94574425afed",
+      "title": "Small Flower In Dark Soil",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/small_flower_in_dark_soil.jpg",
+      "size": 59000,
+      "updated_at": "2026-09-29T15:57:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "400497ad-4bd0-47c3-9677-4b77449f9309",
+      "title": "Small White Flower Dark",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/small_white_flower_dark.jpg",
+      "size": 63434,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "79d41cf4-eaf9-4a05-96f4-930eafa2565d",
+      "title": "Snowy Mountain Hiker",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_hiker.jpg",
+      "size": 223540,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "c228e58c-a7e6-493b-a14c-2be994654c67",
+      "title": "Snowy Mountain Pines",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/snowy_mountain_pines.jpg",
+      "size": 83370,
       "updated_at": "2026-10-21T11:59:16Z",
-      "width": 1080,
-      "height": 2340
-    },
-    {
-      "id": "975c46b3-87f4-4cfa-9d30-ebbc8dcfc744",
-      "title": "App Icon Collage",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/app_icon_collage.jpg",
-      "size": 293751,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e3ab759d-edb7-4107-ac37-ea02926af308",
-      "title": "Bitcoin Circuit",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/bitcoin_circuit.jpg",
-      "size": 142294,
-      "updated_at": "2026-10-20T20:04:13Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e02ae0d0-fd8c-41fa-8a6e-d5323fe5f0e3",
-      "title": "Bullet Gauge",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/bullet_gauge.jpg",
-      "size": 42630,
-      "updated_at": "2026-10-20T20:04:13Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "b14cf1df-075f-45bf-9288-07a9655d5cef",
-      "title": "Coin Mechanical Detail",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/coin_mechanical_detail.jpg",
-      "size": 131451,
-      "updated_at": "2026-10-20T20:04:13Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "955222fc-3d4b-4410-8351-b24671c82571",
-      "title": "Cryptocurrency Coins",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/cryptocurrency_coins.jpg",
-      "size": 573628,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e51986f7-7ff6-4106-9cf7-ab8092e9a372",
-      "title": "Digital Portal Ring",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/digital_portal_ring.jpg",
-      "size": 430268,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e86cb423-0238-4800-ae6e-051e228106fc",
-      "title": "Electric Bitcoin",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/electric_bitcoin.jpg",
-      "size": 246977,
-      "updated_at": "2026-10-20T20:04:13Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "fa051705-05d5-42ca-a809-eeb14de08760",
-      "title": "Error 404 Black",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/error_404_black.jpg",
-      "size": 86255,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "42e1c2f4-1fa0-4ce6-a0ec-c4cdfdb97fa7",
-      "title": "Google Bokeh Letters",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/google_bokeh_letters.jpg",
-      "size": 47838,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 736,
-      "height": 1593
-    },
-    {
-      "id": "601758a4-eea9-4d4d-a0b6-7c8681e62b19",
-      "title": "Google Geometric Keyboard",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/google_geometric_keyboard.jpg",
-      "size": 41185,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 736,
-      "height": 1592
-    },
-    {
-      "id": "44fdc92a-451f-4915-b991-3f46e536eb67",
-      "title": "Green Energy Battery",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/green_energy_battery.jpg",
-      "size": 158651,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "f75135ae-6998-46c7-b4e6-6c88fba242f5",
-      "title": "Hanging Lock Hook",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/hanging_lock_hook.jpg",
-      "size": 207297,
-      "updated_at": "2026-10-20T20:04:13Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c4538fe7-fe73-4c4c-9ce4-56c537cb95f7",
-      "title": "Mechanical Gears",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/mechanical_gears.jpg",
-      "size": 114210,
-      "updated_at": "2026-10-20T20:04:13Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "0b88eb02-b234-44db-ae89-a89aa0fe69a6",
-      "title": "Neon Game Controller",
-      "category": "Technology",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/neon_game_controller.jpg",
-      "size": 149148,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
+      "width": 564,
+      "height": 1001
     }
   ]
 }

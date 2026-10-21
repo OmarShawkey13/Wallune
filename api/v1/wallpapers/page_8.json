@@ -1,210 +1,210 @@
 {
   "page": 8,
-  "total_pages": 32,
-  "total_items": 626,
+  "total_pages": 41,
+  "total_items": 809,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "c13c636a-db1b-4028-8b50-437ec4bb2ce7",
-      "title": "Stitch Angel Blue Pink",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_angel_blue_pink.jpg",
-      "size": 51882,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
+      "id": "ee970b76-6c88-4482-97bd-e5717bdccc13",
+      "title": "Cat On Vintage Motorcycle",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_on_vintage_motorcycle.jpg",
+      "size": 139873,
+      "updated_at": "2026-09-29T10:42:00Z",
+      "width": 1080,
+      "height": 1920
     },
     {
-      "id": "20491c79-8c2f-4757-9753-c2d1259c9dbf",
-      "title": "Stitch Angel Color Split",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_angel_color_split.jpg",
-      "size": 55901,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "3ad09c38-ddfb-4718-92f2-3707fa0bb817",
-      "title": "Stitch Angel Hearts",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_angel_hearts.jpg",
-      "size": 47606,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "455dc0fb-e3e0-4ee0-bc3a-a48098bc9f4c",
-      "title": "Stitch Angel Hug",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_angel_hug.jpg",
-      "size": 59677,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "8753e114-d251-449a-bf30-f9b3e6834123",
-      "title": "Stitch Angel Split",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_angel_split.jpg",
-      "size": 18448,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 638,
-      "height": 911
-    },
-    {
-      "id": "a296eb17-4c52-46e6-8be9-6cdffe43a4c8",
-      "title": "Stitch Blue Blur",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_blue_blur.jpg",
-      "size": 25382,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "ebe40d75-9fa7-4742-884a-c6f75a721de7",
-      "title": "Stitch Blue Center",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_blue_center.jpg",
-      "size": 30541,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 600,
-      "height": 1080
-    },
-    {
-      "id": "8ecbbd1b-87b5-4691-aa59-5d0cc151abee",
-      "title": "Stitch Blue Corner",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_blue_corner.jpg",
-      "size": 20851,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "684af3ab-6bda-4f8b-8fec-241f24af3f3e",
-      "title": "Stitch Blue Portrait",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_blue_portrait.jpg",
-      "size": 28194,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "aa60d397-ba94-4644-b5bb-64b51c7bbf94",
-      "title": "Stitch Character Collage",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_character_collage.jpg",
-      "size": 61034,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "a783b9e3-f4bc-475e-8139-020d6b81ed42",
-      "title": "Stitch Dark Minimal",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_dark_minimal.jpg",
-      "size": 21126,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "9373f41c-8a7e-4d22-8882-da3bac52c13d",
-      "title": "Stitch Hearts",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_hearts.jpg",
-      "size": 44169,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "f04c7641-3608-4b3c-abc8-68e0368cc6c6",
-      "title": "Stitch Minimal Center",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_minimal_center.jpg",
-      "size": 18040,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "be19a48d-f61c-4357-bbaf-93ae7d6a785e",
-      "title": "Stitch Minimal White",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_minimal_white.jpg",
-      "size": 21146,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "6270ec54-92b8-4f62-8e44-ea79f211c1e9",
-      "title": "Stitch Pink Pattern",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_pink_pattern.jpg",
-      "size": 51874,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "a099da17-87ca-442b-a77f-790ba99e062d",
-      "title": "Stitch Side Profile",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_side_profile.jpg",
-      "size": 27934,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "3eab5c20-cea1-4d77-8309-ac6e3dcccc94",
-      "title": "Stitch Sleeping",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_sleeping.jpg",
-      "size": 17626,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "b2873c5a-6eae-4979-8850-0c2b860a9762",
-      "title": "Anime Fire Profile",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_fire_profile.jpg",
-      "size": 25509,
-      "updated_at": "2024-11-08T21:00:00Z",
-      "width": 736,
-      "height": 1167
-    },
-    {
-      "id": "fd982d12-722c-43bf-b136-f87aa9456ed2",
-      "title": "Anime Laughing Poster",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_laughing_poster.jpg",
-      "size": 324736,
+      "id": "1c6f504c-af14-424b-92eb-430b8198c5f2",
+      "title": "Cat On White Wall",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_on_white_wall.jpg",
+      "size": 116088,
       "updated_at": "2026-10-21T11:59:15Z",
       "width": 1080,
-      "height": 1936
+      "height": 2341
     },
     {
-      "id": "bc6a9150-097a-4f29-85ed-47918a8cc9a5",
-      "title": "Anime Red Energy Hero",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_red_energy_hero.jpg",
-      "size": 179748,
+      "id": "ee44e63b-1f73-4db7-bcf3-f56abd473ea4",
+      "title": "Cat Weightlifting",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_weightlifting.jpg",
+      "size": 297616,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 2348
+    },
+    {
+      "id": "8e582799-01a8-4aea-a8e3-b9432d57f53e",
+      "title": "Cat With Sunglasses",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_with_sunglasses.jpg",
+      "size": 191965,
+      "updated_at": "2026-09-29T10:43:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a2288797-5d6e-4089-8bb8-807eee0a2095",
+      "title": "Curious Kitten Portrait",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/curious_kitten_portrait.jpg",
+      "size": 190440,
+      "updated_at": "2026-09-29T10:43:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "41c8b280-7f78-49d0-9cae-9418da2e44b8",
+      "title": "Cute Green Frog Closeup",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cute_green_frog_closeup.jpg",
+      "size": 135727,
+      "updated_at": "2024-06-23T21:00:00Z",
+      "width": 922,
+      "height": 2048
+    },
+    {
+      "id": "20cf9a36-74e4-45b9-aba9-fec40e2d0842",
+      "title": "Fox Moon Rooftop",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/fox_moon_rooftop.jpg",
+      "size": 38024,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1318
+    },
+    {
+      "id": "6088802b-4446-4883-a61f-05eebaaa42ad",
+      "title": "Green Snake Texture",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/green_snake_texture.jpg",
+      "size": 177719,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e0fbd9f1-17c6-4fff-98fc-30cf0bee0ed3",
+      "title": "Kitten In Lavender Field",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/kitten_in_lavender_field.jpg",
+      "size": 58263,
+      "updated_at": "2025-01-05T21:00:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "f7ce7a94-42c3-462f-abb6-36dd87e3e6a6",
+      "title": "Kitten Stack",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/kitten_stack.jpg",
+      "size": 111997,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "015ed0a3-2e53-47b3-a81b-73c39b7d5824",
+      "title": "Panda Foggy Portrait",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/panda_foggy_portrait.jpg",
+      "size": 63797,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "0ab275c0-9045-4eb2-abf8-806a03bbdb9c",
+      "title": "Smoke Rhino",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/smoke_rhino.jpg",
+      "size": 161125,
       "updated_at": "2026-10-21T11:59:15Z",
-      "width": 954,
-      "height": 2160
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "06b275d6-063c-44dc-b884-b9e5d9e1fd66",
+      "title": "Split Color Eyes",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/split_color_eyes.jpg",
+      "size": 24721,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 720,
+      "height": 1065
+    },
+    {
+      "id": "9e092fda-aaad-4083-be8c-c00215047cfd",
+      "title": "White Cat Blue Birds",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/white_cat_blue_birds.jpg",
+      "size": 46117,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2341
+    },
+    {
+      "id": "99a66a88-fc8d-40ac-9559-da52279b113e",
+      "title": "White Lion Portrait",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/white_lion_portrait.jpg",
+      "size": 91332,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 960,
+      "height": 1708
+    },
+    {
+      "id": "0cd44530-a33c-46a6-99c9-582a01e9c242",
+      "title": "Angel And Stitch Pink",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_and_stitch_pink.jpg",
+      "size": 91826,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "662b5019-ffb2-4bb6-9f87-e9fcc48dbef9",
+      "title": "Angel Flowers",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_flowers.jpg",
+      "size": 64958,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "d06a4b46-fa4e-4f66-8150-36043b0d4399",
+      "title": "Angel Pink Hearts",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_pink_hearts.jpg",
+      "size": 92593,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "4add4eef-e66a-4661-afb1-6945a72a3999",
+      "title": "Angel Pink Minimal",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_pink_minimal.jpg",
+      "size": 31312,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "b8e86766-d19c-4f66-b8b4-62b3ec17caad",
+      "title": "Angel Pink Portrait",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_pink_portrait.jpg",
+      "size": 22529,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 682,
+      "height": 1036
     }
   ]
 }

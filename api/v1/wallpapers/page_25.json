@@ -1,210 +1,210 @@
 {
   "page": 25,
-  "total_pages": 32,
-  "total_items": 626,
+  "total_pages": 41,
+  "total_items": 809,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "699158d3-8075-485d-9d50-641a8508bd73",
-      "title": "Home With You Rose Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/home_with_you_rose_quote.jpg",
-      "size": 33135,
+      "id": "42f2bd53-c1c3-4ad1-9cb8-cf421b503667",
+      "title": "Black Mountain Peak",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_mountain_peak.jpg",
+      "size": 45849,
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
     },
     {
-      "id": "87406b43-20c9-4da3-8ba1-240a897c4182",
-      "title": "Hope Paper Letters",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/hope_paper_letters.jpg",
-      "size": 111561,
+      "id": "f405452e-5dd2-40b0-8910-b4884b137411",
+      "title": "Black Petal Flower",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/black_petal_flower.jpg",
+      "size": 73902,
       "updated_at": "2026-10-20T20:02:09Z",
-      "width": 554,
-      "height": 985
+      "width": 736,
+      "height": 1472
     },
     {
-      "id": "872c97a8-643a-48d5-bb77-c4f5aac192cf",
-      "title": "Life Minimal Black",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/life_minimal_black.jpg",
-      "size": 17447,
+      "id": "a33a9227-ab74-4d5e-b7ec-571c220b269c",
+      "title": "Blue And Pastel Flower Bouquets",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_and_pastel_flower_bouquets.jpg",
+      "size": 152115,
+      "updated_at": "2024-04-28T21:00:00Z",
+      "width": 636,
+      "height": 1200
+    },
+    {
+      "id": "2436ed1b-df37-4156-b729-7198a0547844",
+      "title": "Blue Autumn Branches",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_autumn_branches.jpg",
+      "size": 105941,
+      "updated_at": "2026-09-29T15:57:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "05d39b9f-86c8-4850-b02e-10cb135637e3",
+      "title": "Blue Cloud Tree",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_cloud_tree.jpg",
+      "size": 241061,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1a94ecb5-4f22-48cc-b55c-114ae806bbc0",
+      "title": "Blue Mountain Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_mountain_lake.jpg",
+      "size": 224110,
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
     },
     {
-      "id": "40a05205-3886-4ce2-8909-5c04e667fe48",
-      "title": "Live Your Life Airplane",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/live_your_life_airplane.jpg",
-      "size": 177843,
+      "id": "9217fe69-44d9-46ed-9fa9-41aaaaba99bf",
+      "title": "Blue Mountain Lake Evening",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_mountain_lake_evening.jpg",
+      "size": 33410,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 512,
+      "height": 1024
+    },
+    {
+      "id": "37f6726e-84a5-44b9-ba5e-13e56f11bacc",
+      "title": "Blue Ocean Night",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_ocean_night.jpg",
+      "size": 174809,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "71aa8460-1c68-4303-82f6-9eedf966b4d2",
+      "title": "Blue Wave Ink",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/blue_wave_ink.jpg",
+      "size": 135478,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1632
+    },
+    {
+      "id": "c3c5e53b-ff78-4d41-a329-74e93230dd12",
+      "title": "Cherry Blossom Mountain Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cherry_blossom_mountain_lake.jpg",
+      "size": 193906,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "id": "78804b81-c92e-4504-aa78-0d776273831e",
+      "title": "Cloud Tree Reflection",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cloud_tree_reflection.jpg",
+      "size": 151035,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1c06411f-34a7-49fb-bead-60757584bcdc",
+      "title": "Colorful Flower Bouquet",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/colorful_flower_bouquet.jpg",
+      "size": 235698,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "628989a0-1162-4e3c-a9b5-0528dd26c5f1",
+      "title": "Colorful Flower Bouquets Walkway",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/colorful_flower_bouquets_walkway.jpg",
+      "size": 180708,
+      "updated_at": "2024-04-28T21:00:00Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "7c53853a-5730-4d55-b317-f5e1ff4446fc",
+      "title": "Cowboy By Mountain Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cowboy_by_mountain_lake.jpg",
+      "size": 140958,
+      "updated_at": "2026-09-29T15:57:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "2825f098-91d8-4e8a-9468-d79263f72486",
+      "title": "Crescent Moon Blue Flowers",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/crescent_moon_blue_flowers.jpg",
+      "size": 127972,
+      "updated_at": "2026-10-07T08:58:00Z",
+      "width": 736,
+      "height": 1361
+    },
+    {
+      "id": "47a2df39-cd22-46ff-b66a-362716fde042",
+      "title": "Dark Canyon Lake",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_canyon_lake.jpg",
+      "size": 61299,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "b7585146-fc4c-4f2c-8d3f-08e2f4c85188",
+      "title": "Dark Flower Pair",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_flower_pair.jpg",
+      "size": 99844,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 720,
+      "height": 1600
+    },
+    {
+      "id": "776324cb-b946-4602-a7f9-0f3def09b8d8",
+      "title": "Dark Forest Cabin",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_forest_cabin.jpg",
+      "size": 97563,
       "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "6b25011d-6c14-4dbc-8734-7d7927ba0e76",
-      "title": "Lone Lamp Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/lone_lamp_quote.jpg",
-      "size": 20550,
-      "updated_at": "2026-10-20T20:02:09Z",
       "width": 736,
       "height": 1308
     },
     {
-      "id": "166640e5-5a5e-4ed6-abbd-95071cea98e6",
-      "title": "Lost In Right Direction",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/lost_in_right_direction.jpg",
-      "size": 59925,
-      "updated_at": "2026-09-30T13:10:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c7389a7d-6274-4f9e-97f3-d0986aac256a",
-      "title": "Love Brick Wall",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/love_brick_wall.jpg",
-      "size": 396924,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "3efcec5a-f9f4-40a1-a972-fd8d8db9b6bf",
-      "title": "Mg Heart Letters",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/mg_heart_letters.jpg",
-      "size": 27222,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "9a4251c1-677a-4252-abf5-d8a17b8be434",
-      "title": "Moon Ring Love Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/moon_ring_love_quote.jpg",
-      "size": 59007,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "f5a20b14-290c-4f73-9d45-432d0403cbf8",
-      "title": "Never Quit Typography",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/never_quit_typography.jpg",
-      "size": 135040,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1635
-    },
-    {
-      "id": "48bbfae3-f4fc-4050-9e73-3b46c253e00a",
-      "title": "No Risk No Story",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/no_risk_no_story.jpg",
-      "size": 118738,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "35130a74-d909-4d70-847b-68567148ae95",
-      "title": "Ocean Motivational Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ocean_motivational_quote.jpg",
-      "size": 98433,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 735,
-      "height": 1129
-    },
-    {
-      "id": "7191e7d7-f369-47db-aec4-93b58f586e68",
-      "title": "One Life Chance Story",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/one_life_chance_story.jpg",
-      "size": 204011,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "da820b3e-64bc-4d24-a106-e314d2271fbe",
-      "title": "Only For You Typography",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/only_for_you_typography.jpg",
-      "size": 172150,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "fa5e74d1-4a5f-42d7-9c0e-c8773766c133",
-      "title": "Only You Can Change",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/only_you_can_change.jpg",
-      "size": 39831,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "9c980386-1227-45a6-8c94-5cfba0c7fa94",
-      "title": "Silence Is Power",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/silence_is_power.jpg",
-      "size": 89024,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "b42d25a8-f580-41e7-89e2-33097494dc89",
-      "title": "Success Moon Lake",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/success_moon_lake.jpg",
-      "size": 140411,
+      "id": "7be50abe-f67c-4ba1-844e-3ceec82b1dd7",
+      "title": "Dove Crow Silhouettes",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dove_crow_silhouettes.jpg",
+      "size": 25231,
       "updated_at": "2026-10-20T17:49:40Z",
       "width": 1080,
-      "height": 1920
+      "height": 2307
     },
     {
-      "id": "946be4e2-2ab7-4524-8e67-bf789ba760f3",
-      "title": "You Always Rose Quote",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_always_rose_quote.jpg",
-      "size": 29338,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "61650f04-c0ef-45f4-a1be-bde48a47788c",
-      "title": "You And Me Blue",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_and_me_blue.jpg",
-      "size": 37478,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "00921315-e4f3-4c17-83f3-2aaf659e3538",
-      "title": "You Can Do It Gold",
-      "category": "Quotes",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/you_can_do_it_gold.jpg",
-      "size": 56087,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
+      "id": "466f3c27-cc32-4077-a562-e8efaea5f2f0",
+      "title": "Flock Over Sunset",
+      "category": "Nature",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/flock_over_sunset.jpg",
+      "size": 114329,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 735,
+      "height": 1132
     }
   ]
 }

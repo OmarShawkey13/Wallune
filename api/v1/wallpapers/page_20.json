@@ -1,210 +1,210 @@
 {
   "page": 20,
-  "total_pages": 32,
-  "total_items": 626,
+  "total_pages": 41,
+  "total_items": 809,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
     {
-      "id": "7c53853a-5730-4d55-b317-f5e1ff4446fc",
-      "title": "Cowboy By Mountain Lake",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/cowboy_by_mountain_lake.jpg",
-      "size": 140958,
-      "updated_at": "2026-09-29T15:57:00Z",
+      "id": "d5b28fe5-92d2-47d3-a99e-09b09433a478",
+      "title": "Mouse With Bubble Tea",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/mouse_with_bubble_tea.jpg",
+      "size": 117185,
+      "updated_at": "2024-07-11T21:00:00Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "3c48c580-c243-40a8-85f7-fc59c21b9ea5",
+      "title": "Nick Blue Portrait",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/nick_blue_portrait.jpg",
+      "size": 261604,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1025,
+      "height": 2160
+    },
+    {
+      "id": "248b04a1-25ed-4eef-a33f-cf6a3e4e32e8",
+      "title": "Nick Closeup",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/nick_closeup.jpg",
+      "size": 212636,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 1919
+    },
+    {
+      "id": "0d4fcbd8-737b-4d6f-b19a-98f7a1ef51a0",
+      "title": "Nick Coffee",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/nick_coffee.jpg",
+      "size": 186495,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1025,
+      "height": 2160
+    },
+    {
+      "id": "43eb3a59-ff0f-481a-9048-03c24008540e",
+      "title": "Nick Headphones",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/nick_headphones.jpg",
+      "size": 301384,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1025,
+      "height": 2160
+    },
+    {
+      "id": "ee4cd3c2-c445-4200-ae8a-363503b0f886",
+      "title": "Nick Red Graffiti",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/nick_red_graffiti.jpg",
+      "size": 403742,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1025,
+      "height": 2160
+    },
+    {
+      "id": "7cbaa92d-7865-4ee5-a548-6398ea666e47",
+      "title": "Patrick Star Pose",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/patrick_star_pose.jpg",
+      "size": 28148,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "52dc2085-ddcf-4d28-9800-212aee6a721e",
+      "title": "Purple Bird Portrait",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/purple_bird_portrait.jpg",
+      "size": 107429,
+      "updated_at": "2026-10-21T12:16:06Z",
       "width": 1080,
       "height": 1920
     },
     {
-      "id": "2825f098-91d8-4e8a-9468-d79263f72486",
-      "title": "Crescent Moon Blue Flowers",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/crescent_moon_blue_flowers.jpg",
-      "size": 127972,
-      "updated_at": "2026-10-07T08:58:00Z",
-      "width": 736,
-      "height": 1361
+      "id": "3c96e53d-0409-49c9-ae4e-c8be6bdf9827",
+      "title": "Rabbit Sneaker Store",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/rabbit_sneaker_store.jpg",
+      "size": 107211,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 675,
+      "height": 1200
     },
     {
-      "id": "b7585146-fc4c-4f2c-8d3f-08e2f4c85188",
-      "title": "Dark Flower Pair",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_flower_pair.jpg",
-      "size": 99844,
+      "id": "6a5f7798-e356-4d44-9eeb-ed15b59433d7",
+      "title": "Rapunzel Pink Portrait",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/rapunzel_pink_portrait.jpg",
+      "size": 61623,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1052
+    },
+    {
+      "id": "34501181-ca42-40fd-8f33-4c5dee052d44",
+      "title": "Rapunzel Upside Down",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/rapunzel_upside_down.jpg",
+      "size": 128356,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "1ab948a4-38e5-4e6e-b15d-75cf64f7a32e",
+      "title": "Spongebob Minimal",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/spongebob_minimal.jpg",
+      "size": 35169,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "c3a7cc33-b977-404c-a084-c656356a1f08",
+      "title": "Spongebob Patrick Window",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/spongebob_patrick_window.jpg",
+      "size": 233051,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1182,
+      "height": 2100
+    },
+    {
+      "id": "ff97a22c-7a26-4924-8460-fff3cbeb5638",
+      "title": "Spongebob Streetwear",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/spongebob_streetwear.jpg",
+      "size": 366927,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "2f6753df-dbf8-4b7b-ac5f-0776e31b8e50",
+      "title": "Tangled Character Blue",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/tangled_character_blue.jpg",
+      "size": 65950,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 676,
+      "height": 1202
+    },
+    {
+      "id": "586eabb8-4310-47f6-8e8f-bdc2f324d5db",
+      "title": "Tom Jerry Movie Night",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/tom_jerry_movie_night.jpg",
+      "size": 129636,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1317
+    },
+    {
+      "id": "989262f3-d7da-4ff1-a972-68b640d9b607",
+      "title": "Tom Jerry Park Scene",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/tom_jerry_park_scene.jpg",
+      "size": 92848,
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 720,
-      "height": 1600
+      "height": 1214
     },
     {
-      "id": "776324cb-b946-4602-a7f9-0f3def09b8d8",
-      "title": "Dark Forest Cabin",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dark_forest_cabin.jpg",
-      "size": 97563,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "7be50abe-f67c-4ba1-844e-3ceec82b1dd7",
-      "title": "Dove Crow Silhouettes",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/dove_crow_silhouettes.jpg",
-      "size": 25231,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 2307
-    },
-    {
-      "id": "466f3c27-cc32-4077-a562-e8efaea5f2f0",
-      "title": "Flock Over Sunset",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/flock_over_sunset.jpg",
-      "size": 114329,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 735,
-      "height": 1132
-    },
-    {
-      "id": "f4fc9720-ef30-489e-aae8-670d15ebc755",
-      "title": "Garden Fence Greenery",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/garden_fence_greenery.jpg",
-      "size": 350209,
+      "id": "0cd52e87-7509-4aa3-a90c-8a01092338a0",
+      "title": "Tom Jerry Sneaker Store",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/tom_jerry_sneaker_store.jpg",
+      "size": 140442,
       "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 2340
-    },
-    {
-      "id": "7695fa82-cf19-4403-a513-5712fea982e5",
-      "title": "Garden Flower Stand",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/garden_flower_stand.jpg",
-      "size": 287647,
-      "updated_at": "2024-04-28T21:00:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "5c1c48f9-b9c1-4ca1-a27a-9a36f3db32ea",
-      "title": "Girl With Red Bird Sunset",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/girl_with_red_bird_sunset.jpg",
-      "size": 106208,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1312
-    },
-    {
-      "id": "d860512b-38fb-4b17-ab32-f66a2ee57888",
-      "title": "Golden Cloudscape Four",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/golden_cloudscape_four.jpg",
-      "size": 54842,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1440
-    },
-    {
-      "id": "baf0ec91-9a0e-42ae-92c4-52379de926ff",
-      "title": "Golden Cloudscape One",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/golden_cloudscape_one.jpg",
-      "size": 45423,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1440
-    },
-    {
-      "id": "ed34e25b-054c-47ff-baba-081a31d54859",
-      "title": "Golden Cloudscape Three",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/golden_cloudscape_three.jpg",
-      "size": 54209,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1440
-    },
-    {
-      "id": "fc05c5b4-ead4-4fc2-9beb-3d29a25973b8",
-      "title": "Golden Cloudscape Two",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/golden_cloudscape_two.jpg",
-      "size": 50958,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1440
-    },
-    {
-      "id": "8a3ac49c-0586-463d-9b3a-e528e807e5de",
-      "title": "Golden Mountain Clouds",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/golden_mountain_clouds.jpg",
-      "size": 301452,
-      "updated_at": "2026-10-21T11:59:16Z",
-      "width": 736,
-      "height": 1594
-    },
-    {
-      "id": "f5b179e6-12ea-4aa7-af2b-de41ed526c57",
-      "title": "Golden Tree Minimal",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/golden_tree_minimal.jpg",
-      "size": 71653,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "8adaa5bd-f6eb-4ebb-9ed7-670210ad6dc8",
-      "title": "Golden Wheat Field One",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/golden_wheat_field_one.jpg",
-      "size": 119795,
-      "updated_at": "2026-10-20T20:04:12Z",
       "width": 736,
       "height": 1307
     },
     {
-      "id": "ecf2abec-197c-4b01-a7e2-f269d30cb957",
-      "title": "Golden Wheat Field Two",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/golden_wheat_field_two.jpg",
-      "size": 116582,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 736,
-      "height": 1446
+      "id": "4cf809f4-90ec-4982-92ef-c463dede7f39",
+      "title": "Toy Robot Mugshot",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/toy_robot_mugshot.jpg",
+      "size": 168658,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 2348
     },
     {
-      "id": "5b0e2f51-6bd2-4d90-92e7-9fd8ba0ec821",
-      "title": "Hand Holding Blue Flower",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/hand_holding_blue_flower.jpg",
-      "size": 140936,
-      "updated_at": "2026-09-30T08:45:00Z",
-      "width": 1080,
-      "height": 2395
-    },
-    {
-      "id": "59d520d2-8300-4c34-8e5d-3bf38e70d3e0",
-      "title": "Lake Mountain Quote",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/lake_mountain_quote.jpg",
-      "size": 322305,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "59070e08-5e0e-4f81-adb0-cf452a0db204",
-      "title": "Leaf With Water Drops",
-      "category": "Nature",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/leaf_with_water_drops.jpg",
-      "size": 406620,
-      "updated_at": "2026-10-07T20:02:00Z",
-      "width": 1080,
-      "height": 1920
+      "id": "e2c3d5fa-735f-4adb-9df1-bf6ed0771283",
+      "title": "White Creature Eye",
+      "category": "Cartoons",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cartoons/white_creature_eye.jpg",
+      "size": 59206,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
     }
   ]
 }
