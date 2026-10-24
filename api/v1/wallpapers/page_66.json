@@ -1,0 +1,230 @@
+{
+  "page": 66,
+  "total_pages": 74,
+  "total_items": 1469,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "95238f1b-28a0-558e-b296-f4291d995ebe",
+      "title": "Red Eclipse Ring",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_eclipse_ring.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/95238f1b-28a0-558e-b296-f4291d995ebe.webp",
+      "size": 130439,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 736,
+      "height": 1594
+    },
+    {
+      "id": "c103292a-6b8f-5b1f-b5cd-806fece20de7",
+      "title": "Red Laser Horizon",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_laser_horizon.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/c103292a-6b8f-5b1f-b5cd-806fece20de7.webp",
+      "size": 43389,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 942,
+      "height": 2048
+    },
+    {
+      "id": "a7d821f4-4e8f-5c6a-a6a9-29f36f3b016e",
+      "title": "Red Milky Way Forest",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_milky_way_forest.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/a7d821f4-4e8f-5c6a-a6a9-29f36f3b016e.webp",
+      "size": 120888,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 768,
+      "height": 1220
+    },
+    {
+      "id": "92e220e3-7bc7-5a41-bb23-ea951efe1f7a",
+      "title": "Red Milky Way Lake",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_milky_way_lake.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/92e220e3-7bc7-5a41-bb23-ea951efe1f7a.webp",
+      "size": 111312,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 768,
+      "height": 1213
+    },
+    {
+      "id": "a1059600-dea0-5a4e-ad11-2d47ebb7c329",
+      "title": "Red Milky Way Landscape",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_milky_way_landscape.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/a1059600-dea0-5a4e-ad11-2d47ebb7c329.webp",
+      "size": 101542,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 768,
+      "height": 1221
+    },
+    {
+      "id": "3964966c-89b7-5007-a171-88f28c72a740",
+      "title": "Red Milky Way Streak",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_milky_way_streak.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/3964966c-89b7-5007-a171-88f28c72a740.webp",
+      "size": 96613,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 768,
+      "height": 1221
+    },
+    {
+      "id": "550611b9-a45e-5941-be0b-65f898bed9c5",
+      "title": "Red Milky Way Trees",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_milky_way_trees.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/550611b9-a45e-5941-be0b-65f898bed9c5.webp",
+      "size": 120154,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 768,
+      "height": 1219
+    },
+    {
+      "id": "b204a6de-24b8-5852-83d0-2c0331282e31",
+      "title": "Red Moon Lake",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/red_moon_lake.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/b204a6de-24b8-5852-83d0-2c0331282e31.webp",
+      "size": 50826,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "f9fbf49b-62ae-5591-8cac-bae97e2ddc1d",
+      "title": "Retro Spaceship Space",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/retro_spaceship_space.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/f9fbf49b-62ae-5591-8cac-bae97e2ddc1d.webp",
+      "size": 232866,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1728
+    },
+    {
+      "id": "3a6d7d64-84f2-59d2-b307-883f40d12aea",
+      "title": "Ring Galaxy",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/ring_galaxy.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/3a6d7d64-84f2-59d2-b307-883f40d12aea.webp",
+      "size": 102777,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 864,
+      "height": 1608
+    },
+    {
+      "id": "30d2afb6-8089-50e2-b86e-604e9516fcd5",
+      "title": "Ringed Planet",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/ringed_planet.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/30d2afb6-8089-50e2-b86e-604e9516fcd5.webp",
+      "size": 49701,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "1de5dd39-7f7d-588b-882e-a67b2a5b22da",
+      "title": "Ringed Planet Sky",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/ringed_planet_sky.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/1de5dd39-7f7d-588b-882e-a67b2a5b22da.webp",
+      "size": 235122,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 816,
+      "height": 1456
+    },
+    {
+      "id": "db3ce1f2-3df4-564a-b91b-27b28882f798",
+      "title": "Rocket Light Trails",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/rocket_light_trails.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/db3ce1f2-3df4-564a-b91b-27b28882f798.webp",
+      "size": 112171,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 1927
+    },
+    {
+      "id": "5910c52a-cf6b-5e07-acfc-dbcaa776300a",
+      "title": "Saturn Ring Road",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/saturn_ring_road.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/5910c52a-cf6b-5e07-acfc-dbcaa776300a.webp",
+      "size": 171338,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 864,
+      "height": 1868
+    },
+    {
+      "id": "620a76e5-8e28-5c17-8f30-8bbfa9e4f4fe",
+      "title": "Shooting Stars Horizon",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/shooting_stars_horizon.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/620a76e5-8e28-5c17-8f30-8bbfa9e4f4fe.webp",
+      "size": 54840,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e28dd448-f591-56f0-9ec4-1996c20ca7c8",
+      "title": "Small World Dark",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/small_world_dark.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/e28dd448-f591-56f0-9ec4-1996c20ca7c8.webp",
+      "size": 34197,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "c068701f-2668-5f82-a342-ae5929ae962c",
+      "title": "Spiral Galaxy Mountains",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/spiral_galaxy_mountains.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/c068701f-2668-5f82-a342-ae5929ae962c.webp",
+      "size": 319661,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1922
+    },
+    {
+      "id": "63aa8e63-230d-55ec-81ca-af0856c7816a",
+      "title": "Stacked Blue Planets",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/stacked_blue_planets.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/63aa8e63-230d-55ec-81ca-af0856c7816a.webp",
+      "size": 89288,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "feadea7b-bf82-503a-871d-aa66d45bdbba",
+      "title": "Star Grid City",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/star_grid_city.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/feadea7b-bf82-503a-871d-aa66d45bdbba.webp",
+      "size": 283389,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "c12ff5b8-bff1-5c2f-8c55-48c23d346c7b",
+      "title": "Sunset Biplane",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/sunset_biplane.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/c12ff5b8-bff1-5c2f-8c55-48c23d346c7b.webp",
+      "size": 163597,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1916
+    }
+  ]
+}

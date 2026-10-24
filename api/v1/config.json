@@ -3,10 +3,10 @@
   "thumbnail_version": 1,
   "search_schema_version": 3,
   "wallpaper_id_version": 2,
-  "content_version": 20,
-  "total_items": 1269,
-  "total_pages": 64,
+  "content_version": 21,
+  "total_items": 1469,
+  "total_pages": 74,
   "items_per_page": 20,
-  "generated_at": "2026-10-24T11:16:34Z",
-  "catalog_hash": "903add984bea88ddee64243bda2a535c72176967615b69fb9a1d9faeff5498ff"
+  "generated_at": "2026-10-24T11:34:35Z",
+  "catalog_hash": "72c2ead373d2c5b31ede5918f51bb1bb1605374e0c669f278e28d95960f909b2"
 }

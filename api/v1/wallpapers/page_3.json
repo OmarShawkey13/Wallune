@@ -1,11 +1,33 @@
 {
   "page": 3,
-  "total_pages": 64,
-  "total_items": 1269,
+  "total_pages": 74,
+  "total_items": 1469,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "e27199b7-f6a7-5bce-b591-6f5e3a013908",
+      "title": "Blue Heartbeat Heart",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_heartbeat_heart.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/e27199b7-f6a7-5bce-b591-6f5e3a013908.webp",
+      "size": 9540,
+      "updated_at": "2026-10-08T12:24:00Z",
+      "width": 736,
+      "height": 1279
+    },
+    {
+      "id": "0b9e20e1-e992-5bc0-a3ea-3e696a66b378",
+      "title": "Blue Icon Doodle",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_icon_doodle.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/0b9e20e1-e992-5bc0-a3ea-3e696a66b378.webp",
+      "size": 157379,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "bf85686a-6777-56f1-a94b-3e6a7a22a677",
       "title": "Blue Iridescent Glass",
@@ -150,6 +172,17 @@
       "height": 2340
     },
     {
+      "id": "228a44c6-e0b4-51c4-879e-a0f07a8efe65",
+      "title": "Cloud Panel Stars",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cloud_panel_stars.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/228a44c6-e0b4-51c4-879e-a0f07a8efe65.webp",
+      "size": 84268,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 864,
+      "height": 1535
+    },
+    {
       "id": "8b6f4c08-9a54-54df-8e1a-12c19b69f8c0",
       "title": "Cloud Rain Minimal",
       "category": "Abstract",
@@ -192,39 +225,6 @@
       "updated_at": "2026-10-20T17:42:03Z",
       "width": 720,
       "height": 1560
-    },
-    {
-      "id": "91dac365-8ad8-5177-9c53-6aea586dba4a",
-      "title": "Colorful Abstract Shapes",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_abstract_shapes.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/91dac365-8ad8-5177-9c53-6aea586dba4a.webp",
-      "size": 111944,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "6d0af5b3-03ae-5ad6-9693-946559516ca0",
-      "title": "Colorful Crystal Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_crystal_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/6d0af5b3-03ae-5ad6-9693-946559516ca0.webp",
-      "size": 241833,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "434b495a-c663-5a93-a96c-1b045d871ac2",
-      "title": "Colorful Glass Bubbles",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_glass_bubbles.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/434b495a-c663-5a93-a96c-1b045d871ac2.webp",
-      "size": 83157,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 1920
     }
   ]
 }

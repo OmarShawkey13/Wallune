@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "total_pages": 64,
-  "total_items": 1269,
+  "total_pages": 74,
+  "total_items": 1469,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -27,6 +27,17 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1500
+    },
+    {
+      "id": "a389b43b-7b23-5f83-b293-8aee6112114c",
+      "title": "Black Brick Lamp",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_brick_lamp.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a389b43b-7b23-5f83-b293-8aee6112114c.webp",
+      "size": 43468,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "f63d4779-2bc7-5a85-baca-335b7a7f6a4b",
@@ -211,17 +222,6 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_bottom.jpg",
       "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/4bca764d-464f-540b-abfe-b89a82ff9c2d.webp",
       "size": 473565,
-      "updated_at": "2026-10-21T12:16:05Z",
-      "width": 998,
-      "height": 2160
-    },
-    {
-      "id": "ed58fb10-7412-54a0-92b2-80f5d08d6ab1",
-      "title": "Black White Brush Diagonal",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_diagonal.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/ed58fb10-7412-54a0-92b2-80f5d08d6ab1.webp",
-      "size": 111342,
       "updated_at": "2026-10-21T12:16:05Z",
       "width": 998,
       "height": 2160

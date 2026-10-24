@@ -1,11 +1,55 @@
 {
   "page": 5,
-  "total_pages": 64,
-  "total_items": 1269,
+  "total_pages": 74,
+  "total_items": 1469,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "b2afadb0-9eb1-57bb-b8cd-f8821f918303",
+      "title": "Gray Blur Gradient",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/gray_blur_gradient.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/b2afadb0-9eb1-57bb-b8cd-f8821f918303.webp",
+      "size": 24337,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "cb49aae5-6f84-5177-b47b-863cbf958620",
+      "title": "Gray Smoke Ribbons",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/gray_smoke_ribbons.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/cb49aae5-6f84-5177-b47b-863cbf958620.webp",
+      "size": 50559,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "4e5f9950-051c-5125-af06-66ff2677492e",
+      "title": "Gray Wave Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/gray_wave_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/4e5f9950-051c-5125-af06-66ff2677492e.webp",
+      "size": 213458,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "c89a41d3-f107-5600-9ad5-61031adeac42",
+      "title": "Green Brick Hole",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_brick_hole.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/c89a41d3-f107-5600-9ad5-61031adeac42.webp",
+      "size": 164102,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "1b888125-d5ad-5dfc-b399-ae5e1764ccdf",
       "title": "Green Heartbeat Icon",
@@ -60,6 +104,17 @@
       "updated_at": "2026-10-21T12:16:06Z",
       "width": 996,
       "height": 2160
+    },
+    {
+      "id": "e653ea41-130f-5cd4-a30c-510156d01e9d",
+      "title": "Green Storm Clouds",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_storm_clouds.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/e653ea41-130f-5cd4-a30c-510156d01e9d.webp",
+      "size": 281939,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 1080,
+      "height": 2460
     },
     {
       "id": "66fdfaaf-cba2-5f9e-bfed-f40993355864",
@@ -117,6 +172,17 @@
       "height": 1920
     },
     {
+      "id": "ac7e0564-dd17-5bb8-9a13-b0adac24d467",
+      "title": "Metal Lantern Sculpture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/metal_lantern_sculpture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/ac7e0564-dd17-5bb8-9a13-b0adac24d467.webp",
+      "size": 67774,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 600,
+      "height": 1066
+    },
+    {
       "id": "54232780-eb33-571a-8477-70383af355fa",
       "title": "Minimal Blue Clock Lines",
       "category": "Abstract",
@@ -126,6 +192,17 @@
       "updated_at": "2026-10-07T21:19:00Z",
       "width": 735,
       "height": 1307
+    },
+    {
+      "id": "06356b27-386b-51d1-9d40-b196e20a3565",
+      "title": "Minimal Candle Sculpture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_candle_sculpture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/06356b27-386b-51d1-9d40-b196e20a3565.webp",
+      "size": 44093,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 736,
+      "height": 1288
     },
     {
       "id": "ec6d409e-2edb-522e-b19d-938f86f0351e",
@@ -148,83 +225,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 720,
       "height": 1280
-    },
-    {
-      "id": "88db4691-125e-5598-a4e5-e134231201c4",
-      "title": "Minimal Heartbeat Line",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_heartbeat_line.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/88db4691-125e-5598-a4e5-e134231201c4.webp",
-      "size": 7850,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "4c541936-f337-5ba6-bba7-2f03a4f903f5",
-      "title": "Monochrome Ink Swirl",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/monochrome_ink_swirl.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/4c541936-f337-5ba6-bba7-2f03a4f903f5.webp",
-      "size": 79555,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1535
-    },
-    {
-      "id": "bdea9b5d-0e8c-5074-81cf-9dc3eb677651",
-      "title": "Monochrome Ridge Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/monochrome_ridge_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/bdea9b5d-0e8c-5074-81cf-9dc3eb677651.webp",
-      "size": 225977,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 998,
-      "height": 2160
-    },
-    {
-      "id": "bc7804aa-9569-5538-badc-36bd798b5b6c",
-      "title": "Moonlight Black Tunnel",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/moonlight_black_tunnel.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/bc7804aa-9569-5538-badc-36bd798b5b6c.webp",
-      "size": 319652,
-      "updated_at": "2026-09-30T13:10:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "741e3362-82f3-508e-bbfa-9f8019816237",
-      "title": "Multicolor Glowing Blocks",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/multicolor_glowing_blocks.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/741e3362-82f3-508e-bbfa-9f8019816237.webp",
-      "size": 25433,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 720,
-      "height": 1280
-    },
-    {
-      "id": "7d58a64e-62d2-5d1f-893a-e30dc96bf1b4",
-      "title": "Neon Apple Shape",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_apple_shape.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/7d58a64e-62d2-5d1f-893a-e30dc96bf1b4.webp",
-      "size": 107112,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 1917
-    },
-    {
-      "id": "30ef7c22-6756-5837-b326-26c51fa4b859",
-      "title": "Neon Bubble Spheres",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_bubble_spheres.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/30ef7c22-6756-5837-b326-26c51fa4b859.webp",
-      "size": 145120,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
     }
   ]
 }

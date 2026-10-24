@@ -1,11 +1,110 @@
 {
   "page": 7,
-  "total_pages": 64,
-  "total_items": 1269,
+  "total_pages": 74,
+  "total_items": 1469,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "695198f1-1326-5521-ae0b-efc22698a424",
+      "title": "Pink Smoke Fluid",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/pink_smoke_fluid.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/695198f1-1326-5521-ae0b-efc22698a424.webp",
+      "size": 166884,
+      "updated_at": "2024-06-27T21:00:00Z",
+      "width": 993,
+      "height": 2160
+    },
+    {
+      "id": "e74c41c5-a7b7-5114-aa66-54abf421ce74",
+      "title": "Purple Energy Figure",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_energy_figure.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/e74c41c5-a7b7-5114-aa66-54abf421ce74.webp",
+      "size": 102441,
+      "updated_at": "2025-01-05T21:00:00Z",
+      "width": 735,
+      "height": 763
+    },
+    {
+      "id": "01ad966d-31a1-5c5f-a3fc-64bbe3256cfa",
+      "title": "Purple Glitch Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_glitch_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/01ad966d-31a1-5c5f-a3fc-64bbe3256cfa.webp",
+      "size": 101064,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f4a9df24-e93b-540e-af78-9f1e90fd0fcc",
+      "title": "Purple Lightning Clouds",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_lightning_clouds.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f4a9df24-e93b-540e-af78-9f1e90fd0fcc.webp",
+      "size": 169494,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 1080,
+      "height": 2460
+    },
+    {
+      "id": "8c95af2a-0e6d-5a60-b2d5-3b30bd48b85c",
+      "title": "Purple Liquid Curves",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_liquid_curves.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/8c95af2a-0e6d-5a60-b2d5-3b30bd48b85c.webp",
+      "size": 121683,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "809ed1f1-b622-51e0-9952-05a24ffbaa63",
+      "title": "Purple Liquid Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_liquid_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/809ed1f1-b622-51e0-9952-05a24ffbaa63.webp",
+      "size": 235564,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "21ef7f2c-9f9c-5a21-bfe7-4d65909eb829",
+      "title": "Purple Smoke Thread",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_smoke_thread.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/21ef7f2c-9f9c-5a21-bfe7-4d65909eb829.webp",
+      "size": 76381,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 561,
+      "height": 997
+    },
+    {
+      "id": "43533c33-8af8-507c-9bb9-3b98c4a5e508",
+      "title": "Purple White Smoke",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_white_smoke.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/43533c33-8af8-507c-9bb9-3b98c4a5e508.webp",
+      "size": 200575,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "5f403d51-7fd7-5858-8f0a-d79cba0cb97c",
+      "title": "Radial Orange Blue Emblem",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/radial_orange_blue_emblem.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/5f403d51-7fd7-5858-8f0a-d79cba0cb97c.webp",
+      "size": 54722,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1595
+    },
     {
       "id": "3ba1d63e-c91a-59ba-ae77-5aa5ae34e1a7",
       "title": "Rainbow Arc Minimal",
@@ -27,6 +126,17 @@
       "updated_at": "2026-10-20T20:04:12Z",
       "width": 720,
       "height": 1280
+    },
+    {
+      "id": "feee70c1-8524-5941-b88a-3c90ed199967",
+      "title": "Raindrop Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/raindrop_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/feee70c1-8524-5941-b88a-3c90ed199967.webp",
+      "size": 141745,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 720,
+      "height": 1272
     },
     {
       "id": "eac19df4-9bd6-5e8a-a98e-cc96b07359ee",
@@ -115,116 +225,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "182d6704-bc3f-5d93-9d4b-57dce382d788",
-      "title": "Red Blue Tile Blocks",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_blue_tile_blocks.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/182d6704-bc3f-5d93-9d4b-57dce382d788.webp",
-      "size": 92456,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "f255ddd2-cc12-5248-83cd-07f8a2da52ff",
-      "title": "Red Crackle Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_crackle_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f255ddd2-cc12-5248-83cd-07f8a2da52ff.webp",
-      "size": 72715,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1592
-    },
-    {
-      "id": "6d200796-8309-5d13-9aee-52f6ca3b09e2",
-      "title": "Red Ember Shape",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_ember_shape.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/6d200796-8309-5d13-9aee-52f6ca3b09e2.webp",
-      "size": 23672,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1593
-    },
-    {
-      "id": "9a1b77c7-39a1-5fc8-b94f-71d953031d6d",
-      "title": "Red Fluid Energy",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_fluid_energy.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/9a1b77c7-39a1-5fc8-b94f-71d953031d6d.webp",
-      "size": 205818,
-      "updated_at": "2026-09-30T10:49:00Z",
-      "width": 736,
-      "height": 1594
-    },
-    {
-      "id": "33a990b1-e8b1-5d03-ba86-278eb549eb74",
-      "title": "Red Glass Flower Burst",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_glass_flower_burst.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/33a990b1-e8b1-5d03-ba86-278eb549eb74.webp",
-      "size": 222122,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "087f1a33-4b2e-5af5-8482-186539f68921",
-      "title": "Red Green Crescent Smoke",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_green_crescent_smoke.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/087f1a33-4b2e-5af5-8482-186539f68921.webp",
-      "size": 123180,
-      "updated_at": "2026-09-30T10:49:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "62624131-d5f2-59b9-9b84-a2f797636ea7",
-      "title": "Red Light Streaks",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_light_streaks.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/62624131-d5f2-59b9-9b84-a2f797636ea7.webp",
-      "size": 118755,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1512
-    },
-    {
-      "id": "2c9e83ae-0f82-53e5-ac3e-5dd8761ba965",
-      "title": "Red Orange Energy Tree",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_orange_energy_tree.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/2c9e83ae-0f82-53e5-ac3e-5dd8761ba965.webp",
-      "size": 174815,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "3f5df8a8-8ee6-5082-9b4c-e6b14b900d14",
-      "title": "Red Orange Grain Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_orange_grain_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/3f5df8a8-8ee6-5082-9b4c-e6b14b900d14.webp",
-      "size": 198063,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "b332428f-0938-530f-8f56-685fdca068bf",
-      "title": "Red Rounded Blocks",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_rounded_blocks.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/b332428f-0938-530f-8f56-685fdca068bf.webp",
-      "size": 20919,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 736,
-      "height": 1472
     }
   ]
 }

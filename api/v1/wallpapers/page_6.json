@@ -1,11 +1,88 @@
 {
   "page": 6,
-  "total_pages": 64,
-  "total_items": 1269,
+  "total_pages": 74,
+  "total_items": 1469,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "88db4691-125e-5598-a4e5-e134231201c4",
+      "title": "Minimal Heartbeat Line",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/minimal_heartbeat_line.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/88db4691-125e-5598-a4e5-e134231201c4.webp",
+      "size": 7850,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "4c541936-f337-5ba6-bba7-2f03a4f903f5",
+      "title": "Monochrome Ink Swirl",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/monochrome_ink_swirl.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/4c541936-f337-5ba6-bba7-2f03a4f903f5.webp",
+      "size": 79555,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1535
+    },
+    {
+      "id": "bdea9b5d-0e8c-5074-81cf-9dc3eb677651",
+      "title": "Monochrome Ridge Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/monochrome_ridge_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/bdea9b5d-0e8c-5074-81cf-9dc3eb677651.webp",
+      "size": 225977,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "bc7804aa-9569-5538-badc-36bd798b5b6c",
+      "title": "Moonlight Black Tunnel",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/moonlight_black_tunnel.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/bc7804aa-9569-5538-badc-36bd798b5b6c.webp",
+      "size": 319652,
+      "updated_at": "2026-09-30T13:10:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "741e3362-82f3-508e-bbfa-9f8019816237",
+      "title": "Multicolor Glowing Blocks",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/multicolor_glowing_blocks.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/741e3362-82f3-508e-bbfa-9f8019816237.webp",
+      "size": 25433,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "id": "7d58a64e-62d2-5d1f-893a-e30dc96bf1b4",
+      "title": "Neon Apple Shape",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_apple_shape.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/7d58a64e-62d2-5d1f-893a-e30dc96bf1b4.webp",
+      "size": 107112,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1917
+    },
+    {
+      "id": "30ef7c22-6756-5837-b326-26c51fa4b859",
+      "title": "Neon Bubble Spheres",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_bubble_spheres.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/30ef7c22-6756-5837-b326-26c51fa4b859.webp",
+      "size": 145120,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "a9df0f9d-f906-592b-9e61-98ea8155e014",
       "title": "Neon Flower Frame",
@@ -49,6 +126,17 @@
       "updated_at": "2026-10-21T12:29:57Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "a6e194f2-a963-5a8d-b9f1-57a52565b5cb",
+      "title": "Nike Planet Abstract",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/nike_planet_abstract.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a6e194f2-a963-5a8d-b9f1-57a52565b5cb.webp",
+      "size": 47231,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 864,
+      "height": 1536
     },
     {
       "id": "8dc40ced-1e91-5e96-831e-d9bed6ac4645",
@@ -137,94 +225,6 @@
       "updated_at": "2026-10-21T12:29:57Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "695198f1-1326-5521-ae0b-efc22698a424",
-      "title": "Pink Smoke Fluid",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/pink_smoke_fluid.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/695198f1-1326-5521-ae0b-efc22698a424.webp",
-      "size": 166884,
-      "updated_at": "2024-06-27T21:00:00Z",
-      "width": 993,
-      "height": 2160
-    },
-    {
-      "id": "e74c41c5-a7b7-5114-aa66-54abf421ce74",
-      "title": "Purple Energy Figure",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_energy_figure.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/e74c41c5-a7b7-5114-aa66-54abf421ce74.webp",
-      "size": 102441,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 735,
-      "height": 763
-    },
-    {
-      "id": "01ad966d-31a1-5c5f-a3fc-64bbe3256cfa",
-      "title": "Purple Glitch Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_glitch_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/01ad966d-31a1-5c5f-a3fc-64bbe3256cfa.webp",
-      "size": 101064,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "8c95af2a-0e6d-5a60-b2d5-3b30bd48b85c",
-      "title": "Purple Liquid Curves",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_liquid_curves.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/8c95af2a-0e6d-5a60-b2d5-3b30bd48b85c.webp",
-      "size": 121683,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "809ed1f1-b622-51e0-9952-05a24ffbaa63",
-      "title": "Purple Liquid Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_liquid_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/809ed1f1-b622-51e0-9952-05a24ffbaa63.webp",
-      "size": 235564,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "21ef7f2c-9f9c-5a21-bfe7-4d65909eb829",
-      "title": "Purple Smoke Thread",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_smoke_thread.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/21ef7f2c-9f9c-5a21-bfe7-4d65909eb829.webp",
-      "size": 76381,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 561,
-      "height": 997
-    },
-    {
-      "id": "43533c33-8af8-507c-9bb9-3b98c4a5e508",
-      "title": "Purple White Smoke",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/purple_white_smoke.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/43533c33-8af8-507c-9bb9-3b98c4a5e508.webp",
-      "size": 200575,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "5f403d51-7fd7-5858-8f0a-d79cba0cb97c",
-      "title": "Radial Orange Blue Emblem",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/radial_orange_blue_emblem.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/5f403d51-7fd7-5858-8f0a-d79cba0cb97c.webp",
-      "size": 54722,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 736,
-      "height": 1595
     }
   ]
 }

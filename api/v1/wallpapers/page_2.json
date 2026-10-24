@@ -1,11 +1,22 @@
 {
   "page": 2,
-  "total_pages": 64,
-  "total_items": 1269,
+  "total_pages": 74,
+  "total_items": 1469,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "ed58fb10-7412-54a0-92b2-80f5d08d6ab1",
+      "title": "Black White Brush Diagonal",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_diagonal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/ed58fb10-7412-54a0-92b2-80f5d08d6ab1.webp",
+      "size": 111342,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
     {
       "id": "2fcb2bc4-38d2-567a-ac6d-b7033a478739",
       "title": "Black White Brush Edge",
@@ -161,6 +172,17 @@
       "height": 1599
     },
     {
+      "id": "7bbf87fb-704b-5c9b-aadc-14ace6b19451",
+      "title": "Blue Cloud Tower",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_cloud_tower.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/7bbf87fb-704b-5c9b-aadc-14ace6b19451.webp",
+      "size": 144814,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
       "id": "49d294f0-275d-5309-870e-7a0e887f9130",
       "title": "Blue Doodle Pattern",
       "category": "Abstract",
@@ -203,28 +225,6 @@
       "updated_at": "2026-10-21T12:16:06Z",
       "width": 736,
       "height": 1635
-    },
-    {
-      "id": "e27199b7-f6a7-5bce-b591-6f5e3a013908",
-      "title": "Blue Heartbeat Heart",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_heartbeat_heart.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/e27199b7-f6a7-5bce-b591-6f5e3a013908.webp",
-      "size": 9540,
-      "updated_at": "2026-10-08T12:24:00Z",
-      "width": 736,
-      "height": 1279
-    },
-    {
-      "id": "0b9e20e1-e992-5bc0-a3ea-3e696a66b378",
-      "title": "Blue Icon Doodle",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_icon_doodle.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/0b9e20e1-e992-5bc0-a3ea-3e696a66b378.webp",
-      "size": 157379,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
     }
   ]
 }

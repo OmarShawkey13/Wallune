@@ -1,0 +1,230 @@
+{
+  "page": 69,
+  "total_pages": 74,
+  "total_items": 1469,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "8ffb8938-1577-58a2-9b0d-f717bf3a3a65",
+      "title": "Spiderman Red Wireframe",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_red_wireframe.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/8ffb8938-1577-58a2-9b0d-f717bf3a3a65.webp",
+      "size": 69053,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "42b4f129-da00-5cd3-924f-7e1c35f44716",
+      "title": "Spiderman Sky Silhouette",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_sky_silhouette.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/42b4f129-da00-5cd3-924f-7e1c35f44716.webp",
+      "size": 156406,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "4e279afa-4524-5ce9-bf58-743b414aec10",
+      "title": "Spiderman Starry Art",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_starry_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/4e279afa-4524-5ce9-bf58-743b414aec10.webp",
+      "size": 338078,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "3e0f891a-9d94-5632-81cd-37571d4b34ce",
+      "title": "Spiderman Torn Suit",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_torn_suit.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/3e0f891a-9d94-5632-81cd-37571d4b34ce.webp",
+      "size": 136675,
+      "updated_at": "2024-12-25T21:00:00Z",
+      "width": 554,
+      "height": 1200
+    },
+    {
+      "id": "7487c0cb-50ae-508b-ad87-2252ee06a64e",
+      "title": "Spiderman White Geometric",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_white_geometric.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/7487c0cb-50ae-508b-ad87-2252ee06a64e.webp",
+      "size": 136052,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "74136628-54c9-570c-a491-cdb771b4dbcd",
+      "title": "Spiderman White Poster",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_white_poster.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/74136628-54c9-570c-a491-cdb771b4dbcd.webp",
+      "size": 80952,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 964,
+      "height": 2086
+    },
+    {
+      "id": "2e6b6980-9c5d-5ae5-be86-3535d6cf70b0",
+      "title": "Spiderverse City Fall",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderverse_city_fall.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/2e6b6980-9c5d-5ae5-be86-3535d6cf70b0.webp",
+      "size": 241086,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 2348
+    },
+    {
+      "id": "ef539d43-51cb-5af0-a982-5aa77b2fd766",
+      "title": "Spiderweb Red Background",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderweb_red_background.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/ef539d43-51cb-5af0-a982-5aa77b2fd766.webp",
+      "size": 78707,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "42b2be74-5fd7-5082-92ab-c161b4fbab5a",
+      "title": "Superman Red Portrait",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/superman_red_portrait.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/42b2be74-5fd7-5082-92ab-c161b4fbab5a.webp",
+      "size": 170487,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 1928
+    },
+    {
+      "id": "161d36cf-322d-5a56-a97d-d96034a5194a",
+      "title": "Thor Glass Frame",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/thor_glass_frame.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/161d36cf-322d-5a56-a97d-d96034a5194a.webp",
+      "size": 84925,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "2431f3a1-19a6-5506-9de3-a8b29db4eea3",
+      "title": "Venom Ink Art",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/venom_ink_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/2431f3a1-19a6-5506-9de3-a8b29db4eea3.webp",
+      "size": 201903,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "0d1ca1ff-2ad2-59a4-a1ab-53c77a44bb25",
+      "title": "App Icon Collage",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/app_icon_collage.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/0d1ca1ff-2ad2-59a4-a1ab-53c77a44bb25.webp",
+      "size": 293751,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6cc35b23-c32f-5ba5-9f3b-fac8c0a75a02",
+      "title": "Apple Swirl Logo",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/apple_swirl_logo.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/6cc35b23-c32f-5ba5-9f3b-fac8c0a75a02.webp",
+      "size": 64427,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "e923a18f-d39a-5229-a8d6-8139710989f2",
+      "title": "Bitcoin Circuit",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/bitcoin_circuit.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/e923a18f-d39a-5229-a8d6-8139710989f2.webp",
+      "size": 142294,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "64f073b4-1c08-562a-93f1-9e57ec7f6a5c",
+      "title": "Black Blue Tech Panel",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/black_blue_tech_panel.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/64f073b4-1c08-562a-93f1-9e57ec7f6a5c.webp",
+      "size": 187432,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 720,
+      "height": 1444
+    },
+    {
+      "id": "c4ffbe3a-4c75-52b5-82ef-e6b69a2f53c9",
+      "title": "Black Circuit Card",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/black_circuit_card.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/c4ffbe3a-4c75-52b5-82ef-e6b69a2f53c9.webp",
+      "size": 54469,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1476
+    },
+    {
+      "id": "4582e05f-0ef9-5de2-8034-8379a37295bd",
+      "title": "Blue Claw Logo",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/blue_claw_logo.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/4582e05f-0ef9-5de2-8034-8379a37295bd.webp",
+      "size": 42979,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "b24f2693-1003-5121-a389-6eb2a9ba4a62",
+      "title": "Blue Soccer Symbol",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/blue_soccer_symbol.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/b24f2693-1003-5121-a389-6eb2a9ba4a62.webp",
+      "size": 13218,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1274
+    },
+    {
+      "id": "03727caa-220d-50fa-89c3-ac2d59ca54a2",
+      "title": "Blue Wire Figure",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/blue_wire_figure.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/03727caa-220d-50fa-89c3-ac2d59ca54a2.webp",
+      "size": 142043,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1471
+    },
+    {
+      "id": "6a549062-b88f-5f7b-8293-7c0d79b62e34",
+      "title": "Brain Heart Cosmic",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/brain_heart_cosmic.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/6a549062-b88f-5f7b-8293-7c0d79b62e34.webp",
+      "size": 77019,
+      "updated_at": "2026-10-24T11:34:35Z",
+      "width": 722,
+      "height": 1280
+    }
+  ]
+}

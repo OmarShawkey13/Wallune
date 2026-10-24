@@ -1,11 +1,165 @@
 {
   "page": 10,
-  "total_pages": 64,
-  "total_items": 1269,
+  "total_pages": 74,
+  "total_items": 1469,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "c513d42d-2548-5268-a2d9-790846d864b8",
+      "title": "Black Spider Minimal",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_spider_minimal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/c513d42d-2548-5268-a2d9-790846d864b8.webp",
+      "size": 23716,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 720,
+      "height": 758
+    },
+    {
+      "id": "f64e9b2d-8e10-55d4-a524-d884ff151c12",
+      "title": "Blue Eyes Dark Cat",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/blue_eyes_dark_cat.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/f64e9b2d-8e10-55d4-a524-d884ff151c12.webp",
+      "size": 16525,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1238
+    },
+    {
+      "id": "c4b721dc-7ec0-5bbf-9776-a1fb0d9dee7b",
+      "title": "Blue Wolf Illustration",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/blue_wolf_illustration.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/c4b721dc-7ec0-5bbf-9776-a1fb0d9dee7b.webp",
+      "size": 167646,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "8f15f247-f7f0-552c-b694-6d27016ca864",
+      "title": "Cat Hat Sunglasses",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_hat_sunglasses.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/8f15f247-f7f0-552c-b694-6d27016ca864.webp",
+      "size": 73753,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b8b7343a-6371-5f2d-b754-e6df4f75edda",
+      "title": "Cat Headphones",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_headphones.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/b8b7343a-6371-5f2d-b754-e6df4f75edda.webp",
+      "size": 173236,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e6854e0a-39d8-5c63-a89d-2fa8742a5aef",
+      "title": "Cat On Vintage Motorcycle",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_on_vintage_motorcycle.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/e6854e0a-39d8-5c63-a89d-2fa8742a5aef.webp",
+      "size": 139873,
+      "updated_at": "2026-09-29T10:42:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1ce6f156-a210-56a5-bcc0-d400fba93823",
+      "title": "Cat On White Wall",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_on_white_wall.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/1ce6f156-a210-56a5-bcc0-d400fba93823.webp",
+      "size": 116088,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2341
+    },
+    {
+      "id": "c1addfa3-5c8d-5231-a1aa-7fb67c7d4833",
+      "title": "Cat Rose Painting",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_rose_painting.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/c1addfa3-5c8d-5231-a1aa-7fb67c7d4833.webp",
+      "size": 243066,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b67bde16-5a28-5497-81fd-5f25ba60d9f8",
+      "title": "Cat Weightlifting",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_weightlifting.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/b67bde16-5a28-5497-81fd-5f25ba60d9f8.webp",
+      "size": 297616,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 2348
+    },
+    {
+      "id": "727df215-06e1-57eb-a8ab-82a5e2a81aed",
+      "title": "Cat With Sunglasses",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_with_sunglasses.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/727df215-06e1-57eb-a8ab-82a5e2a81aed.webp",
+      "size": 191965,
+      "updated_at": "2026-09-29T10:43:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "15217a7e-e137-5925-84fa-77468f43d05c",
+      "title": "Curious Kitten Portrait",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/curious_kitten_portrait.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/15217a7e-e137-5925-84fa-77468f43d05c.webp",
+      "size": 190440,
+      "updated_at": "2026-09-29T10:43:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a7907c57-4f22-503b-9585-83401c667f9f",
+      "title": "Cute Green Frog Closeup",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cute_green_frog_closeup.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/a7907c57-4f22-503b-9585-83401c667f9f.webp",
+      "size": 135727,
+      "updated_at": "2024-06-23T21:00:00Z",
+      "width": 922,
+      "height": 2048
+    },
+    {
+      "id": "c36d94f3-34b6-546f-94f0-f176fc5deb37",
+      "title": "Eagle Dark Art",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/eagle_dark_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/c36d94f3-34b6-546f-94f0-f176fc5deb37.webp",
+      "size": 112607,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1653
+    },
+    {
+      "id": "48b47699-22e6-54d3-acfe-28ac9556e088",
+      "title": "Eagle Red Wings",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/eagle_red_wings.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/48b47699-22e6-54d3-acfe-28ac9556e088.webp",
+      "size": 161641,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "2d5c8ab8-2b1d-5f4a-820e-2baa678b23a9",
       "title": "Fox Moon Rooftop",
@@ -71,160 +225,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "749e3840-f071-55f8-8e32-27c126fd4756",
-      "title": "Panda Foggy Portrait",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/panda_foggy_portrait.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/749e3840-f071-55f8-8e32-27c126fd4756.webp",
-      "size": 63797,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "08a13e61-d213-572f-95d2-6d4f2ea648af",
-      "title": "Pastel Dove Flight",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/pastel_dove_flight.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/08a13e61-d213-572f-95d2-6d4f2ea648af.webp",
-      "size": 51669,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1536
-    },
-    {
-      "id": "40799774-71dc-5b10-913c-06c4951bb068",
-      "title": "Smoke Rhino",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/smoke_rhino.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/40799774-71dc-5b10-913c-06c4951bb068.webp",
-      "size": 161125,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "677d7cf0-88be-59df-9ada-4e990d007787",
-      "title": "Split Color Eyes",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/split_color_eyes.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/677d7cf0-88be-59df-9ada-4e990d007787.webp",
-      "size": 24721,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 720,
-      "height": 1065
-    },
-    {
-      "id": "8a8e3329-7293-5a50-b32b-fc31893fabcf",
-      "title": "White Cat Blue Birds",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/white_cat_blue_birds.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/8a8e3329-7293-5a50-b32b-fc31893fabcf.webp",
-      "size": 46117,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2341
-    },
-    {
-      "id": "ebda35d3-4207-5f7d-94d3-1235d297138d",
-      "title": "White Cats Ice",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/white_cats_ice.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/ebda35d3-4207-5f7d-94d3-1235d297138d.webp",
-      "size": 59797,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1820
-    },
-    {
-      "id": "2545eefc-1c67-5786-9efa-da2653df2bc6",
-      "title": "White Dove Black Bg",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/white_dove_black_bg.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/2545eefc-1c67-5786-9efa-da2653df2bc6.webp",
-      "size": 45276,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1916
-    },
-    {
-      "id": "469000bc-1c1c-5fc9-b00f-2b4bea6b6ead",
-      "title": "White Lion Portrait",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/white_lion_portrait.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/469000bc-1c1c-5fc9-b00f-2b4bea6b6ead.webp",
-      "size": 91332,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 960,
-      "height": 1708
-    },
-    {
-      "id": "d0e9fccf-70e1-5e05-86fa-554d1be3756c",
-      "title": "Angel And Stitch Pink",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_and_stitch_pink.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/d0e9fccf-70e1-5e05-86fa-554d1be3756c.webp",
-      "size": 91826,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "d0f82333-faff-52cb-89b7-238f4b5c6d1e",
-      "title": "Angel Flowers",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_flowers.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/d0f82333-faff-52cb-89b7-238f4b5c6d1e.webp",
-      "size": 64958,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "d02ffca7-059c-5868-91f0-1ab2de2030b6",
-      "title": "Angel Pink Hearts",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_pink_hearts.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/d02ffca7-059c-5868-91f0-1ab2de2030b6.webp",
-      "size": 92593,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "96c52055-2cb4-5462-af77-24beb3902ae4",
-      "title": "Angel Pink Minimal",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_pink_minimal.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/96c52055-2cb4-5462-af77-24beb3902ae4.webp",
-      "size": 31312,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "184d0b96-5b1c-524b-8619-1c7c33c04c36",
-      "title": "Angel Pink Portrait",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_pink_portrait.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/184d0b96-5b1c-524b-8619-1c7c33c04c36.webp",
-      "size": 22529,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 682,
-      "height": 1036
-    },
-    {
-      "id": "1f5f81fc-c121-58b5-b72d-7c3c50d5d445",
-      "title": "Angel Upside Down",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angel_upside_down.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/1f5f81fc-c121-58b5-b72d-7c3c50d5d445.webp",
-      "size": 36955,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
     }
   ]
 }

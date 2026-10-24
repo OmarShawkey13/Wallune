@@ -1,0 +1,230 @@
+{
+  "page": 70,
+  "total_pages": 74,
+  "total_items": 1469,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "6c9987b1-43ae-5ea3-9ddb-02b88fd773e4",
+      "title": "Brain Heart Switches",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/brain_heart_switches.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/6c9987b1-43ae-5ea3-9ddb-02b88fd773e4.webp",
+      "size": 46961,
+      "updated_at": "2026-10-24T11:34:35Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "263e3299-1391-5e59-ac8a-9f7a42da6b3a",
+      "title": "Brain Heart Toggle",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/brain_heart_toggle.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/263e3299-1391-5e59-ac8a-9f7a42da6b3a.webp",
+      "size": 51710,
+      "updated_at": "2026-10-24T11:34:35Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "9cae598d-1b0c-5fed-bd00-4f205234e6fa",
+      "title": "Bullet Gauge",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/bullet_gauge.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/9cae598d-1b0c-5fed-bd00-4f205234e6fa.webp",
+      "size": 42630,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b45c8ff8-5997-579c-81fb-dcaa68ae31ef",
+      "title": "Cloud Fighter Jet",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/cloud_fighter_jet.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/b45c8ff8-5997-579c-81fb-dcaa68ae31ef.webp",
+      "size": 39768,
+      "updated_at": "2026-10-24T11:34:35Z",
+      "width": 564,
+      "height": 752
+    },
+    {
+      "id": "720e62da-d45a-594c-af3b-5511154bc218",
+      "title": "Coin Mechanical Detail",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/coin_mechanical_detail.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/720e62da-d45a-594c-af3b-5511154bc218.webp",
+      "size": 131451,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b102d9ce-bcdd-5194-a8de-720b0e5be532",
+      "title": "Cryptocurrency Coins",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/cryptocurrency_coins.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/b102d9ce-bcdd-5194-a8de-720b0e5be532.webp",
+      "size": 573628,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e2f197ba-c684-5ff1-8e3b-792faa1307b7",
+      "title": "Digital Portal Ring",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/digital_portal_ring.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/e2f197ba-c684-5ff1-8e3b-792faa1307b7.webp",
+      "size": 430268,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "dcdbf622-4c98-5c80-94ea-eb0b00169718",
+      "title": "Electric Bitcoin",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/electric_bitcoin.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/dcdbf622-4c98-5c80-94ea-eb0b00169718.webp",
+      "size": 246977,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "3b27dba1-f6b1-50d4-9091-eb23ebdaed67",
+      "title": "Error 404 Black",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/error_404_black.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/3b27dba1-f6b1-50d4-9091-eb23ebdaed67.webp",
+      "size": 86255,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "359fd3cb-53a0-5bae-85fe-0e4cfed263d2",
+      "title": "Fighter Jet Sunset",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/fighter_jet_sunset.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/359fd3cb-53a0-5bae-85fe-0e4cfed263d2.webp",
+      "size": 173868,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b553d498-95af-5125-83e1-e7ae182b0da7",
+      "title": "Forgotten Fighter Forest",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/forgotten_fighter_forest.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/b553d498-95af-5125-83e1-e7ae182b0da7.webp",
+      "size": 102901,
+      "updated_at": "2026-10-24T11:34:35Z",
+      "width": 736,
+      "height": 1298
+    },
+    {
+      "id": "7fb8d38a-fcd5-536b-a388-357e6be6d5c7",
+      "title": "Google Bokeh Letters",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/google_bokeh_letters.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/7fb8d38a-fcd5-536b-a388-357e6be6d5c7.webp",
+      "size": 47838,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1593
+    },
+    {
+      "id": "61a2c048-9184-5d8e-8142-2a6e17545af3",
+      "title": "Google Geometric Keyboard",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/google_geometric_keyboard.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/61a2c048-9184-5d8e-8142-2a6e17545af3.webp",
+      "size": 41185,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1592
+    },
+    {
+      "id": "6aa97992-9557-575a-b564-c0af17d4e452",
+      "title": "Green Energy Battery",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/green_energy_battery.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/6aa97992-9557-575a-b564-c0af17d4e452.webp",
+      "size": 158651,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "633ba5f8-0cfa-52be-9ae0-d895755bc3ed",
+      "title": "Hanging Lock Hook",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/hanging_lock_hook.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/633ba5f8-0cfa-52be-9ae0-d895755bc3ed.webp",
+      "size": 207297,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "81a461f3-1ca3-5539-b51b-5a572a35492a",
+      "title": "Lantern Window Workspace",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/lantern_window_workspace.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/81a461f3-1ca3-5539-b51b-5a572a35492a.webp",
+      "size": 250355,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "fddd8c04-57c9-5e8b-bb27-a1a75869dc66",
+      "title": "Matrix Code Rain",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/matrix_code_rain.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/fddd8c04-57c9-5e8b-bb27-a1a75869dc66.webp",
+      "size": 474750,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
+      "id": "db8ed65f-0a79-5020-a950-e211b4e4ac53",
+      "title": "Mechanical Gears",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/mechanical_gears.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/db8ed65f-0a79-5020-a950-e211b4e4ac53.webp",
+      "size": 114210,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "8c8cfdcf-cbeb-598b-bd54-d6746034c8f7",
+      "title": "Neon Game Controller",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/neon_game_controller.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/8c8cfdcf-cbeb-598b-bd54-d6746034c8f7.webp",
+      "size": 149148,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "31123aa1-9e05-56e8-aca8-a6425feec88e",
+      "title": "Neon Robot City",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/neon_robot_city.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/31123aa1-9e05-56e8-aca8-a6425feec88e.webp",
+      "size": 111074,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}

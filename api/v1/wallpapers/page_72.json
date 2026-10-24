@@ -1,0 +1,230 @@
+{
+  "page": 72,
+  "total_pages": 74,
+  "total_items": 1469,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "6dc5a7cf-b41e-5fa2-8c7e-f84a8d91e372",
+      "title": "Break Limits Fitness",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/break_limits_fitness.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/6dc5a7cf-b41e-5fa2-8c7e-f84a8d91e372.webp",
+      "size": 228358,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1bf4c2a9-4ebd-5479-aee8-ae251ffd8b81",
+      "title": "Closed Cant Open",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/closed_cant_open.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/1bf4c2a9-4ebd-5479-aee8-ae251ffd8b81.webp",
+      "size": 85704,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e978c05b-4239-537f-b240-7e8f20a28229",
+      "title": "Colorful Alphabet Threads",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/colorful_alphabet_threads.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/e978c05b-4239-537f-b240-7e8f20a28229.webp",
+      "size": 265630,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "59c3e8e5-b3a6-5b22-b41f-2bab4354dc7a",
+      "title": "Danger Warning Pattern",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/danger_warning_pattern.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/59c3e8e5-b3a6-5b22-b41f-2bab4354dc7a.webp",
+      "size": 412239,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "0b9276ad-4928-5e1c-b437-5df65e5cd805",
+      "title": "Do It Red Black",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/do_it_red_black.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/0b9276ad-4928-5e1c-b437-5df65e5cd805.webp",
+      "size": 253874,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "05b052a4-be09-57fb-8a7d-04cd89ec5c3d",
+      "title": "Dont Quit Typography",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/dont_quit_typography.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/05b052a4-be09-57fb-8a7d-04cd89ec5c3d.webp",
+      "size": 37901,
+      "updated_at": "2024-07-11T21:00:00Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "162476c1-4a6f-5f86-8074-f58ce5c033c1",
+      "title": "Dont Stop Yellow",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/dont_stop_yellow.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/162476c1-4a6f-5f86-8074-f58ce5c033c1.webp",
+      "size": 194251,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a5a5d2fb-6db2-57c0-90cf-3d35c9890c9b",
+      "title": "Dream Motivation Collage",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/dream_motivation_collage.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/a5a5d2fb-6db2-57c0-90cf-3d35c9890c9b.webp",
+      "size": 121482,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 736,
+      "height": 1309
+    },
+    {
+      "id": "52ab89b9-b4a2-568d-ba6f-18104af27072",
+      "title": "Focus Discipline Collage",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/focus_discipline_collage.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/52ab89b9-b4a2-568d-ba6f-18104af27072.webp",
+      "size": 110061,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "7a162eb2-7151-502e-8527-c327105ecfdc",
+      "title": "Future Millionaire Collage",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/future_millionaire_collage.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/7a162eb2-7151-502e-8527-c327105ecfdc.webp",
+      "size": 120029,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "ca3cfbfc-51f5-5f74-819a-cd5bc698f8ef",
+      "title": "Gamer Typography",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/gamer_typography.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/ca3cfbfc-51f5-5f74-819a-cd5bc698f8ef.webp",
+      "size": 36488,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1ab69923-54b0-5cfd-a2cf-96ac02f286bb",
+      "title": "Is It Gym",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/is_it_gym.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/1ab69923-54b0-5cfd-a2cf-96ac02f286bb.webp",
+      "size": 105365,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "7ac8f008-75bd-5382-99d4-89d9d789b43f",
+      "title": "It Me Black Minimal",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/it_me_black_minimal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/7ac8f008-75bd-5382-99d4-89d9d789b43f.webp",
+      "size": 22373,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1072,
+      "height": 1920
+    },
+    {
+      "id": "12b636ab-8af7-5a1f-a307-a1fd523da26b",
+      "title": "Japanese Cherry Text",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/japanese_cherry_text.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/12b636ab-8af7-5a1f-a307-a1fd523da26b.webp",
+      "size": 106459,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1535
+    },
+    {
+      "id": "c6c45f11-bec6-5fda-9387-2e976a4e1436",
+      "title": "Just Do It Red Black",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/just_do_it_red_black.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/c6c45f11-bec6-5fda-9387-2e976a4e1436.webp",
+      "size": 21377,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "2b955c2b-18ce-5759-8cc3-0146f972cd0a",
+      "title": "Letter Cloud Texture",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/letter_cloud_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/2b955c2b-18ce-5759-8cc3-0146f972cd0a.webp",
+      "size": 88304,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "dfd0ea83-1137-5f4a-a596-346fa66d31ce",
+      "title": "Life Minimal Typography",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/life_minimal_typography.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/dfd0ea83-1137-5f4a-a596-346fa66d31ce.webp",
+      "size": 9784,
+      "updated_at": "2026-10-07T21:19:00Z",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "id": "b941deff-307d-5ae8-af48-62f3502aa3af",
+      "title": "Light And Noise Gas Station",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/light_and_noise_gas_station.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/b941deff-307d-5ae8-af48-62f3502aa3af.webp",
+      "size": 95568,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1535
+    },
+    {
+      "id": "014c35a2-abad-5e8c-a56b-86e937abe939",
+      "title": "Locked In Gym",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/locked_in_gym.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/014c35a2-abad-5e8c-a56b-86e937abe939.webp",
+      "size": 85436,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "0784f0f5-ec74-50fc-911c-19bd50011472",
+      "title": "Love Letter Blocks",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/love_letter_blocks.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/0784f0f5-ec74-50fc-911c-19bd50011472.webp",
+      "size": 34845,
+      "updated_at": "2026-10-07T12:20:00Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}

@@ -1,11 +1,154 @@
 {
   "page": 9,
-  "total_pages": 64,
-  "total_items": 1269,
+  "total_pages": 74,
+  "total_items": 1469,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "b4ec65d3-609e-5e21-8580-458a41b9cca8",
+      "title": "Teal Orange Smoke",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/teal_orange_smoke.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/b4ec65d3-609e-5e21-8580-458a41b9cca8.webp",
+      "size": 192002,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "56f7bddc-5002-5473-89ab-d3d120823ee6",
+      "title": "Three Mood Faces",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/three_mood_faces.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/56f7bddc-5002-5473-89ab-d3d120823ee6.webp",
+      "size": 14921,
+      "updated_at": "2026-10-08T12:24:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "99ea164e-8500-5b3b-928f-0ef44c6154bb",
+      "title": "Torn Paper Black White",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/torn_paper_black_white.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/99ea164e-8500-5b3b-928f-0ef44c6154bb.webp",
+      "size": 14081,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "9786fcfa-9d3b-5a3a-aed2-916bc4fc92aa",
+      "title": "Two Tone Glitter Hourglass",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/two_tone_glitter_hourglass.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/9786fcfa-9d3b-5a3a-aed2-916bc4fc92aa.webp",
+      "size": 177914,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a4a96ca1-753f-5375-8357-51168b28b86a",
+      "title": "Warm Metal Wave",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/warm_metal_wave.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a4a96ca1-753f-5375-8357-51168b28b86a.webp",
+      "size": 107073,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 720,
+      "height": 1560
+    },
+    {
+      "id": "6b07e991-dab6-5d01-bc85-c48ee65f7853",
+      "title": "Wet Black Tile Blocks",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/wet_black_tile_blocks.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/6b07e991-dab6-5d01-bc85-c48ee65f7853.webp",
+      "size": 184415,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1307
+    },
+    {
+      "id": "eba16a93-b44d-567a-ae91-5e0be624f9da",
+      "title": "White Black Curve",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_black_curve.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/eba16a93-b44d-567a-ae91-5e0be624f9da.webp",
+      "size": 414368,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "a2037236-3f50-5cfc-a326-f8f08536b268",
+      "title": "White Black Paper Curve",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_black_paper_curve.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a2037236-3f50-5cfc-a326-f8f08536b268.webp",
+      "size": 297053,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "c896930b-a474-56da-89e8-2b3766367ee4",
+      "title": "White Branch Marble",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_branch_marble.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/c896930b-a474-56da-89e8-2b3766367ee4.webp",
+      "size": 109466,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 673,
+      "height": 1200
+    },
+    {
+      "id": "cecefd9e-f0f7-595a-b7de-5560eb092db4",
+      "title": "White Line Minimal",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_line_minimal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/cecefd9e-f0f7-595a-b7de-5560eb092db4.webp",
+      "size": 10923,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1262
+    },
+    {
+      "id": "0f235308-3ed8-5025-bcbe-32e63614cb89",
+      "title": "White Marble Tree",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_marble_tree.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/0f235308-3ed8-5025-bcbe-32e63614cb89.webp",
+      "size": 126616,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 673,
+      "height": 1200
+    },
+    {
+      "id": "f4958824-eac0-5bfc-a1c9-01a2d8553d9e",
+      "title": "White Smoke Black",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/white_smoke_black.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f4958824-eac0-5bfc-a1c9-01a2d8553d9e.webp",
+      "size": 312588,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1593
+    },
+    {
+      "id": "71bb2d06-3eff-577d-a871-909606d1ec25",
+      "title": "Yellow Lightning Rift",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/yellow_lightning_rift.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/71bb2d06-3eff-577d-a871-909606d1ec25.webp",
+      "size": 123315,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "e5c15394-c90a-538e-a89b-f600e6675fcb",
       "title": "Yellow Mood Faces",
@@ -82,149 +225,6 @@
       "updated_at": "2026-10-21T12:29:57Z",
       "width": 864,
       "height": 1865
-    },
-    {
-      "id": "c513d42d-2548-5268-a2d9-790846d864b8",
-      "title": "Black Spider Minimal",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_spider_minimal.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/c513d42d-2548-5268-a2d9-790846d864b8.webp",
-      "size": 23716,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 720,
-      "height": 758
-    },
-    {
-      "id": "f64e9b2d-8e10-55d4-a524-d884ff151c12",
-      "title": "Blue Eyes Dark Cat",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/blue_eyes_dark_cat.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/f64e9b2d-8e10-55d4-a524-d884ff151c12.webp",
-      "size": 16525,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1238
-    },
-    {
-      "id": "c4b721dc-7ec0-5bbf-9776-a1fb0d9dee7b",
-      "title": "Blue Wolf Illustration",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/blue_wolf_illustration.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/c4b721dc-7ec0-5bbf-9776-a1fb0d9dee7b.webp",
-      "size": 167646,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 941,
-      "height": 1672
-    },
-    {
-      "id": "8f15f247-f7f0-552c-b694-6d27016ca864",
-      "title": "Cat Hat Sunglasses",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_hat_sunglasses.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/8f15f247-f7f0-552c-b694-6d27016ca864.webp",
-      "size": 73753,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "b8b7343a-6371-5f2d-b754-e6df4f75edda",
-      "title": "Cat Headphones",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_headphones.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/b8b7343a-6371-5f2d-b754-e6df4f75edda.webp",
-      "size": 173236,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e6854e0a-39d8-5c63-a89d-2fa8742a5aef",
-      "title": "Cat On Vintage Motorcycle",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_on_vintage_motorcycle.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/e6854e0a-39d8-5c63-a89d-2fa8742a5aef.webp",
-      "size": 139873,
-      "updated_at": "2026-09-29T10:42:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "1ce6f156-a210-56a5-bcc0-d400fba93823",
-      "title": "Cat On White Wall",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_on_white_wall.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/1ce6f156-a210-56a5-bcc0-d400fba93823.webp",
-      "size": 116088,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2341
-    },
-    {
-      "id": "c1addfa3-5c8d-5231-a1aa-7fb67c7d4833",
-      "title": "Cat Rose Painting",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_rose_painting.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/c1addfa3-5c8d-5231-a1aa-7fb67c7d4833.webp",
-      "size": 243066,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "b67bde16-5a28-5497-81fd-5f25ba60d9f8",
-      "title": "Cat Weightlifting",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_weightlifting.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/b67bde16-5a28-5497-81fd-5f25ba60d9f8.webp",
-      "size": 297616,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 2348
-    },
-    {
-      "id": "727df215-06e1-57eb-a8ab-82a5e2a81aed",
-      "title": "Cat With Sunglasses",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cat_with_sunglasses.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/727df215-06e1-57eb-a8ab-82a5e2a81aed.webp",
-      "size": 191965,
-      "updated_at": "2026-09-29T10:43:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "15217a7e-e137-5925-84fa-77468f43d05c",
-      "title": "Curious Kitten Portrait",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/curious_kitten_portrait.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/15217a7e-e137-5925-84fa-77468f43d05c.webp",
-      "size": 190440,
-      "updated_at": "2026-09-29T10:43:00Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "a7907c57-4f22-503b-9585-83401c667f9f",
-      "title": "Cute Green Frog Closeup",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/cute_green_frog_closeup.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/a7907c57-4f22-503b-9585-83401c667f9f.webp",
-      "size": 135727,
-      "updated_at": "2024-06-23T21:00:00Z",
-      "width": 922,
-      "height": 2048
-    },
-    {
-      "id": "c36d94f3-34b6-546f-94f0-f176fc5deb37",
-      "title": "Eagle Dark Art",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/eagle_dark_art.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/c36d94f3-34b6-546f-94f0-f176fc5deb37.webp",
-      "size": 112607,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1653
     }
   ]
 }

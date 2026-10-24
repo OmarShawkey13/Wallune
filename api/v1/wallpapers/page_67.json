@@ -1,0 +1,230 @@
+{
+  "page": 67,
+  "total_pages": 74,
+  "total_items": 1469,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "06d8a100-b5c4-5f5e-99ae-021091478bbf",
+      "title": "Vertical Orbit Light",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/vertical_orbit_light.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/06d8a100-b5c4-5f5e-99ae-021091478bbf.webp",
+      "size": 90850,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1925
+    },
+    {
+      "id": "bd642e47-dc36-5067-8693-e76a78c689d5",
+      "title": "Violet Planet Orbit",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/violet_planet_orbit.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/bd642e47-dc36-5067-8693-e76a78c689d5.webp",
+      "size": 116821,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 816,
+      "height": 1456
+    },
+    {
+      "id": "0b52740b-338a-55a1-bbbe-435b76084fdf",
+      "title": "White Black Hole",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/white_black_hole.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/0b52740b-338a-55a1-bbbe-435b76084fdf.webp",
+      "size": 116243,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1922
+    },
+    {
+      "id": "d4089909-5c62-5593-a8c7-bf6eecd4ee48",
+      "title": "Yin Yang Moon Mountains",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/yin_yang_moon_mountains.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/d4089909-5c62-5593-a8c7-bf6eecd4ee48.webp",
+      "size": 245433,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f165a4a0-bf7c-5a08-8e09-41818051bcba",
+      "title": "Batman Glass Frame",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/batman_glass_frame.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/f165a4a0-bf7c-5a08-8e09-41818051bcba.webp",
+      "size": 73568,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "60020f44-36a9-53fd-b3ee-a5bcf45d6081",
+      "title": "Batman Red Portrait",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/batman_red_portrait.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/60020f44-36a9-53fd-b3ee-a5bcf45d6081.webp",
+      "size": 103358,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "2038c000-2427-5758-9d35-b0bdd008d6fb",
+      "title": "Blue Eagle Symbol",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/blue_eagle_symbol.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/2038c000-2427-5758-9d35-b0bdd008d6fb.webp",
+      "size": 11049,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1453
+    },
+    {
+      "id": "3d3deae8-28b0-5617-9aa9-80e132be4ac2",
+      "title": "Blue Spider Emblem",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/blue_spider_emblem.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/3d3deae8-28b0-5617-9aa9-80e132be4ac2.webp",
+      "size": 45844,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1312
+    },
+    {
+      "id": "3e8716e6-d92f-5679-955b-d4a6f38899d6",
+      "title": "Captain America Glass Frame",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/captain_america_glass_frame.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/3e8716e6-d92f-5679-955b-d4a6f38899d6.webp",
+      "size": 82598,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "b1dadb81-c308-5e14-82cb-f5765588537f",
+      "title": "Flame Shadow Hero",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/flame_shadow_hero.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/b1dadb81-c308-5e14-82cb-f5765588537f.webp",
+      "size": 28511,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1522
+    },
+    {
+      "id": "74944150-6672-5dca-be24-0b8f20a3e143",
+      "title": "Iron Man Red Blue",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/iron_man_red_blue.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/74944150-6672-5dca-be24-0b8f20a3e143.webp",
+      "size": 310893,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 960,
+      "height": 1708
+    },
+    {
+      "id": "29934fd3-8ec8-5ac9-a630-1a199fbd34d7",
+      "title": "Marvel Comic Color",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_color.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/29934fd3-8ec8-5ac9-a630-1a199fbd34d7.webp",
+      "size": 487427,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6d445f67-089d-54db-8266-66ae9d59ad7f",
+      "title": "Marvel Comic Mono Four",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_mono_four.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/6d445f67-089d-54db-8266-66ae9d59ad7f.webp",
+      "size": 303226,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "034445d0-e374-5efc-ad51-9c544469bbe3",
+      "title": "Marvel Comic Mono One",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_mono_one.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/034445d0-e374-5efc-ad51-9c544469bbe3.webp",
+      "size": 438255,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "21716d66-b7f0-59ee-ba2b-a7d9190f4ede",
+      "title": "Marvel Comic Mono Three",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_mono_three.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/21716d66-b7f0-59ee-ba2b-a7d9190f4ede.webp",
+      "size": 241404,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 554,
+      "height": 1108
+    },
+    {
+      "id": "44ef8183-195a-518b-8163-23da016b8f12",
+      "title": "Marvel Comic Mono Two",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_mono_two.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/44ef8183-195a-518b-8163-23da016b8f12.webp",
+      "size": 212897,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1e1f5e41-0d75-524d-b995-4a0213e6dd48",
+      "title": "Marvel Comic Panel",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_panel.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/1e1f5e41-0d75-524d-b995-4a0213e6dd48.webp",
+      "size": 238488,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "48d464e1-6cf1-5a94-b560-6218f27ba542",
+      "title": "Masked Spiderman Neon",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/masked_spiderman_neon.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/48d464e1-6cf1-5a94-b560-6218f27ba542.webp",
+      "size": 125539,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f291f882-2835-581f-aeb2-816da288e7ff",
+      "title": "Silver Spider Emblem",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/silver_spider_emblem.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/f291f882-2835-581f-aeb2-816da288e7ff.webp",
+      "size": 190945,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "508d4ee7-3c45-566b-aa91-a66d50b85be7",
+      "title": "Spider Emblem Gray",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_emblem_gray.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/508d4ee7-3c45-566b-aa91-a66d50b85be7.webp",
+      "size": 29651,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "page": 68,
+  "total_pages": 74,
+  "total_items": 1469,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "61644a5f-5cce-5963-8699-11d17b4664e2",
+      "title": "Spider Man Black Red",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_man_black_red.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/61644a5f-5cce-5963-8699-11d17b4664e2.webp",
+      "size": 39811,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1578
+    },
+    {
+      "id": "79a881cf-8e7b-5ad2-9ccb-31584f9e76cc",
+      "title": "Spider Man Lightning Art",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_man_lightning_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/79a881cf-8e7b-5ad2-9ccb-31584f9e76cc.webp",
+      "size": 69608,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "c0c08433-d50f-5fbf-943e-f3e84aaac49e",
+      "title": "Spider Man Red Glow",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_man_red_glow.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/c0c08433-d50f-5fbf-943e-f3e84aaac49e.webp",
+      "size": 47720,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "6cd74856-3643-5d44-b40f-f7b9c3b648fd",
+      "title": "Spider Shadow Emblem",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_shadow_emblem.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/6cd74856-3643-5d44-b40f-f7b9c3b648fd.webp",
+      "size": 132652,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a56bea0e-c628-56ee-ad3a-2c90dd8c8790",
+      "title": "Spider Skyline Web",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_skyline_web.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/a56bea0e-c628-56ee-ad3a-2c90dd8c8790.webp",
+      "size": 185964,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f289165b-1fb0-5e33-bc2e-a503406983ae",
+      "title": "Spiderman Back Space",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_back_space.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/f289165b-1fb0-5e33-bc2e-a503406983ae.webp",
+      "size": 196751,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "45ad72bd-782a-50e7-a98b-75cfc50c0fa9",
+      "title": "Spiderman Batman Hanging",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_batman_hanging.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/45ad72bd-782a-50e7-a98b-75cfc50c0fa9.webp",
+      "size": 46441,
+      "updated_at": "2024-10-01T21:00:00Z",
+      "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "2c3f3f08-c1bc-5c3c-9a18-c9185cd7603e",
+      "title": "Spiderman Black Red Action",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_black_red_action.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/2c3f3f08-c1bc-5c3c-9a18-c9185cd7603e.webp",
+      "size": 404588,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "4640f285-7f5b-5eef-8515-e963b7381ee2",
+      "title": "Spiderman Blinds",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_blinds.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/4640f285-7f5b-5eef-8515-e963b7381ee2.webp",
+      "size": 133528,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 964,
+      "height": 2091
+    },
+    {
+      "id": "42b4237b-1834-5042-bbdc-1a5f2d6eeff3",
+      "title": "Spiderman Blue Hoodie",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_blue_hoodie.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/42b4237b-1834-5042-bbdc-1a5f2d6eeff3.webp",
+      "size": 82680,
+      "updated_at": "2024-12-02T21:00:00Z",
+      "width": 1080,
+      "height": 2338
+    },
+    {
+      "id": "33441519-8cda-5f57-a866-8d1d40a7a6c8",
+      "title": "Spiderman Comic Bw",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_comic_bw.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/33441519-8cda-5f57-a866-8d1d40a7a6c8.webp",
+      "size": 187603,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 964,
+      "height": 2091
+    },
+    {
+      "id": "37a1955f-2863-5ccc-83e2-7e4cf6bb9a7b",
+      "title": "Spiderman Comic Collage",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_comic_collage.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/37a1955f-2863-5ccc-83e2-7e4cf6bb9a7b.webp",
+      "size": 315112,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 989,
+      "height": 2160
+    },
+    {
+      "id": "71ceef37-dd9a-554a-89c2-881ce2978884",
+      "title": "Spiderman Eye Closeup",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_eye_closeup.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/71ceef37-dd9a-554a-89c2-881ce2978884.webp",
+      "size": 337940,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "d540e32f-a5e2-5ef7-ac3a-8cfa1d659fe8",
+      "title": "Spiderman Glass City",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_glass_city.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/d540e32f-a5e2-5ef7-ac3a-8cfa1d659fe8.webp",
+      "size": 562436,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "52f6c2be-3033-580d-bf39-f22f997a0cd2",
+      "title": "Spiderman Gray Profile",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_gray_profile.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/52f6c2be-3033-580d-bf39-f22f997a0cd2.webp",
+      "size": 133793,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "303466dd-fb23-5249-adb4-02ec24c8bc94",
+      "title": "Spiderman Hammock",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_hammock.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/303466dd-fb23-5249-adb4-02ec24c8bc94.webp",
+      "size": 343362,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 736,
+      "height": 1466
+    },
+    {
+      "id": "26ba5348-3cc7-5cfb-b1d5-29d085eb468b",
+      "title": "Spiderman Ice Ring",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_ice_ring.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/26ba5348-3cc7-5cfb-b1d5-29d085eb468b.webp",
+      "size": 529586,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a22f379b-cdb1-5bbf-ab39-1f55b2aa22f9",
+      "title": "Spiderman Newspaper",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_newspaper.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/a22f379b-cdb1-5bbf-ab39-1f55b2aa22f9.webp",
+      "size": 133266,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "7d495983-4961-5175-9d49-686974509e7c",
+      "title": "Spiderman Red Blue City",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_red_blue_city.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/7d495983-4961-5175-9d49-686974509e7c.webp",
+      "size": 168036,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "14197b8e-7712-594e-9928-3c80dc643f32",
+      "title": "Spiderman Red Minimal",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_red_minimal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/14197b8e-7712-594e-9928-3c80dc643f32.webp",
+      "size": 100849,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}

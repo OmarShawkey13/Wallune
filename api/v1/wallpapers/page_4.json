@@ -1,11 +1,44 @@
 {
   "page": 4,
-  "total_pages": 64,
-  "total_items": 1269,
+  "total_pages": 74,
+  "total_items": 1469,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "91dac365-8ad8-5177-9c53-6aea586dba4a",
+      "title": "Colorful Abstract Shapes",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_abstract_shapes.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/91dac365-8ad8-5177-9c53-6aea586dba4a.webp",
+      "size": 111944,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6d0af5b3-03ae-5ad6-9693-946559516ca0",
+      "title": "Colorful Crystal Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_crystal_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/6d0af5b3-03ae-5ad6-9693-946559516ca0.webp",
+      "size": 241833,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "434b495a-c663-5a93-a96c-1b045d871ac2",
+      "title": "Colorful Glass Bubbles",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_glass_bubbles.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/434b495a-c663-5a93-a96c-1b045d871ac2.webp",
+      "size": 83157,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "100c6e1b-9831-5772-b560-36b30b6503e8",
       "title": "Colorful Glass Orbs",
@@ -25,6 +58,17 @@
       "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/42712d81-92e0-59e7-a9d6-106ed01aa73e.webp",
       "size": 23115,
       "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "4c0a5512-5988-5bec-b3e5-90eeb522980e",
+      "title": "Colorful Leaf Abstract",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_leaf_abstract.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/4c0a5512-5988-5bec-b3e5-90eeb522980e.webp",
+      "size": 127676,
+      "updated_at": "2026-10-24T11:34:34Z",
       "width": 736,
       "height": 1308
     },
@@ -181,50 +225,6 @@
       "updated_at": "2026-10-24T11:16:34Z",
       "width": 736,
       "height": 1308
-    },
-    {
-      "id": "b2afadb0-9eb1-57bb-b8cd-f8821f918303",
-      "title": "Gray Blur Gradient",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/gray_blur_gradient.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/b2afadb0-9eb1-57bb-b8cd-f8821f918303.webp",
-      "size": 24337,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "cb49aae5-6f84-5177-b47b-863cbf958620",
-      "title": "Gray Smoke Ribbons",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/gray_smoke_ribbons.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/cb49aae5-6f84-5177-b47b-863cbf958620.webp",
-      "size": 50559,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "4e5f9950-051c-5125-af06-66ff2677492e",
-      "title": "Gray Wave Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/gray_wave_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/4e5f9950-051c-5125-af06-66ff2677492e.webp",
-      "size": 213458,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c89a41d3-f107-5600-9ad5-61031adeac42",
-      "title": "Green Brick Hole",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_brick_hole.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/c89a41d3-f107-5600-9ad5-61031adeac42.webp",
-      "size": 164102,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
     }
   ]
 }
