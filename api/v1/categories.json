@@ -2,14 +2,14 @@
   {
     "id": "14f2dd7d-5373-58d5-bb6b-e50264b69b48",
     "name": "Abstract",
-    "count": 174,
+    "count": 198,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/armored_heart.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/97ce43ed-7efb-58c0-8113-3eea00dc461b.webp"
   },
   {
     "id": "5b2383ca-2525-5cdd-be57-09dd7a3f3462",
     "name": "Animals",
-    "count": 35,
+    "count": 39,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/bee_purple_flower.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/14c29802-6d35-54d0-9263-31a40986f679.webp"
   },
@@ -23,21 +23,21 @@
   {
     "id": "9f352953-ffca-591a-9f72-4874c03568f6",
     "name": "Anime",
-    "count": 40,
+    "count": 45,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/anime_equations.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/1c957aff-823c-523f-b665-5f33003fb21a.webp"
   },
   {
     "id": "0470e18e-b988-5e98-aa24-98d896f9fef6",
     "name": "Art",
-    "count": 87,
+    "count": 94,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/abstract_city_collage.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/6db40458-b1aa-5a22-a404-20542cad63d8.webp"
   },
   {
     "id": "0da0dc9b-a29d-5ee0-a4a8-96bff80e15b6",
     "name": "Cars",
-    "count": 128,
+    "count": 132,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/audi_black_front.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/7b6a0459-d9ee-5b89-94aa-806682df35b6.webp"
   },
@@ -51,51 +51,58 @@
   {
     "id": "14ac729c-bdaa-5a18-8e4c-e68d1745f230",
     "name": "Cityscape",
-    "count": 122,
+    "count": 127,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cityscape/aerial_city_lights.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cityscape/53255a2a-e2bf-5152-afc3-75e6c3ca2707.webp"
   },
   {
     "id": "28e0e7c3-b5e3-510f-ac9f-3a0160965cbc",
     "name": "Fantasy",
-    "count": 74,
+    "count": 107,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Fantasy/angel_in_golden_clouds.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Fantasy/9ce5c1ea-72d2-5aca-a6e2-ee2aadb5601c.webp"
   },
   {
     "id": "19381e2b-0853-5b1d-bfb2-cc339b8b9f36",
     "name": "Nature",
-    "count": 373,
+    "count": 435,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Nature/autumn_leaf_closeup.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Nature/680b4232-7785-5c21-b10e-5dd1407025ae.webp"
   },
   {
     "id": "c3c5ea8a-594b-5df9-83f2-abd93e28d44e",
     "name": "People",
-    "count": 22,
+    "count": 24,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/People/beach_couple_aerial.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/People/d1c72c48-5829-59ba-963a-b2a5422a11ac.webp"
   },
   {
     "id": "3785b4c4-8f3c-530f-b59c-21b3f60477c9",
     "name": "Quotes",
-    "count": 42,
+    "count": 43,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Quotes/ag_heart_letters.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Quotes/1f3fffa2-d3b8-53a2-9d43-8acdaba9bc86.webp"
   },
   {
     "id": "5ed2cdfe-ef49-50db-896f-1b68c7d4f2c7",
     "name": "Religion",
-    "count": 7,
+    "count": 8,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Religion/arabic_calligraphy.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Religion/6eeccdef-6409-5c2a-8982-8594952ed1db.webp"
   },
   {
     "id": "d951a00f-3282-530b-99a3-59d9be86ea4b",
     "name": "Space",
-    "count": 93,
+    "count": 132,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/airplane_line_dark.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/67ad613b-0f24-50c3-9bc0-5488815ddbc7.webp"
+  },
+  {
+    "id": "2106ad11-890a-593c-a284-b714f9ea104f",
+    "name": "Sports",
+    "count": 2,
+    "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sports/cristiano_ronaldo_goat.jpg",
+    "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Sports/7222ff99-80bd-58b9-9f37-c3c86ae723cc.webp"
   },
   {
     "id": "b483716d-fd66-5b37-98d4-186398fc96b5",
@@ -107,7 +114,7 @@
   {
     "id": "06ba6d73-d705-591b-8b84-79413ce134bb",
     "name": "Technology",
-    "count": 40,
+    "count": 52,
     "cover": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/app_icon_collage.jpg",
     "cover_thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/0d1ca1ff-2ad2-59a4-a1ab-53c77a44bb25.webp"
   },

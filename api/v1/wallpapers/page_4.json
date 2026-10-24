@@ -1,11 +1,99 @@
 {
   "page": 4,
-  "total_pages": 74,
-  "total_items": 1469,
+  "total_pages": 84,
+  "total_items": 1670,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "537a933b-90a2-5cc9-92ed-d87b7f47cfd7",
+      "title": "Broken Chain",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/broken_chain.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/537a933b-90a2-5cc9-92ed-d87b7f47cfd7.webp",
+      "size": 117143,
+      "updated_at": "2026-10-24T11:44:25Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "7707a020-2b2b-5197-b167-0eeba48758c2",
+      "title": "Burgundy Paper Fold",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/burgundy_paper_fold.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/7707a020-2b2b-5197-b167-0eeba48758c2.webp",
+      "size": 355546,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "334c97c9-5f71-536e-9806-495daab7cef4",
+      "title": "Chain Breakthrough",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/chain_breakthrough.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/334c97c9-5f71-536e-9806-495daab7cef4.webp",
+      "size": 70568,
+      "updated_at": "2026-10-24T11:44:25Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "228a44c6-e0b4-51c4-879e-a0f07a8efe65",
+      "title": "Cloud Panel Stars",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cloud_panel_stars.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/228a44c6-e0b4-51c4-879e-a0f07a8efe65.webp",
+      "size": 84268,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 864,
+      "height": 1535
+    },
+    {
+      "id": "8b6f4c08-9a54-54df-8e1a-12c19b69f8c0",
+      "title": "Cloud Rain Minimal",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cloud_rain_minimal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/8b6f4c08-9a54-54df-8e1a-12c19b69f8c0.webp",
+      "size": 84036,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f0d5e805-e2f1-571c-920b-5964346d5ae5",
+      "title": "Color Geometry Vertical",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/color_geometry_vertical.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f0d5e805-e2f1-571c-920b-5964346d5ae5.webp",
+      "size": 496973,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "3cc909e3-2986-5a16-b650-3aab750169d2",
+      "title": "Color Splatter Dark",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/color_splatter_dark.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/3cc909e3-2986-5a16-b650-3aab750169d2.webp",
+      "size": 88596,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "c395bb39-8ebe-5ef6-ae0b-cc5aaf85c375",
+      "title": "Colored Light Ribbons",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colored_light_ribbons.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/c395bb39-8ebe-5ef6-ae0b-cc5aaf85c375.webp",
+      "size": 23712,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 720,
+      "height": 1560
+    },
     {
       "id": "91dac365-8ad8-5177-9c53-6aea586dba4a",
       "title": "Colorful Abstract Shapes",
@@ -128,103 +216,15 @@
       "height": 2160
     },
     {
-      "id": "1933911f-bf6d-56db-bc90-dfb44a7b09c2",
-      "title": "Crimson Black Petals",
+      "id": "5f434936-1015-5d4b-b73d-65359748694f",
+      "title": "Cracked Wall Tree",
       "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/crimson_black_petals.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/1933911f-bf6d-56db-bc90-dfb44a7b09c2.webp",
-      "size": 37106,
-      "updated_at": "2026-10-20T17:42:03Z",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cracked_wall_tree.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/5f434936-1015-5d4b-b73d-65359748694f.webp",
+      "size": 110657,
+      "updated_at": "2026-10-24T11:44:25Z",
       "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "53a42f26-cb0f-5952-9965-d358919bf220",
-      "title": "Crimson Black Rift",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/crimson_black_rift.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/53a42f26-cb0f-5952-9965-d358919bf220.webp",
-      "size": 43272,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 1080,
-      "height": 2334
-    },
-    {
-      "id": "1aaf4309-bf86-5fcc-857e-c8f30162b2c4",
-      "title": "Cyan Smoke Thread",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cyan_smoke_thread.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/1aaf4309-bf86-5fcc-857e-c8f30162b2c4.webp",
-      "size": 222947,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 720,
-      "height": 1600
-    },
-    {
-      "id": "3f48b029-7d7c-5535-b8e6-0c698118a83b",
-      "title": "Dark Sand Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_sand_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/3f48b029-7d7c-5535-b8e6-0c698118a83b.webp",
-      "size": 743010,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1969
-    },
-    {
-      "id": "04903f07-87ef-5d1e-aaf3-3c4a92b026c3",
-      "title": "Dark Smiley Bubbles",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_smiley_bubbles.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/04903f07-87ef-5d1e-aaf3-3c4a92b026c3.webp",
-      "size": 108512,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "8604c78f-0c84-501a-ab35-5e6b8a7a47c5",
-      "title": "Dark Symbol Pattern",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/dark_symbol_pattern.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/8604c78f-0c84-501a-ab35-5e6b8a7a47c5.webp",
-      "size": 274934,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "7f12de0f-c0ed-5717-a810-d64c7c7f94fa",
-      "title": "Floating Geometric Shapes",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/floating_geometric_shapes.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/7f12de0f-c0ed-5717-a810-d64c7c7f94fa.webp",
-      "size": 103209,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "2654d4a3-fe0e-59f2-9e02-b80858ea1053",
-      "title": "Flowing Flame",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/flowing_flame.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/2654d4a3-fe0e-59f2-9e02-b80858ea1053.webp",
-      "size": 105229,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "0d473961-e704-52bf-b2f4-bd39cc9145b2",
-      "title": "Glitter Wave",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/glitter_wave.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/0d473961-e704-52bf-b2f4-bd39cc9145b2.webp",
-      "size": 212056,
-      "updated_at": "2026-10-24T11:16:34Z",
-      "width": 736,
-      "height": 1308
+      "height": 1288
     }
   ]
 }

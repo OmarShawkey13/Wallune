@@ -1,11 +1,44 @@
 {
   "page": 3,
-  "total_pages": 74,
-  "total_items": 1469,
+  "total_pages": 84,
+  "total_items": 1670,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "61767d46-2196-59e0-85bb-b0b520d1f546",
+      "title": "Blue Dune Minimal",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_dune_minimal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/61767d46-2196-59e0-85bb-b0b520d1f546.webp",
+      "size": 78002,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1028,
+      "height": 2400
+    },
+    {
+      "id": "5680ae9d-a845-5b3c-bdda-dafddf2c8d16",
+      "title": "Blue Glass Blob",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_glass_blob.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/5680ae9d-a845-5b3c-bdda-dafddf2c8d16.webp",
+      "size": 100415,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "ca7ee705-a45c-5b56-aff7-792e74cb81e3",
+      "title": "Blue Glass Rings",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_glass_rings.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/ca7ee705-a45c-5b56-aff7-792e74cb81e3.webp",
+      "size": 69131,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1635
+    },
     {
       "id": "e27199b7-f6a7-5bce-b591-6f5e3a013908",
       "title": "Blue Heartbeat Heart",
@@ -51,6 +84,28 @@
       "height": 1308
     },
     {
+      "id": "a616e4bd-c92b-5a2d-ace0-491119ae9ec1",
+      "title": "Blue Marble Flow",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_marble_flow.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a616e4bd-c92b-5a2d-ace0-491119ae9ec1.webp",
+      "size": 89802,
+      "updated_at": "2026-10-24T11:44:25Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "ca63190b-7454-57e2-9c6e-f156fa0d6420",
+      "title": "Blue Marble Veins",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_marble_veins.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/ca63190b-7454-57e2-9c6e-f156fa0d6420.webp",
+      "size": 157381,
+      "updated_at": "2026-10-24T11:44:25Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
       "id": "26f78fa5-e184-5938-996a-7691acdb5f51",
       "title": "Blue Orange Geometric Mark",
       "category": "Abstract",
@@ -82,6 +137,17 @@
       "updated_at": "2026-10-21T12:16:06Z",
       "width": 1080,
       "height": 1920
+    },
+    {
+      "id": "47991ef5-aa38-542a-a4be-2ffbab54bc0c",
+      "title": "Blue Red Cracked Rock",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_red_cracked_rock.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/47991ef5-aa38-542a-a4be-2ffbab54bc0c.webp",
+      "size": 258695,
+      "updated_at": "2026-10-24T11:44:25Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "812615f2-76ff-5f4a-b857-96917e3630cd",
@@ -159,72 +225,6 @@
       "updated_at": "2026-10-21T12:16:06Z",
       "width": 1179,
       "height": 2556
-    },
-    {
-      "id": "7707a020-2b2b-5197-b167-0eeba48758c2",
-      "title": "Burgundy Paper Fold",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/burgundy_paper_fold.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/7707a020-2b2b-5197-b167-0eeba48758c2.webp",
-      "size": 355546,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 2340
-    },
-    {
-      "id": "228a44c6-e0b4-51c4-879e-a0f07a8efe65",
-      "title": "Cloud Panel Stars",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cloud_panel_stars.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/228a44c6-e0b4-51c4-879e-a0f07a8efe65.webp",
-      "size": 84268,
-      "updated_at": "2026-10-24T11:34:34Z",
-      "width": 864,
-      "height": 1535
-    },
-    {
-      "id": "8b6f4c08-9a54-54df-8e1a-12c19b69f8c0",
-      "title": "Cloud Rain Minimal",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/cloud_rain_minimal.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/8b6f4c08-9a54-54df-8e1a-12c19b69f8c0.webp",
-      "size": 84036,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "f0d5e805-e2f1-571c-920b-5964346d5ae5",
-      "title": "Color Geometry Vertical",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/color_geometry_vertical.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f0d5e805-e2f1-571c-920b-5964346d5ae5.webp",
-      "size": 496973,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2340
-    },
-    {
-      "id": "3cc909e3-2986-5a16-b650-3aab750169d2",
-      "title": "Color Splatter Dark",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/color_splatter_dark.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/3cc909e3-2986-5a16-b650-3aab750169d2.webp",
-      "size": 88596,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "c395bb39-8ebe-5ef6-ae0b-cc5aaf85c375",
-      "title": "Colored Light Ribbons",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colored_light_ribbons.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/c395bb39-8ebe-5ef6-ae0b-cc5aaf85c375.webp",
-      "size": 23712,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 720,
-      "height": 1560
     }
   ]
 }

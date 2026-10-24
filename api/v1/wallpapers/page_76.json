@@ -1,0 +1,230 @@
+{
+  "page": 76,
+  "total_pages": 84,
+  "total_items": 1670,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "c068701f-2668-5f82-a342-ae5929ae962c",
+      "title": "Spiral Galaxy Mountains",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/spiral_galaxy_mountains.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/c068701f-2668-5f82-a342-ae5929ae962c.webp",
+      "size": 319661,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1922
+    },
+    {
+      "id": "642caf50-1dc2-5185-b198-4bf41b69aafc",
+      "title": "Spiral Galaxy Stars",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/spiral_galaxy_stars.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/642caf50-1dc2-5185-b198-4bf41b69aafc.webp",
+      "size": 50332,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 375,
+      "height": 611
+    },
+    {
+      "id": "63aa8e63-230d-55ec-81ca-af0856c7816a",
+      "title": "Stacked Blue Planets",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/stacked_blue_planets.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/63aa8e63-230d-55ec-81ca-af0856c7816a.webp",
+      "size": 89288,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "feadea7b-bf82-503a-871d-aa66d45bdbba",
+      "title": "Star Grid City",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/star_grid_city.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/feadea7b-bf82-503a-871d-aa66d45bdbba.webp",
+      "size": 283389,
+      "updated_at": "2026-10-24T11:34:34Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "9185ccca-8c61-5f3e-a60d-fd290aa48b48",
+      "title": "Starlit Pines",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/starlit_pines.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/9185ccca-8c61-5f3e-a60d-fd290aa48b48.webp",
+      "size": 143285,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 576,
+      "height": 1024
+    },
+    {
+      "id": "c12ff5b8-bff1-5c2f-8c55-48c23d346c7b",
+      "title": "Sunset Biplane",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/sunset_biplane.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/c12ff5b8-bff1-5c2f-8c55-48c23d346c7b.webp",
+      "size": 163597,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
+      "id": "06d8a100-b5c4-5f5e-99ae-021091478bbf",
+      "title": "Vertical Orbit Light",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/vertical_orbit_light.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/06d8a100-b5c4-5f5e-99ae-021091478bbf.webp",
+      "size": 90850,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1925
+    },
+    {
+      "id": "bd642e47-dc36-5067-8693-e76a78c689d5",
+      "title": "Violet Planet Orbit",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/violet_planet_orbit.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/bd642e47-dc36-5067-8693-e76a78c689d5.webp",
+      "size": 116821,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 816,
+      "height": 1456
+    },
+    {
+      "id": "e8dab983-34f3-5b41-a552-050cda794122",
+      "title": "Violet Starry Desert",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/violet_starry_desert.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/e8dab983-34f3-5b41-a552-050cda794122.webp",
+      "size": 72363,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 640,
+      "height": 1280
+    },
+    {
+      "id": "0b52740b-338a-55a1-bbbe-435b76084fdf",
+      "title": "White Black Hole",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/white_black_hole.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/0b52740b-338a-55a1-bbbe-435b76084fdf.webp",
+      "size": 116243,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 1922
+    },
+    {
+      "id": "d4089909-5c62-5593-a8c7-bf6eecd4ee48",
+      "title": "Yin Yang Moon Mountains",
+      "category": "Space",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Space/yin_yang_moon_mountains.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Space/d4089909-5c62-5593-a8c7-bf6eecd4ee48.webp",
+      "size": 245433,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "7222ff99-80bd-58b9-9f37-c3c86ae723cc",
+      "title": "Cristiano Ronaldo Goat",
+      "category": "Sports",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sports/cristiano_ronaldo_goat.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Sports/7222ff99-80bd-58b9-9f37-c3c86ae723cc.webp",
+      "size": 173651,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 736,
+      "height": 1251
+    },
+    {
+      "id": "41592bbd-db17-50fe-910d-01c610093fd7",
+      "title": "Ronaldo Football Legend",
+      "category": "Sports",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Sports/ronaldo_football_legend.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Sports/41592bbd-db17-50fe-910d-01c610093fd7.webp",
+      "size": 155758,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 736,
+      "height": 1307
+    },
+    {
+      "id": "f165a4a0-bf7c-5a08-8e09-41818051bcba",
+      "title": "Batman Glass Frame",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/batman_glass_frame.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/f165a4a0-bf7c-5a08-8e09-41818051bcba.webp",
+      "size": 73568,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "60020f44-36a9-53fd-b3ee-a5bcf45d6081",
+      "title": "Batman Red Portrait",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/batman_red_portrait.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/60020f44-36a9-53fd-b3ee-a5bcf45d6081.webp",
+      "size": 103358,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "2038c000-2427-5758-9d35-b0bdd008d6fb",
+      "title": "Blue Eagle Symbol",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/blue_eagle_symbol.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/2038c000-2427-5758-9d35-b0bdd008d6fb.webp",
+      "size": 11049,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1453
+    },
+    {
+      "id": "3d3deae8-28b0-5617-9aa9-80e132be4ac2",
+      "title": "Blue Spider Emblem",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/blue_spider_emblem.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/3d3deae8-28b0-5617-9aa9-80e132be4ac2.webp",
+      "size": 45844,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1312
+    },
+    {
+      "id": "3e8716e6-d92f-5679-955b-d4a6f38899d6",
+      "title": "Captain America Glass Frame",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/captain_america_glass_frame.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/3e8716e6-d92f-5679-955b-d4a6f38899d6.webp",
+      "size": 82598,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "b1dadb81-c308-5e14-82cb-f5765588537f",
+      "title": "Flame Shadow Hero",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/flame_shadow_hero.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/b1dadb81-c308-5e14-82cb-f5765588537f.webp",
+      "size": 28511,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1522
+    },
+    {
+      "id": "74944150-6672-5dca-be24-0b8f20a3e143",
+      "title": "Iron Man Red Blue",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/iron_man_red_blue.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/74944150-6672-5dca-be24-0b8f20a3e143.webp",
+      "size": 310893,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 960,
+      "height": 1708
+    }
+  ]
+}

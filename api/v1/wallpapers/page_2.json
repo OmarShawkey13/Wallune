@@ -1,11 +1,33 @@
 {
   "page": 2,
-  "total_pages": 74,
-  "total_items": 1469,
+  "total_pages": 84,
+  "total_items": 1670,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "01112a11-783e-5f21-aa06-2174010b0916",
+      "title": "Black Wall Ivy",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_wall_ivy.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/01112a11-783e-5f21-aa06-2174010b0916.webp",
+      "size": 148280,
+      "updated_at": "2026-10-24T11:16:33Z",
+      "width": 864,
+      "height": 1728
+    },
+    {
+      "id": "4bca764d-464f-540b-abfe-b89a82ff9c2d",
+      "title": "Black White Brush Bottom",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_bottom.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/4bca764d-464f-540b-abfe-b89a82ff9c2d.webp",
+      "size": 473565,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
     {
       "id": "ed58fb10-7412-54a0-92b2-80f5d08d6ab1",
       "title": "Black White Brush Diagonal",
@@ -161,6 +183,17 @@
       "height": 1920
     },
     {
+      "id": "7ae2aaf6-a383-545b-917f-8966c79fc13f",
+      "title": "Blue Branch Ink",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_branch_ink.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/7ae2aaf6-a383-545b-917f-8966c79fc13f.webp",
+      "size": 151032,
+      "updated_at": "2026-10-24T11:44:25Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
       "id": "a2a439b0-d1ca-5c39-931d-2b13a04a0753",
       "title": "Blue Bubble Gradient",
       "category": "Abstract",
@@ -192,39 +225,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "61767d46-2196-59e0-85bb-b0b520d1f546",
-      "title": "Blue Dune Minimal",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_dune_minimal.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/61767d46-2196-59e0-85bb-b0b520d1f546.webp",
-      "size": 78002,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1028,
-      "height": 2400
-    },
-    {
-      "id": "5680ae9d-a845-5b3c-bdda-dafddf2c8d16",
-      "title": "Blue Glass Blob",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_glass_blob.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/5680ae9d-a845-5b3c-bdda-dafddf2c8d16.webp",
-      "size": 100415,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "ca7ee705-a45c-5b56-aff7-792e74cb81e3",
-      "title": "Blue Glass Rings",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_glass_rings.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/ca7ee705-a45c-5b56-aff7-792e74cb81e3.webp",
-      "size": 69131,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1635
     }
   ]
 }

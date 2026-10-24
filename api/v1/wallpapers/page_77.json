@@ -1,0 +1,230 @@
+{
+  "page": 77,
+  "total_pages": 84,
+  "total_items": 1670,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "29934fd3-8ec8-5ac9-a630-1a199fbd34d7",
+      "title": "Marvel Comic Color",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_color.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/29934fd3-8ec8-5ac9-a630-1a199fbd34d7.webp",
+      "size": 487427,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6d445f67-089d-54db-8266-66ae9d59ad7f",
+      "title": "Marvel Comic Mono Four",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_mono_four.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/6d445f67-089d-54db-8266-66ae9d59ad7f.webp",
+      "size": 303226,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "034445d0-e374-5efc-ad51-9c544469bbe3",
+      "title": "Marvel Comic Mono One",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_mono_one.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/034445d0-e374-5efc-ad51-9c544469bbe3.webp",
+      "size": 438255,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "21716d66-b7f0-59ee-ba2b-a7d9190f4ede",
+      "title": "Marvel Comic Mono Three",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_mono_three.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/21716d66-b7f0-59ee-ba2b-a7d9190f4ede.webp",
+      "size": 241404,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 554,
+      "height": 1108
+    },
+    {
+      "id": "44ef8183-195a-518b-8163-23da016b8f12",
+      "title": "Marvel Comic Mono Two",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_mono_two.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/44ef8183-195a-518b-8163-23da016b8f12.webp",
+      "size": 212897,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "1e1f5e41-0d75-524d-b995-4a0213e6dd48",
+      "title": "Marvel Comic Panel",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/marvel_comic_panel.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/1e1f5e41-0d75-524d-b995-4a0213e6dd48.webp",
+      "size": 238488,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "48d464e1-6cf1-5a94-b560-6218f27ba542",
+      "title": "Masked Spiderman Neon",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/masked_spiderman_neon.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/48d464e1-6cf1-5a94-b560-6218f27ba542.webp",
+      "size": 125539,
+      "updated_at": "2026-10-21T11:59:16Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f291f882-2835-581f-aeb2-816da288e7ff",
+      "title": "Silver Spider Emblem",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/silver_spider_emblem.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/f291f882-2835-581f-aeb2-816da288e7ff.webp",
+      "size": 190945,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "508d4ee7-3c45-566b-aa91-a66d50b85be7",
+      "title": "Spider Emblem Gray",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_emblem_gray.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/508d4ee7-3c45-566b-aa91-a66d50b85be7.webp",
+      "size": 29651,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "id": "61644a5f-5cce-5963-8699-11d17b4664e2",
+      "title": "Spider Man Black Red",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_man_black_red.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/61644a5f-5cce-5963-8699-11d17b4664e2.webp",
+      "size": 39811,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1578
+    },
+    {
+      "id": "79a881cf-8e7b-5ad2-9ccb-31584f9e76cc",
+      "title": "Spider Man Lightning Art",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_man_lightning_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/79a881cf-8e7b-5ad2-9ccb-31584f9e76cc.webp",
+      "size": 69608,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "c0c08433-d50f-5fbf-943e-f3e84aaac49e",
+      "title": "Spider Man Red Glow",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_man_red_glow.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/c0c08433-d50f-5fbf-943e-f3e84aaac49e.webp",
+      "size": 47720,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "6cd74856-3643-5d44-b40f-f7b9c3b648fd",
+      "title": "Spider Shadow Emblem",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_shadow_emblem.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/6cd74856-3643-5d44-b40f-f7b9c3b648fd.webp",
+      "size": 132652,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "a56bea0e-c628-56ee-ad3a-2c90dd8c8790",
+      "title": "Spider Skyline Web",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spider_skyline_web.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/a56bea0e-c628-56ee-ad3a-2c90dd8c8790.webp",
+      "size": 185964,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "f289165b-1fb0-5e33-bc2e-a503406983ae",
+      "title": "Spiderman Back Space",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_back_space.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/f289165b-1fb0-5e33-bc2e-a503406983ae.webp",
+      "size": 196751,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "45ad72bd-782a-50e7-a98b-75cfc50c0fa9",
+      "title": "Spiderman Batman Hanging",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_batman_hanging.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/45ad72bd-782a-50e7-a98b-75cfc50c0fa9.webp",
+      "size": 46441,
+      "updated_at": "2024-10-01T21:00:00Z",
+      "width": 996,
+      "height": 2160
+    },
+    {
+      "id": "2c3f3f08-c1bc-5c3c-9a18-c9185cd7603e",
+      "title": "Spiderman Black Red Action",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_black_red_action.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/2c3f3f08-c1bc-5c3c-9a18-c9185cd7603e.webp",
+      "size": 404588,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "4640f285-7f5b-5eef-8515-e963b7381ee2",
+      "title": "Spiderman Blinds",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_blinds.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/4640f285-7f5b-5eef-8515-e963b7381ee2.webp",
+      "size": 133528,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 964,
+      "height": 2091
+    },
+    {
+      "id": "42b4237b-1834-5042-bbdc-1a5f2d6eeff3",
+      "title": "Spiderman Blue Hoodie",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_blue_hoodie.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/42b4237b-1834-5042-bbdc-1a5f2d6eeff3.webp",
+      "size": 82680,
+      "updated_at": "2024-12-02T21:00:00Z",
+      "width": 1080,
+      "height": 2338
+    },
+    {
+      "id": "33441519-8cda-5f57-a866-8d1d40a7a6c8",
+      "title": "Spiderman Comic Bw",
+      "category": "Superheroes",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Superheroes/spiderman_comic_bw.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Superheroes/33441519-8cda-5f57-a866-8d1d40a7a6c8.webp",
+      "size": 187603,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 964,
+      "height": 2091
+    }
+  ]
+}

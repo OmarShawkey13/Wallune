@@ -1,0 +1,230 @@
+{
+  "page": 80,
+  "total_pages": 84,
+  "total_items": 1670,
+  "items_per_page": 20,
+  "has_next": true,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "dbc01fd0-a881-590c-a9a2-84dbfb34706d",
+      "title": "Dumbbell Splash",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/dumbbell_splash.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/dbc01fd0-a881-590c-a9a2-84dbfb34706d.webp",
+      "size": 103017,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "dcdbf622-4c98-5c80-94ea-eb0b00169718",
+      "title": "Electric Bitcoin",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/electric_bitcoin.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/dcdbf622-4c98-5c80-94ea-eb0b00169718.webp",
+      "size": 246977,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "3b27dba1-f6b1-50d4-9091-eb23ebdaed67",
+      "title": "Error 404 Black",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/error_404_black.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/3b27dba1-f6b1-50d4-9091-eb23ebdaed67.webp",
+      "size": 86255,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "359fd3cb-53a0-5bae-85fe-0e4cfed263d2",
+      "title": "Fighter Jet Sunset",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/fighter_jet_sunset.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/359fd3cb-53a0-5bae-85fe-0e4cfed263d2.webp",
+      "size": 173868,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "d23dcbdc-30cb-5152-b192-7c53716efce7",
+      "title": "Floating Dumbbell",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/floating_dumbbell.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/d23dcbdc-30cb-5152-b192-7c53716efce7.webp",
+      "size": 41133,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "b553d498-95af-5125-83e1-e7ae182b0da7",
+      "title": "Forgotten Fighter Forest",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/forgotten_fighter_forest.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/b553d498-95af-5125-83e1-e7ae182b0da7.webp",
+      "size": 102901,
+      "updated_at": "2026-10-24T11:34:35Z",
+      "width": 736,
+      "height": 1298
+    },
+    {
+      "id": "e69cb492-be8c-581d-a687-a5dc8b876c54",
+      "title": "Glowing Mechanical Gears",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/glowing_mechanical_gears.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/e69cb492-be8c-581d-a687-a5dc8b876c54.webp",
+      "size": 139609,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 736,
+      "height": 1257
+    },
+    {
+      "id": "7fb8d38a-fcd5-536b-a388-357e6be6d5c7",
+      "title": "Google Bokeh Letters",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/google_bokeh_letters.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/7fb8d38a-fcd5-536b-a388-357e6be6d5c7.webp",
+      "size": 47838,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1593
+    },
+    {
+      "id": "61a2c048-9184-5d8e-8142-2a6e17545af3",
+      "title": "Google Geometric Keyboard",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/google_geometric_keyboard.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/61a2c048-9184-5d8e-8142-2a6e17545af3.webp",
+      "size": 41185,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1592
+    },
+    {
+      "id": "6aa97992-9557-575a-b564-c0af17d4e452",
+      "title": "Green Energy Battery",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/green_energy_battery.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/6aa97992-9557-575a-b564-c0af17d4e452.webp",
+      "size": 158651,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "633ba5f8-0cfa-52be-9ae0-d895755bc3ed",
+      "title": "Hanging Lock Hook",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/hanging_lock_hook.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/633ba5f8-0cfa-52be-9ae0-d895755bc3ed.webp",
+      "size": 207297,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "81a461f3-1ca3-5539-b51b-5a572a35492a",
+      "title": "Lantern Window Workspace",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/lantern_window_workspace.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/81a461f3-1ca3-5539-b51b-5a572a35492a.webp",
+      "size": 250355,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "fddd8c04-57c9-5e8b-bb27-a1a75869dc66",
+      "title": "Matrix Code Rain",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/matrix_code_rain.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/fddd8c04-57c9-5e8b-bb27-a1a75869dc66.webp",
+      "size": 474750,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 864,
+      "height": 1916
+    },
+    {
+      "id": "f8682219-d9f6-587c-845f-7a50eccd4809",
+      "title": "Mechanical Gear Wall",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/mechanical_gear_wall.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/f8682219-d9f6-587c-845f-7a50eccd4809.webp",
+      "size": 124977,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 736,
+      "height": 1313
+    },
+    {
+      "id": "db8ed65f-0a79-5020-a950-e211b4e4ac53",
+      "title": "Mechanical Gears",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/mechanical_gears.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/db8ed65f-0a79-5020-a950-e211b4e4ac53.webp",
+      "size": 114210,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "c65fa4e3-ce6a-5cfb-aff3-c9c42c66d0c5",
+      "title": "Minimal Headphones",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/minimal_headphones.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/c65fa4e3-ce6a-5cfb-aff3-c9c42c66d0c5.webp",
+      "size": 32812,
+      "updated_at": "2026-10-24T11:44:26Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "8c8cfdcf-cbeb-598b-bd54-d6746034c8f7",
+      "title": "Neon Game Controller",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/neon_game_controller.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/8c8cfdcf-cbeb-598b-bd54-d6746034c8f7.webp",
+      "size": 149148,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "31123aa1-9e05-56e8-aca8-a6425feec88e",
+      "title": "Neon Robot City",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/neon_robot_city.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/31123aa1-9e05-56e8-aca8-a6425feec88e.webp",
+      "size": 111074,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e280da63-c853-5859-8284-5da7cf760588",
+      "title": "Neon Tech Backpack",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/neon_tech_backpack.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/e280da63-c853-5859-8284-5da7cf760588.webp",
+      "size": 171520,
+      "updated_at": "2026-09-29T10:42:00Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "90aa0b24-bf8a-5ab7-9edd-ea0e740e5bca",
+      "title": "Palm Escape Keyboard",
+      "category": "Technology",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Technology/palm_escape_keyboard.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Technology/90aa0b24-bf8a-5ab7-9edd-ea0e740e5bca.webp",
+      "size": 146237,
+      "updated_at": "2026-09-29T10:42:00Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}

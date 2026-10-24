@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "total_pages": 74,
-  "total_items": 1469,
+  "total_pages": 84,
+  "total_items": 1670,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -27,6 +27,17 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1500
+    },
+    {
+      "id": "66357ebe-a9d3-5413-b489-046e7164f4e0",
+      "title": "Black Branch Tunnel",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_branch_tunnel.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/66357ebe-a9d3-5413-b489-046e7164f4e0.webp",
+      "size": 181256,
+      "updated_at": "2026-10-24T11:44:25Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "a389b43b-7b23-5f83-b293-8aee6112114c",
@@ -139,6 +150,17 @@
       "height": 1920
     },
     {
+      "id": "c5508b91-d92b-5427-a79d-d31124da91ef",
+      "title": "Black Red Ink Flow",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_red_ink_flow.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/c5508b91-d92b-5427-a79d-d31124da91ef.webp",
+      "size": 121128,
+      "updated_at": "2026-10-24T11:44:25Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
       "id": "f10690b8-65d6-5fb6-a461-d43d48db8681",
       "title": "Black Red Overlapping Circles",
       "category": "Abstract",
@@ -200,28 +222,6 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_to_white_gradient.jpg",
       "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/94b17478-dddc-53af-a4fd-4443c30c960d.webp",
       "size": 29458,
-      "updated_at": "2026-10-21T12:16:05Z",
-      "width": 998,
-      "height": 2160
-    },
-    {
-      "id": "01112a11-783e-5f21-aa06-2174010b0916",
-      "title": "Black Wall Ivy",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_wall_ivy.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/01112a11-783e-5f21-aa06-2174010b0916.webp",
-      "size": 148280,
-      "updated_at": "2026-10-24T11:16:33Z",
-      "width": 864,
-      "height": 1728
-    },
-    {
-      "id": "4bca764d-464f-540b-abfe-b89a82ff9c2d",
-      "title": "Black White Brush Bottom",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_bottom.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/4bca764d-464f-540b-abfe-b89a82ff9c2d.webp",
-      "size": 473565,
       "updated_at": "2026-10-21T12:16:05Z",
       "width": 998,
       "height": 2160
