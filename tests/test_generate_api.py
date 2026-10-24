@@ -1,4 +1,5 @@
 import base64
+import binascii
 import contextlib
 import io
 import json
@@ -7,6 +8,7 @@ import struct
 import sys
 import tempfile
 import unittest
+import zlib
 from datetime import datetime
 from pathlib import Path
 from unittest import mock
@@ -18,14 +20,59 @@ import generate_api as generator
 
 def write_png(path, width=100, height=200, marker=b""):
     path.parent.mkdir(parents=True, exist_ok=True)
-    header = (
+    seed = sum(marker) % 256
+
+    def chunk(name, data):
+        payload = name + data
+        return struct.pack(">I", len(data)) + payload + struct.pack(">I", binascii.crc32(payload) & 0xFFFFFFFF)
+
+    rows = bytearray()
+    for y in range(height):
+        rows.append(0)
+        for x in range(width):
+            rows.extend(((seed + x + y) % 256, (seed + x * 2) % 256, (seed + y * 3) % 256))
+    image = (
         b"\x89PNG\r\n\x1a\n"
-        + struct.pack(">I", 13)
-        + b"IHDR"
-        + struct.pack(">II", width, height)
-        + b"\x08\x02\x00\x00\x00"
+        + chunk(b"IHDR", struct.pack(">II5B", width, height, 8, 2, 0, 0, 0))
+        + chunk(b"IDAT", zlib.compress(rows))
+        + chunk(b"IEND", b"")
     )
-    path.write_bytes(header + marker)
+    path.write_bytes(image)
+
+
+def add_png_text(path, value):
+    contents = path.read_bytes()
+    payload = b"Comment\x00" + value
+    chunk_data = b"tEXt" + payload
+    chunk = (
+        struct.pack(">I", len(payload))
+        + chunk_data
+        + struct.pack(">I", binascii.crc32(chunk_data) & 0xFFFFFFFF)
+    )
+    iend = contents.rfind(b"\x00\x00\x00\x00IEND\xaeB`\x82")
+    if iend < 0:
+        raise AssertionError("PNG is missing its IEND chunk")
+    path.write_bytes(contents[:iend] + chunk + contents[iend:])
+
+
+def replace_png_text(path, old_value, new_value):
+    if len(old_value) != len(new_value):
+        raise AssertionError("Replacement PNG text must have the same length")
+    contents = path.read_bytes()
+    old_chunk_data = b"tEXtComment\x00" + old_value
+    offset = contents.find(old_chunk_data)
+    if offset < 4:
+        raise AssertionError("PNG text chunk was not found")
+    new_payload = b"Comment\x00" + new_value
+    new_chunk_data = b"tEXt" + new_payload
+    new_chunk = (
+        struct.pack(">I", len(new_payload))
+        + new_chunk_data
+        + struct.pack(">I", binascii.crc32(new_chunk_data) & 0xFFFFFFFF)
+    )
+    chunk_start = offset - 4
+    chunk_end = offset + len(old_chunk_data) + 4
+    path.write_bytes(contents[:chunk_start] + new_chunk + contents[chunk_end:])
 
 
 VALID_IMAGE_BYTES = {
@@ -88,11 +135,6 @@ class GeneratorFixture(unittest.TestCase):
             if path.is_file()
         }
 
-    def metadata(self):
-        return json.loads(Path("api/v1/wallpaper_ids.json").read_text(encoding="utf-8"))["wallpapers"]
-
-
-class StaticGeneratorTests(GeneratorFixture):
     def test_zero_images_generates_empty_catalog(self):
         summary = self.generate()
         self.assertEqual(summary["total_items"], 0)
@@ -174,7 +216,7 @@ class StaticGeneratorTests(GeneratorFixture):
         self.assertEqual(old["id"], current["id"])
         self.assertIn("/OtherRepo/feature/", current["image_url"])
 
-    def test_rename_preserves_id_and_delete_does_not_reuse_id(self):
+    def test_rename_preserves_content_id_and_new_image_gets_its_own_id(self):
         first = Path("images/Nature/old_name.jpg")
         second = Path("images/Nature/to_delete.jpg")
         write_png(first, marker=b"first")
@@ -185,13 +227,14 @@ class StaticGeneratorTests(GeneratorFixture):
         first.rename(Path("images/Cars/renamed.jpg"))
         second.unlink()
         write_png(Path("images/Nature/new.jpg"), marker=b"new")
-        self.generate()
+        with mock.patch.object(generator, "_write_thumbnail", wraps=generator._write_thumbnail) as write_thumb:
+            self.generate()
+        self.assertEqual(write_thumb.call_count, 1)
         current = {item["title"]: item["id"] for item in self.records()}
         self.assertEqual(current["Renamed"], initial["Old Name"])
         self.assertNotEqual(current["New"], initial["To Delete"])
-        metadata = json.loads(Path("api/v1/wallpaper_ids.json").read_text())["wallpapers"]
-        retired = [item for item in metadata if item["id"] == initial["To Delete"]][0]
-        self.assertTrue(retired["retired"])
+        self.assertEqual(len(list(Path("api/v1/thumbnails").rglob("*.webp"))), 2)
+        self.assertFalse(Path("api/v1/wallpaper_ids.json").exists())
 
     def test_utc_search_and_config_version(self):
         write_png(Path("images/My Category/a+b (wall).jpg"))
@@ -203,9 +246,75 @@ class StaticGeneratorTests(GeneratorFixture):
         datetime.fromisoformat(first_config["generated_at"].replace("Z", "+00:00"))
         self.assertEqual(first_config["generated_at"][-1], "Z")
         search = json.loads(Path("api/v1/search_index.json").read_text())
-        self.assertEqual(set(search[0]), {"id", "title", "category", "image_url", "size", "updated_at", "width", "height"})
+        self.assertEqual(
+            set(search[0]),
+            {"id", "title", "category", "image_path", "thumbnail_path", "width", "height"},
+        )
+        self.assertTrue(search[0]["image_path"].startswith("../../images/My%20Category/"))
+        self.assertTrue(search[0]["image_path"].endswith("a%2Bb%20%28wall%29.jpg"))
+        self.assertTrue(search[0]["thumbnail_path"].startswith("thumbnails/My%20Category/"))
+        self.assertEqual(first_config["search_schema_version"], generator.SEARCH_SCHEMA_VERSION)
+        self.assertEqual(first_config["thumbnail_version"], generator.THUMBNAIL_VERSION)
+        self.assertEqual(first_config["wallpaper_id_version"], generator.WALLPAPER_ID_VERSION)
+        self.assertIn("thumbnail_url", self.records()[0])
+        thumbnail = Path("api/v1") / generator._thumbnail_relative(self.records()[0]["category"], self.records()[0]["id"])
+        self.assertTrue(thumbnail.is_file())
+        thumbnail_dimensions = generator.get_image_size(str(thumbnail))
+        self.assertTrue(thumbnail_dimensions)
+        self.assertLessEqual(thumbnail_dimensions[0], generator.THUMBNAIL_MAX_SIZE[0])
+        self.assertLessEqual(thumbnail_dimensions[1], generator.THUMBNAIL_MAX_SIZE[1])
         self.generate()
         self.assertEqual(self.config()["content_version"], first_config["content_version"])
+        self.assertEqual(self.config()["generated_at"], first_config["generated_at"])
+
+    def test_v2_can_be_generated_and_validated_without_changing_v1(self):
+        write_png(Path("images/Nature/one.jpg"))
+        self.generate()
+        v1_snapshot = self.api_snapshot()
+        v1_id = self.records()[0]["id"]
+
+        summary = generator.process_images("api/v2", 2)
+        self.assertEqual(summary["total_items"], 1)
+        v2_config = json.loads(Path("api/v2/config.json").read_text(encoding="utf-8"))
+        v2_page = json.loads(Path("api/v2/wallpapers/page_1.json").read_text(encoding="utf-8"))
+        v2_search = json.loads(Path("api/v2/search_index.json").read_text(encoding="utf-8"))
+        self.assertEqual(v2_config["api_version"], 2)
+        self.assertEqual(v2_config["wallpaper_id_version"], generator.WALLPAPER_ID_VERSION)
+        self.assertEqual(v2_page["data"][0]["id"], v1_id)
+        self.assertIn("/api/v2/thumbnails/", v2_page["data"][0]["thumbnail_url"])
+        self.assertEqual(
+            set(v2_search[0]),
+            {"id", "title", "category", "image_path", "width", "height", "thumbnail_path"},
+        )
+        self.assertEqual(generator.validate_generated_api("api/v2", 2)["total_items"], 1)
+        self.assertEqual(self.api_snapshot(), v1_snapshot)
+
+    def test_existing_thumbnails_are_reused_and_only_new_images_are_generated(self):
+        write_png(Path("images/Nature/first.jpg"), marker=b"first")
+        self.generate()
+
+        with mock.patch.object(generator, "_write_thumbnail", wraps=generator._write_thumbnail) as write_thumb:
+            self.generate()
+        write_thumb.assert_not_called()
+
+        write_png(Path("images/Nature/second.jpg"), marker=b"second")
+        with mock.patch.object(generator, "_write_thumbnail", wraps=generator._write_thumbnail) as write_thumb:
+            self.generate()
+        self.assertEqual(write_thumb.call_count, 1)
+        self.assertEqual(len(list(Path("api/v1/thumbnails").rglob("*.webp"))), 2)
+
+    def test_corrupt_cached_thumbnail_is_regenerated(self):
+        write_png(Path("images/Nature/one.jpg"))
+        self.generate()
+        record = self.records()[0]
+        thumbnail = Path("api/v1") / generator._thumbnail_relative(record["category"], record["id"])
+        thumbnail.write_bytes(b"not a webp")
+
+        with mock.patch.object(generator, "_write_thumbnail", wraps=generator._write_thumbnail) as write_thumb:
+            self.generate()
+
+        write_thumb.assert_called_once()
+        self.assertTrue(generator._thumbnail_is_valid(thumbnail))
 
     def test_validation_rejects_invalid_page(self):
         write_png(Path("images/Nature/one.jpg"))
@@ -232,7 +341,7 @@ class StaticGeneratorTests(GeneratorFixture):
         self.generate()
         self.assertEqual(len(self.records()), 3)
 
-    def test_replacing_bytes_at_same_path_retires_old_identity(self):
+    def test_replacing_bytes_at_same_path_gets_a_new_content_id(self):
         path = Path("images/Nature/replaced.jpg")
         write_png(path, marker=b"first")
         self.generate()
@@ -244,58 +353,75 @@ class StaticGeneratorTests(GeneratorFixture):
         current = self.records()[0]
         self.assertNotEqual(current["id"], old["id"])
         self.assertNotEqual(current["updated_at"], old_timestamp)
-        retired = [item for item in self.metadata() if item["id"] == old["id"]][0]
-        self.assertTrue(retired["retired"])
+        self.assertEqual(current["id"], generator._wallpaper_id(generator._sha256(path)))
+        self.assertFalse(Path("api/v1/wallpaper_ids.json").exists())
         generator.validate_generated_api()
 
-    def test_existing_identity_metadata_is_authoritative_after_legacy_migration(self):
-        path = Path("images/Nature/replaced.jpg")
-        write_png(path, marker=b"first")
+    def test_generator_does_not_create_wallpaper_id_ledger(self):
+        image = Path("images/Nature/one.jpg")
+        write_png(image)
         self.generate()
-        old = self.records()[0]
-        metadata_path = Path("api/v1/wallpaper_ids.json")
-        metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
-        for record in metadata["wallpapers"]:
-            record.pop("updated_at", None)
-        metadata_path.write_text(json.dumps(metadata), encoding="utf-8")
-        write_png(path, marker=b"second")
-        with mock.patch.object(generator, "utc_iso", return_value="2026-01-02T03:04:05Z"):
+        self.assertFalse(Path("api/v1/wallpaper_ids.json").exists())
+        self.assertEqual(
+            self.records()[0]["id"],
+            generator._wallpaper_id(generator._sha256(image)),
+        )
+
+    def test_legacy_migration_refreshes_timestamp_when_bytes_change_but_thumbnail_does_not(self):
+        image = Path("images/Nature/one.jpg")
+        write_png(image)
+        old_marker = b"old-tag1"
+        new_marker = b"new-tag2"
+        add_png_text(image, old_marker)
+        previous_timestamp = "2025-03-04T05:06:07Z"
+        current_timestamp = "2026-04-05T06:07:08Z"
+        with mock.patch.object(generator, "utc_iso", return_value=previous_timestamp):
             self.generate()
-        current = self.records()[0]
-        self.assertNotEqual(current["id"], old["id"])
-        self.assertTrue([item for item in self.metadata() if item["id"] == old["id"]][0]["retired"])
 
-    def test_legacy_migration_preserves_valid_timestamp_and_has_fixed_fallback(self):
-        path = Path("images/Nature/legacy.jpg")
-        write_png(path, marker=b"legacy")
+        page_path = Path("api/v1/wallpapers/page_1.json")
+        page = json.loads(page_path.read_text(encoding="utf-8"))
+        previous = page["data"][0]
+        previous_id = previous["id"]
+        previous_hash = generator._sha256(image)
+        previous_thumbnail_path = Path("api/v1") / generator._thumbnail_relative(
+            previous["category"], previous_id
+        )
+        previous_thumbnail = previous_thumbnail_path.read_bytes()
+
+        replace_png_text(image, old_marker, new_marker)
+        os.utime(image, (1, 1))
+        self.assertEqual(image.stat().st_size, previous["size"])
+        self.assertEqual(
+            generator.get_image_size(str(image)),
+            (previous["width"], previous["height"]),
+        )
+        self.assertNotEqual(generator._sha256(image), previous_hash)
+        self.assertEqual(generator._render_thumbnail_bytes(image), previous_thumbnail)
+
         legacy_id = "123e4567-e89b-42d3-a456-426614174000"
-        legacy = {
-            "id": legacy_id,
-            "title": "Legacy",
-            "category": "Nature",
-            "image_url": generator._url("Nature", "legacy.jpg"),
-            "size": path.stat().st_size,
-            "updated_at": "2024-01-02T03:04:05Z",
-            "width": 100,
-            "height": 200,
-        }
-        Path("api/v1/wallpapers").mkdir(parents=True)
-        Path("api/v1/wallpapers/page_1.json").write_text(
-            json.dumps({"data": [legacy]}), encoding="utf-8"
+        legacy_thumbnail_path = Path("api/v1") / generator._thumbnail_relative(
+            previous["category"], legacy_id
         )
-        self.generate()
-        migrated = [item for item in self.metadata() if item["id"] == legacy_id][0]
-        self.assertEqual(migrated["updated_at"], "2024-01-02T03:04:05Z")
+        legacy_thumbnail_path.parent.mkdir(parents=True, exist_ok=True)
+        previous_thumbnail_path.rename(legacy_thumbnail_path)
+        previous["id"] = legacy_id
+        previous["thumbnail_url"] = generator._thumbnail_url(previous["category"], legacy_id)
+        page_path.write_text(json.dumps(page), encoding="utf-8")
+        config = self.config()
+        config.pop("wallpaper_id_version")
+        Path("api/v1/config.json").write_text(json.dumps(config), encoding="utf-8")
 
-        metadata_path = Path("api/v1/wallpaper_ids.json")
-        metadata_path.unlink()
-        legacy["updated_at"] = "not-a-timestamp"
-        Path("api/v1/wallpapers/page_1.json").write_text(
-            json.dumps({"data": [legacy]}), encoding="utf-8"
+        with mock.patch.object(generator, "utc_iso", return_value=current_timestamp):
+            self.generate()
+
+        current = self.records()[0]
+        self.assertEqual(current["id"], generator._wallpaper_id(generator._sha256(image)))
+        self.assertNotEqual(current["updated_at"], previous_timestamp)
+        self.assertEqual(current["updated_at"], current_timestamp)
+        current_thumbnail_path = Path("api/v1") / generator._thumbnail_relative(
+            current["category"], current["id"]
         )
-        self.generate()
-        migrated = [item for item in self.metadata() if item["id"] == legacy_id][0]
-        self.assertEqual(migrated["updated_at"], "2000-01-01T00:00:00Z")
+        self.assertEqual(current_thumbnail_path.read_bytes(), previous_thumbnail)
 
     def test_timestamp_survives_mtime_changes_and_copy_like_regeneration(self):
         path = Path("images/Nature/stable.jpg")
@@ -323,31 +449,9 @@ class StaticGeneratorTests(GeneratorFixture):
         self.assertNotEqual(first, second)
         self.assertEqual(second, third)
 
-    def test_corrupt_identity_metadata_fails_without_resetting_ids(self):
-        write_png(Path("images/Nature/one.jpg"))
-        self.generate()
-        page_before = Path("api/v1/wallpapers/page_1.json").read_bytes()
-        Path("api/v1/wallpaper_ids.json").write_text(
-            json.dumps({"schema_version": 2, "wallpapers": [{"id": self.records()[0]["id"]}]}),
-            encoding="utf-8",
-        )
-        with self.assertRaisesRegex(ValueError, "missing required fields"):
-            self.generate()
-        self.assertEqual(Path("api/v1/wallpapers/page_1.json").read_bytes(), page_before)
-
-    def test_empty_identity_metadata_refuses_to_reset_existing_ids(self):
-        write_png(Path("images/Nature/one.jpg"))
-        self.generate()
-        page_before = Path("api/v1/wallpapers/page_1.json").read_bytes()
-        Path("api/v1/wallpaper_ids.json").write_text(
-            json.dumps({"schema_version": 2, "wallpapers": []}), encoding="utf-8"
-        )
-        with self.assertRaisesRegex(ValueError, "refusing to reset wallpaper IDs"):
-            self.generate()
-        self.assertEqual(Path("api/v1/wallpapers/page_1.json").read_bytes(), page_before)
-
-    def test_validation_rejects_incorrect_image_metadata_and_identity_hash(self):
-        write_valid_image(Path("images/Nature/one.jpg"), ".jpg")
+    def test_validation_rejects_incorrect_image_metadata_and_content_id(self):
+        source = Path("images/Nature/one.jpg")
+        write_valid_image(source, ".jpg")
         self.generate()
         page_path = Path("api/v1/wallpapers/page_1.json")
         original_page = json.loads(page_path.read_text(encoding="utf-8"))
@@ -358,11 +462,8 @@ class StaticGeneratorTests(GeneratorFixture):
             with self.assertRaises(ValueError):
                 generator.validate_generated_api()
         page_path.write_text(json.dumps(original_page), encoding="utf-8")
-        metadata_path = Path("api/v1/wallpaper_ids.json")
-        original_metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
-        original_metadata["wallpapers"][0]["content_hash"] = "0" * 64
-        metadata_path.write_text(json.dumps(original_metadata), encoding="utf-8")
-        with self.assertRaisesRegex(ValueError, "content hash"):
+        write_png(source, marker=b"different bytes")
+        with self.assertRaisesRegex(ValueError, "ID does not match the image content"):
             generator.validate_generated_api()
 
     def test_validation_rejects_page_gaps_and_extra_search_records(self):
@@ -408,20 +509,18 @@ class StaticGeneratorTests(GeneratorFixture):
         self.generate()
         before = self.api_snapshot()
         write_png(Path("images/Nature/two.jpg"), marker=b"two")
-        real_validate = generator.validate_generated_api
         calls = 0
 
-        def validate_then_fail(api_dir=None):
+        def validate_then_fail(api_dir=None, *args, **kwargs):
             nonlocal calls
             calls += 1
-            if calls == 1:
-                return real_validate(api_dir)
             raise ValueError("validation after replacement")
 
         with mock.patch.object(generator, "validate_generated_api", side_effect=validate_then_fail):
             with self.assertRaisesRegex(ValueError, "validation after replacement"):
                 self.generate()
         self.assertEqual(self.api_snapshot(), before)
+        self.assertEqual(calls, 1)
         self.assertEqual(list(Path("api").glob(".v1.staging-*")), [])
 
     def test_validate_only_does_not_write_and_reports_failure(self):

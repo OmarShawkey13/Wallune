@@ -1,53 +1,57 @@
 # Wallune Static Backend — Current Audit
 
-**Audit date:** 2026-10-20
+**Audit date:** 2026-10-24
 **Repository:** `OmarShawkey13/Wallune`
-**Branch:** `main`
+**Production API:** `api/v1`
 
-## Result
-
-The repository is organized as a static GitHub Raw content backend. The production image folders, generated API, identity ledger, tests, and documentation are present and consistent.
+## Catalog
 
 | Check | Result |
 | --- | ---: |
-| Supported images | 453 |
+| Supported images | 1,168 |
 | Categories | 17 |
-| API records | 453 |
-| API pages | 23 |
+| API records | 1,168 |
+| API pages | 59 |
 | Items per page | 20 |
-| Final page | 13 items |
-| Image bytes | 61,850,981 (about 59 MiB) |
-| Active IDs | 453 |
-| Retired ID tombstones | 627 |
-| Duplicate SHA-256 groups | 0 |
-| Empty production categories | 0 |
-| Broken local image mappings | 0 |
+| Final page | 8 items |
+| Original image bytes | 184,014,885 (about 175 MiB) |
+| Generated WebP thumbnails | 1,168 |
+| Thumbnail bytes | 45,718,242 (about 43.6 MiB) |
+| Compact search index | 307,597 bytes (about 300 KiB) |
+| Projected search index at 10,000 images | about 2.63 MB, using current average record size |
+| Search schema version | 2 |
+| Active IDs | 1,168 |
 
-## Cleanup completed
+The first page's 20 original images total 3,368,627 bytes. Their WebP thumbnails total 575,792 bytes, an 82.9% reduction for that preview batch.
 
-- Removed the empty local staging folder from the working tree and added `new_wall/` to `.gitignore` for future review batches.
-- Removed Python caches and added ignores for Python environments, editor files, and temporary generator staging or backup directories.
-- Updated the English README and Arabic technical guide so their examples and catalog statistics match the current 453-image catalog.
-- Replaced the outdated final report with this current audit record.
-- Kept `wallpaper_ids.json` tombstones. Retired identities are required to prevent an old favorite ID from being reused for a different image.
+## Comparison with the original tracked API
+
+The baseline is the repository's `HEAD` snapshot before this cleanup. JSON sizes include all API JSON files; thumbnail assets are reported separately.
+
+| Metric | Original | Current | Change |
+| --- | ---: | ---: | ---: |
+| Search index | 335,366 bytes | 307,597 bytes | down 27,769 bytes (8.3%) |
+| All API JSON | 1,307,601 bytes | 925,247 bytes | down 382,354 bytes (29.2%) |
+| `wallpaper_ids.json` | 538,255 bytes | removed | removed from generation and output |
+| WebP thumbnails | not present | 45,718,242 bytes | 1,168 generated previews added |
+
+The JSON catalog is smaller overall. The thumbnail files add about 43.6 MiB to repository storage; gallery network traffic benefits when the Flutter client loads `thumbnail_url` instead of each full-size `image_url`. The current search index projects to about 2.63 MB at 10,000 images, compared with about 2.87 MB using the original index's average record size.
 
 ## API integrity
 
-`generate_api.py --validate-only` passed against the committed output. The validator confirmed:
+`generate_api.py --validate-only` passed for `api/v1`. Validation confirmed:
 
-- every local image has exactly one generated record;
-- every active record has a valid UUID, dimensions, byte size, and SHA-256 identity;
+- every local image has one generated record and one thumbnail;
+- each record's ID, dimensions, byte size, updated timestamp, and SHA-256 identity match its source;
+- thumbnail files are valid WebP dimensions no larger than 480 × 854;
 - category IDs, counts, covers, search records, page metadata, and config totals agree;
-- page files are continuous from `page_1.json` to `page_23.json`;
-- GitHub Raw URLs use the configured owner, repository, branch, category, and filename;
-- no duplicate image bytes, active IDs, or image URLs exist.
+- page files are continuous from `page_1.json` through `page_59.json`;
+- no duplicate active IDs or image URLs exist.
 
-The regression suite also passes all 26 tests. It covers pagination, category IDs, duplicate detection, ID preservation, retired identities, metadata migration, timestamp stability, image dimensions, stale page cleanup, rollback, and validate-only behavior.
+The temporary `api/v2` output directory was removed after the earlier migration check. Production remains on `api/v1`. Wallpaper IDs now come deterministically from image content hashes, so the generator no longer keeps a separate ID ledger. The compact search index contains `id`, `title`, `category`, relative `image_path` and `thumbnail_path`, `width`, and `height`; full image URLs and metadata remain in paginated records. The Flutter client should resolve search paths from a slash-terminated API base URI.
 
-## Content review
+The build completed with 1,168 records, 59 pages, and 17 categories. The regression suite passed all 28 tests, including temporary v2 generation, incremental thumbnail reuse, invalid-thumbnail regeneration, content-derived IDs, migration timestamp handling when source bytes change but the thumbnail does not, pagination, rollback, and read-only validation. `--validate-only` also passed for the production `api/v1` output. Normal generation reuses valid thumbnails for unchanged wallpaper IDs and generates only missing or invalid files.
 
-The wallpaper batches were reviewed visually before entering the production folders. The retained catalog has no flagged tobacco, alcohol, drugs, explicit sexual content, or graphic violence. Ambiguous or unsuitable images and repeated galaxy variants were removed during the latest cleanup, while non-graphic fantasy and weapon artwork remains categorized for the current 13+ audience.
+## Workflow
 
-## Operating rule
-
-Review new images in the ignored `new_wall/` folder, move only approved files into `images/<Category>/`, run the generator, run the tests, and finish with `--validate-only` before committing generated JSON and images together.
+Install the image-generation dependency with `python -m pip install -r requirements.txt`. Then generate the API, run `python -m unittest discover -s tests -v`, and finish with `python generate_api.py --validate-only` before committing images and generated files together.

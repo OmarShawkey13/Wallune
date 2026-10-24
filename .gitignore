@@ -8,8 +8,8 @@ venv/
 
 # Temporary test and generator output
 tests/tmp*/
-api/.v1.staging-*/
-api/.v1.backup-*/
+api/.*.staging-*/
+api/.*.backup-*/
 
 # Incoming images are reviewed before they enter the production catalog.
 new_wall/
