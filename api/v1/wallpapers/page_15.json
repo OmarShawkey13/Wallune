@@ -1,11 +1,99 @@
 {
   "page": 15,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "741db97f-7341-5721-a01a-2ec767d53e56",
+      "title": "Winged Sword Ink",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/winged_sword_ink.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/741db97f-7341-5721-a01a-2ec767d53e56.webp",
+      "size": 62614,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1875
+    },
+    {
+      "id": "6db40458-b1aa-5a22-a404-20542cad63d8",
+      "title": "Abstract City Collage",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/abstract_city_collage.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/6db40458-b1aa-5a22-a404-20542cad63d8.webp",
+      "size": 441466,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1053,
+      "height": 2160
+    },
+    {
+      "id": "f4dd9ee1-061e-5866-9a1e-b58373735db8",
+      "title": "Anchor Blue",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/anchor_blue.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/f4dd9ee1-061e-5866-9a1e-b58373735db8.webp",
+      "size": 109968,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "50d8e6f7-2cff-5bb3-b4e0-a0180a655e54",
+      "title": "Basketball Splash Art",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/basketball_splash_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/50d8e6f7-2cff-5bb3-b4e0-a0180a655e54.webp",
+      "size": 277249,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "0e0cc623-493e-5580-a413-fb743e0a4fd1",
+      "title": "Black Butterfly Art",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/black_butterfly_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/0e0cc623-493e-5580-a413-fb743e0a4fd1.webp",
+      "size": 72244,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "514816dc-90af-5eec-a3da-523da220ac90",
+      "title": "Blue String Instrument",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/blue_string_instrument.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/514816dc-90af-5eec-a3da-523da220ac90.webp",
+      "size": 78959,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "9088717d-011e-57f0-8c37-9e711f9c27a8",
+      "title": "Bonsai Red Hills",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/bonsai_red_hills.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/9088717d-011e-57f0-8c37-9e711f9c27a8.webp",
+      "size": 130080,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 736,
+      "height": 1313
+    },
+    {
+      "id": "b8458ec0-2b50-5b8e-a916-0290812e3493",
+      "title": "Book Train Imagination",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/book_train_imagination.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/b8458ec0-2b50-5b8e-a916-0290812e3493.webp",
+      "size": 224693,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1635
+    },
     {
       "id": "91b4e57e-f667-51dc-b2df-523723aad988",
       "title": "Butterfly Silhouette Portrait",
@@ -137,94 +225,6 @@
       "updated_at": "2026-10-21T12:29:57Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "431733b2-045f-534e-a22d-7b7e45962540",
-      "title": "Dark Room Red Light",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/dark_room_red_light.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/431733b2-045f-534e-a22d-7b7e45962540.webp",
-      "size": 185403,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c39140c2-4f9a-5f61-9b51-e5d3f7b9f26a",
-      "title": "Delicate Heart Line",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/delicate_heart_line.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/c39140c2-4f9a-5f61-9b51-e5d3f7b9f26a.webp",
-      "size": 14835,
-      "updated_at": "2026-10-08T20:57:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "16942e87-6d35-5d81-a018-80068b98d76a",
-      "title": "Europe Africa Map",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/europe_africa_map.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/16942e87-6d35-5d81-a018-80068b98d76a.webp",
-      "size": 95859,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "6f4aeb1b-3916-5ca9-b6bb-2b4cf58a752e",
-      "title": "Floating Silhouette Pink Light",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/floating_silhouette_pink_light.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/6f4aeb1b-3916-5ca9-b6bb-2b4cf58a752e.webp",
-      "size": 39348,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 640,
-      "height": 800
-    },
-    {
-      "id": "03082622-4f2a-5b77-a130-ecf7419097f8",
-      "title": "Golden Butterfly Ribbon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/golden_butterfly_ribbon.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/03082622-4f2a-5b77-a130-ecf7419097f8.webp",
-      "size": 111227,
-      "updated_at": "2026-10-08T20:57:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "95d1c190-a4d8-5286-be39-172484ad1204",
-      "title": "Green Graffiti Character",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/green_graffiti_character.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/95d1c190-a4d8-5286-be39-172484ad1204.webp",
-      "size": 209607,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "b5b3a8ee-a8ab-5bef-a593-a1b2283422bf",
-      "title": "Hand And Shadow",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/hand_and_shadow.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/b5b3a8ee-a8ab-5bef-a593-a1b2283422bf.webp",
-      "size": 72370,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "c084f843-e822-5210-97d5-6ae579fb346d",
-      "title": "Illustrated Flower Market",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/illustrated_flower_market.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/c084f843-e822-5210-97d5-6ae579fb346d.webp",
-      "size": 252064,
-      "updated_at": "2024-04-28T21:00:00Z",
-      "width": 736,
-      "height": 1228
     }
   ]
 }

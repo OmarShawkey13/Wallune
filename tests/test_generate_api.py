@@ -248,11 +248,12 @@ class GeneratorFixture(unittest.TestCase):
         search = json.loads(Path("api/v1/search_index.json").read_text())
         self.assertEqual(
             set(search[0]),
-            {"id", "title", "category", "image_path", "thumbnail_path", "width", "height"},
+            {"id", "title", "category", "image_url", "thumbnail_url", "width", "height"},
         )
-        self.assertTrue(search[0]["image_path"].startswith("../../images/My%20Category/"))
-        self.assertTrue(search[0]["image_path"].endswith("a%2Bb%20%28wall%29.jpg"))
-        self.assertTrue(search[0]["thumbnail_path"].startswith("thumbnails/My%20Category/"))
+        self.assertEqual(search[0]["image_url"], second_url)
+        self.assertTrue(search[0]["thumbnail_url"].startswith(
+            "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/My%20Category/"
+        ))
         self.assertEqual(first_config["search_schema_version"], generator.SEARCH_SCHEMA_VERSION)
         self.assertEqual(first_config["thumbnail_version"], generator.THUMBNAIL_VERSION)
         self.assertEqual(first_config["wallpaper_id_version"], generator.WALLPAPER_ID_VERSION)
@@ -284,8 +285,10 @@ class GeneratorFixture(unittest.TestCase):
         self.assertIn("/api/v2/thumbnails/", v2_page["data"][0]["thumbnail_url"])
         self.assertEqual(
             set(v2_search[0]),
-            {"id", "title", "category", "image_path", "width", "height", "thumbnail_path"},
+            {"id", "title", "category", "image_url", "width", "height", "thumbnail_url"},
         )
+        self.assertEqual(v2_search[0]["image_url"], v2_page["data"][0]["image_url"])
+        self.assertEqual(v2_search[0]["thumbnail_url"], v2_page["data"][0]["thumbnail_url"])
         self.assertEqual(generator.validate_generated_api("api/v2", 2)["total_items"], 1)
         self.assertEqual(self.api_snapshot(), v1_snapshot)
 

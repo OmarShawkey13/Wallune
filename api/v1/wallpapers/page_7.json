@@ -1,11 +1,55 @@
 {
   "page": 7,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "3ba1d63e-c91a-59ba-ae77-5aa5ae34e1a7",
+      "title": "Rainbow Arc Minimal",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rainbow_arc_minimal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/3ba1d63e-c91a-59ba-ae77-5aa5ae34e1a7.webp",
+      "size": 33061,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "f563412e-1d68-5fb4-81e9-072c8f896c46",
+      "title": "Rainbow Smoke Thread",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rainbow_smoke_thread.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f563412e-1d68-5fb4-81e9-072c8f896c46.webp",
+      "size": 172130,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "id": "eac19df4-9bd6-5e8a-a98e-cc96b07359ee",
+      "title": "Red Black Brush Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_black_brush_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/eac19df4-9bd6-5e8a-a98e-cc96b07359ee.webp",
+      "size": 162164,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "ccd6fac2-2ec1-5d30-833b-fcb024b99000",
+      "title": "Red Black Diagonal Panels",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_black_diagonal_panels.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/ccd6fac2-2ec1-5d30-833b-fcb024b99000.webp",
+      "size": 21597,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 594,
+      "height": 1280
+    },
     {
       "id": "9601f820-066b-5872-872d-add3dce00d4d",
       "title": "Red Black Droplet Tiles",
@@ -181,50 +225,6 @@
       "updated_at": "2026-10-20T17:42:03Z",
       "width": 736,
       "height": 1472
-    },
-    {
-      "id": "bb6f2361-3869-50d1-87ac-949788f2bbc4",
-      "title": "Red Silver Star Pattern",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_silver_star_pattern.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/bb6f2361-3869-50d1-87ac-949788f2bbc4.webp",
-      "size": 48572,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 736,
-      "height": 1311
-    },
-    {
-      "id": "a2e65849-6024-5582-93b2-5f65b85b0e71",
-      "title": "Red Teal Feather Flow",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_teal_feather_flow.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a2e65849-6024-5582-93b2-5f65b85b0e71.webp",
-      "size": 130373,
-      "updated_at": "2026-09-30T10:49:00Z",
-      "width": 724,
-      "height": 1600
-    },
-    {
-      "id": "fb60ddd3-3a80-5f74-826a-c614891d2119",
-      "title": "Red Teal Glowing Capsule",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_teal_glowing_capsule.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/fb60ddd3-3a80-5f74-826a-c614891d2119.webp",
-      "size": 8194,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 308,
-      "height": 616
-    },
-    {
-      "id": "20d93eee-2795-5d78-9b6a-1b95225c42a6",
-      "title": "Rising Sparkles",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rising_sparkles.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/20d93eee-2795-5d78-9b6a-1b95225c42a6.webp",
-      "size": 16997,
-      "updated_at": "2026-10-08T20:57:00Z",
-      "width": 736,
-      "height": 1349
     }
   ]
 }

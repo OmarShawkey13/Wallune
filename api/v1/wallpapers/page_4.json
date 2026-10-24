@@ -1,11 +1,44 @@
 {
   "page": 4,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "100c6e1b-9831-5772-b560-36b30b6503e8",
+      "title": "Colorful Glass Orbs",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_glass_orbs.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/100c6e1b-9831-5772-b560-36b30b6503e8.webp",
+      "size": 74513,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "42712d81-92e0-59e7-a9d6-106ed01aa73e",
+      "title": "Colorful Horizontal Bars",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_horizontal_bars.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/42712d81-92e0-59e7-a9d6-106ed01aa73e.webp",
+      "size": 23115,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "5702482c-378f-587f-9bf1-e5545ba5b9b4",
+      "title": "Colorful Letter Shapes",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_letter_shapes.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/5702482c-378f-587f-9bf1-e5545ba5b9b4.webp",
+      "size": 184027,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "af119e8d-bf4d-5cda-a3db-04c2a60282ce",
       "title": "Colorful Paint Glass",
@@ -139,6 +172,17 @@
       "height": 1920
     },
     {
+      "id": "0d473961-e704-52bf-b2f4-bd39cc9145b2",
+      "title": "Glitter Wave",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/glitter_wave.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/0d473961-e704-52bf-b2f4-bd39cc9145b2.webp",
+      "size": 212056,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
       "id": "b2afadb0-9eb1-57bb-b8cd-f8821f918303",
       "title": "Gray Blur Gradient",
       "category": "Abstract",
@@ -179,50 +223,6 @@
       "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/c89a41d3-f107-5600-9ad5-61031adeac42.webp",
       "size": 164102,
       "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "1b888125-d5ad-5dfc-b399-ae5e1764ccdf",
-      "title": "Green Heartbeat Icon",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_heartbeat_icon.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/1b888125-d5ad-5dfc-b399-ae5e1764ccdf.webp",
-      "size": 9195,
-      "updated_at": "2026-10-08T12:24:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "3ba5a874-7753-5c5c-9c1c-ee8cc537f2a8",
-      "title": "Green Marble Tree",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_marble_tree.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/3ba5a874-7753-5c5c-9c1c-ee8cc537f2a8.webp",
-      "size": 239229,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 2017
-    },
-    {
-      "id": "a4641b46-89a3-5d52-8ca5-04792710172a",
-      "title": "Green Particle Waves",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_particle_waves.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a4641b46-89a3-5d52-8ca5-04792710172a.webp",
-      "size": 80080,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "899ef236-ec50-52df-a36d-1c4de1a077f5",
-      "title": "Green Rain Cloud Icon",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_rain_cloud_icon.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/899ef236-ec50-52df-a36d-1c4de1a077f5.webp",
-      "size": 31449,
-      "updated_at": "2026-10-20T17:49:40Z",
       "width": 1080,
       "height": 1920
     }

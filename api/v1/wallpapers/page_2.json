@@ -1,11 +1,44 @@
 {
   "page": 2,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "2fcb2bc4-38d2-567a-ac6d-b7033a478739",
+      "title": "Black White Brush Edge",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_edge.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/2fcb2bc4-38d2-567a-ac6d-b7033a478739.webp",
+      "size": 389346,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "db2dace0-6067-5a62-8bec-2e2fd0e320d1",
+      "title": "Black White Brush Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/db2dace0-6067-5a62-8bec-2e2fd0e320d1.webp",
+      "size": 442502,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "e7ad7b23-9f05-5f02-a550-542e37f84915",
+      "title": "Black White Bubble Field",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_bubble_field.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/e7ad7b23-9f05-5f02-a550-542e37f84915.webp",
+      "size": 175939,
+      "updated_at": "2026-10-21T12:16:05Z",
+      "width": 998,
+      "height": 2160
+    },
     {
       "id": "c7bf52c6-1212-5fd4-9f04-d24c7a212123",
       "title": "Black White Bubbles",
@@ -189,39 +222,6 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_icon_doodle.jpg",
       "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/0b9e20e1-e992-5bc0-a3ea-3e696a66b378.webp",
       "size": 157379,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "bf85686a-6777-56f1-a94b-3e6a7a22a677",
-      "title": "Blue Iridescent Glass",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_iridescent_glass.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/bf85686a-6777-56f1-a94b-3e6a7a22a677.webp",
-      "size": 193914,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 924,
-      "height": 2047
-    },
-    {
-      "id": "02aad2c3-a0b6-50e9-a116-0bad6670dabc",
-      "title": "Blue Line Curve",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_line_curve.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/02aad2c3-a0b6-50e9-a116-0bad6670dabc.webp",
-      "size": 22341,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "26f78fa5-e184-5938-996a-7691acdb5f51",
-      "title": "Blue Orange Geometric Mark",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_orange_geometric_mark.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/26f78fa5-e184-5938-996a-7691acdb5f51.webp",
-      "size": 176154,
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920

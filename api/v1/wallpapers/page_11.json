@@ -1,11 +1,77 @@
 {
   "page": 11,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "e077f386-cab2-53c9-b5c5-f8fe85615e49",
+      "title": "Angry Birds Vertical",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angry_birds_vertical.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/e077f386-cab2-53c9-b5c5-f8fe85615e49.webp",
+      "size": 67339,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "ee40e710-181b-5d1e-a907-c4ee1852af8a",
+      "title": "Cartoon Children Field",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/cartoon_children_field.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/ee40e710-181b-5d1e-a907-c4ee1852af8a.webp",
+      "size": 123945,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1878
+    },
+    {
+      "id": "7cc173af-652a-5f71-b414-1306c2ff9160",
+      "title": "Courage Blue Lightning",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_blue_lightning.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/7cc173af-652a-5f71-b414-1306c2ff9160.webp",
+      "size": 508553,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "4d9912e3-7fce-5d93-ae83-276fde418640",
+      "title": "Courage Heart Room",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_heart_room.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/4d9912e3-7fce-5d93-ae83-276fde418640.webp",
+      "size": 205741,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "babf4611-9c34-5d7b-8a61-cf1b0eb2e7be",
+      "title": "Courage Orange Swirl",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_orange_swirl.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/babf4611-9c34-5d7b-8a61-cf1b0eb2e7be.webp",
+      "size": 496026,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2160
+    },
+    {
+      "id": "8e0dedf2-dc83-5b2b-8eac-083636162721",
+      "title": "Courage Purple Night",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_purple_night.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/8e0dedf2-dc83-5b2b-8eac-083636162721.webp",
+      "size": 381834,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2160
+    },
     {
       "id": "42219c0e-d179-5f51-842c-e9b93c384068",
       "title": "Courage Red Landscape",
@@ -159,72 +225,6 @@
       "updated_at": "2026-10-21T11:59:15Z",
       "width": 1080,
       "height": 1848
-    },
-    {
-      "id": "c5f60870-723a-57f0-8481-fae76f56ea06",
-      "title": "Monster Girl Portrait",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_girl_portrait.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/c5f60870-723a-57f0-8481-fae76f56ea06.webp",
-      "size": 241737,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "8dc49c90-33b5-5665-9041-7190635a9e95",
-      "title": "Monster Hug",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_hug.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/8dc49c90-33b5-5665-9041-7190635a9e95.webp",
-      "size": 216221,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "9272673a-16d4-552e-b31e-ac448798c9cc",
-      "title": "Monster Peeking Door",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/monster_peeking_door.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/9272673a-16d4-552e-b31e-ac448798c9cc.webp",
-      "size": 265939,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1848
-    },
-    {
-      "id": "805b0cde-43fb-5975-9de5-4bfbdf064c54",
-      "title": "Neon Cartoon Dance Blue",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/neon_cartoon_dance_blue.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/805b0cde-43fb-5975-9de5-4bfbdf064c54.webp",
-      "size": 157300,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "28888402-e1b5-560e-b8b0-35a8a1c300a3",
-      "title": "Neon Cartoon Dance Green",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/neon_cartoon_dance_green.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/28888402-e1b5-560e-b8b0-35a8a1c300a3.webp",
-      "size": 129627,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1919
-    },
-    {
-      "id": "d7e087f3-6cf0-5743-99a3-0a889965de80",
-      "title": "Neon Cartoon Dance Pink",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/neon_cartoon_dance_pink.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/d7e087f3-6cf0-5743-99a3-0a889965de80.webp",
-      "size": 163974,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1919
     }
   ]
 }

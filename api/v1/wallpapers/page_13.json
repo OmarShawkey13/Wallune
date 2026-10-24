@@ -1,11 +1,77 @@
 {
   "page": 13,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "48e67a09-c6f3-5eee-b776-c339d8ebd234",
+      "title": "Stitch Dark Minimal",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_dark_minimal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/48e67a09-c6f3-5eee-b776-c339d8ebd234.webp",
+      "size": 21126,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "e432b0b1-9a5b-5270-a401-8fe04cd3fcee",
+      "title": "Stitch Hearts",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_hearts.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/e432b0b1-9a5b-5270-a401-8fe04cd3fcee.webp",
+      "size": 44169,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "1968eafc-b9b2-5b20-a69c-87ed23552e9e",
+      "title": "Stitch Minimal Center",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_minimal_center.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/1968eafc-b9b2-5b20-a69c-87ed23552e9e.webp",
+      "size": 18040,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "999f4c43-a692-54e2-a0b9-6b4bfda9f9e6",
+      "title": "Stitch Minimal White",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_minimal_white.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/999f4c43-a692-54e2-a0b9-6b4bfda9f9e6.webp",
+      "size": 21146,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "879199fe-2b74-5c97-8fdf-e4d0651dcf63",
+      "title": "Stitch Pink Pattern",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_pink_pattern.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/879199fe-2b74-5c97-8fdf-e4d0651dcf63.webp",
+      "size": 51874,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 675,
+      "height": 1200
+    },
+    {
+      "id": "3acbf3e4-4b30-5bc6-b7c7-3a78b5255f2a",
+      "title": "Stitch Side Profile",
+      "category": "Animation",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/stitch_side_profile.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/3acbf3e4-4b30-5bc6-b7c7-3a78b5255f2a.webp",
+      "size": 27934,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1308
+    },
     {
       "id": "a4efb869-05df-5a82-b122-5af3b46966dc",
       "title": "Stitch Sleeping",
@@ -159,72 +225,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "1485ac13-c1c1-5f3e-b97e-ec3d62990546",
-      "title": "Flame Anime Smile",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/flame_anime_smile.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/1485ac13-c1c1-5f3e-b97e-ec3d62990546.webp",
-      "size": 118701,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "b0eda26e-1154-58f6-8751-159efe9cabaa",
-      "title": "Frieza Dark Form Portrait",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/frieza_dark_form_portrait.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/b0eda26e-1154-58f6-8751-159efe9cabaa.webp",
-      "size": 742138,
-      "updated_at": "2026-07-25T11:58:00Z",
-      "width": 1920,
-      "height": 3412
-    },
-    {
-      "id": "37959b3e-2139-5f3e-b8fe-64eeec60af3b",
-      "title": "Gengar Night Art",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gengar_night_art.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/37959b3e-2139-5f3e-b8fe-64eeec60af3b.webp",
-      "size": 275602,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "04a197be-f4e6-5933-8f43-5d411f8e2a83",
-      "title": "Gengar Purple Sky",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gengar_purple_sky.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/04a197be-f4e6-5933-8f43-5d411f8e2a83.webp",
-      "size": 140372,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1586
-    },
-    {
-      "id": "983d5297-ca5b-57dd-80cb-68550d035a85",
-      "title": "Goku Neon Outline",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_neon_outline.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/983d5297-ca5b-57dd-80cb-68550d035a85.webp",
-      "size": 254529,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2695
-    },
-    {
-      "id": "48bc98fb-4ec8-5da7-a60a-43f2f2186184",
-      "title": "Goku Red Background",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_red_background.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/48bc98fb-4ec8-5da7-a60a-43f2f2186184.webp",
-      "size": 68744,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 736,
-      "height": 1308
     }
   ]
 }

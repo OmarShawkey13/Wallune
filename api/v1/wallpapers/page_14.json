@@ -1,11 +1,77 @@
 {
   "page": 14,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "1485ac13-c1c1-5f3e-b97e-ec3d62990546",
+      "title": "Flame Anime Smile",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/flame_anime_smile.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/1485ac13-c1c1-5f3e-b97e-ec3d62990546.webp",
+      "size": 118701,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "b0eda26e-1154-58f6-8751-159efe9cabaa",
+      "title": "Frieza Dark Form Portrait",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/frieza_dark_form_portrait.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/b0eda26e-1154-58f6-8751-159efe9cabaa.webp",
+      "size": 742138,
+      "updated_at": "2026-07-25T11:58:00Z",
+      "width": 1920,
+      "height": 3412
+    },
+    {
+      "id": "37959b3e-2139-5f3e-b8fe-64eeec60af3b",
+      "title": "Gengar Night Art",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gengar_night_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/37959b3e-2139-5f3e-b8fe-64eeec60af3b.webp",
+      "size": 275602,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "04a197be-f4e6-5933-8f43-5d411f8e2a83",
+      "title": "Gengar Purple Sky",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/gengar_purple_sky.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/04a197be-f4e6-5933-8f43-5d411f8e2a83.webp",
+      "size": 140372,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1586
+    },
+    {
+      "id": "983d5297-ca5b-57dd-80cb-68550d035a85",
+      "title": "Goku Neon Outline",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_neon_outline.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/983d5297-ca5b-57dd-80cb-68550d035a85.webp",
+      "size": 254529,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 1080,
+      "height": 2695
+    },
+    {
+      "id": "48bc98fb-4ec8-5da7-a60a-43f2f2186184",
+      "title": "Goku Red Background",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/goku_red_background.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/48bc98fb-4ec8-5da7-a60a-43f2f2186184.webp",
+      "size": 68744,
+      "updated_at": "2026-10-21T11:59:15Z",
+      "width": 736,
+      "height": 1308
+    },
     {
       "id": "e403c8fe-b0bd-5242-9000-9361d12734c6",
       "title": "Goku Red Black Portrait",
@@ -106,6 +172,17 @@
       "height": 1592
     },
     {
+      "id": "4f34d883-1abe-582d-8bf3-c05d17b3d092",
+      "title": "Neon Anime Collage",
+      "category": "Anime",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/neon_anime_collage.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/4f34d883-1abe-582d-8bf3-c05d17b3d092.webp",
+      "size": 212682,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 864,
+      "height": 1535
+    },
+    {
       "id": "c90a9bc7-ff78-57b6-b9a6-038b3b6fef9f",
       "title": "Pikachu Starry Art",
       "category": "Anime",
@@ -148,83 +225,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1438
-    },
-    {
-      "id": "741db97f-7341-5721-a01a-2ec767d53e56",
-      "title": "Winged Sword Ink",
-      "category": "Anime",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Anime/winged_sword_ink.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Anime/741db97f-7341-5721-a01a-2ec767d53e56.webp",
-      "size": 62614,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1875
-    },
-    {
-      "id": "6db40458-b1aa-5a22-a404-20542cad63d8",
-      "title": "Abstract City Collage",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/abstract_city_collage.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/6db40458-b1aa-5a22-a404-20542cad63d8.webp",
-      "size": 441466,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1053,
-      "height": 2160
-    },
-    {
-      "id": "f4dd9ee1-061e-5866-9a1e-b58373735db8",
-      "title": "Anchor Blue",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/anchor_blue.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/f4dd9ee1-061e-5866-9a1e-b58373735db8.webp",
-      "size": 109968,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "50d8e6f7-2cff-5bb3-b4e0-a0180a655e54",
-      "title": "Basketball Splash Art",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/basketball_splash_art.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/50d8e6f7-2cff-5bb3-b4e0-a0180a655e54.webp",
-      "size": 277249,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "0e0cc623-493e-5580-a413-fb743e0a4fd1",
-      "title": "Black Butterfly Art",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/black_butterfly_art.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/0e0cc623-493e-5580-a413-fb743e0a4fd1.webp",
-      "size": 72244,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 675,
-      "height": 1200
-    },
-    {
-      "id": "514816dc-90af-5eec-a3da-523da220ac90",
-      "title": "Blue String Instrument",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/blue_string_instrument.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/514816dc-90af-5eec-a3da-523da220ac90.webp",
-      "size": 78959,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "b8458ec0-2b50-5b8e-a916-0290812e3493",
-      "title": "Book Train Imagination",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/book_train_imagination.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/b8458ec0-2b50-5b8e-a916-0290812e3493.webp",
-      "size": 224693,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1635
     }
   ]
 }

@@ -1,11 +1,77 @@
 {
   "page": 10,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "2d5c8ab8-2b1d-5f4a-820e-2baa678b23a9",
+      "title": "Fox Moon Rooftop",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/fox_moon_rooftop.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/2d5c8ab8-2b1d-5f4a-820e-2baa678b23a9.webp",
+      "size": 38024,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1318
+    },
+    {
+      "id": "46f78ac3-cb55-5377-81e4-e6d0b28af6e1",
+      "title": "Green Bird Dark",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/green_bird_dark.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/46f78ac3-cb55-5377-81e4-e6d0b28af6e1.webp",
+      "size": 51222,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "6bde05ba-bcd3-517e-a0b6-21cb6195761d",
+      "title": "Green Snake Texture",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/green_snake_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/6bde05ba-bcd3-517e-a0b6-21cb6195761d.webp",
+      "size": 177719,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "314673e4-3953-546a-8c43-fccc57a52a6d",
+      "title": "Green Spider Macro",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/green_spider_macro.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/314673e4-3953-546a-8c43-fccc57a52a6d.webp",
+      "size": 117777,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "8e5b15c8-a6ef-5ffc-9418-9099814a347e",
+      "title": "Kitten In Lavender Field",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/kitten_in_lavender_field.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/8e5b15c8-a6ef-5ffc-9418-9099814a347e.webp",
+      "size": 58263,
+      "updated_at": "2025-01-05T21:00:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "d84f6195-5623-59ef-9da5-428bc8a62708",
+      "title": "Kitten Stack",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/kitten_stack.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/d84f6195-5623-59ef-9da5-428bc8a62708.webp",
+      "size": 111997,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "749e3840-f071-55f8-8e32-27c126fd4756",
       "title": "Panda Foggy Portrait",
@@ -159,72 +225,6 @@
       "updated_at": "2026-10-21T11:59:15Z",
       "width": 736,
       "height": 1308
-    },
-    {
-      "id": "e077f386-cab2-53c9-b5c5-f8fe85615e49",
-      "title": "Angry Birds Vertical",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/angry_birds_vertical.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/e077f386-cab2-53c9-b5c5-f8fe85615e49.webp",
-      "size": 67339,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 941,
-      "height": 1672
-    },
-    {
-      "id": "ee40e710-181b-5d1e-a907-c4ee1852af8a",
-      "title": "Cartoon Children Field",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/cartoon_children_field.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/ee40e710-181b-5d1e-a907-c4ee1852af8a.webp",
-      "size": 123945,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1878
-    },
-    {
-      "id": "7cc173af-652a-5f71-b414-1306c2ff9160",
-      "title": "Courage Blue Lightning",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_blue_lightning.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/7cc173af-652a-5f71-b414-1306c2ff9160.webp",
-      "size": 508553,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "4d9912e3-7fce-5d93-ae83-276fde418640",
-      "title": "Courage Heart Room",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_heart_room.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/4d9912e3-7fce-5d93-ae83-276fde418640.webp",
-      "size": 205741,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "babf4611-9c34-5d7b-8a61-cf1b0eb2e7be",
-      "title": "Courage Orange Swirl",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_orange_swirl.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/babf4611-9c34-5d7b-8a61-cf1b0eb2e7be.webp",
-      "size": 496026,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
-    },
-    {
-      "id": "8e0dedf2-dc83-5b2b-8eac-083636162721",
-      "title": "Courage Purple Night",
-      "category": "Animation",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animation/courage_purple_night.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animation/8e0dedf2-dc83-5b2b-8eac-083636162721.webp",
-      "size": 381834,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 2160
     }
   ]
 }

@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1
 | --- | --- |
 | `config.json` | إصدارات الـ API ومخططات البيانات والكتالوج، الأعداد و`catalog_hash` |
 | `categories.json` | التصنيفات ومعرّف كل تصنيف وعدده وصورة الغلاف |
-| `search_index.json` | فهرس بحث محلي مختصر بإصدار schema 2 |
+| `search_index.json` | فهرس بحث محلي مختصر بإصدار schema 3 |
 | `wallpapers/page_N.json` | السجلات الأساسية مقسمة إلى صفحات |
 
 ## هيكل المشروع
@@ -85,16 +85,16 @@ requirements.txt                مكتبة معالجة الصور للمولد
 
 | العنصر | القيمة |
 | --- | ---: |
-| الصور المدعومة | 1,168 |
+| الصور المدعومة | 1,269 |
 | التصنيفات | 17 |
-| صفحات الـ API | 59 |
+| صفحات الـ API | 64 |
 | العناصر في الصفحة | 20 |
-| العناصر في الصفحة الأخيرة | 8 |
-| حجم الصور الأصلية | 184,014,885 بايت تقريبًا (175 MiB) |
-| الصور المصغرة المولدة | 1,168 بحجم 45,718,242 بايت تقريبًا (43.6 MiB) |
-| حجم `search_index.json` | 307,597 بايت؛ المتوقع خطيًا نحو 2.63 MB عند 10,000 صورة |
-| إصدار schema البحث | 2 |
-| الـ IDs النشطة | 1,168 |
+| العناصر في الصفحة الأخيرة | 9 |
+| حجم الصور الأصلية | 198,872,143 بايت تقريبًا (189.7 MiB) |
+| الصور المصغرة المولدة | 1,269 بحجم 50,176,100 بايت تقريبًا (47.9 MiB) |
+| حجم `search_index.json` | 487,306 بايت؛ المتوقع خطيًا نحو 3.84 MB عند 10,000 صورة |
+| إصدار schema البحث | 3 |
+| الـ IDs النشطة | 1,269 |
 
 الفحص الحالي يطابق كل صورة محلية مع سجل API ونسخة مصغرة، ولا توجد بصمات SHA-256 مكررة أو IDs نشطة مكررة أو صفحات وصور مصغرة ناقصة أو روابط صور محلية مكسورة.
 
@@ -109,15 +109,14 @@ final response = await http.get(
 );
 ```
 
-استخدم `thumbnail_url` في شبكة الخلفيات و`cover_thumbnail_url` لأغلفة التصنيفات، و`image_url` في صفحة التفاصيل أو التنزيل. يحتوي `search_index.json` على `id` و`title` و`category` و`image_path` و`thumbnail_path` و`width` و`height` فقط. حوّل المسارات من URI ينتهي بـ `/`:
+استخدم `thumbnail_url` في شبكة الخلفيات و`cover_thumbnail_url` لأغلفة التصنيفات، و`image_url` في صفحة التفاصيل أو التنزيل. يحتوي `search_index.json` على `id` و`title` و`category` و`image_url` و`thumbnail_url` و`width` و`height` فقط. أسماء حقول الروابط وقيمها مطابقة لسجلات الصفحات؛ لا تحتاج إلى تحويل المسارات:
 
 ```dart
-final searchBase = Uri.parse('$apiBase/');
-final previewUri = searchBase.resolve(result['thumbnail_path'] as String);
-final imageUri = searchBase.resolve(result['image_path'] as String);
+final previewUri = Uri.parse(result['thumbnail_url'] as String);
+final imageUri = Uri.parse(result['image_url'] as String);
 ```
 
-`image_path` يشير إلى `/images/...` و`thumbnail_path` إلى `/api/v1/thumbnails/...`. استخدم سجل الصفحة لجلب الحجم ووقت التحديث عند الحاجة. خزّن `config.json` و`search_index.json` والصفحات والصور المصغرة مؤقتًا، وجدّد بيانات الكتالوج فقط عند تغيّر `content_version`. استخدم `id` للمفضلة و`width` و`height` لتقليل تغيّر تخطيط الشبكة أثناء تحميل الصور. اعتبر أخطاء الشبكة وملفات JSON غير الصالحة والصور غير المتاحة حالات قابلة لإعادة المحاولة.
+استخدم سجل الصفحة لجلب الحجم ووقت التحديث عند الحاجة. خزّن `config.json` و`search_index.json` والصفحات والصور المصغرة مؤقتًا، وجدّد بيانات الكتالوج فقط عند تغيّر `content_version`. استخدم `id` للمفضلة و`width` و`height` لتقليل تغيّر تخطيط الشبكة أثناء تحميل الصور. اعتبر أخطاء الشبكة وملفات JSON غير الصالحة والصور غير المتاحة حالات قابلة لإعادة المحاولة.
 
 ## حدود الاستضافة
 

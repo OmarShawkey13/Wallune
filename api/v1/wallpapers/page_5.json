@@ -1,11 +1,55 @@
 {
   "page": 5,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "1b888125-d5ad-5dfc-b399-ae5e1764ccdf",
+      "title": "Green Heartbeat Icon",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_heartbeat_icon.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/1b888125-d5ad-5dfc-b399-ae5e1764ccdf.webp",
+      "size": 9195,
+      "updated_at": "2026-10-08T12:24:00Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "3ba5a874-7753-5c5c-9c1c-ee8cc537f2a8",
+      "title": "Green Marble Tree",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_marble_tree.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/3ba5a874-7753-5c5c-9c1c-ee8cc537f2a8.webp",
+      "size": 239229,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 2017
+    },
+    {
+      "id": "a4641b46-89a3-5d52-8ca5-04792710172a",
+      "title": "Green Particle Waves",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_particle_waves.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a4641b46-89a3-5d52-8ca5-04792710172a.webp",
+      "size": 80080,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "899ef236-ec50-52df-a36d-1c4de1a077f5",
+      "title": "Green Rain Cloud Icon",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/green_rain_cloud_icon.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/899ef236-ec50-52df-a36d-1c4de1a077f5.webp",
+      "size": 31449,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "dd4aa985-8408-5b62-8393-1fedd9ddaba0",
       "title": "Green Roll Art",
@@ -179,50 +223,6 @@
       "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/30ef7c22-6756-5837-b326-26c51fa4b859.webp",
       "size": 145120,
       "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "a9df0f9d-f906-592b-9e61-98ea8155e014",
-      "title": "Neon Flower Frame",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_flower_frame.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a9df0f9d-f906-592b-9e61-98ea8155e014.webp",
-      "size": 257014,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1872
-    },
-    {
-      "id": "8d4093c2-94f7-52fb-9013-02a019be03eb",
-      "title": "Neon Orbit Arcs",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_orbit_arcs.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/8d4093c2-94f7-52fb-9013-02a019be03eb.webp",
-      "size": 25734,
-      "updated_at": "2026-10-20T17:42:03Z",
-      "width": 736,
-      "height": 1472
-    },
-    {
-      "id": "f679e26c-32e2-5212-87e6-4bb332a79c5f",
-      "title": "Neon Ring Curve",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_ring_curve.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f679e26c-32e2-5212-87e6-4bb332a79c5f.webp",
-      "size": 39977,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1595
-    },
-    {
-      "id": "06f3312a-5e22-55bc-bb10-4187a0762f7c",
-      "title": "Neon Smoke",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_smoke.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/06f3312a-5e22-55bc-bb10-4187a0762f7c.webp",
-      "size": 168108,
-      "updated_at": "2026-10-21T12:29:57Z",
       "width": 1080,
       "height": 1920
     }

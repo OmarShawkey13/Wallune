@@ -1,0 +1,109 @@
+{
+  "page": 64,
+  "total_pages": 64,
+  "total_items": 1269,
+  "items_per_page": 20,
+  "has_next": false,
+  "has_prev": true,
+  "data": [
+    {
+      "id": "e8be6c4d-1e3e-5cb4-9512-94039a4b0c16",
+      "title": "Stop Warning Words",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/stop_warning_words.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/e8be6c4d-1e3e-5cb4-9512-94039a4b0c16.webp",
+      "size": 200387,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "cb63ff2a-57e8-5c22-8cd8-1eb51fb6514e",
+      "title": "The End Red Grunge",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/the_end_red_grunge.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/cb63ff2a-57e8-5c22-8cd8-1eb51fb6514e.webp",
+      "size": 152701,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "c6562677-0fbc-5ec5-a40e-e3945179b0a8",
+      "title": "Two Hours Later Typography",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/two_hours_later_typography.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/c6562677-0fbc-5ec5-a40e-e3945179b0a8.webp",
+      "size": 508696,
+      "updated_at": "2024-07-10T21:00:00Z",
+      "width": 998,
+      "height": 2160
+    },
+    {
+      "id": "4e235b55-4f08-57ef-a5ec-4731ccef1f71",
+      "title": "Warning Tape",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/warning_tape.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/4e235b55-4f08-57ef-a5ec-4731ccef1f71.webp",
+      "size": 210976,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b3d33c75-4b22-53c9-b10c-9b380e48bada",
+      "title": "Words On Blue Texture",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/words_on_blue_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/b3d33c75-4b22-53c9-b10c-9b380e48bada.webp",
+      "size": 294875,
+      "updated_at": "2026-10-20T20:04:13Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e1158910-662a-52c5-b9d9-05756953ae6a",
+      "title": "Zap Lightning Poster",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/zap_lightning_poster.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/e1158910-662a-52c5-b9d9-05756953ae6a.webp",
+      "size": 265768,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "70cfc79d-a285-5c64-8b49-3881bbf5d31c",
+      "title": "Zero Percent Gold",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/zero_percent_gold.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/70cfc79d-a285-5c64-8b49-3881bbf5d31c.webp",
+      "size": 54249,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "9450408e-2dbb-5aa1-b063-c9952e654510",
+      "title": "Zero Percent Interest",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/zero_percent_interest.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/9450408e-2dbb-5aa1-b063-c9952e654510.webp",
+      "size": 65939,
+      "updated_at": "2026-10-21T12:29:58Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "8d02c460-32e3-5976-901b-9770595eaee0",
+      "title": "Zoom Out Keys",
+      "category": "Typography",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Typography/zoom_out_keys.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Typography/8d02c460-32e3-5976-901b-9770595eaee0.webp",
+      "size": 59504,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}

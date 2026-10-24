@@ -1,11 +1,55 @@
 {
   "page": 6,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "a9df0f9d-f906-592b-9e61-98ea8155e014",
+      "title": "Neon Flower Frame",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_flower_frame.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a9df0f9d-f906-592b-9e61-98ea8155e014.webp",
+      "size": 257014,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1872
+    },
+    {
+      "id": "8d4093c2-94f7-52fb-9013-02a019be03eb",
+      "title": "Neon Orbit Arcs",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_orbit_arcs.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/8d4093c2-94f7-52fb-9013-02a019be03eb.webp",
+      "size": 25734,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "f679e26c-32e2-5212-87e6-4bb332a79c5f",
+      "title": "Neon Ring Curve",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_ring_curve.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f679e26c-32e2-5212-87e6-4bb332a79c5f.webp",
+      "size": 39977,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1595
+    },
+    {
+      "id": "06f3312a-5e22-55bc-bb10-4187a0762f7c",
+      "title": "Neon Smoke",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/neon_smoke.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/06f3312a-5e22-55bc-bb10-4187a0762f7c.webp",
+      "size": 168108,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "8dc40ced-1e91-5e96-831e-d9bed6ac4645",
       "title": "Orange Black Blob",
@@ -181,50 +225,6 @@
       "updated_at": "2026-10-20T17:49:40Z",
       "width": 736,
       "height": 1595
-    },
-    {
-      "id": "3ba1d63e-c91a-59ba-ae77-5aa5ae34e1a7",
-      "title": "Rainbow Arc Minimal",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rainbow_arc_minimal.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/3ba1d63e-c91a-59ba-ae77-5aa5ae34e1a7.webp",
-      "size": 33061,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "f563412e-1d68-5fb4-81e9-072c8f896c46",
-      "title": "Rainbow Smoke Thread",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rainbow_smoke_thread.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f563412e-1d68-5fb4-81e9-072c8f896c46.webp",
-      "size": 172130,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 720,
-      "height": 1280
-    },
-    {
-      "id": "eac19df4-9bd6-5e8a-a98e-cc96b07359ee",
-      "title": "Red Black Brush Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_black_brush_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/eac19df4-9bd6-5e8a-a98e-cc96b07359ee.webp",
-      "size": 162164,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "ccd6fac2-2ec1-5d30-833b-fcb024b99000",
-      "title": "Red Black Diagonal Panels",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_black_diagonal_panels.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/ccd6fac2-2ec1-5d30-833b-fcb024b99000.webp",
-      "size": 21597,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 594,
-      "height": 1280
     }
   ]
 }

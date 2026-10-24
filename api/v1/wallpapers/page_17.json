@@ -1,11 +1,110 @@
 {
   "page": 17,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "eb2ad658-174c-5921-9711-4b9c1d1f2826",
+      "title": "Paint Splatter Colors",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/paint_splatter_colors.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/eb2ad658-174c-5921-9711-4b9c1d1f2826.webp",
+      "size": 310244,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "b7f730a2-987d-5a31-8d84-83bb25126a8b",
+      "title": "Paint Splatter Cream",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/paint_splatter_cream.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/b7f730a2-987d-5a31-8d84-83bb25126a8b.webp",
+      "size": 140466,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "2d1664da-49bf-50a8-923b-2c353a2487ab",
+      "title": "Pink Butterfly Wrap Art",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/pink_butterfly_wrap_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/2d1664da-49bf-50a8-923b-2c353a2487ab.webp",
+      "size": 156576,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 864,
+      "height": 1152
+    },
+    {
+      "id": "f7b5ecda-3c45-5f7b-a5cb-30b59693e06d",
+      "title": "Platinum Knight Chess",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/platinum_knight_chess.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/f7b5ecda-3c45-5f7b-a5cb-30b59693e06d.webp",
+      "size": 132130,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "85e45205-864d-5baf-8609-707b77c5e0e9",
+      "title": "Purple Butterfly Illustration",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/purple_butterfly_illustration.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/85e45205-864d-5baf-8609-707b77c5e0e9.webp",
+      "size": 139339,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "id": "df0083a7-1425-5084-9edc-63c7433987bf",
+      "title": "Red Bonsai Minimal",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/red_bonsai_minimal.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/df0083a7-1425-5084-9edc-63c7433987bf.webp",
+      "size": 93272,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 1080,
+      "height": 2084
+    },
+    {
+      "id": "dfaae52c-0fe2-5d5f-89f6-d2111cccf54c",
+      "title": "Red Moon Samurai Portrait",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/red_moon_samurai_portrait.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/dfaae52c-0fe2-5d5f-89f6-d2111cccf54c.webp",
+      "size": 326327,
+      "updated_at": "2024-12-19T21:00:00Z",
+      "width": 1179,
+      "height": 2556
+    },
+    {
+      "id": "c9c859ff-7103-5fe4-8d26-319458b7c6b4",
+      "title": "Red Moon Samurai Silhouette",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/red_moon_samurai_silhouette.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/c9c859ff-7103-5fe4-8d26-319458b7c6b4.webp",
+      "size": 271789,
+      "updated_at": "2024-12-19T21:00:00Z",
+      "width": 1080,
+      "height": 2340
+    },
+    {
+      "id": "3de2a729-aa7d-544b-bf38-3bb153a47cee",
+      "title": "Red Samurai Snow Mountain",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/red_samurai_snow_mountain.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/3de2a729-aa7d-544b-bf38-3bb153a47cee.webp",
+      "size": 82543,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 736,
+      "height": 1321
+    },
     {
       "id": "8fb5c254-2419-5a94-81ed-0bf2b44dd76f",
       "title": "Red Silhouette Birds",
@@ -126,105 +225,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 675,
       "height": 1200
-    },
-    {
-      "id": "3a073dad-7b55-5378-baf7-685c04d6da88",
-      "title": "Smoke Samurai Portrait",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/smoke_samurai_portrait.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/3a073dad-7b55-5378-baf7-685c04d6da88.webp",
-      "size": 153643,
-      "updated_at": "2024-12-19T21:00:00Z",
-      "width": 1080,
-      "height": 2400
-    },
-    {
-      "id": "df1b12c5-93e0-55e3-a00b-77f42c6973ea",
-      "title": "Smoke Stained Glass",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/smoke_stained_glass.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/df1b12c5-93e0-55e3-a00b-77f42c6973ea.webp",
-      "size": 372454,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 2395
-    },
-    {
-      "id": "f453dd82-4b74-58de-abbd-78438a388c89",
-      "title": "Stacked Books",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/stacked_books.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/f453dd82-4b74-58de-abbd-78438a388c89.webp",
-      "size": 101811,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "59c4fa08-ad38-592b-858e-0975cf487dab",
-      "title": "Stone Corridor Ruins",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/stone_corridor_ruins.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/59c4fa08-ad38-592b-858e-0975cf487dab.webp",
-      "size": 482430,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1969
-    },
-    {
-      "id": "ffa3db25-d007-5010-9c0f-bf892ea80d27",
-      "title": "Traditional Japanese Wave Art",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/traditional_japanese_wave_art.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/ffa3db25-d007-5010-9c0f-bf892ea80d27.webp",
-      "size": 505907,
-      "updated_at": "2024-10-19T21:00:00Z",
-      "width": 993,
-      "height": 2160
-    },
-    {
-      "id": "6d8fe18f-08e6-5d51-970d-2bd5b81241f4",
-      "title": "Warrior Waterfalls Orange Moon",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/warrior_waterfalls_orange_moon.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/6d8fe18f-08e6-5d51-970d-2bd5b81241f4.webp",
-      "size": 203582,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "7aba6078-d9b5-545d-9cec-4e26b3c78448",
-      "title": "White Dragon Ink Art",
-      "category": "Art",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/white_dragon_ink_art.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/7aba6078-d9b5-545d-9cec-4e26b3c78448.webp",
-      "size": 113624,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1476
-    },
-    {
-      "id": "4762ccdc-1463-53ce-a5f0-1d5e45f6a594",
-      "title": "Black Bmw Front",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_bmw_front.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/4762ccdc-1463-53ce-a5f0-1d5e45f6a594.webp",
-      "size": 87793,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "5471278f-d962-58a0-9c21-832164dff492",
-      "title": "Black Car Drift Smoke",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_car_drift_smoke.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/5471278f-d962-58a0-9c21-832164dff492.webp",
-      "size": 111883,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1152,
-      "height": 2048
     }
   ]
 }

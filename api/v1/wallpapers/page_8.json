@@ -1,11 +1,55 @@
 {
   "page": 8,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "bb6f2361-3869-50d1-87ac-949788f2bbc4",
+      "title": "Red Silver Star Pattern",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_silver_star_pattern.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/bb6f2361-3869-50d1-87ac-949788f2bbc4.webp",
+      "size": 48572,
+      "updated_at": "2026-10-20T17:42:03Z",
+      "width": 736,
+      "height": 1311
+    },
+    {
+      "id": "a2e65849-6024-5582-93b2-5f65b85b0e71",
+      "title": "Red Teal Feather Flow",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_teal_feather_flow.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/a2e65849-6024-5582-93b2-5f65b85b0e71.webp",
+      "size": 130373,
+      "updated_at": "2026-09-30T10:49:00Z",
+      "width": 724,
+      "height": 1600
+    },
+    {
+      "id": "fb60ddd3-3a80-5f74-826a-c614891d2119",
+      "title": "Red Teal Glowing Capsule",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/red_teal_glowing_capsule.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/fb60ddd3-3a80-5f74-826a-c614891d2119.webp",
+      "size": 8194,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 308,
+      "height": 616
+    },
+    {
+      "id": "20d93eee-2795-5d78-9b6a-1b95225c42a6",
+      "title": "Rising Sparkles",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/rising_sparkles.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/20d93eee-2795-5d78-9b6a-1b95225c42a6.webp",
+      "size": 16997,
+      "updated_at": "2026-10-08T20:57:00Z",
+      "width": 736,
+      "height": 1349
+    },
     {
       "id": "3eddf7d3-7cfe-5af5-be2d-091b46ab94b4",
       "title": "Shattered Black White",
@@ -181,50 +225,6 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
-    },
-    {
-      "id": "e5c15394-c90a-538e-a89b-f600e6675fcb",
-      "title": "Yellow Mood Faces",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/yellow_mood_faces.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/e5c15394-c90a-538e-a89b-f600e6675fcb.webp",
-      "size": 11015,
-      "updated_at": "2026-10-08T12:24:00Z",
-      "width": 736,
-      "height": 1041
-    },
-    {
-      "id": "14c29802-6d35-54d0-9263-31a40986f679",
-      "title": "Bee Purple Flower",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/bee_purple_flower.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/14c29802-6d35-54d0-9263-31a40986f679.webp",
-      "size": 360197,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "e71953b3-e82c-5436-9adf-5bc0adb30f64",
-      "title": "Bird Nest Leaf",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/bird_nest_leaf.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/e71953b3-e82c-5436-9adf-5bc0adb30f64.webp",
-      "size": 232888,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "3f86e5c7-521f-5c50-a4b1-64a92dc4a2c1",
-      "title": "Black Bird Silhouette",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_bird_silhouette.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/3f86e5c7-521f-5c50-a4b1-64a92dc4a2c1.webp",
-      "size": 18524,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 720,
-      "height": 1280
     }
   ]
 }

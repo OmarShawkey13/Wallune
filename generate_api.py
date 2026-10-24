@@ -32,7 +32,7 @@ ITEMS_PER_PAGE = 20
 THUMBNAIL_MAX_SIZE = (480, 854)
 THUMBNAIL_QUALITY = 80
 THUMBNAIL_VERSION = 1
-SEARCH_SCHEMA_VERSION = 2
+SEARCH_SCHEMA_VERSION = 3
 WALLPAPER_ID_VERSION = 2
 THUMBNAIL_SUBDIR = "thumbnails"
 CONFIG_FILENAME = "config.json"
@@ -85,17 +85,6 @@ def _url(category, filename):
 
 def _thumbnail_relative(category, record_id):
     return f"{THUMBNAIL_SUBDIR}/{category}/{record_id}.webp"
-
-
-def _search_image_path(item):
-    filename = urllib.parse.unquote(
-        urllib.parse.urlsplit(item["image_url"]).path.rsplit("/", 1)[-1]
-    )
-    return "../../" + _encoded_path(IMAGE_DIR, item["category"], filename)
-
-
-def _search_thumbnail_path(item):
-    return _encoded_path(THUMBNAIL_SUBDIR, item["category"], f"{item['id']}.webp")
 
 
 def _thumbnail_url(category, record_id, api_dir=None):
@@ -312,8 +301,8 @@ def _search_index(wallpapers):
             "id": item["id"],
             "title": item["title"],
             "category": item["category"],
-            "image_path": _search_image_path(item),
-            "thumbnail_path": _search_thumbnail_path(item),
+            "image_url": item["image_url"],
+            "thumbnail_url": item["thumbnail_url"],
             "width": item["width"],
             "height": item["height"],
         }
@@ -500,13 +489,13 @@ def _validate_public_record(item, context):
 def _validate_search_record(item, context):
     if not isinstance(item, dict):
         raise ValueError(f"{context} must be an object")
-    fields = ("id", "title", "category", "image_path", "thumbnail_path", "width", "height")
+    fields = ("id", "title", "category", "image_url", "thumbnail_url", "width", "height")
     missing = [field for field in fields if field not in item]
     if missing:
         raise ValueError(f"{context} is missing fields: {', '.join(missing)}")
     if not _valid_uuid(item["id"]):
         raise ValueError(f"{context}.id is not a UUID")
-    for field in ("title", "category", "image_path", "thumbnail_path"):
+    for field in ("title", "category", "image_url", "thumbnail_url"):
         if not isinstance(item[field], str) or not item[field]:
             raise ValueError(f"{context}.{field} must be a non-empty string")
     for field in ("width", "height"):

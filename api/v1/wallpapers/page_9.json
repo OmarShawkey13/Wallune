@@ -1,11 +1,55 @@
 {
   "page": 9,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "e5c15394-c90a-538e-a89b-f600e6675fcb",
+      "title": "Yellow Mood Faces",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/yellow_mood_faces.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/e5c15394-c90a-538e-a89b-f600e6675fcb.webp",
+      "size": 11015,
+      "updated_at": "2026-10-08T12:24:00Z",
+      "width": 736,
+      "height": 1041
+    },
+    {
+      "id": "14c29802-6d35-54d0-9263-31a40986f679",
+      "title": "Bee Purple Flower",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/bee_purple_flower.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/14c29802-6d35-54d0-9263-31a40986f679.webp",
+      "size": 360197,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "e71953b3-e82c-5436-9adf-5bc0adb30f64",
+      "title": "Bird Nest Leaf",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/bird_nest_leaf.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/e71953b3-e82c-5436-9adf-5bc0adb30f64.webp",
+      "size": 232888,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "3f86e5c7-521f-5c50-a4b1-64a92dc4a2c1",
+      "title": "Black Bird Silhouette",
+      "category": "Animals",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/black_bird_silhouette.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/3f86e5c7-521f-5c50-a4b1-64a92dc4a2c1.webp",
+      "size": 18524,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 720,
+      "height": 1280
+    },
     {
       "id": "32766b11-dc9d-5e21-b817-5b7e508692f6",
       "title": "Black Cat Green Swirl",
@@ -181,50 +225,6 @@
       "updated_at": "2026-10-21T12:29:57Z",
       "width": 864,
       "height": 1653
-    },
-    {
-      "id": "2d5c8ab8-2b1d-5f4a-820e-2baa678b23a9",
-      "title": "Fox Moon Rooftop",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/fox_moon_rooftop.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/2d5c8ab8-2b1d-5f4a-820e-2baa678b23a9.webp",
-      "size": 38024,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1318
-    },
-    {
-      "id": "6bde05ba-bcd3-517e-a0b6-21cb6195761d",
-      "title": "Green Snake Texture",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/green_snake_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/6bde05ba-bcd3-517e-a0b6-21cb6195761d.webp",
-      "size": 177719,
-      "updated_at": "2026-10-20T20:04:12Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "8e5b15c8-a6ef-5ffc-9418-9099814a347e",
-      "title": "Kitten In Lavender Field",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/kitten_in_lavender_field.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/8e5b15c8-a6ef-5ffc-9418-9099814a347e.webp",
-      "size": 58263,
-      "updated_at": "2025-01-05T21:00:00Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "d84f6195-5623-59ef-9da5-428bc8a62708",
-      "title": "Kitten Stack",
-      "category": "Animals",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Animals/kitten_stack.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Animals/d84f6195-5623-59ef-9da5-428bc8a62708.webp",
-      "size": 111997,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
     }
   ]
 }

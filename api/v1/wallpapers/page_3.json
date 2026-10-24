@@ -1,11 +1,44 @@
 {
   "page": 3,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "bf85686a-6777-56f1-a94b-3e6a7a22a677",
+      "title": "Blue Iridescent Glass",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_iridescent_glass.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/bf85686a-6777-56f1-a94b-3e6a7a22a677.webp",
+      "size": 193914,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 924,
+      "height": 2047
+    },
+    {
+      "id": "02aad2c3-a0b6-50e9-a116-0bad6670dabc",
+      "title": "Blue Line Curve",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_line_curve.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/02aad2c3-a0b6-50e9-a116-0bad6670dabc.webp",
+      "size": 22341,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "id": "26f78fa5-e184-5938-996a-7691acdb5f51",
+      "title": "Blue Orange Geometric Mark",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/blue_orange_geometric_mark.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/26f78fa5-e184-5938-996a-7691acdb5f51.webp",
+      "size": 176154,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1920
+    },
     {
       "id": "b48c7a67-6e82-5a0d-bf46-d7edde208635",
       "title": "Blue Orange Smoke",
@@ -190,39 +223,6 @@
       "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/434b495a-c663-5a93-a96c-1b045d871ac2.webp",
       "size": 83157,
       "updated_at": "2026-10-21T12:16:06Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "100c6e1b-9831-5772-b560-36b30b6503e8",
-      "title": "Colorful Glass Orbs",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_glass_orbs.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/100c6e1b-9831-5772-b560-36b30b6503e8.webp",
-      "size": 74513,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 1080,
-      "height": 1920
-    },
-    {
-      "id": "42712d81-92e0-59e7-a9d6-106ed01aa73e",
-      "title": "Colorful Horizontal Bars",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_horizontal_bars.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/42712d81-92e0-59e7-a9d6-106ed01aa73e.webp",
-      "size": 23115,
-      "updated_at": "2026-10-20T17:49:40Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "5702482c-378f-587f-9bf1-e5545ba5b9b4",
-      "title": "Colorful Letter Shapes",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/colorful_letter_shapes.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/5702482c-378f-587f-9bf1-e5545ba5b9b4.webp",
-      "size": 184027,
-      "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1920
     }

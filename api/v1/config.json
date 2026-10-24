@@ -1,12 +1,12 @@
 {
   "api_version": 1,
   "thumbnail_version": 1,
-  "search_schema_version": 2,
+  "search_schema_version": 3,
   "wallpaper_id_version": 2,
-  "content_version": 19,
-  "total_items": 1168,
-  "total_pages": 59,
+  "content_version": 20,
+  "total_items": 1269,
+  "total_pages": 64,
   "items_per_page": 20,
-  "generated_at": "2026-10-24T10:32:54Z",
-  "catalog_hash": "93fbb8d14038b6da45607b2ac60e83f34c7bb1b54979725eb96b8c3e4b279673"
+  "generated_at": "2026-10-24T11:16:34Z",
+  "catalog_hash": "903add984bea88ddee64243bda2a535c72176967615b69fb9a1d9faeff5498ff"
 }

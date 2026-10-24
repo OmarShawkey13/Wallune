@@ -1,11 +1,143 @@
 {
   "page": 18,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": true,
   "data": [
+    {
+      "id": "3a073dad-7b55-5378-baf7-685c04d6da88",
+      "title": "Smoke Samurai Portrait",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/smoke_samurai_portrait.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/3a073dad-7b55-5378-baf7-685c04d6da88.webp",
+      "size": 153643,
+      "updated_at": "2024-12-19T21:00:00Z",
+      "width": 1080,
+      "height": 2400
+    },
+    {
+      "id": "df1b12c5-93e0-55e3-a00b-77f42c6973ea",
+      "title": "Smoke Stained Glass",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/smoke_stained_glass.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/df1b12c5-93e0-55e3-a00b-77f42c6973ea.webp",
+      "size": 372454,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 1080,
+      "height": 2395
+    },
+    {
+      "id": "f453dd82-4b74-58de-abbd-78438a388c89",
+      "title": "Stacked Books",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/stacked_books.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/f453dd82-4b74-58de-abbd-78438a388c89.webp",
+      "size": 101811,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "bcddba2e-6645-5f07-93e3-2f607ffbc83b",
+      "title": "Statue Red Clouds",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/statue_red_clouds.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/bcddba2e-6645-5f07-93e3-2f607ffbc83b.webp",
+      "size": 33197,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 505,
+      "height": 900
+    },
+    {
+      "id": "59c4fa08-ad38-592b-858e-0975cf487dab",
+      "title": "Stone Corridor Ruins",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/stone_corridor_ruins.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/59c4fa08-ad38-592b-858e-0975cf487dab.webp",
+      "size": 482430,
+      "updated_at": "2026-10-20T20:02:09Z",
+      "width": 1080,
+      "height": 1969
+    },
+    {
+      "id": "ffa3db25-d007-5010-9c0f-bf892ea80d27",
+      "title": "Traditional Japanese Wave Art",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/traditional_japanese_wave_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/ffa3db25-d007-5010-9c0f-bf892ea80d27.webp",
+      "size": 505907,
+      "updated_at": "2024-10-19T21:00:00Z",
+      "width": 993,
+      "height": 2160
+    },
+    {
+      "id": "6d8fe18f-08e6-5d51-970d-2bd5b81241f4",
+      "title": "Warrior Waterfalls Orange Moon",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/warrior_waterfalls_orange_moon.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/6d8fe18f-08e6-5d51-970d-2bd5b81241f4.webp",
+      "size": 203582,
+      "updated_at": "2026-10-20T17:49:40Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "7aba6078-d9b5-545d-9cec-4e26b3c78448",
+      "title": "White Dragon Ink Art",
+      "category": "Art",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Art/white_dragon_ink_art.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Art/7aba6078-d9b5-545d-9cec-4e26b3c78448.webp",
+      "size": 113624,
+      "updated_at": "2026-10-21T12:16:06Z",
+      "width": 736,
+      "height": 1476
+    },
+    {
+      "id": "7b6a0459-d9ee-5b89-94aa-806682df35b6",
+      "title": "Audi Black Front",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/audi_black_front.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/7b6a0459-d9ee-5b89-94aa-806682df35b6.webp",
+      "size": 81400,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
+      "id": "4762ccdc-1463-53ce-a5f0-1d5e45f6a594",
+      "title": "Black Bmw Front",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_bmw_front.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/4762ccdc-1463-53ce-a5f0-1d5e45f6a594.webp",
+      "size": 87793,
+      "updated_at": "2026-10-20T20:04:12Z",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "b34d343f-1888-5351-9fff-afb0d219934d",
+      "title": "Black Car City Skyline",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_car_city_skyline.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/b34d343f-1888-5351-9fff-afb0d219934d.webp",
+      "size": 298050,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 946,
+      "height": 2048
+    },
+    {
+      "id": "5471278f-d962-58a0-9c21-832164dff492",
+      "title": "Black Car Drift Smoke",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_car_drift_smoke.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/5471278f-d962-58a0-9c21-832164dff492.webp",
+      "size": 111883,
+      "updated_at": "2026-10-21T12:29:57Z",
+      "width": 1152,
+      "height": 2048
+    },
     {
       "id": "1ba156fc-c8e6-54ad-a3c0-a3fc6f0fa9b4",
       "title": "Black Car Fog",
@@ -18,6 +150,17 @@
       "height": 1920
     },
     {
+      "id": "1a66856b-c2c1-5f88-9086-2c7cc04e935f",
+      "title": "Black Car Forest",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_car_forest.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/1a66856b-c2c1-5f88-9086-2c7cc04e935f.webp",
+      "size": 48145,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 607,
+      "height": 1080
+    },
+    {
       "id": "5f51e4df-ec61-55af-9863-1c034064cefc",
       "title": "Black Car Headlights",
       "category": "Cars",
@@ -27,6 +170,17 @@
       "updated_at": "2026-10-21T12:16:06Z",
       "width": 993,
       "height": 2160
+    },
+    {
+      "id": "475eac42-8f22-56cb-ab8c-3d6f22011f43",
+      "title": "Black Car Horse Field",
+      "category": "Cars",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_car_horse_field.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/475eac42-8f22-56cb-ab8c-3d6f22011f43.webp",
+      "size": 99605,
+      "updated_at": "2026-10-24T11:16:34Z",
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "ed57bf86-93fb-5593-bafa-bb8587701470",
@@ -71,160 +225,6 @@
       "updated_at": "2026-10-21T12:29:57Z",
       "width": 735,
       "height": 1104
-    },
-    {
-      "id": "3b1b8aad-404b-5d33-aa05-09c07157ddb6",
-      "title": "Black Sports Car Front",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_sports_car_front.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/3b1b8aad-404b-5d33-aa05-09c07157ddb6.webp",
-      "size": 21421,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 720,
-      "height": 1443
-    },
-    {
-      "id": "2cb2bfa0-23b9-5de0-9f22-2a0d45cf87c1",
-      "title": "Black Sports Car Sunset",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/black_sports_car_sunset.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/2cb2bfa0-23b9-5de0-9f22-2a0d45cf87c1.webp",
-      "size": 82483,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1659
-    },
-    {
-      "id": "ceb11f4f-75fa-500c-9ccb-9c1bb7080f26",
-      "title": "Blue Bmw Front",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/blue_bmw_front.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/ceb11f4f-75fa-500c-9ccb-9c1bb7080f26.webp",
-      "size": 100358,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 970,
-      "height": 2048
-    },
-    {
-      "id": "12fa6b6f-5505-55ee-82a1-b306e5bb3400",
-      "title": "Blue Mercedes Coast",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/blue_mercedes_coast.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/12fa6b6f-5505-55ee-82a1-b306e5bb3400.webp",
-      "size": 132828,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "4b9d10ab-dadb-5b9f-960a-5e6aa0c5f275",
-      "title": "Blue Race Car Night",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/blue_race_car_night.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/4b9d10ab-dadb-5b9f-960a-5e6aa0c5f275.webp",
-      "size": 16185,
-      "updated_at": "2026-10-20T20:02:09Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "828bbcf0-4f6b-55cd-ae40-51fa825b3f80",
-      "title": "Blue Race Car Rain",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/blue_race_car_rain.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/828bbcf0-4f6b-55cd-ae40-51fa825b3f80.webp",
-      "size": 66234,
-      "updated_at": "2026-10-21T12:16:06Z",
-      "width": 736,
-      "height": 1308
-    },
-    {
-      "id": "37cc79df-62ed-5229-8d79-2ad7bcc0cbf5",
-      "title": "Blue Sports Car City",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/blue_sports_car_city.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/37cc79df-62ed-5229-8d79-2ad7bcc0cbf5.webp",
-      "size": 76155,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1878
-    },
-    {
-      "id": "032e64df-3406-5928-a262-247272274aa3",
-      "title": "Blue Sports Car Road",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/blue_sports_car_road.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/032e64df-3406-5928-a262-247272274aa3.webp",
-      "size": 356679,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1080,
-      "height": 2460
-    },
-    {
-      "id": "b698920d-35c3-556a-a926-70bf2f44c186",
-      "title": "Bmw Autumn Road",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_autumn_road.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/b698920d-35c3-556a-a926-70bf2f44c186.webp",
-      "size": 357366,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 864,
-      "height": 1872
-    },
-    {
-      "id": "c7dca8f1-a852-5163-a283-9cf2aeab0ceb",
-      "title": "Bmw Believe Move Win",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_believe_move_win.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/c7dca8f1-a852-5163-a283-9cf2aeab0ceb.webp",
-      "size": 88340,
-      "updated_at": "2026-10-21T12:29:57Z",
-      "width": 1152,
-      "height": 2048
-    },
-    {
-      "id": "ef79b628-5b93-502b-84d1-94b1ab2f764e",
-      "title": "Bmw Black Front",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_black_front.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/ef79b628-5b93-502b-84d1-94b1ab2f764e.webp",
-      "size": 47152,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1104
-    },
-    {
-      "id": "6193fbd6-8d92-5869-9a62-e76ca3c16b0b",
-      "title": "Bmw Blue Cockpit",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_blue_cockpit.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/6193fbd6-8d92-5869-9a62-e76ca3c16b0b.webp",
-      "size": 59664,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 720,
-      "height": 712
-    },
-    {
-      "id": "fc0e5dc9-eab0-5d05-9fc7-4c6583dd5657",
-      "title": "Bmw Blue Grille",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_blue_grille.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/fc0e5dc9-eab0-5d05-9fc7-4c6583dd5657.webp",
-      "size": 23274,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1080,
-      "height": 1104
-    },
-    {
-      "id": "a0ecd832-7624-5b80-b5c9-f3022bd3eb65",
-      "title": "Bmw Cherry Blossom Detail",
-      "category": "Cars",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Cars/bmw_cherry_blossom_detail.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Cars/a0ecd832-7624-5b80-b5c9-f3022bd3eb65.webp",
-      "size": 226058,
-      "updated_at": "2026-10-21T11:59:15Z",
-      "width": 1072,
-      "height": 1920
     }
   ]
 }

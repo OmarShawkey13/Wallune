@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1
 
 Every wallpaper record contains a stable `id`, a display `title`, its `category`, a canonical full-size `image_url`, a lightweight `thumbnail_url`, the byte `size`, `updated_at`, and the original `width` and `height`. Use `thumbnail_url` in wallpaper grids and `cover_thumbnail_url` for category covers; load `image_url` on the detail or download screen.
 
-`search_index.json` uses compact `search_schema_version: 2` records with `id`, `title`, `category`, `image_path`, `thumbnail_path`, `width`, and `height`. Resolve those relative paths from a slash-terminated `apiBase` URI. The full-size URL, file size, and timestamp remain available in the paginated wallpaper records. The current 1,168-record index is 307,597 bytes; linear growth projects to about 2.63 MB at 10,000 records.
+`search_index.json` uses compact `search_schema_version: 3` records with `id`, `title`, `category`, `image_url`, `thumbnail_url`, `width`, and `height`. The URL fields match the names and values in paginated wallpaper records. File size and timestamp remain available in those records. The current 1,269-record index is 487,306 bytes; linear growth projects to about 3.84 MB at 10,000 records.
 
 Each category contains a deterministic UUID `id` derived from its name. Each wallpaper ID is deterministically derived from the image's SHA-256 content hash, so it remains stable when the file is renamed or moved. The `wallpaper_id_version` config value identifies this ID scheme; the generator keeps no separate wallpaper ID ledger.
 
@@ -79,18 +79,18 @@ The generator reads supported images, checks their dimensions and SHA-256 hashes
 
 ## Current catalog snapshot
 
-The committed catalog currently contains:
+The current generated catalog contains:
 
 | Metric | Value |
 | --- | ---: |
-| Supported images | 1,168 |
+| Supported images | 1,269 |
 | Categories | 17 |
-| API pages | 59 |
+| API pages | 64 |
 | Items per page | 20 |
-| Final page | 8 items |
-| Original image bytes | 184,014,885 (about 175 MiB) |
-| Generated thumbnails | 1,168 (45,718,242 bytes, about 43.6 MiB) |
-| Active wallpaper IDs | 1,168 |
+| Final page | 9 items |
+| Original image bytes | 198,872,143 (about 189.7 MiB) |
+| Generated thumbnails | 1,269 (50,176,100 bytes, about 47.9 MiB) |
+| Active wallpaper IDs | 1,269 |
 
 The generated API is validated against every local image and thumbnail. It has no duplicate SHA-256 image bytes, no duplicate active IDs, no missing page or thumbnail files, and no broken local image mappings.
 

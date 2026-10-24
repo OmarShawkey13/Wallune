@@ -1,7 +1,7 @@
 {
   "page": 1,
-  "total_pages": 59,
-  "total_items": 1168,
+  "total_pages": 64,
+  "total_items": 1269,
   "items_per_page": 20,
   "has_next": true,
   "has_prev": false,
@@ -27,6 +27,17 @@
       "updated_at": "2026-10-20T20:02:09Z",
       "width": 1080,
       "height": 1500
+    },
+    {
+      "id": "f63d4779-2bc7-5a85-baca-335b7a7f6a4b",
+      "title": "Black Brick Wall",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_brick_wall.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/f63d4779-2bc7-5a85-baca-335b7a7f6a4b.webp",
+      "size": 61129,
+      "updated_at": "2026-10-24T11:16:33Z",
+      "width": 736,
+      "height": 1242
     },
     {
       "id": "6b2f0513-9ea0-5377-a810-de31dd799515",
@@ -128,6 +139,17 @@
       "height": 1920
     },
     {
+      "id": "7cc445f9-1ed0-5dac-8417-6dd3a349ea59",
+      "title": "Black Ridges Texture",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_ridges_texture.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/7cc445f9-1ed0-5dac-8417-6dd3a349ea59.webp",
+      "size": 42703,
+      "updated_at": "2026-10-24T11:16:33Z",
+      "width": 736,
+      "height": 1472
+    },
+    {
       "id": "db7e42eb-4a10-5fb8-937e-3fec8804fb5c",
       "title": "Black Speckle Texture",
       "category": "Abstract",
@@ -172,6 +194,17 @@
       "height": 2160
     },
     {
+      "id": "01112a11-783e-5f21-aa06-2174010b0916",
+      "title": "Black Wall Ivy",
+      "category": "Abstract",
+      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_wall_ivy.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/01112a11-783e-5f21-aa06-2174010b0916.webp",
+      "size": 148280,
+      "updated_at": "2026-10-24T11:16:33Z",
+      "width": 864,
+      "height": 1728
+    },
+    {
       "id": "4bca764d-464f-540b-abfe-b89a82ff9c2d",
       "title": "Black White Brush Bottom",
       "category": "Abstract",
@@ -189,39 +222,6 @@
       "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_diagonal.jpg",
       "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/ed58fb10-7412-54a0-92b2-80f5d08d6ab1.webp",
       "size": 111342,
-      "updated_at": "2026-10-21T12:16:05Z",
-      "width": 998,
-      "height": 2160
-    },
-    {
-      "id": "2fcb2bc4-38d2-567a-ac6d-b7033a478739",
-      "title": "Black White Brush Edge",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_edge.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/2fcb2bc4-38d2-567a-ac6d-b7033a478739.webp",
-      "size": 389346,
-      "updated_at": "2026-10-21T12:16:05Z",
-      "width": 998,
-      "height": 2160
-    },
-    {
-      "id": "db2dace0-6067-5a62-8bec-2e2fd0e320d1",
-      "title": "Black White Brush Texture",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_brush_texture.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/db2dace0-6067-5a62-8bec-2e2fd0e320d1.webp",
-      "size": 442502,
-      "updated_at": "2026-10-21T12:16:05Z",
-      "width": 998,
-      "height": 2160
-    },
-    {
-      "id": "e7ad7b23-9f05-5f02-a550-542e37f84915",
-      "title": "Black White Bubble Field",
-      "category": "Abstract",
-      "image_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/images/Abstract/black_white_bubble_field.jpg",
-      "thumbnail_url": "https://raw.githubusercontent.com/OmarShawkey13/Wallune/main/api/v1/thumbnails/Abstract/e7ad7b23-9f05-5f02-a550-542e37f84915.webp",
-      "size": 175939,
       "updated_at": "2026-10-21T12:16:05Z",
       "width": 998,
       "height": 2160
